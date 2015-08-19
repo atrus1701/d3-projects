@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1948-05-28T05:36:16.000Z,-13,-76.5,60,6.8,uk,0,,,,centennial,centennial19480528053616,2013-07-09T19:07:23.000Z,"near the coast of central Peru",earthquake
+1948-05-25T07:11:30.000Z,30.409,100.577,43.8,7.2,mw,0,,,,centennial,centennial19480525071130,2013-07-09T19:07:23.000Z,"western Sichuan, China",earthquake
+1948-05-14T22:31:49.000Z,54.544,-160.97,35,7.3,mw,0,,,,centennial,centennial19480514223149,2013-07-09T19:07:23.000Z,"Alaska Peninsula",earthquake
+1948-05-12T00:57:02.000Z,37.8,142.6,65,6.6,ms,0,,,,centennial,centennial19480512005702,2013-07-09T19:07:23.000Z,"off the east coast of Honshu, Japan",earthquake
+1948-05-11T08:55:46.000Z,-17.418,-70.628,59.5,7.4,mb,0,,,,centennial,centennial19480511085546,2013-07-09T19:07:23.000Z,"southern Peru",earthquake
+1948-05-09T02:09:02.000Z,32,131.5,0,6.7,ms,0,,,,centennial,centennial19480509020902,2013-07-09T19:07:23.000Z,"Kyushu, Japan",earthquake

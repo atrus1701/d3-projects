@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1923-04-23T03:17:01.000Z,27.885,125.511,35,6.6,uk,11,,,,centennial,centennial19230423031701,2013-07-09T19:07:18.000Z,"northeast of Taiwan",earthquake
+1923-04-19T03:09:12.000Z,2.41,117.313,35,6.9,ms,6,,,,centennial,centennial19230419030912,2013-07-09T19:07:18.000Z,"Kalimantan, Indonesia",earthquake
+1923-04-13T15:31:00.000Z,55.415,162.585,35,7.1,mw,25,,,,centennial,centennial19230413153100,2013-07-09T19:07:18.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake

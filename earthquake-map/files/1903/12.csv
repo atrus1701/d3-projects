@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1903-12-28T02:56:00.000Z,7,127,0,7.1,mw,0,,,,centennial,centennial19031228025600,2013-07-09T19:07:15.000Z,"Mindanao, Philippines",earthquake
+1903-12-23T00:53:00.000Z,-10,165,0,6.8,ms,0,,,,centennial,centennial19031223005300,2013-07-09T19:07:15.000Z,"Santa Cruz Islands",earthquake
+1903-12-07T14:44:00.000Z,-27,-70,0,6.8,ms,0,,,,centennial,centennial19031207144400,2013-07-09T19:07:15.000Z,"Atacama, Chile",earthquake

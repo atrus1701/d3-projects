@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-06-23T12:55:27.000Z,-20.548,169.51,35,6.7,uk,73,,,,centennial,centennial19380623125527,2013-07-09T19:07:21.000Z,"Vanuatu",earthquake
+1938-06-20T23:50:35.000Z,42.744,76.131,15,6.6,uk,65,,,,centennial,centennial19380620235035,2013-07-09T19:07:21.000Z,"Kyrgyzstan",earthquake
+1938-06-16T02:15:19.000Z,27.585,129.539,35,7.2,mw,85,,,,centennial,centennial19380616021519,2013-07-09T19:07:21.000Z,"Ryukyu Islands, Japan",earthquake
+1938-06-10T09:53:44.000Z,25.208,125.115,35,7.6,mw,58,,,,centennial,centennial19380610095344,2013-07-09T19:07:21.000Z,"southwestern Ryukyu Islands, Japan",earthquake
+1938-06-09T19:15:11.000Z,-3.145,126.928,25,7,ms,57,,,,centennial,centennial19380609191511,2013-07-09T19:07:21.000Z,"Buru, Indonesia",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-07-31T19:18:00.000Z,17,-100.5,0,6.9,ms,0,,,,centennial,centennial19090731191800,2013-07-09T19:07:16.000Z,"offshore Guerrero, Mexico",earthquake
+1909-07-30T10:51:54.000Z,17,-100.5,0,7.6,mw,0,,,,centennial,centennial19090730105154,2013-07-09T19:07:16.000Z,"offshore Guerrero, Mexico",earthquake
+1909-07-07T21:37:50.000Z,36.5,70.5,230,7.6,mb,0,,,,centennial,centennial19090707213750,2013-07-09T19:07:16.000Z,"Hindu Kush region, Afghanistan",earthquake

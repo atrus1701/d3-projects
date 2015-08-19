@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1922-07-11T14:13:00.000Z,22,143,35,6.6,mj,0,,,,centennial,centennial19220711141300,2013-07-09T19:07:18.000Z,"Volcano Islands, Japan region",earthquake
+1922-07-10T09:38:13.000Z,-19.287,-64.207,667.1,6.6,uk,12,,,,centennial,centennial19220710093813,2013-07-09T19:07:18.000Z,"Chuquisaca, Bolivia",earthquake
+1922-07-05T20:20:00.000Z,38.3,142,35,6.5,mj,0,,,,centennial,centennial19220705202000,2013-07-09T19:07:18.000Z,"near the east coast of Honshu, Japan",earthquake

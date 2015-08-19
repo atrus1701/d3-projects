@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1930-11-25T19:02:51.000Z,34.977,139.103,35,6.9,mw,19,,,,centennial,centennial19301125190251,2013-07-09T19:07:20.000Z,"near the south coast of Honshu, Japan",earthquake
+1930-11-09T19:08:39.000Z,-0.366,132.608,35,6.7,uk,25,,,,centennial,centennial19301109190839,2013-07-09T19:07:20.000Z,"near the north coast of Papua, Indonesia",earthquake
+1930-11-08T03:22:42.000Z,3.792,121.965,638.9,6.7,uk,20,,,,centennial,centennial19301108032242,2013-07-09T19:07:20.000Z,"Celebes Sea",earthquake

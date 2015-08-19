@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1929-12-17T10:58:44.000Z,53.783,171.512,35,7.7,mw,72,,,,centennial,centennial19291217105844,2013-07-09T19:07:20.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1929-12-09T06:50:01.000Z,4.295,94.404,35,6.7,ms,52,,,,centennial,centennial19291209065001,2013-07-09T19:07:20.000Z,"off the west coast of northern Sumatra",earthquake
+1929-12-06T20:21:09.000Z,-56.758,-30.003,35,6.6,uk,10,,,,centennial,centennial19291206202109,2013-07-09T19:07:20.000Z,"South Sandwich Islands region",earthquake
+1929-12-06T16:46:42.000Z,-55.456,-28.587,15,6.6,uk,5,,,,centennial,centennial19291206164642,2013-07-09T19:07:20.000Z,"South Sandwich Islands region",earthquake

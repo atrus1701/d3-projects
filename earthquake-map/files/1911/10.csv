@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1911-10-29T18:09:00.000Z,11,-101,0,6.6,uk,0,,,,centennial,centennial19111029180900,2013-07-09T19:07:17.000Z,"northern East Pacific Rise",earthquake
+1911-10-20T17:44:00.000Z,-12.5,166,160,7,mb,0,,,,centennial,centennial19111020174400,2013-07-09T19:07:17.000Z,"Santa Cruz Islands",earthquake
+1911-10-14T23:24:00.000Z,31,80.5,0,6.6,uk,0,,,,centennial,centennial19111014232400,2013-07-09T19:07:17.000Z,"western Xizang-India border region",earthquake
+1911-10-06T10:16:12.000Z,19,-70.5,0,6.8,ms,0,,,,centennial,centennial19111006101612,2013-07-09T19:07:17.000Z,"Dominican Republic",earthquake

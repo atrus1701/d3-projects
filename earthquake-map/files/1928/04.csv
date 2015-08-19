@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-04-27T20:35:01.000Z,-13.716,-70.529,35,6.6,uk,20,,,,centennial,centennial19280427203501,2013-07-09T19:07:19.000Z,"central Peru",earthquake
+1928-04-18T19:22:54.000Z,42.386,25.087,15,6.6,uk,19,,,,centennial,centennial19280418192254,2013-07-09T19:07:19.000Z,"Bulgaria",earthquake
+1928-04-14T09:00:01.000Z,42.402,25.667,15,6.6,uk,28,,,,centennial,centennial19280414090001,2013-07-09T19:07:19.000Z,"Bulgaria",earthquake
+1928-04-09T17:34:17.000Z,-13.731,-70.628,35,6.8,ms,36,,,,centennial,centennial19280409173417,2013-07-09T19:07:19.000Z,"central Peru",earthquake

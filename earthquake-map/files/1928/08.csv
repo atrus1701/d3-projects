@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-08-24T21:43:31.000Z,-14.287,168.497,220,7,mb,15,,,,centennial,centennial19280824214331,2013-07-09T19:07:19.000Z,"Vanuatu",earthquake
+1928-08-12T08:08:44.000Z,1.834,127.243,35,7,mb,11,,,,centennial,centennial19280812080844,2013-07-09T19:07:19.000Z,"Halmahera, Indonesia",earthquake
+1928-08-10T15:33:34.000Z,36.636,70.49,35,6.6,uk,21,,,,centennial,centennial19280810153334,2013-07-09T19:07:19.000Z,"Hindu Kush region, Afghanistan",earthquake
+1928-08-04T18:26:20.000Z,16.418,-98.266,35,7.2,mw,52,,,,centennial,centennial19280804182620,2013-07-09T19:07:19.000Z,"Oaxaca, Mexico",earthquake

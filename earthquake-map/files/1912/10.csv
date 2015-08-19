@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-10-31T17:24:06.000Z,7,138,0,6.9,ms,0,,,,centennial,centennial19121031172406,2013-07-09T19:07:17.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1912-10-26T09:00:36.000Z,14,146,130,7,mb,0,,,,centennial,centennial19121026090036,2013-07-09T19:07:17.000Z,"Rota region, Northern Mariana Islands",earthquake
+1912-10-18T11:48:00.000Z,54.6,179.2,60,6.9,uk,0,,,,centennial,centennial19121018114800,2013-07-09T19:07:17.000Z,"Bering Sea",earthquake

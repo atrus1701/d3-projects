@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1907-12-30T05:26:00.000Z,12.1,-86.3,0,7.2,mw,0,,,,centennial,centennial19071230052600,2013-07-09T19:07:16.000Z,"Nicaragua",earthquake
+1907-12-25T22:36:00.000Z,36.5,70.5,240,6.6,uk,0,,,,centennial,centennial19071225223600,2013-07-09T19:07:16.000Z,"Hindu Kush region, Afghanistan",earthquake
+1907-12-23T01:13:00.000Z,43.8,145,150,6.7,uk,0,,,,centennial,centennial19071223011300,2013-07-09T19:07:16.000Z,"Hokkaido, Japan region",earthquake
+1907-12-15T17:35:00.000Z,-3.1,142.5,0,6.9,ms,0,,,,centennial,centennial19071215173500,2013-07-09T19:07:16.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1907-12-02T13:53:00.000Z,40.1,142.3,35,6.7,mj,0,,,,centennial,centennial19071202135300,2013-07-09T19:07:16.000Z,"near the east coast of Honshu, Japan",earthquake

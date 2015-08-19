@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1933-12-12T14:11:17.000Z,-4.294,153.154,35,6.6,uk,68,,,,centennial,centennial19331212141117,2013-07-09T19:07:20.000Z,"New Ireland region, Papua New Guinea",earthquake
+1933-12-04T19:33:58.000Z,46.192,144.592,352.6,7.1,mb,53,,,,centennial,centennial19331204193358,2013-07-09T19:07:20.000Z,"Sea of Okhotsk",earthquake

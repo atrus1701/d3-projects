@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-04-25T02:25:41.000Z,36.355,28.698,35,7.1,mw,166,,,,centennial,centennial19570425022541,2013-07-09T19:07:26.000Z,"Dodecanese Islands, Greece",earthquake
+1957-04-24T19:10:12.000Z,36.319,28.733,35,6.7,ms,141,,,,centennial,centennial19570424191012,2013-07-09T19:07:26.000Z,"Dodecanese Islands, Greece",earthquake
+1957-04-21T21:12:28.000Z,6.913,-72.053,15.4,6.9,ms,110,,,,centennial,centennial19570421211228,2013-07-09T19:07:26.000Z,"northern Colombia",earthquake
+1957-04-19T22:19:35.000Z,52.094,-166.235,35,6.5,ms,248,,,,centennial,centennial19570419221935,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-04-19T15:44:58.000Z,51.171,-168.253,26.3,6.5,ms,116,,,,centennial,centennial19570419154458,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-04-16T04:04:09.000Z,-4.514,107.274,601.7,7.2,mb,242,,,,centennial,centennial19570416040409,2013-07-09T19:07:26.000Z,"Java Sea",earthquake
+1957-04-14T19:18:05.000Z,-15.397,-173.138,35,7.5,mw,203,,,,centennial,centennial19570414191805,2013-07-09T19:07:26.000Z,"Tonga",earthquake
+1957-04-10T11:30:03.000Z,55.794,-153.823,25,6.9,ms,203,,,,centennial,centennial19570410113003,2013-07-09T19:07:26.000Z,"south of Alaska",earthquake
+1957-04-09T00:24:43.000Z,30.566,138.394,453.9,6.6,ms,132,,,,centennial,centennial19570409002443,2013-07-09T19:07:26.000Z,"Izu Islands, Japan region",earthquake
+1957-04-05T07:30:28.000Z,-26.623,-177.078,90.7,6.5,ms,99,,,,centennial,centennial19570405073028,2013-07-09T19:07:26.000Z,"south of the Fiji Islands",earthquake

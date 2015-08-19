@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1922-01-31T13:17:28.000Z,40.7,-125.553,15,7.2,mw,47,,,,centennial,centennial19220131131728,2013-07-09T19:07:18.000Z,"offshore Northern California",earthquake
+1922-01-22T22:05:00.000Z,37.5,141.5,35,6.5,mj,0,,,,centennial,centennial19220122220500,2013-07-09T19:07:18.000Z,"near the east coast of Honshu, Japan",earthquake
+1922-01-17T03:50:01.000Z,-6.482,-71.859,358.5,7.4,mb,32,,,,centennial,centennial19220117035001,2013-07-09T19:07:18.000Z,"Amazonas, Brazil",earthquake
+1922-01-09T05:09:33.000Z,23.22,-45.931,15,7,ms,31,,,,centennial,centennial19220109050933,2013-07-09T19:07:18.000Z,"northern Mid-Atlantic Ridge",earthquake
+1922-01-06T14:10:43.000Z,-20.408,-76.389,25,7.1,mw,11,,,,centennial,centennial19220106141043,2013-07-09T19:07:18.000Z,"off the coast of Tarapaca, Chile",earthquake

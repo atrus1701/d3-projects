@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-09-25T02:36:54.000Z,21.875,121.249,35,6.6,ms,142,,,,centennial,centennial19590925023654,2013-07-09T19:07:27.000Z,"Taiwan region",earthquake
+1959-09-15T11:05:37.000Z,-22.053,-179.323,585.5,6.9,ms,197,,,,centennial,centennial19590915110537,2013-07-09T19:07:27.000Z,"south of the Fiji Islands",earthquake
+1959-09-15T05:59:44.000Z,-28.665,-176.681,17.4,6.7,ms,152,,,,centennial,centennial19590915055944,2013-07-09T19:07:27.000Z,"Kermadec Islands region",earthquake
+1959-09-14T22:23:53.000Z,-28.73,-177.09,0,6.5,uk,0,,,,centennial,centennial19590914222353,2013-07-09T19:07:27.000Z,"Kermadec Islands region",earthquake
+1959-09-14T14:09:46.000Z,-28.725,-177.075,35,7.8,mw,198,,,,centennial,centennial19590914140946,2013-07-09T19:07:27.000Z,"Kermadec Islands region",earthquake

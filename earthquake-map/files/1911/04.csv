@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1911-04-28T09:52:54.000Z,0,-71,600,6.9,mb,0,,,,centennial,centennial19110428095254,2013-07-09T19:07:17.000Z,"Colombia",earthquake
+1911-04-18T18:14:36.000Z,32,56,50,6.5,uk,0,,,,centennial,centennial19110418181436,2013-07-09T19:07:17.000Z,"central Iran",earthquake
+1911-04-10T18:42:24.000Z,9,-74,100,7,mb,0,,,,centennial,centennial19110410184224,2013-07-09T19:07:17.000Z,"northern Colombia",earthquake
+1911-04-04T15:43:54.000Z,36.5,25.5,140,7,mb,0,,,,centennial,centennial19110404154354,2013-07-09T19:07:17.000Z,"Dodecanese Islands, Greece",earthquake

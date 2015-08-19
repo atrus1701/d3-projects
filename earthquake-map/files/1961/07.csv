@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1961-07-23T21:51:10.000Z,-18.418,168.402,35,7.3,mw,218,,,,centennial,centennial19610723215110,2013-07-09T19:07:27.000Z,"Vanuatu",earthquake
+1961-07-18T14:03:41.000Z,29.665,131.741,37.7,6.7,ms,167,,,,centennial,centennial19610718140341,2013-07-09T19:07:27.000Z,"southeast of the Ryukyu Islands, Japan",earthquake
+1961-07-07T13:10:48.000Z,-5.952,149.729,40.5,6.5,ms,103,,,,centennial,centennial19610707131048,2013-07-09T19:07:27.000Z,"New Britain region, Papua New Guinea",earthquake
+1961-07-06T22:09:31.000Z,-20.67,169.444,31.6,6.5,ms,210,,,,centennial,centennial19610706220931,2013-07-09T19:07:27.000Z,"Vanuatu",earthquake

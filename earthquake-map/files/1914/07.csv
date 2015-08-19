@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1914-07-06T06:37:30.000Z,24,122,60,6.6,uk,0,,,,centennial,centennial19140706063730,2013-07-09T19:07:17.000Z,"Taiwan region",earthquake
+1914-07-04T23:38:54.000Z,-5.5,129,200,7.1,mb,0,,,,centennial,centennial19140704233854,2013-07-09T19:07:17.000Z,"Banda Sea",earthquake
+1914-07-04T17:48:24.000Z,29,128,200,6.7,uk,0,,,,centennial,centennial19140704174824,2013-07-09T19:07:17.000Z,"northwest of the Ryukyu Islands, Japan",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-09-30T17:51:48.000Z,-23.363,171.469,35,6.6,uk,10,,,,centennial,centennial19180930175148,2013-07-09T19:07:18.000Z,"southeast of the Loyalty Islands",earthquake
+1918-09-22T13:50:00.000Z,45,150,35,6.7,mj,0,,,,centennial,centennial19180922135000,2013-07-09T19:07:18.000Z,"Kuril Islands",earthquake
+1918-09-22T09:54:49.000Z,-1.634,98.378,35,6.6,uk,5,,,,centennial,centennial19180922095449,2013-07-09T19:07:18.000Z,"Kepulauan Mentawai region, Indonesia",earthquake
+1918-09-07T17:15:43.000Z,46.812,150.253,242.4,7.6,mb,19,,,,centennial,centennial19180907171543,2013-07-09T19:07:18.000Z,"Kuril Islands",earthquake

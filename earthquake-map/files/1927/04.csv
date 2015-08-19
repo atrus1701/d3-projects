@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1927-04-19T17:30:11.000Z,15.25,120.454,139.1,7.1,mb,27,,,,centennial,centennial19270419173011,2013-07-09T19:07:19.000Z,"Luzon, Philippines",earthquake
+1927-04-14T06:23:30.000Z,-32.477,-69.675,35,7.2,mb,30,,,,centennial,centennial19270414062330,2013-07-09T19:07:19.000Z,"Mendoza, Argentina",earthquake
+1927-04-13T13:44:17.000Z,15.434,120.722,175.4,6.6,uk,26,,,,centennial,centennial19270413134417,2013-07-09T19:07:19.000Z,"Luzon, Philippines",earthquake
+1927-04-01T19:05:38.000Z,-19.802,-177.478,35,7,mb,22,,,,centennial,centennial19270401190538,2013-07-09T19:07:19.000Z,"Fiji region",earthquake

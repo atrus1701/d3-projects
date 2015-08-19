@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-06-30T15:06:44.000Z,51.274,160.885,35,7.2,mw,136,,,,centennial,centennial19360630150644,2013-07-09T19:07:21.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1936-06-29T14:30:12.000Z,36.502,70.836,222.2,6.6,uk,65,,,,centennial,centennial19360629143012,2013-07-09T19:07:21.000Z,"Hindu Kush region, Afghanistan",earthquake
+1936-06-10T08:23:21.000Z,-5.5,147,190,7,mb,0,,,,centennial,centennial19360610082321,2013-07-09T19:07:21.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1936-06-09T16:36:31.000Z,-0.134,98.956,35,6.6,uk,0,,,,centennial,centennial19360609163631,2013-07-09T19:07:21.000Z,"Kepulauan Batu, Indonesia",earthquake
+1936-06-05T14:37:35.000Z,0.369,123.797,179.2,6.6,uk,48,,,,centennial,centennial19360605143735,2013-07-09T19:07:21.000Z,"Minahasa, Sulawesi, Indonesia",earthquake

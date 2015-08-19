@@ -1,0 +1,183 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+
+<div id="diagram"></div>
+
+<script src="d3/d3.v3.min.js"></script>
+<script src="d3/queue.v1.min.js"></script>
+<script src="d3/topojson.v0.min.js"></script>
+<script src="Controls.js"></script>
+<script src="Map.js"></script>
+<script src="MapChart.js"></script>
+<script src="BarChart.js"></script>
+<script>
+
+String.prototype.lpad = function( padString, length )
+{
+	var str = this;
+	while (str.length < length) str = padString + str;
+	return str;
+}
+
+var canvas_size = { width: 1220, height:670 };
+
+var svg = null;
+var background = null;
+var debug_text = null;
+
+var controls = null;
+var map = null;
+var bar = null;
+
+var total_data = null;
+var month_data = null;
+
+
+var map_month = -1;
+var map_year = -1;
+
+
+window.onload = function()
+{
+	svg = d3.select( '#diagram' )
+		.append( 'svg:svg' )
+			.attr( 'width', canvas_size.width )
+			.attr( 'height', canvas_size.height );
+		
+	background = svg
+		.append( 'svg:rect' )
+			.attr( 'class', 'background' )
+			.attr( 'transform', 'translate(0,0)' )
+			.attr( 'width', canvas_size.width )
+			.attr( 'height', canvas_size.height );
+		
+	debug_text = svg
+		.append( 'svg:text' )
+			.attr( 'transform', 'translate(300,650)' )
+			.text( '' );
+
+	controls = new Controls();
+	map = new Map();
+	bar = new BarChart();
+
+	queue()
+		.defer( d3.csv, './files/totals.csv' )
+		.defer( d3.json, './files/world-countries.json' )
+		.defer( d3.json, './files/plate-tectonics.json' )
+			.await( totals_loaded );
+		
+	
+}
+
+
+function totals_loaded( error, totals, world, tectonics )
+{
+	var data = [];
+	var current_year = +totals[0].year;
+	var line = { year: current_year };
+	
+	totals.map(
+		function( d )
+		{
+			if( +d.year != current_year )
+			{
+				data.push( line );
+				current_year = +d.year;
+				line = { year: current_year };
+			}
+			
+			line[d.category] = +d.total;
+		});
+	data.push( line );
+	
+	
+	
+	controls.Init( data.map( function(d) { return d.year; } ) );
+	bar.Init( data );
+	map.Init( world, tectonics );
+	
+	update_map();
+}
+
+
+
+function monthly_loaded( error, data )
+{
+	data = data.filter(
+		function( e )
+		{
+			var bits = e.time.split(/\D/);
+			e.date = new Date(bits[0], --bits[1], bits[2], bits[3], bits[4]);
+
+			e.mag = parseFloat( e.mag );
+			if( isNaN(e.mag) ) return false;
+
+			e.latitude = parseFloat( e.latitude );
+			if( isNaN(e.latitude) ) return false;
+
+			e.longitude = parseFloat( e.longitude );
+			if( isNaN(e.longitude) ) return false;
+			
+			if( e.mag < 4.0 )
+				e.class = "minor";
+			else if( e.mag < 5.0 )
+				e.class = "light";
+			else if( e.mag < 6.0 )
+				e.class = "moderate";
+			else if( e.mag < 7.0 )
+				e.class = "strong";
+			else if( e.mag < 6.0 )
+				e.class = "major";
+			else
+				e.class = "great";
+
+			return true;
+		});
+	data.sort( function(a, b) { return a.date - b.date; } );
+		
+	map.Load( data );
+}
+
+
+function update_map()
+{
+	queue()
+		.defer( d3.csv, './files/'+controls.MapYear()+'/'+controls.MapMonth()+'.csv' )
+		.await( monthly_loaded );
+}
+
+
+function update_barchart()
+{
+	bar.Draw();
+}
+
+function update_graphs()
+{
+	bar.Draw();
+	map.Draw();
+}
+
+
+function debug( text, append )
+{
+	if( append ) text = debug_text.text() + text;
+	debug_text.text( text );
+}
+
+</script>
+
+
+</body>
+</html>
+

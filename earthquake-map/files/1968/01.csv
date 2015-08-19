@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-01-30T03:44:25.000Z,-6.162,113.312,595.1,6.2,ms,213,,,,centennial,centennial19680130034425,2013-07-09T19:07:33.000Z,"Java, Indonesia",earthquake
+1968-01-29T16:42:51.000Z,43.472,147.195,35.2,5.7,mb,226,,,,centennial,centennial19680129164251,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1968-01-29T10:19:07.000Z,43.591,146.699,39.2,7.3,mw,291,,,,centennial,centennial19680129101907,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1968-01-26T04:45:43.000Z,-8.898,120.244,29.9,6,mb,176,,,,centennial,centennial19680126044543,2013-07-09T19:07:33.000Z,"Flores region, Indonesia",earthquake
+1968-01-20T21:21:32.000Z,-30.115,-179.454,359,6.1,ms,206,,,,centennial,centennial19680120212132,2013-07-09T19:07:33.000Z,"Kermadec Islands region",earthquake
+1968-01-20T16:41:28.000Z,-16.268,178.244,16.6,5.6,mb,99,,,,centennial,centennial19680120164128,2013-07-09T19:07:33.000Z,"Fiji",earthquake
+1968-01-19T14:39:39.000Z,-42.593,-75.303,24.4,5.5,mb,90,,,,centennial,centennial19680119143939,2013-07-09T19:07:33.000Z,"offshore Los Lagos, Chile",earthquake
+1968-01-19T06:04:39.000Z,-9.328,158.485,31.2,6,mb,191,,,,centennial,centennial19680119060439,2013-07-09T19:07:33.000Z,"Solomon Islands",earthquake
+1968-01-14T12:40:46.000Z,52.467,-171.307,5.5,5.5,mb,81,,,,centennial,centennial19680114124046,2013-07-09T19:07:33.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1968-01-14T12:25:11.000Z,-7.521,127.917,114.6,6,mb,196,,,,centennial,centennial19680114122511,2013-07-09T19:07:33.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1968-01-13T16:07:04.000Z,-24.267,-67.041,178.7,5.5,mb,157,,,,centennial,centennial19680113160704,2013-07-09T19:07:33.000Z,"Salta, Argentina",earthquake
+1968-01-13T07:03:45.000Z,24.118,122.243,42.5,5.7,mb,182,,,,centennial,centennial19680113070345,2013-07-09T19:07:33.000Z,"Taiwan region",earthquake
+1968-01-12T04:17:42.000Z,13.274,93.104,19.7,5.5,mb,82,,,,centennial,centennial19680112041742,2013-07-09T19:07:33.000Z,"Andaman Islands, India region",earthquake
+1968-01-07T09:56:40.000Z,-5.096,153.908,112.3,5.5,mb,122,,,,centennial,centennial19680107095640,2013-07-09T19:07:33.000Z,"New Ireland region, Papua New Guinea",earthquake
+1968-01-06T23:27:21.000Z,-27.94,-71.075,28,5.8,mb,138,,,,centennial,centennial19680106232721,2013-07-09T19:07:33.000Z,"Atacama, Chile",earthquake
+1968-01-04T10:27:42.000Z,-9.876,148.84,37.5,5.5,mb,93,,,,centennial,centennial19680104102742,2013-07-09T19:07:33.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1968-01-04T00:57:44.000Z,52.15,-171.349,26.1,5.7,mb,217,,,,centennial,centennial19680104005744,2013-07-09T19:07:33.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

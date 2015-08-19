@@ -1,0 +1,15 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-12-27T16:22:47.000Z,-22.451,-174.498,15,5.8,mb,186,,,,centennial,centennial19671227162247,2013-07-09T19:07:33.000Z,"Tonga region",earthquake
+1967-12-27T09:17:54.000Z,-21.211,-68.184,116.3,7,mb,196,,,,centennial,centennial19671227091754,2013-07-09T19:07:33.000Z,"Potosi, Bolivia",earthquake
+1967-12-25T10:41:32.000Z,-21.593,-70.405,46,5.7,mb,129,,,,centennial,centennial19671225104132,2013-07-09T19:07:33.000Z,"near the coast of Antofagasta, Chile",earthquake
+1967-12-25T01:23:34.000Z,-5.289,153.762,51.7,7.2,mw,243,,,,centennial,centennial19671225012334,2013-07-09T19:07:33.000Z,"New Ireland region, Papua New Guinea",earthquake
+1967-12-24T21:32:34.000Z,17.505,-61.273,25.6,5.9,mb,221,,,,centennial,centennial19671224213234,2013-07-09T19:07:33.000Z,"Antigua and Barbuda region, Leeward Islands",earthquake
+1967-12-24T20:03:11.000Z,17.432,-61.152,11.3,6.1,mb,253,,,,centennial,centennial19671224200311,2013-07-09T19:07:33.000Z,"Antigua and Barbuda region, Leeward Islands",earthquake
+1967-12-21T02:25:24.000Z,-21.861,-69.947,44.7,7.4,mw,190,,,,centennial,centennial19671221022524,2013-07-09T19:07:33.000Z,"Antofagasta, Chile",earthquake
+1967-12-16T20:54:03.000Z,51.235,157.666,53.8,5.5,mb,199,,,,centennial,centennial19671216205403,2013-07-09T19:07:33.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1967-12-13T19:07:15.000Z,-19.148,168.77,50.2,5.7,mb,110,,,,centennial,centennial19671213190715,2013-07-09T19:07:33.000Z,"Vanuatu",earthquake
+1967-12-13T10:38:26.000Z,47.649,152.601,139.5,5.6,mb,188,,,,centennial,centennial19671213103826,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1967-12-10T22:51:21.000Z,17.39,73.774,4.5,6.4,ms,205,,,,centennial,centennial19671210225121,2014-04-07T19:46:02.992Z,"Maharashtra, India",earthquake
+1967-12-10T12:06:54.000Z,40.495,-124.632,17.9,5.6,uk,110,,,,centennial,centennial19671210120654,2013-07-09T19:07:33.000Z,"offshore Northern California",earthquake
+1967-12-09T10:50:45.000Z,-10.818,164.376,11.4,5.6,mb,83,,,,centennial,centennial19671209105045,2013-07-09T19:07:33.000Z,"Santa Cruz Islands region",earthquake
+1967-12-01T13:57:04.000Z,49.465,154.385,142.9,6.4,mb,262,,,,centennial,centennial19671201135704,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake

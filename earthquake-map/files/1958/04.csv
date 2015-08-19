@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1958-04-14T21:32:34.000Z,0.706,-79.575,35,6.6,ms,128,,,,centennial,centennial19580414213234,2013-07-09T19:07:26.000Z,"near the coast of Ecuador",earthquake
+1958-04-13T12:29:08.000Z,52.934,160.85,3.2,6.5,ms,146,,,,centennial,centennial19580413122908,2013-07-09T19:07:26.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1958-04-07T19:13:27.000Z,45.253,98.519,25,6.6,ms,130,,,,centennial,centennial19580407191327,2013-07-09T19:07:26.000Z,"central Mongolia",earthquake
+1958-04-07T18:05:08.000Z,38.382,143.332,35,6.7,ms,110,,,,centennial,centennial19580407180508,2013-07-09T19:07:26.000Z,"off the east coast of Honshu, Japan",earthquake
+1958-04-07T15:30:44.000Z,65.895,-156.343,15,7.3,mw,239,,,,centennial,centennial19580407153044,2013-07-09T19:07:26.000Z,"northern Alaska",earthquake

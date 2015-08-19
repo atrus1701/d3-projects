@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1942-06-29T06:26:36.000Z,-33.125,-70.495,65.4,6.7,uk,33,,,,centennial,centennial19420629062636,2013-07-09T19:07:22.000Z,"Region Metropolitana, Chile",earthquake
+1942-06-24T11:16:30.000Z,-41.534,175.63,35,7,ms,38,,,,centennial,centennial19420624111630,2013-07-09T19:07:22.000Z,"North Island of New Zealand",earthquake
+1942-06-20T10:02:13.000Z,18.876,-101.063,85.9,6.6,uk,22,,,,centennial,centennial19420620100213,2013-07-09T19:07:22.000Z,"Michoacan, Mexico",earthquake
+1942-06-18T09:31:00.000Z,9.123,140.101,35,7,ms,33,,,,centennial,centennial19420618093100,2013-07-09T19:07:22.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1942-06-15T13:47:13.000Z,-32.133,179.756,518.3,6.6,uk,17,,,,centennial,centennial19420615134713,2013-07-09T19:07:22.000Z,"south of the Kermadec Islands",earthquake
+1942-06-14T03:09:57.000Z,14.548,148.008,48.7,7,mb,37,,,,centennial,centennial19420614030957,2013-07-09T19:07:22.000Z,"Mariana Islands region",earthquake

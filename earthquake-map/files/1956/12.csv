@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-12-27T00:14:11.000Z,-23.41,-176.882,195.7,7,mb,152,,,,centennial,centennial19561227001411,2013-07-09T19:07:26.000Z,"south of the Fiji Islands",earthquake
+1956-12-21T08:58:59.000Z,51.386,-130.719,15,6.5,ms,85,,,,centennial,centennial19561221085859,2013-07-09T19:07:26.000Z,"Haida Gwaii Region, Canada",earthquake
+1956-12-18T02:31:11.000Z,-25.502,-70.172,44.7,6.9,ms,99,,,,centennial,centennial19561218023111,2013-07-09T19:07:26.000Z,"Antofagasta, Chile",earthquake

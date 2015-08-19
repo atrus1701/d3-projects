@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-09-21T18:52:02.000Z,36.372,141.325,35,6.7,uk,69,,,,centennial,centennial19380921185202,2013-07-09T19:07:21.000Z,"near the east coast of Honshu, Japan",earthquake
+1938-09-07T04:03:23.000Z,23.737,121.408,47.4,7,ms,65,,,,centennial,centennial19380907040323,2013-07-09T19:07:21.000Z,"Taiwan",earthquake

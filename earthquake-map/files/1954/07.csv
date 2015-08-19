@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1954-07-31T00:59:57.000Z,38.7,104.2,0,6.5,ms,0,,,,centennial,centennial19540731005957,2013-07-09T19:07:25.000Z,"western Nei Mongol, China",earthquake
+1954-07-06T11:13:18.000Z,39.5,-118.5,0,6.5,ms,0,,,,centennial,centennial19540706111318,2013-07-09T19:07:25.000Z,"Nevada",earthquake
+1954-07-06T08:04:37.000Z,46.6,153.4,33,6.5,ms,0,,,,centennial,centennial19540706080437,2013-07-09T19:07:25.000Z,"Kuril Islands",earthquake
+1954-07-03T22:31:30.000Z,-6.6,105.6,96,6.9,mb,0,,,,centennial,centennial19540703223130,2013-07-09T19:07:25.000Z,"Sunda Strait, Indonesia",earthquake
+1954-07-02T02:45:09.000Z,13,123.9,0,6.6,ms,0,,,,centennial,centennial19540702024509,2013-07-09T19:07:25.000Z,"Masbate region, Philippines",earthquake

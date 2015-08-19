@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-01-15T23:49:32.000Z,-31.415,-68.42,27.7,7.1,mw,0,,,,centennial,centennial19440115234932,2013-07-09T19:07:22.000Z,"San Juan, Argentina",earthquake
+1944-01-10T20:09:52.000Z,17,-101,0,6.6,uk,0,,,,centennial,centennial19440110200952,2013-07-09T19:07:22.000Z,"offshore Guerrero, Mexico",earthquake
+1944-01-07T02:49:26.000Z,-4.402,143.825,114.8,7,mb,0,,,,centennial,centennial19440107024926,2013-07-09T19:07:22.000Z,"New Guinea, Papua New Guinea",earthquake
+1944-01-05T21:12:43.000Z,-3.5,102,60,6.8,ms,0,,,,centennial,centennial19440105211243,2013-07-09T19:07:22.000Z,"southern Sumatra, Indonesia",earthquake

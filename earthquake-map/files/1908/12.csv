@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1908-12-28T04:20:24.000Z,38,15.5,0,7,ms,0,,,,centennial,centennial19081228042024,2013-07-09T19:07:16.000Z,"Sicily, Italy",earthquake
+1908-12-12T12:54:54.000Z,26.5,97,0,7,ms,0,,,,centennial,centennial19081212125454,2013-07-09T19:07:16.000Z,"Myanmar",earthquake
+1908-12-12T12:08:00.000Z,-14,-78,60,8,uk,0,,,,centennial,centennial19081212120800,2013-07-09T19:07:16.000Z,"off the coast of central Peru",earthquake

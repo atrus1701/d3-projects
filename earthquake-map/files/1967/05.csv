@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-05-29T04:45:43.000Z,12.056,143.612,16.7,5.6,mb,91,,,,centennial,centennial19670529044543,2013-07-09T19:07:33.000Z,"Guam region",earthquake
+1967-05-27T19:05:46.000Z,36.087,77.728,8.4,5.5,mb,156,,,,centennial,centennial19670527190546,2013-07-09T19:07:33.000Z,"southern Xinjiang, China",earthquake
+1967-05-27T17:22:59.000Z,51.845,176.119,29.8,6,uk,269,,,,centennial,centennial19670527172259,2013-07-09T19:07:32.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1967-05-23T19:17:49.000Z,-56.234,-27.497,136.5,5.7,mb,135,,,,centennial,centennial19670523191749,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1967-05-21T18:45:13.000Z,-1.005,101.303,179.2,6.2,mb,332,,,,centennial,centennial19670521184513,2013-07-09T19:07:32.000Z,"southern Sumatra, Indonesia",earthquake
+1967-05-20T02:51:10.000Z,19.848,146.241,34.3,5.5,mb,115,,,,centennial,centennial19670520025110,2013-07-09T19:07:32.000Z,"Mariana Islands region",earthquake
+1967-05-18T23:39:17.000Z,30.911,130.833,60.5,5.5,mb,130,,,,centennial,centennial19670518233917,2013-07-09T19:07:32.000Z,"Kyushu, Japan",earthquake
+1967-05-11T15:05:23.000Z,-20.268,-68.734,110,5.9,mb,168,,,,centennial,centennial19670511150523,2013-07-09T19:07:32.000Z,"Tarapaca, Chile",earthquake
+1967-05-11T14:50:58.000Z,39.383,73.791,4.8,5.6,mb,170,,,,centennial,centennial19670511145058,2013-07-09T19:07:32.000Z,"Kyrgyzstan-Tajikistan-Xinjiang border region",earthquake
+1967-05-05T15:00:09.000Z,-10.453,161.387,50.4,5.5,mb,85,,,,centennial,centennial19670505150009,2013-07-09T19:07:32.000Z,"Solomon Islands",earthquake
+1967-05-04T08:17:35.000Z,-55.732,-28.073,50.1,5.7,mb,103,,,,centennial,centennial19670504081735,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1967-05-01T07:09:01.000Z,39.552,21.291,13.1,5.9,uk,155,,,,centennial,centennial19670501070901,2013-07-09T19:07:32.000Z,"Greece",earthquake

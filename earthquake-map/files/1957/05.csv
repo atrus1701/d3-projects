@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-05-26T06:33:35.000Z,40.669,31.038,17.2,7.2,mw,130,,,,centennial,centennial19570526063335,2013-07-09T19:07:26.000Z,"western Turkey",earthquake
+1957-05-21T01:12:04.000Z,21.759,144.281,100.8,6.9,mb,109,,,,centennial,centennial19570521011204,2013-07-09T19:07:26.000Z,"Mariana Islands region",earthquake
+1957-05-12T11:29:05.000Z,-9.01,107.24,0,6.5,ms,0,,,,centennial,centennial19570512112905,2013-07-09T19:07:26.000Z,"south of Java, Indonesia",earthquake

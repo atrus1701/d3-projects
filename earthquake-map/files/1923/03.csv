@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1923-03-24T12:40:19.000Z,30.553,101.258,25,7.2,mw,15,,,,centennial,centennial19230324124019,2013-07-09T19:07:18.000Z,"western Sichuan, China",earthquake
+1923-03-16T22:01:43.000Z,6.495,127.058,35,7,ms,10,,,,centennial,centennial19230316220143,2013-07-09T19:07:18.000Z,"Philippine Islands region",earthquake
+1923-03-02T16:48:44.000Z,7.487,124.928,86.6,7.1,mw,10,,,,centennial,centennial19230302164844,2013-07-09T19:07:18.000Z,"Mindanao, Philippines",earthquake

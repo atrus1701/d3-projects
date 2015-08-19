@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-12-21T10:18:48.000Z,43.728,148.338,30,7.2,mw,0,,,,centennial,centennial19461221101848,2013-07-09T19:07:23.000Z,"east of the Kuril Islands",earthquake
+1946-12-20T19:19:10.000Z,33.064,135.686,35,8.1,mw,0,,,,centennial,centennial19461220191910,2013-07-09T19:07:23.000Z,"near the south coast of western Honshu, Japan",earthquake
+1946-12-19T02:57:19.000Z,24.75,122.5,100,6.6,uk,0,,,,centennial,centennial19461219025719,2013-07-09T19:07:23.000Z,"Taiwan region",earthquake
+1946-12-04T22:46:39.000Z,22.5,122.5,0,6.6,ms,0,,,,centennial,centennial19461204224639,2013-07-09T19:07:23.000Z,"Taiwan region",earthquake

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-06-29T08:26:14.000Z,-7.083,123.166,647.7,7,mb,117,,,,centennial,centennial19340629082614,2013-07-09T19:07:20.000Z,"Banda Sea",earthquake
+1934-06-24T05:59:34.000Z,-23.198,-68.58,102.3,6.7,uk,69,,,,centennial,centennial19340624055934,2013-07-09T19:07:20.000Z,"Antofagasta, Chile",earthquake
+1934-06-18T09:13:50.000Z,60.785,-151.244,50.2,6.6,uk,55,,,,centennial,centennial19340618091350,2013-07-09T19:07:20.000Z,"Kenai Peninsula, Alaska",earthquake
+1934-06-13T22:10:22.000Z,27.428,62.594,35,7,mb,90,,,,centennial,centennial19340613221022,2013-07-09T19:07:20.000Z,"Iran-Pakistan border region",earthquake
+1934-06-13T01:51:01.000Z,44.2,147.4,112.1,6.7,uk,0,,,,centennial,centennial19340613015101,2013-07-09T19:07:20.000Z,"Kuril Islands",earthquake
+1934-06-09T12:58:38.000Z,-6.07,147.299,35,6.7,uk,80,,,,centennial,centennial19340609125838,2013-07-09T19:07:20.000Z,"eastern New Guinea region, Papua New Guinea",earthquake

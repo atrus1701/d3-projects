@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-09-29T06:03:28.000Z,-13.517,166.677,68.8,6,mb,164,,,,centennial,centennial19700929060328,2013-07-09T19:07:37.000Z,"Vanuatu",earthquake
+1970-09-28T07:01:05.000Z,-56.27,-27.287,89.8,5.5,mb,119,,,,centennial,centennial19700928070105,2013-07-09T19:07:37.000Z,"South Sandwich Islands region",earthquake
+1970-09-27T03:38:37.000Z,6.373,-77.506,4.4,6.5,ms,255,,,,centennial,centennial19700927033837,2014-03-17T19:19:41.452Z,"near the west coast of Colombia",earthquake
+1970-09-26T12:02:31.000Z,6.243,-77.528,12.2,6.6,ms,223,,,,centennial,centennial19700926120231,2014-03-17T19:19:24.468Z,"near the west coast of Colombia",earthquake
+1970-09-23T23:11:59.000Z,-6.523,154.716,44.9,5.9,ms,110,,,,centennial,centennial19700923231159,2013-07-09T19:07:37.000Z,"Bougainville region, Papua New Guinea",earthquake
+1970-09-23T12:04:56.000Z,-6.46,154.623,42.7,6.5,ms,170,,,,centennial,centennial19700923120456,2014-03-17T19:19:10.166Z,"Bougainville region, Papua New Guinea",earthquake
+1970-09-19T06:37:29.000Z,-33.539,-71.877,21.6,5.6,ms,99,,,,centennial,centennial19700919063729,2013-07-09T19:07:37.000Z,"offshore Valparaiso, Chile",earthquake
+1970-09-16T01:49:21.000Z,13.054,144.534,46.8,5.7,ms,161,,,,centennial,centennial19700916014921,2013-07-09T19:07:37.000Z,"Guam region",earthquake
+1970-09-14T09:44:55.000Z,38.783,142.222,49,5.9,ms,228,,,,centennial,centennial19700914094455,2013-07-09T19:07:37.000Z,"near the east coast of Honshu, Japan",earthquake
+1970-09-11T01:04:13.000Z,-49.961,-114.423,27.7,5.9,ms,43,,,,centennial,centennial19700911010413,2013-07-09T19:07:37.000Z,"southern East Pacific Rise",earthquake
+1970-09-07T20:58:49.000Z,43.947,16.064,5,5.5,,,,,,atlas,atlas19700907205849,2014-03-17T19:18:53.692Z,"Croatia",earthquake
+1970-09-06T04:02:57.000Z,49.8,78.1,0,5.6,,,,,,atlas,atlas19700906040257,2014-03-17T19:18:36.857Z,"eastern Kazakhstan",earthquake
+1970-09-05T07:52:29.000Z,52.195,151.478,584.3,6.5,ms,302,,,,centennial,centennial19700905075229,2013-07-09T19:07:37.000Z,"Sea of Okhotsk",earthquake
+1970-09-03T09:32:24.000Z,-16.924,167.908,42.5,5.9,ms,130,,,,centennial,centennial19700903093224,2013-07-09T19:07:37.000Z,"Vanuatu",earthquake
+1970-09-01T05:11:20.000Z,17.704,147.698,61.3,6.2,mb,220,,,,centennial,centennial19700901051120,2013-07-09T19:07:37.000Z,"Mariana Islands region",earthquake

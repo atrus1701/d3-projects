@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-05-24T19:17:41.000Z,17.456,-97.179,69.6,7,mb,167,,,,centennial,centennial19590524191741,2013-07-09T19:07:27.000Z,"Oaxaca, Mexico",earthquake
+1959-05-12T09:46:59.000Z,-23.147,-64.937,35,6.6,ms,130,,,,centennial,centennial19590512094659,2013-07-09T19:07:27.000Z,"Salta, Argentina",earthquake
+1959-05-04T07:15:46.000Z,53.37,159.663,35,8,mw,211,,,,centennial,centennial19590504071546,2013-07-09T19:07:26.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake

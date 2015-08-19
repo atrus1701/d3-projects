@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-06-19T07:34:37.000Z,22,145.5,0,6.6,ms,0,,,,centennial,centennial19470619073437,2013-07-09T19:07:23.000Z,"North Pacific Ocean",earthquake
+1947-06-13T20:24:49.000Z,21.5,145.5,0,6.9,ms,0,,,,centennial,centennial19470613202449,2013-07-09T19:07:23.000Z,"Mariana Islands region",earthquake
+1947-06-12T09:02:30.000Z,0.962,126.151,40,7.1,ms,0,,,,centennial,centennial19470612090230,2013-07-09T19:07:23.000Z,"Molucca Sea",earthquake
+1947-06-07T18:47:48.000Z,11.5,125,0,6.7,uk,0,,,,centennial,centennial19470607184748,2013-07-09T19:07:23.000Z,"Samar, Philippines",earthquake

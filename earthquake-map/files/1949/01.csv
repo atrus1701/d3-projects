@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-01-24T09:15:48.000Z,-22,-176,110,6.9,mb,0,,,,centennial,centennial19490124091548,2013-07-09T19:07:24.000Z,"Tonga",earthquake
+1949-01-23T06:31:07.000Z,-11,93,50,6.7,ms,0,,,,centennial,centennial19490123063107,2013-07-09T19:07:24.000Z,"South Indian Ocean",earthquake
+1949-01-20T13:24:56.000Z,35.6,134.2,0,6.5,ms,0,,,,centennial,centennial19490120132456,2013-07-09T19:07:24.000Z,"western Honshu, Japan",earthquake
+1949-01-19T15:00:00.000Z,23.8,121.8,0,6.5,ms,0,,,,centennial,centennial19490119150000,2013-07-09T19:07:24.000Z,"Taiwan",earthquake

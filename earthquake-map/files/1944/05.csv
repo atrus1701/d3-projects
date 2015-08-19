@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-05-25T12:58:12.000Z,-2.389,152.733,35,7.3,mw,0,,,,centennial,centennial19440525125812,2013-07-09T19:07:22.000Z,"New Ireland region, Papua New Guinea",earthquake
+1944-05-25T01:06:38.000Z,-21.642,-179.05,635.7,7,mb,0,,,,centennial,centennial19440525010638,2013-07-09T19:07:22.000Z,"Fiji region",earthquake
+1944-05-19T00:19:22.000Z,-1.987,152.67,35,7,ms,0,,,,centennial,centennial19440519001922,2013-07-09T19:07:22.000Z,"New Ireland region, Papua New Guinea",earthquake

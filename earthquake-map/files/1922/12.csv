@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1922-12-31T07:20:11.000Z,45.738,150.805,35,7,ms,23,,,,centennial,centennial19221231072011,2013-07-09T19:07:18.000Z,"Kuril Islands",earthquake
+1922-12-08T22:33:00.000Z,40.2,143.2,35,6.8,mj,0,,,,centennial,centennial19221208223300,2013-07-09T19:07:18.000Z,"off the east coast of Honshu, Japan",earthquake
+1922-12-08T02:02:00.000Z,32.7,130.1,5,6.5,mj,0,,,,centennial,centennial19221208020200,2013-07-09T19:07:18.000Z,"Kyushu, Japan",earthquake
+1922-12-07T16:50:00.000Z,32.7,130.1,5,6.9,mj,0,,,,centennial,centennial19221207165000,2013-07-09T19:07:18.000Z,"Kyushu, Japan",earthquake
+1922-12-06T13:55:41.000Z,36.445,70.939,239.9,7.3,mb,35,,,,centennial,centennial19221206135541,2013-07-09T19:07:18.000Z,"Hindu Kush region, Afghanistan",earthquake

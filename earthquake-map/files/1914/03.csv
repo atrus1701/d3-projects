@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1914-03-30T00:41:18.000Z,17,-92,150,7.2,mb,0,,,,centennial,centennial19140330004118,2013-07-09T19:07:17.000Z,"Chiapas, Mexico",earthquake
+1914-03-28T10:44:48.000Z,25,99,100,6.7,uk,0,,,,centennial,centennial19140328104448,2013-07-09T19:07:17.000Z,"Myanmar-China border region",earthquake
+1914-03-14T20:00:00.000Z,39.5,140.4,5,7,ms,0,,,,centennial,centennial19140314200000,2013-07-09T19:07:17.000Z,"eastern Honshu, Japan",earthquake

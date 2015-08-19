@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1908-03-27T03:45:00.000Z,17,-101,0,7,ms,0,,,,centennial,centennial19080327034500,2013-07-09T19:07:16.000Z,"offshore Guerrero, Mexico",earthquake
+1908-03-26T23:03:30.000Z,18,-99,80,7.7,mb,0,,,,centennial,centennial19080326230330,2013-07-09T19:07:16.000Z,"Guerrero, Mexico",earthquake
+1908-03-05T02:16:00.000Z,9,126,0,6.9,ms,0,,,,centennial,centennial19080305021600,2013-07-09T19:07:16.000Z,"Mindanao, Philippines",earthquake

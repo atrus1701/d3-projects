@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-07-26T18:54:51.000Z,35.887,135.583,336.1,6.6,uk,14,,,,centennial,centennial19260726185451,2013-07-09T19:07:19.000Z,"western Honshu, Japan",earthquake
+1926-07-10T10:51:13.000Z,0.732,126.112,35,6.6,ms,14,,,,centennial,centennial19260710105113,2013-07-09T19:07:19.000Z,"Molucca Sea",earthquake
+1926-07-01T14:08:58.000Z,-3.131,100.561,35,6.6,uk,19,,,,centennial,centennial19260701140858,2013-07-09T19:07:19.000Z,"Kepulauan Mentawai region, Indonesia",earthquake

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-10-27T05:35:40.000Z,9.821,-84.357,35,6.6,uk,70,,,,centennial,centennial19401027053540,2013-07-09T19:07:22.000Z,"Costa Rica",earthquake
+1940-10-24T20:06:44.000Z,-34.353,-71.288,35,6.6,uk,29,,,,centennial,centennial19401024200644,2013-07-09T19:07:22.000Z,"Libertador General Bernardo O'Higgins, Chile",earthquake
+1940-10-11T18:41:13.000Z,-42.042,-73.933,15,7,ms,40,,,,centennial,centennial19401011184113,2013-07-09T19:07:22.000Z,"Isla Chiloe, Los Lagos, Chile",earthquake
+1940-10-07T06:42:55.000Z,5.29,126.136,35,6.9,mb,27,,,,centennial,centennial19401007064255,2013-07-09T19:07:22.000Z,"Mindanao, Philippines",earthquake
+1940-10-06T15:38:23.000Z,-20.003,-71.021,25,6.6,uk,24,,,,centennial,centennial19401006153823,2013-07-09T19:07:22.000Z,"off the coast of Tarapaca, Chile",earthquake
+1940-10-04T07:54:50.000Z,-20.592,-70.718,23.5,7.1,mb,39,,,,centennial,centennial19401004075450,2013-07-09T19:07:22.000Z,"near the coast of Tarapaca, Chile",earthquake

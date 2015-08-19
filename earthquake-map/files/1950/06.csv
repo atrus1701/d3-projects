@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-06-24T22:25:34.000Z,-20.5,169.5,40,6.8,ms,0,,,,centennial,centennial19500624222534,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-06-21T06:55:37.000Z,-20.25,169.25,40,6.8,ms,0,,,,centennial,centennial19500621065537,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-06-19T12:36:58.000Z,-6.25,112,0,6.6,uk,0,,,,centennial,centennial19500619123658,2013-07-09T19:07:24.000Z,"Java, Indonesia",earthquake
+1950-06-07T16:52:34.000Z,-4,-76.5,110,6.6,uk,0,,,,centennial,centennial19500607165234,2013-07-09T19:07:24.000Z,"northern Peru",earthquake

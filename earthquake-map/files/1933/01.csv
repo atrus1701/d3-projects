@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1933-01-27T22:36:42.000Z,-15.693,-171.779,35,6.6,uk,33,,,,centennial,centennial19330127223642,2013-07-09T19:07:20.000Z,"Samoa Islands region",earthquake
+1933-01-21T19:21:14.000Z,-33.505,57.732,15,7.1,ms,70,,,,centennial,centennial19330121192114,2013-07-09T19:07:20.000Z,"Southwest Indian Ridge",earthquake
+1933-01-01T08:48:45.000Z,-14.754,167.502,147,7,mb,47,,,,centennial,centennial19330101084845,2013-07-09T19:07:20.000Z,"Vanuatu",earthquake

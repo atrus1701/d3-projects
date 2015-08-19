@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1905-12-17T05:27:00.000Z,17,-113,0,7.1,mw,0,,,,centennial,centennial19051217052700,2013-07-09T19:07:16.000Z,"Revilla Gigedo Islands region",earthquake
+1905-12-10T12:36:00.000Z,50,180,0,6.9,ms,0,,,,centennial,centennial19051210123600,2013-07-09T19:07:16.000Z,"",earthquake
+1905-12-04T12:20:25.000Z,38,37,60,6.8,uk,0,,,,centennial,centennial19051204122025,2013-07-09T19:07:16.000Z,"central Turkey",earthquake

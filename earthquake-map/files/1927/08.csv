@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1927-08-24T18:09:02.000Z,23.118,120.237,35,6.6,uk,15,,,,centennial,centennial19270824180902,2013-07-09T19:07:19.000Z,"Taiwan",earthquake
+1927-08-20T23:54:29.000Z,4.988,-82.196,15,6.8,ms,37,,,,centennial,centennial19270820235429,2013-07-09T19:07:19.000Z,"south of Panama",earthquake
+1927-08-18T19:28:00.000Z,34.473,141.153,52,6.9,ms,31,,,,centennial,centennial19270818192800,2013-07-09T19:07:19.000Z,"off the east coast of Honshu, Japan",earthquake
+1927-08-12T00:33:52.000Z,27.721,139.706,530,6.6,uk,13,,,,centennial,centennial19270812003352,2013-07-09T19:07:19.000Z,"Bonin Islands, Japan region",earthquake
+1927-08-10T11:36:15.000Z,-0.534,131.673,35,7.1,mw,33,,,,centennial,centennial19270810113615,2013-07-09T19:07:19.000Z,"near the north coast of Papua, Indonesia",earthquake
+1927-08-08T00:57:55.000Z,50.329,155.728,105.6,6.6,uk,25,,,,centennial,centennial19270808005755,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake
+1927-08-05T21:12:58.000Z,37.873,142.191,35,7.1,ms,63,,,,centennial,centennial19270805211258,2013-07-09T19:07:19.000Z,"off the east coast of Honshu, Japan",earthquake
+1927-08-04T15:48:00.000Z,-6.809,125.768,474.1,6.6,uk,15,,,,centennial,centennial19270804154800,2013-07-09T19:07:19.000Z,"Banda Sea",earthquake

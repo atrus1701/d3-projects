@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1915-05-08T13:42:54.000Z,-23,39,0,6.6,uk,0,,,,centennial,centennial19150508134254,2013-07-09T19:07:17.000Z,"Mozambique Channel",earthquake
+1915-05-06T12:09:00.000Z,39.5,-126.5,0,6.6,uk,0,,,,centennial,centennial19150506120900,2013-07-09T19:07:17.000Z,"off the coast of Northern California",earthquake
+1915-05-01T05:00:00.000Z,47.5,154.5,35,7.9,mw,0,,,,centennial,centennial19150501050000,2013-07-09T19:07:17.000Z,"Kuril Islands",earthquake

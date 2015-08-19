@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1921-04-02T09:36:00.000Z,23,123,35,7.2,mj,0,,,,centennial,centennial19210402093600,2013-07-09T19:07:18.000Z,"Taiwan region",earthquake
+1921-04-01T04:06:47.000Z,1.665,98.66,35,6.6,uk,11,,,,centennial,centennial19210401040647,2013-07-09T19:07:18.000Z,"northern Sumatra, Indonesia",earthquake

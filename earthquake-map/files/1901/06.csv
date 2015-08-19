@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1901-06-24T13:40:00.000Z,28,130,35,6.5,mj,0,,,,centennial,centennial19010624134000,2013-07-09T19:07:15.000Z,"Ryukyu Islands, Japan",earthquake
+1901-06-24T07:02:00.000Z,28,130,35,7.2,mw,0,,,,centennial,centennial19010624070200,2013-07-09T19:07:15.000Z,"Ryukyu Islands, Japan",earthquake
+1901-06-15T09:34:00.000Z,39,143,35,7,mj,0,,,,centennial,centennial19010615093400,2013-07-09T19:07:15.000Z,"off the east coast of Honshu, Japan",earthquake

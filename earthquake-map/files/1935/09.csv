@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1935-09-20T05:23:09.000Z,-3.583,142.905,35,7,ms,77,,,,centennial,centennial19350920052309,2013-07-09T19:07:21.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1935-09-20T01:46:42.000Z,-3.92,141.33,35,8.1,mw,78,,,,centennial,centennial19350920014642,2013-07-09T19:07:21.000Z,"New Guinea, Papua New Guinea",earthquake
+1935-09-15T14:09:09.000Z,-25.749,-113.22,15,6.6,uk,30,,,,centennial,centennial19350915140909,2013-07-09T19:07:21.000Z,"Easter Island region",earthquake
+1935-09-11T14:04:03.000Z,43.29,146.634,35,7.2,mw,108,,,,centennial,centennial19350911140403,2013-07-09T19:07:21.000Z,"Kuril Islands",earthquake
+1935-09-09T06:17:38.000Z,6.228,141.717,35,7,ms,59,,,,centennial,centennial19350909061738,2013-07-09T19:07:21.000Z,"Palau region",earthquake
+1935-09-04T01:37:46.000Z,22.259,121.257,35,7.1,mw,43,,,,centennial,centennial19350904013746,2013-07-09T19:07:21.000Z,"Taiwan region",earthquake

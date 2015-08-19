@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-09-30T07:57:23.000Z,28.962,129.903,44.6,5.5,mb,139,,,,centennial,centennial19670930075723,2013-07-09T19:07:33.000Z,"Ryukyu Islands, Japan",earthquake
+1967-09-28T04:56:54.000Z,-6.59,153.476,18.4,5.9,mb,206,,,,centennial,centennial19670928045654,2013-07-09T19:07:33.000Z,"New Britain region, Papua New Guinea",earthquake
+1967-09-26T16:11:24.000Z,-30.077,-71.558,50.6,5.6,mb,181,,,,centennial,centennial19670926161124,2013-07-09T19:07:33.000Z,"offshore Coquimbo, Chile",earthquake
+1967-09-26T11:11:25.000Z,-33.464,-70.546,81.9,5.7,mb,109,,,,centennial,centennial19670926111125,2013-07-09T19:07:33.000Z,"Region Metropolitana, Chile",earthquake
+1967-09-23T07:02:05.000Z,-49.695,163.948,19.2,5.5,mb,58,,,,centennial,centennial19670923070205,2013-07-09T19:07:33.000Z,"Auckland Islands, New Zealand region",earthquake
+1967-09-23T06:56:43.000Z,-22.036,-179.483,594.7,5.5,mb,114,,,,centennial,centennial19670923065643,2013-07-09T19:07:33.000Z,"south of the Fiji Islands",earthquake
+1967-09-22T10:18:00.000Z,44.567,149.567,41.4,5.7,mb,237,,,,centennial,centennial19670922101800,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1967-09-20T10:37:21.000Z,-20.744,169.852,134.5,6,mb,84,,,,centennial,centennial19670920103721,2013-07-09T19:07:33.000Z,"Vanuatu",earthquake
+1967-09-20T10:30:54.000Z,-49.724,163.673,15,5.6,mb,122,,,,centennial,centennial19670920103054,2013-07-09T19:07:33.000Z,"Auckland Islands, New Zealand region",earthquake
+1967-09-20T09:39:14.000Z,-49.726,163.736,15,5.9,mb,169,,,,centennial,centennial19670920093914,2013-07-09T19:07:33.000Z,"Auckland Islands, New Zealand region",earthquake
+1967-09-19T12:45:35.000Z,-57.789,-23.613,26.5,6,mb,118,,,,centennial,centennial19670919124535,2013-07-09T19:07:33.000Z,"South Sandwich Islands region",earthquake
+1967-09-19T10:56:10.000Z,43.014,145.277,84,5.9,mb,260,,,,centennial,centennial19670919105610,2013-07-09T19:07:33.000Z,"Hokkaido, Japan region",earthquake
+1967-09-18T15:33:08.000Z,-5.974,146.621,45.2,5.7,mb,120,,,,centennial,centennial19670918153308,2013-07-09T19:07:33.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1967-09-15T10:32:44.000Z,27.298,91.955,15.1,5.8,mb,154,,,,centennial,centennial19670915103244,2013-07-09T19:07:33.000Z,"Bhutan",earthquake
+1967-09-13T18:41:17.000Z,52.7,172.483,34.1,5.6,mb,187,,,,centennial,centennial19670913184117,2013-07-09T19:07:33.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1967-09-09T10:06:45.000Z,-27.661,-63.175,579.6,6.7,ms,217,,,,centennial,centennial19670909100645,2013-07-09T19:07:33.000Z,"Santiago Del Estero, Argentina",earthquake
+1967-09-08T22:37:39.000Z,12.216,140.803,17.5,5.7,mb,143,,,,centennial,centennial19670908223739,2013-07-09T19:07:33.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1967-09-07T07:12:37.000Z,2.635,124.213,274.7,5.6,mb,201,,,,centennial,centennial19670907071237,2013-07-09T19:07:33.000Z,"Celebes Sea",earthquake
+1967-09-06T07:30:12.000Z,14.597,93.502,34.1,5.5,mb,173,,,,centennial,centennial19670906073012,2013-07-09T19:07:33.000Z,"Andaman Islands, India region",earthquake
+1967-09-04T03:52:00.000Z,-31.397,-179.333,240.5,6.4,mb,157,,,,centennial,centennial19670904035200,2013-07-09T19:07:33.000Z,"Kermadec Islands region",earthquake
+1967-09-03T21:07:32.000Z,-10.603,-79.693,36.9,6.8,ms,217,,,,centennial,centennial19670903210732,2013-07-09T19:07:33.000Z,"off the coast of central Peru",earthquake
+1967-09-01T22:42:01.000Z,44.626,147.046,121.3,5.5,mb,158,,,,centennial,centennial19670901224201,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1967-09-01T03:31:12.000Z,-5.569,147.246,185.4,5.5,mb,115,,,,centennial,centennial19670901033112,2013-07-09T19:07:33.000Z,"eastern New Guinea region, Papua New Guinea",earthquake

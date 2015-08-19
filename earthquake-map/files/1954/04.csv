@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1954-04-30T13:02:42.000Z,39.192,22.191,45,6.8,ms,0,,,,centennial,centennial19540430130242,2013-07-09T19:07:25.000Z,"Greece",earthquake
+1954-04-29T11:34:38.000Z,29.032,-112.967,15,7.1,mw,0,,,,centennial,centennial19540429113438,2013-07-09T19:07:25.000Z,"Sonora, Mexico",earthquake
+1954-04-29T10:49:27.000Z,28.9,-112.9,0,6.6,ms,0,,,,centennial,centennial19540429104927,2013-07-09T19:07:25.000Z,"Gulf of California",earthquake
+1954-04-17T20:10:37.000Z,51.7,-179.4,0,6.5,ms,0,,,,centennial,centennial19540417201037,2013-07-09T19:07:25.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

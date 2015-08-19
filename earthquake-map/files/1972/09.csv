@@ -1,0 +1,47 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-09-29T16:21:37.000Z,30.378,101.539,15,5.6,ms,113,,,,centennial,centennial19720929162137,2014-03-17T20:14:36.862Z,"western Sichuan, China",earthquake
+1972-09-29T06:37:35.000Z,-21.203,-174.404,24,5.7,ms,148,,,,centennial,centennial19720929063735,2013-07-09T19:07:40.000Z,"Tonga",earthquake
+1972-09-27T09:01:41.000Z,-16.523,-172.064,10.9,6,ms,200,,,,centennial,centennial19720927090141,2013-07-09T19:07:40.000Z,"Samoa Islands region",earthquake
+1972-09-27T00:08:33.000Z,30.283,101.572,43.5,5.5,ms,90,,,,centennial,centennial19720927000833,2013-07-09T19:07:40.000Z,"western Sichuan, China",earthquake
+1972-09-26T21:05:46.000Z,-30.935,-68.158,21.7,5.8,ms,172,,,,centennial,centennial19720926210546,2013-07-09T19:07:40.000Z,"San Juan, Argentina",earthquake
+1972-09-25T01:10:46.000Z,-6.5,131.139,9.1,5.6,mb,25,,,,centennial,centennial19720925011046,2013-07-09T19:07:40.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1972-09-24T23:59:03.000Z,-6.462,131.174,14.6,5.6,mb,64,,,,centennial,centennial19720924235903,2013-07-09T19:07:40.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1972-09-24T22:39:14.000Z,-6.159,131.142,12.5,5.5,mb,85,,,,centennial,centennial19720924223914,2013-07-09T19:07:40.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1972-09-24T20:09:35.000Z,-6.165,131.08,15,6.9,ms,220,,,,centennial,centennial19720924200935,2014-03-17T20:14:24.727Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1972-09-23T02:14:28.000Z,22.276,121.24,35.8,6.1,ms,191,,,,centennial,centennial19720923021428,2013-07-09T19:07:40.000Z,"Taiwan region",earthquake
+1972-09-22T19:57:26.000Z,22.405,121.136,11.6,6.2,ms,221,,,,centennial,centennial19720922195726,2014-03-17T20:14:11.772Z,"Taiwan region",earthquake
+1972-09-22T11:45:11.000Z,-16.512,-174.443,178,5.6,mb,141,,,,centennial,centennial19720922114511,2013-07-09T19:07:40.000Z,"Tonga",earthquake
+1972-09-19T15:08:19.000Z,-5.709,148.109,195,5.5,mb,138,,,,centennial,centennial19720919150819,2013-07-09T19:07:40.000Z,"New Britain region, Papua New Guinea",earthquake
+1972-09-19T01:36:50.000Z,19.472,-70.247,9.9,6.1,ms,212,,,,centennial,centennial19720919013650,2014-03-17T20:13:56.830Z,"Dominican Republic",earthquake
+1972-09-18T20:35:40.000Z,-9.959,119.553,48.5,5.8,mb,139,,,,centennial,centennial19720918203540,2013-07-09T19:07:40.000Z,"Sumba region, Indonesia",earthquake
+1972-09-17T14:07:12.000Z,38.242,20.266,1.7,6.3,ms,133,,,,centennial,centennial19720917140712,2014-03-17T20:13:44.188Z,"Greece",earthquake
+1972-09-16T10:51:41.000Z,2.204,128.212,162,5.5,mb,89,,,,centennial,centennial19720916105141,2013-07-09T19:07:40.000Z,"Halmahera, Indonesia",earthquake
+1972-09-16T09:14:35.000Z,15.19,-96.261,32.1,5.7,ms,216,,,,centennial,centennial19720916091435,2013-07-09T19:07:40.000Z,"offshore Oaxaca, Mexico",earthquake
+1972-09-16T03:53:26.000Z,40.325,19.698,15,5.1,,,,,,atlas,atlas19720916035326,2014-03-17T20:13:29.742Z,"Albania",earthquake
+1972-09-13T14:55:47.000Z,-20.383,168.981,53,5.5,mb,66,,,,centennial,centennial19720913145547,2013-07-09T19:07:40.000Z,"Loyalty Islands, New Caledonia",earthquake
+1972-09-13T14:33:38.000Z,-20.384,169.012,31.2,6.6,ms,172,,,,centennial,centennial19720913143338,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake
+1972-09-13T12:52:18.000Z,-20.334,168.843,28,5.6,ms,71,,,,centennial,centennial19720913125218,2013-07-09T19:07:40.000Z,"Loyalty Islands, New Caledonia",earthquake
+1972-09-13T04:13:21.000Z,37.95,22.443,80.9,5.8,mb,166,,,,centennial,centennial19720913041321,2013-07-09T19:07:40.000Z,"southern Greece",earthquake
+1972-09-11T13:35:49.000Z,-3.279,130.739,29.4,6,ms,145,,,,centennial,centennial19720911133549,2014-03-17T20:13:17.278Z,"Seram, Indonesia",earthquake
+1972-09-11T11:17:23.000Z,-3.622,149.931,19.3,5.5,mb,77,,,,centennial,centennial19720911111723,2013-07-09T19:07:40.000Z,"Bismarck Sea",earthquake
+1972-09-10T06:03:27.000Z,-20.157,168.883,35.6,6.2,ms,120,,,,centennial,centennial19720910060327,2013-07-09T19:07:40.000Z,"Loyalty Islands, New Caledonia",earthquake
+1972-09-09T02:44:02.000Z,-15.358,-175.569,15,6.1,ms,155,,,,centennial,centennial19720909024402,2013-07-09T19:07:40.000Z,"Tonga",earthquake
+1972-09-08T11:34:44.000Z,71.367,-10.559,1.1,5.9,ms,161,,,,centennial,centennial19720908113444,2013-07-09T19:07:40.000Z,"Jan Mayen Island region",earthquake
+1972-09-08T03:13:01.000Z,-5.792,130.544,91.6,5.6,mb,98,,,,centennial,centennial19720908031301,2013-07-09T19:07:40.000Z,"Banda Sea",earthquake
+1972-09-07T22:26:57.000Z,46.031,-1.062,33,5.3,,,,,,atlas,atlas19720907222657,2014-03-17T20:13:02.507Z,"France",earthquake
+1972-09-07T20:00:28.000Z,-6.378,148.437,48.9,5.6,mb,84,,,,centennial,centennial19720907200028,2013-07-09T19:07:40.000Z,"New Britain region, Papua New Guinea",earthquake
+1972-09-07T02:54:57.000Z,-2.071,68.021,19.8,5.7,ms,183,,,,centennial,centennial19720907025457,2013-07-09T19:07:40.000Z,"Carlsberg Ridge",earthquake
+1972-09-06T08:00:25.000Z,-2.47,119.1239,36,5.8,,,,,,atlas,atlas19720906080025,2014-03-17T20:12:46.184Z,"Sulawesi, Indonesia",earthquake
+1972-09-05T17:30:37.000Z,-19.893,169.151,57.9,6.1,mb,186,,,,centennial,centennial19720905173037,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake
+1972-09-05T17:18:28.000Z,1.879,128.151,127.1,5.9,mb,226,,,,centennial,centennial19720905171828,2013-07-09T19:07:40.000Z,"Halmahera, Indonesia",earthquake
+1972-09-05T05:23:05.000Z,-6.972,129.743,104.1,5.7,mb,201,,,,centennial,centennial19720905052305,2013-07-09T19:07:40.000Z,"Banda Sea",earthquake
+1972-09-04T23:32:24.000Z,-3.809,-80.626,51.1,5.5,mb,119,,,,centennial,centennial19720904233224,2013-07-09T19:07:40.000Z,"Peru-Ecuador border region",earthquake
+1972-09-04T19:58:37.000Z,-6.012,152.528,47.8,5.5,mb,70,,,,centennial,centennial19720904195837,2013-07-09T19:07:40.000Z,"New Britain region, Papua New Guinea",earthquake
+1972-09-04T18:11:14.000Z,-11.777,166.412,66.4,6.1,mb,222,,,,centennial,centennial19720904181114,2013-07-09T19:07:40.000Z,"Santa Cruz Islands",earthquake
+1972-09-04T13:42:19.000Z,35.924,73.37,27.3,5.7,mb,162,,,,centennial,centennial19720904134219,2014-03-17T20:12:29.647Z,"northwestern Kashmir",earthquake
+1972-09-03T23:03:52.000Z,35.959,73.238,24.5,5.6,mb,140,,,,centennial,centennial19720903230352,2014-03-17T20:12:13.008Z,"northwestern Kashmir",earthquake
+1972-09-03T16:48:30.000Z,35.948,73.321,33.4,6.2,ms,250,,,,centennial,centennial19720903164830,2014-03-17T20:11:56.569Z,"northwestern Kashmir",earthquake
+1972-09-03T11:40:22.000Z,-14.87,167.183,95.5,5.5,mb,51,,,,centennial,centennial19720903114022,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake
+1972-09-03T06:31:21.000Z,-5.487,151.301,25.3,6.2,ms,138,,,,centennial,centennial19720903063121,2014-03-17T20:11:41.871Z,"New Britain region, Papua New Guinea",earthquake
+1972-09-02T01:49:39.000Z,29.388,130.588,51.1,5.9,ms,298,,,,centennial,centennial19720902014939,2013-07-09T19:07:40.000Z,"Ryukyu Islands, Japan",earthquake
+1972-09-01T12:47:14.000Z,-15.005,167.399,122.5,5.8,mb,136,,,,centennial,centennial19720901124714,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake

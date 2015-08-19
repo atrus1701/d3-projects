@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1920-12-19T20:11:00.000Z,37.3,141,35,6.8,mj,0,,,,centennial,centennial19201219201100,2013-07-09T19:07:18.000Z,"near the east coast of Honshu, Japan",earthquake
+1920-12-16T12:05:54.000Z,36.601,105.317,25,8,mw,30,,,,centennial,centennial19201216120554,2013-07-09T19:07:18.000Z,"Gansu-Ningxia border region, China",earthquake
+1920-12-10T04:25:41.000Z,-39.456,-74.988,35,7.2,mw,4,,,,centennial,centennial19201210042541,2013-07-09T19:07:18.000Z,"off the coast of Los Lagos, Chile",earthquake

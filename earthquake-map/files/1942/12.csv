@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1942-12-22T04:14:37.000Z,-15.617,-175.398,35,6.6,uk,2,,,,centennial,centennial19421222041437,2013-07-09T19:07:22.000Z,"Tonga",earthquake
+1942-12-20T14:03:11.000Z,40.671,36.45,35,7.2,mw,22,,,,centennial,centennial19421220140311,2013-07-09T19:07:22.000Z,"central Turkey",earthquake
+1942-12-19T23:10:33.000Z,31.258,141.616,35,6.9,ms,20,,,,centennial,centennial19421219231033,2013-07-09T19:07:22.000Z,"Izu Islands, Japan region",earthquake

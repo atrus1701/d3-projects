@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1933-03-17T19:32:31.000Z,6.262,127.218,50.5,6.6,uk,28,,,,centennial,centennial19330317193231,2013-07-09T19:07:20.000Z,"Philippine Islands region",earthquake
+1933-03-17T15:55:30.000Z,54.857,161.601,35,7,ms,93,,,,centennial,centennial19330317155530,2013-07-09T19:07:20.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1933-03-11T19:32:48.000Z,27.102,139.977,550.8,6.6,uk,46,,,,centennial,centennial19330311193248,2013-07-09T19:07:20.000Z,"Bonin Islands, Japan region",earthquake
+1933-03-02T17:31:00.000Z,39.224,144.622,35,8.4,mw,107,,,,centennial,centennial19330302173100,2013-07-09T19:07:20.000Z,"off the east coast of Honshu, Japan",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1914-11-28T10:45:00.000Z,29,131,35,6.9,mj,0,,,,centennial,centennial19141128104500,2013-07-09T19:07:17.000Z,"southeast of the Ryukyu Islands, Japan",earthquake
+1914-11-24T11:53:30.000Z,22,143,110,7.9,mb,0,,,,centennial,centennial19141124115330,2013-07-09T19:07:17.000Z,"Volcano Islands, Japan region",earthquake
+1914-11-22T08:14:18.000Z,-39,176,100,7,mb,0,,,,centennial,centennial19141122081418,2013-07-09T19:07:17.000Z,"North Island of New Zealand",earthquake

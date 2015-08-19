@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-02-29T16:28:09.000Z,-0.136,75.279,35,7.1,ms,0,,,,centennial,centennial19440229162809,2013-07-09T19:07:22.000Z,"Maldive Islands region",earthquake
+1944-02-29T03:41:58.000Z,-14.227,-70.451,180.1,7.1,mb,0,,,,centennial,centennial19440229034158,2013-07-09T19:07:22.000Z,"southern Peru",earthquake
+1944-02-05T17:19:56.000Z,22.5,122.5,0,6.6,ms,0,,,,centennial,centennial19440205171956,2013-07-09T19:07:22.000Z,"Taiwan region",earthquake
+1944-02-01T05:15:00.000Z,41.8,142.1,0,6.6,ms,0,,,,centennial,centennial19440201051500,2013-07-09T19:07:22.000Z,"Hokkaido, Japan region",earthquake
+1944-02-01T03:22:37.000Z,40.844,33.292,35,7.2,mw,0,,,,centennial,centennial19440201032237,2013-07-09T19:07:22.000Z,"central Turkey",earthquake

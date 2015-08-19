@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-03-24T12:04:34.000Z,-10.065,160.803,35,7.1,ms,71,,,,centennial,centennial19340324120434,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1934-03-18T04:33:13.000Z,50.187,156.278,35,6.6,uk,46,,,,centennial,centennial19340318043313,2013-07-09T19:07:20.000Z,"Kuril Islands",earthquake
+1934-03-16T14:13:46.000Z,-4.891,145.504,35,6.6,uk,23,,,,centennial,centennial19340316141346,2013-07-09T19:07:20.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1934-03-13T13:11:57.000Z,-11.455,164.392,35,6.6,uk,27,,,,centennial,centennial19340313131157,2013-07-09T19:07:20.000Z,"Santa Cruz Islands region",earthquake
+1934-03-05T11:46:19.000Z,-40.643,175.738,35,7.3,mw,56,,,,centennial,centennial19340305114619,2013-07-09T19:07:20.000Z,"North Island of New Zealand",earthquake
+1934-03-01T21:45:19.000Z,-40.925,-72.877,35,7.3,mb,41,,,,centennial,centennial19340301214519,2013-07-09T19:07:20.000Z,"Los Lagos, Chile",earthquake

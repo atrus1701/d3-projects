@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-08-31T07:05:49.000Z,5.87,125.845,90,7,mb,0,,,,centennial,centennial19500831070549,2013-07-09T19:07:24.000Z,"Mindanao, Philippines",earthquake
+1950-08-17T16:15:25.000Z,-22.3,-179.2,603,6.7,uk,0,,,,centennial,centennial19500817161525,2013-07-09T19:07:24.000Z,"south of the Fiji Islands",earthquake
+1950-08-15T14:09:36.000Z,28.29,96.657,35,8.6,mw,0,,,,centennial,centennial19500815140936,2013-07-09T19:07:24.000Z,"eastern Xizang-India border region",earthquake
+1950-08-14T22:51:26.000Z,-27.431,-62.795,610.9,7.2,mb,0,,,,centennial,centennial19500814225126,2013-07-09T19:07:24.000Z,"Santiago Del Estero, Argentina",earthquake
+1950-08-07T02:45:01.000Z,6.2,125.6,128,6.6,uk,0,,,,centennial,centennial19500807024501,2013-07-09T19:07:24.000Z,"Mindanao, Philippines",earthquake
+1950-08-05T09:17:02.000Z,-48.2,164.2,0,6.6,uk,0,,,,centennial,centennial19500805091702,2013-07-09T19:07:24.000Z,"off the west coast of the South Island of New Zealand",earthquake

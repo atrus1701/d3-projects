@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1948-06-29T10:28:37.000Z,-15.5,-172.5,60,6.5,ms,0,,,,centennial,centennial19480629102837,2013-07-09T19:07:23.000Z,"Samoa Islands region",earthquake
+1948-06-28T07:13:31.000Z,36.142,136.144,15,7,mw,0,,,,centennial,centennial19480628071331,2013-07-09T19:07:23.000Z,"near the west coast of Honshu, Japan",earthquake
+1948-06-15T11:44:43.000Z,33.75,135.25,0,6.7,uk,0,,,,centennial,centennial19480615114443,2013-07-09T19:07:23.000Z,"near the south coast of western Honshu, Japan",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-03-15T10:31:24.000Z,49.126,143.142,35,6.9,ms,32,,,,centennial,centennial19240315103124,2013-07-09T19:07:19.000Z,"Sakhalin, Russia",earthquake
+1924-03-11T22:44:27.000Z,-3.503,-81.686,35,6.6,uk,6,,,,centennial,centennial19240311224427,2013-07-09T19:07:19.000Z,"near the coast of northern Peru",earthquake
+1924-03-05T04:24:59.000Z,-6.571,129.674,143.4,6.6,uk,8,,,,centennial,centennial19240305042459,2013-07-09T19:07:19.000Z,"Banda Sea",earthquake
+1924-03-04T10:07:52.000Z,9.557,-83.844,35,7,ms,30,,,,centennial,centennial19240304100752,2013-07-09T19:07:19.000Z,"Costa Rica",earthquake

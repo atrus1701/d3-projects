@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-06-30T15:44:25.000Z,44.737,147.416,139.6,7.2,mb,52,,,,centennial,centennial19240630154425,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake
+1924-06-26T01:37:32.000Z,-56.407,158.489,15,7.7,ms,39,,,,centennial,centennial19240626013732,2013-07-09T19:07:19.000Z,"Macquarie Island region",earthquake

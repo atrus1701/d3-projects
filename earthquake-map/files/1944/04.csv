@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-04-27T14:38:08.000Z,-1.168,133.146,35,7.2,mw,0,,,,centennial,centennial19440427143808,2013-07-09T19:07:22.000Z,"Papua, Indonesia",earthquake
+1944-04-26T01:54:15.000Z,-1,134,50,6.9,ms,0,,,,centennial,centennial19440426015415,2013-07-09T19:07:22.000Z,"near the north coast of Papua, Indonesia",earthquake

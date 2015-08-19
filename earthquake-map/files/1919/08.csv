@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1919-08-31T17:20:35.000Z,-15.88,167.337,35,7.3,mb,22,,,,centennial,centennial19190831172035,2013-07-09T19:07:18.000Z,"Vanuatu",earthquake
+1919-08-29T05:44:05.000Z,-2.682,127.493,35,7,ms,17,,,,centennial,centennial19190829054405,2013-07-09T19:07:18.000Z,"Ceram Sea, Indonesia",earthquake
+1919-08-18T16:55:22.000Z,-19.762,-178.108,214.6,7,mb,13,,,,centennial,centennial19190818165522,2013-07-09T19:07:18.000Z,"Fiji region",earthquake
+1919-08-03T18:08:00.000Z,36,142.5,35,6.7,mj,0,,,,centennial,centennial19190803180800,2013-07-09T19:07:18.000Z,"off the east coast of Honshu, Japan",earthquake

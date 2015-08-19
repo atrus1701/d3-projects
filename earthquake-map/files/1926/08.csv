@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-08-30T11:38:09.000Z,36.901,22.996,85.2,7.1,mb,14,,,,centennial,centennial19260830113809,2013-07-09T19:07:19.000Z,"southern Greece",earthquake
+1926-08-25T05:44:47.000Z,-23.007,171.822,35,7,ms,19,,,,centennial,centennial19260825054447,2013-07-09T19:07:19.000Z,"southeast of the Loyalty Islands",earthquake
+1926-08-12T22:17:43.000Z,-23.139,-70.552,35,6.6,uk,6,,,,centennial,centennial19260812221743,2013-07-09T19:07:19.000Z,"Antofagasta, Chile",earthquake
+1926-08-03T10:32:11.000Z,-2.217,126.379,35,6.6,uk,11,,,,centennial,centennial19260803103211,2013-07-09T19:07:19.000Z,"Ceram Sea, Indonesia",earthquake

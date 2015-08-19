@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-11-13T12:31:34.000Z,56.038,163.458,35,7.1,ms,115,,,,centennial,centennial19361113123134,2013-07-09T19:07:21.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1936-11-02T20:45:59.000Z,38.337,142.151,35,7.1,mw,86,,,,centennial,centennial19361102204559,2013-07-09T19:07:21.000Z,"near the east coast of Honshu, Japan",earthquake
+1936-11-02T14:57:52.000Z,47.28,154.258,35,6.8,ms,86,,,,centennial,centennial19361102145752,2013-07-09T19:07:21.000Z,"Kuril Islands",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1919-04-30T07:17:12.000Z,-18.42,-173.43,35,8.2,mw,23,,,,centennial,centennial19190430071712,2013-07-09T19:07:18.000Z,"Tonga",earthquake
+1919-04-17T20:53:05.000Z,14.039,-92.288,25,6.9,ms,23,,,,centennial,centennial19190417205305,2013-07-09T19:07:18.000Z,"offshore Guatemala",earthquake
+1919-04-17T11:22:09.000Z,-30.924,-177.725,35,6.9,ms,20,,,,centennial,centennial19190417112209,2013-07-09T19:07:18.000Z,"Kermadec Islands, New Zealand",earthquake

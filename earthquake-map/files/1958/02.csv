@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1958-02-22T10:50:29.000Z,50.126,-175.5,35,6.5,ms,194,,,,centennial,centennial19580222105029,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1958-02-07T23:23:36.000Z,31.573,103.923,15.4,6.6,ms,105,,,,centennial,centennial19580207232336,2013-07-09T19:07:26.000Z,"eastern Sichuan, China",earthquake
+1958-02-01T16:10:18.000Z,1.458,-79.554,35,6.7,ms,135,,,,centennial,centennial19580201161018,2013-07-09T19:07:26.000Z,"near the coast of Ecuador",earthquake

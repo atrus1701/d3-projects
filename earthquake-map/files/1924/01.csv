@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-01-21T01:52:55.000Z,56.619,145.166,35,6.8,mb,19,,,,centennial,centennial19240121015255,2013-07-09T19:07:19.000Z,"Sea of Okhotsk",earthquake
+1924-01-16T21:37:59.000Z,-22.028,-177.909,350,7,mb,13,,,,centennial,centennial19240116213759,2013-07-09T19:07:19.000Z,"south of the Fiji Islands",earthquake
+1924-01-14T20:50:00.000Z,35.5,139.2,5,7.3,mj,0,,,,centennial,centennial19240114205000,2013-07-09T19:07:19.000Z,"near the south coast of Honshu, Japan",earthquake

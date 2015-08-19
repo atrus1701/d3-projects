@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-08-12T23:49:23.000Z,8.03,126.776,35,7,ms,29,,,,centennial,centennial19340812234923,2013-07-09T19:07:20.000Z,"Mindanao, Philippines",earthquake
+1934-08-07T03:40:10.000Z,-13.055,166.851,35,6.7,uk,58,,,,centennial,centennial19340807034010,2013-07-09T19:07:20.000Z,"Vanuatu",earthquake

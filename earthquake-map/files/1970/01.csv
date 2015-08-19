@@ -1,0 +1,21 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-01-30T08:28:23.000Z,-14.607,167.368,165.6,5.6,mb,187,,,,centennial,centennial19700130082823,2013-07-09T19:07:36.000Z,"Vanuatu",earthquake
+1970-01-29T07:02:57.000Z,49.8,78.2,0,5.6,,,,,,atlas,atlas19700129070257,2014-03-17T19:05:12.476Z,"eastern Kazakhstan",earthquake
+1970-01-28T23:06:02.000Z,-20.723,-178.746,604.8,6.1,ms,203,,,,centennial,centennial19700128230602,2013-07-09T19:07:36.000Z,"Fiji region",earthquake
+1970-01-27T09:02:53.000Z,-10.904,165.999,56.4,5.5,ms,121,,,,centennial,centennial19700127090253,2013-07-09T19:07:36.000Z,"Santa Cruz Islands",earthquake
+1970-01-26T10:01:21.000Z,-12.63,166.473,41.7,6.4,ms,152,,,,centennial,centennial19700126100121,2013-07-09T19:07:36.000Z,"Santa Cruz Islands",earthquake
+1970-01-23T22:22:40.000Z,49.772,154.883,125.2,5.5,mb,149,,,,centennial,centennial19700123222240,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-01-22T03:55:31.000Z,51.276,177.168,14.1,5.5,ms,164,,,,centennial,centennial19700122035531,2013-07-09T19:07:36.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1970-01-21T17:51:38.000Z,6.976,-104.255,19.3,6.6,ms,204,,,,centennial,centennial19700121175138,2013-07-09T19:07:36.000Z,"Galapagos Triple Junction region",earthquake
+1970-01-20T17:33:06.000Z,42.521,143.024,35.6,6.4,ms,299,,,,centennial,centennial19700120173306,2014-03-17T19:04:55.557Z,"Hokkaido, Japan region",earthquake
+1970-01-20T07:19:48.000Z,-25.865,-177.173,45,7.2,mb,258,,,,centennial,centennial19700120071948,2013-07-09T19:07:36.000Z,"south of the Fiji Islands",earthquake
+1970-01-16T08:05:41.000Z,60.236,-152.646,96.9,5.5,mb,233,,,,centennial,centennial19700116080541,2013-07-09T19:07:36.000Z,"Southern Alaska",earthquake
+1970-01-10T14:16:31.000Z,6.7,126.795,68.1,5.5,mb,134,,,,centennial,centennial19700110141631,2013-07-09T19:07:36.000Z,"Mindanao, Philippines",earthquake
+1970-01-10T12:07:08.000Z,6.786,126.687,59.7,7.3,ms,238,,,,centennial,centennial19700110120708,2014-03-17T19:04:37.745Z,"Mindanao, Philippines",earthquake
+1970-01-09T23:16:23.000Z,-9.258,117.2,67.6,5.7,mb,152,,,,centennial,centennial19700109231623,2013-07-09T19:07:36.000Z,"Sumbawa region, Indonesia",earthquake
+1970-01-08T17:12:42.000Z,-34.884,178.851,207.6,7,mb,220,,,,centennial,centennial19700108171242,2013-07-09T19:07:36.000Z,"south of the Kermadec Islands",earthquake
+1970-01-08T08:32:48.000Z,-15.316,-174.806,46.9,5.5,uk,44,,,,centennial,centennial19700108083248,2013-07-09T19:07:36.000Z,"Tonga",earthquake
+1970-01-07T07:56:14.000Z,15.802,-59.781,39.8,5.9,ms,178,,,,centennial,centennial19700107075614,2013-07-09T19:07:36.000Z,"east of Guadeloupe, Leeward Islands",earthquake
+1970-01-06T05:35:54.000Z,-9.616,151.501,14.1,6.2,ms,143,,,,centennial,centennial19700106053554,2013-07-09T19:07:36.000Z,"D'Entrecasteaux Islands region",earthquake
+1970-01-05T11:49:09.000Z,23.938,102.834,8.9,5.6,ms,65,,,,centennial,centennial19700105114909,2014-03-17T19:04:18.996Z,"Yunnan, China",earthquake
+1970-01-04T17:00:40.000Z,24.148,102.462,14.1,7.2,mw,208,,,,centennial,centennial19700104170040,2014-03-20T16:48:38.908Z,"Yunnan, China",earthquake

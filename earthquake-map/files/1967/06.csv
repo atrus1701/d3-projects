@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-06-28T14:34:04.000Z,-47.087,165.744,27.1,5.6,mb,64,,,,centennial,centennial19670628143404,2013-07-09T19:07:33.000Z,"off the west coast of the South Island of New Zealand",earthquake
+1967-06-28T00:14:35.000Z,-9.547,157.645,12.1,5.5,mb,51,,,,centennial,centennial19670628001435,2013-07-09T19:07:33.000Z,"Solomon Islands",earthquake
+1967-06-25T23:18:04.000Z,12.446,141.796,31.7,5.5,mb,126,,,,centennial,centennial19670625231804,2013-07-09T19:07:33.000Z,"Mariana Islands region",earthquake
+1967-06-24T21:03:35.000Z,11.485,125.759,33.1,5.6,mb,32,,,,centennial,centennial19670624210335,2013-07-09T19:07:33.000Z,"Samar, Philippines",earthquake
+1967-06-23T05:05:08.000Z,-5.858,130.449,104.5,5.7,mb,129,,,,centennial,centennial19670623050508,2013-07-09T19:07:33.000Z,"Banda Sea",earthquake
+1967-06-21T20:09:32.000Z,-25.166,-70.482,43.2,5.8,mb,162,,,,centennial,centennial19670621200932,2013-07-09T19:07:33.000Z,"near the coast of Antofagasta, Chile",earthquake
+1967-06-21T18:13:04.000Z,64.636,-147.611,6.8,5.5,mb,150,,,,centennial,centennial19670621181304,2013-07-09T19:07:33.000Z,"Central Alaska",earthquake
+1967-06-19T17:07:46.000Z,52.705,-166.938,31,5.9,mb,247,,,,centennial,centennial19670619170746,2013-07-09T19:07:33.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1967-06-17T05:00:15.000Z,-58.398,-26.864,163.6,5.8,mb,197,,,,centennial,centennial19670617050015,2013-07-09T19:07:33.000Z,"South Sandwich Islands region",earthquake
+1967-06-14T05:06:21.000Z,-15.327,-173.432,32.7,5.8,mb,133,,,,centennial,centennial19670614050621,2013-07-09T19:07:33.000Z,"Tonga",earthquake
+1967-06-14T03:14:18.000Z,-14.947,-73.334,98.6,5.5,mb,115,,,,centennial,centennial19670614031418,2013-07-09T19:07:33.000Z,"central Peru",earthquake
+1967-06-12T23:22:46.000Z,47.585,154.23,40.3,5.6,mb,209,,,,centennial,centennial19670612232246,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1967-06-12T05:21:08.000Z,-44.848,35.466,15,5.5,mb,73,,,,centennial,centennial19670612052108,2013-07-09T19:07:33.000Z,"Prince Edward Islands region",earthquake
+1967-06-10T05:26:44.000Z,-41.432,-73.902,31.5,5.6,mb,110,,,,centennial,centennial19670610052644,2013-07-09T19:07:33.000Z,"offshore Los Lagos, Chile",earthquake
+1967-06-01T03:36:20.000Z,53.551,-165.635,59.8,5.7,mb,200,,,,centennial,centennial19670601033620,2013-07-09T19:07:33.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

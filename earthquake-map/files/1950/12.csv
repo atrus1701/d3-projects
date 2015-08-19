@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-12-14T14:15:53.000Z,16.722,-98.228,35,7.3,mw,0,,,,centennial,centennial19501214141553,2013-07-09T19:07:24.000Z,"Guerrero, Mexico",earthquake
+1950-12-14T01:52:53.000Z,-19.818,-175.812,210.2,7.5,mb,0,,,,centennial,centennial19501214015253,2013-07-09T19:07:24.000Z,"Tonga",earthquake
+1950-12-10T13:23:05.000Z,-28.715,-178.795,221.2,7.2,mb,0,,,,centennial,centennial19501210132305,2013-07-09T19:07:24.000Z,"Kermadec Islands region",earthquake
+1950-12-10T02:50:44.000Z,-14.407,-75.718,57.2,7.1,mb,0,,,,centennial,centennial19501210025044,2013-07-09T19:07:24.000Z,"near the coast of central Peru",earthquake
+1950-12-09T21:38:50.000Z,-24.139,-67.805,115,7.7,mb,0,,,,centennial,centennial19501209213850,2013-07-09T19:07:24.000Z,"Antofagasta, Chile",earthquake
+1950-12-04T16:28:05.000Z,-4.92,153.796,79.5,7.3,mb,0,,,,centennial,centennial19501204162805,2013-07-09T19:07:24.000Z,"New Ireland region, Papua New Guinea",earthquake
+1950-12-03T07:47:33.000Z,-18,167.7,0,6.5,uk,0,,,,centennial,centennial19501203074733,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-12-02T19:55:27.000Z,-18.25,167.5,60,7,uk,0,,,,centennial,centennial19501202195527,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-12-02T19:51:53.000Z,-18.242,167.29,45.7,7.2,ms,0,,,,centennial,centennial19501202195153,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-12-02T15:19:22.000Z,-8.2,-71,667,6.6,uk,0,,,,centennial,centennial19501202151922,2013-07-09T19:07:24.000Z,"Acre, Brazil",earthquake
+1950-12-01T14:50:58.000Z,14,-47.25,60,6.6,ms,0,,,,centennial,centennial19501201145058,2013-07-09T19:07:24.000Z,"northern Mid-Atlantic Ridge",earthquake

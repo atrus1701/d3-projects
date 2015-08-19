@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1961-08-31T01:57:09.000Z,-10.339,-70.997,600.7,7.3,mb,131,,,,centennial,centennial19610831015709,2013-07-09T19:07:27.000Z,"Peru-Brazil border region",earthquake
+1961-08-31T01:48:38.000Z,-10.699,-70.901,598.1,7,mb,244,,,,centennial,centennial19610831014838,2013-07-09T19:07:27.000Z,"Peru-Brazil border region",earthquake
+1961-08-19T05:33:37.000Z,36.065,136.713,35,6.9,ms,105,,,,centennial,centennial19610819053337,2013-07-09T19:07:27.000Z,"near the west coast of Honshu, Japan",earthquake
+1961-08-19T05:09:51.000Z,-10.833,-70.838,615.5,7.2,mb,238,,,,centennial,centennial19610819050951,2013-07-09T19:07:27.000Z,"Peru-Brazil border region",earthquake
+1961-08-17T21:16:31.000Z,46.331,149.551,154.1,6.5,ms,210,,,,centennial,centennial19610817211631,2013-07-09T19:07:27.000Z,"Kuril Islands",earthquake
+1961-08-11T15:51:34.000Z,42.879,145.331,35,7.2,mw,203,,,,centennial,centennial19610811155134,2013-07-09T19:07:27.000Z,"Hokkaido, Japan region",earthquake

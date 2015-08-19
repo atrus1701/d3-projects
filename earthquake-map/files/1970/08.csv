@@ -1,0 +1,25 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-08-30T17:46:10.000Z,52.349,151.616,649.5,7.3,ms,337,,,,centennial,centennial19700830174610,2013-07-09T19:07:37.000Z,"Sea of Okhotsk",earthquake
+1970-08-28T10:06:12.000Z,-33.775,-179.718,111.1,5.7,mb,162,,,,centennial,centennial19700828100612,2013-07-09T19:07:37.000Z,"south of the Kermadec Islands",earthquake
+1970-08-28T01:02:47.000Z,-4.573,153.28,59.8,6.2,uk,184,,,,centennial,centennial19700828010247,2013-07-09T19:07:37.000Z,"New Ireland region, Papua New Guinea",earthquake
+1970-08-27T19:44:43.000Z,15.362,-95.789,24.7,5.7,ms,154,,,,centennial,centennial19700827194443,2013-07-09T19:07:37.000Z,"offshore Oaxaca, Mexico",earthquake
+1970-08-27T16:22:23.000Z,-15.337,-173.049,5,5.7,ms,81,,,,centennial,centennial19700827162223,2013-07-09T19:07:37.000Z,"Tonga",earthquake
+1970-08-26T15:11:55.000Z,18.044,120.458,48.9,5.5,uk,182,,,,centennial,centennial19700826151155,2013-07-09T19:07:37.000Z,"Luzon, Philippines",earthquake
+1970-08-24T12:30:18.000Z,-56.355,-142.504,14.9,6.4,ms,181,,,,centennial,centennial19700824123018,2013-07-09T19:07:37.000Z,"Pacific-Antarctic Ridge",earthquake
+1970-08-19T02:11:12.000Z,-10.493,161.488,45,5.8,ms,65,,,,centennial,centennial19700819021112,2013-07-09T19:07:37.000Z,"Solomon Islands",earthquake
+1970-08-19T02:01:53.000Z,41.1,19.8,33,5.7,,,,,,atlas,atlas19700819020153,2014-03-17T19:18:20.495Z,"Albania",earthquake
+1970-08-18T17:52:05.000Z,60.698,-145.466,3.1,5.9,ms,215,,,,centennial,centennial19700818175205,2013-07-09T19:07:37.000Z,"Southern Alaska",earthquake
+1970-08-18T16:52:27.000Z,4.519,123.083,572.8,5.7,ms,152,,,,centennial,centennial19700818165227,2013-07-09T19:07:37.000Z,"Celebes Sea",earthquake
+1970-08-14T03:39:33.000Z,64.9,-147.8,19,5,,,,,,atlas,atlas19700814033933,2014-03-17T19:18:07.703Z,"Central Alaska",earthquake
+1970-08-13T04:22:37.000Z,-9.011,117.919,97.1,5.9,mb,220,,,,centennial,centennial19700813042237,2013-07-09T19:07:37.000Z,"Sumbawa region, Indonesia",earthquake
+1970-08-12T10:24:23.000Z,12.1,-86.5,33,5.5,,,,,,atlas,atlas19700812102423,2014-03-17T19:17:52.835Z,"Nicaragua",earthquake
+1970-08-12T09:24:17.000Z,11.937,-86.654,69.4,5.5,mb,210,,,,centennial,centennial19700812092417,2013-07-09T19:07:37.000Z,"near the coast of Nicaragua",earthquake
+1970-08-12T01:39:40.000Z,-13.923,166.607,65.4,5.8,mb,163,,,,centennial,centennial19700812013940,2013-07-09T19:07:37.000Z,"Vanuatu",earthquake
+1970-08-11T10:22:23.000Z,-14.097,166.57,39.7,7.5,ms,195,,,,centennial,centennial19700811102223,2014-03-17T19:17:38.507Z,"Vanuatu",earthquake
+1970-08-11T03:48:51.000Z,-1.161,-13.841,11.4,5.9,ms,193,,,,centennial,centennial19700811034851,2013-07-09T19:07:37.000Z,"north of Ascension Island",earthquake
+1970-08-10T15:15:23.000Z,-13.922,166.688,59.6,6.4,ms,179,,,,centennial,centennial19700810151523,2013-07-09T19:07:37.000Z,"Vanuatu",earthquake
+1970-08-08T21:04:07.000Z,1.137,126.158,21.7,5.5,ms,184,,,,centennial,centennial19700808210407,2013-07-09T19:07:37.000Z,"Molucca Sea",earthquake
+1970-08-07T07:51:13.000Z,-17.849,-178.183,558.5,6,ms,144,,,,centennial,centennial19700807075113,2013-07-09T19:07:37.000Z,"Fiji region",earthquake
+1970-08-05T05:25:59.000Z,-9.224,-78.911,71.8,5.6,mb,133,,,,centennial,centennial19700805052559,2013-07-09T19:07:37.000Z,"near the coast of northern Peru",earthquake
+1970-08-03T22:30:06.000Z,2.539,97.88,62,5.7,mb,232,,,,centennial,centennial19700803223006,2013-07-09T19:07:37.000Z,"northern Sumatra, Indonesia",earthquake
+1970-08-03T07:01:12.000Z,-7.943,158.752,61.4,5.7,mb,166,,,,centennial,centennial19700803070112,2013-07-09T19:07:37.000Z,"Solomon Islands",earthquake

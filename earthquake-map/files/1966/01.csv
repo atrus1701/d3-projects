@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-01-31T14:01:23.000Z,-24.907,-64.485,24.3,5.6,uk,77,,,,centennial,centennial19660131140123,2013-07-09T19:07:31.000Z,"Salta, Argentina",earthquake
+1966-01-28T22:38:14.000Z,51.588,156.946,114.4,5.5,mb,157,,,,centennial,centennial19660128223814,2013-07-09T19:07:31.000Z,"Kamchatka Peninsula, Russia",earthquake
+1966-01-28T05:42:15.000Z,-17.045,168.598,4.3,6.5,uk,94,,,,centennial,centennial19660128054215,2013-07-09T19:07:31.000Z,"Vanuatu",earthquake
+1966-01-22T14:27:06.000Z,55.9,-153.892,12.6,6,uk,178,,,,centennial,centennial19660122142706,2013-07-09T19:07:31.000Z,"south of Alaska",earthquake
+1966-01-16T09:11:50.000Z,52.832,172.002,15.4,5.5,mb,138,,,,centennial,centennial19660116091150,2013-07-09T19:07:31.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake

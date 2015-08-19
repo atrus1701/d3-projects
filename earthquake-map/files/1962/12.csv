@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1962-12-08T21:27:20.000Z,-25.817,-63.277,588.9,7.2,ms,156,,,,centennial,centennial19621208212720,2013-07-09T19:07:28.000Z,"Santiago Del Estero, Argentina",earthquake
+1962-12-07T14:03:40.000Z,29.221,139.404,428.1,6.6,ms,184,,,,centennial,centennial19621207140340,2013-07-09T19:07:28.000Z,"Izu Islands, Japan region",earthquake

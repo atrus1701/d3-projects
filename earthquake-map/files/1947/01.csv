@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-01-29T08:17:51.000Z,-26.66,-63.492,573.6,7,mb,0,,,,centennial,centennial19470129081751,2013-07-09T19:07:23.000Z,"Santiago Del Estero, Argentina",earthquake
+1947-01-26T10:06:52.000Z,12.085,-86.222,165.5,7,mb,0,,,,centennial,centennial19470126100652,2013-07-09T19:07:23.000Z,"Nicaragua",earthquake
+1947-01-21T20:06:42.000Z,-24.5,-70.3,0,6.8,uk,0,,,,centennial,centennial19470121200642,2013-07-09T19:07:23.000Z,"Antofagasta, Chile",earthquake
+1947-01-03T02:17:03.000Z,43.6,148.9,0,6.7,ms,0,,,,centennial,centennial19470103021703,2013-07-09T19:07:23.000Z,"east of the Kuril Islands",earthquake

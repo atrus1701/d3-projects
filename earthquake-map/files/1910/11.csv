@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-11-29T02:24:00.000Z,25,125,0,6.9,ms,0,,,,centennial,centennial19101129022400,2013-07-09T19:07:16.000Z,"southwestern Ryukyu Islands, Japan",earthquake
+1910-11-26T04:41:18.000Z,-14,167,50,7.2,mw,0,,,,centennial,centennial19101126044118,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake
+1910-11-15T14:21:48.000Z,-58,-22,60,7.2,mw,0,,,,centennial,centennial19101115142148,2013-07-09T19:07:16.000Z,"east of the South Sandwich Islands",earthquake
+1910-11-14T07:34:31.000Z,24.5,122,0,6.8,uk,0,,,,centennial,centennial19101114073431,2013-07-09T19:07:16.000Z,"Taiwan region",earthquake
+1910-11-10T12:19:54.000Z,-14,166.5,90,7.1,mb,0,,,,centennial,centennial19101110121954,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake
+1910-11-09T06:02:00.000Z,-16,166,70,7.5,mb,0,,,,centennial,centennial19101109060200,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake
+1910-11-06T20:29:00.000Z,53,-135,0,6.8,ms,0,,,,centennial,centennial19101106202900,2013-07-09T19:07:16.000Z,"west of the Queen Charlotte Islands",earthquake

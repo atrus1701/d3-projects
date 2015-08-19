@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-06-28T07:58:56.000Z,14.216,-92.844,35,7.1,ms,0,,,,centennial,centennial19440628075856,2013-07-09T19:07:22.000Z,"offshore Chiapas, Mexico",earthquake
+1944-06-25T14:17:30.000Z,-22,169.5,80,6.6,uk,0,,,,centennial,centennial19440625141730,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake
+1944-06-21T10:58:21.000Z,-21.616,169.316,35,7,ms,0,,,,centennial,centennial19440621105821,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake

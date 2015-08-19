@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-11-20T14:16:33.000Z,-10.64,161.642,35,6.6,uk,26,,,,centennial,centennial19311120141633,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-11-02T10:03:03.000Z,32.003,131.945,42.2,7.5,mw,58,,,,centennial,centennial19311102100303,2013-07-09T19:07:20.000Z,"Kyushu, Japan",earthquake
+1931-11-02T00:32:10.000Z,16.261,-96.67,35,6.6,uk,30,,,,centennial,centennial19311102003210,2013-07-09T19:07:20.000Z,"Oaxaca, Mexico",earthquake

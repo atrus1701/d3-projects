@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1911-08-27T10:59:18.000Z,17,-96,100,6.6,uk,0,,,,centennial,centennial19110827105918,2013-07-09T19:07:17.000Z,"Oaxaca, Mexico",earthquake
+1911-08-21T16:28:55.000Z,-21,-176,300,7.2,mb,0,,,,centennial,centennial19110821162855,2013-07-09T19:07:17.000Z,"Tonga",earthquake
+1911-08-16T22:41:18.000Z,7,137,0,7.7,mw,0,,,,centennial,centennial19110816224118,2013-07-09T19:07:17.000Z,"State of Yap, Federated States of Micronesia",earthquake

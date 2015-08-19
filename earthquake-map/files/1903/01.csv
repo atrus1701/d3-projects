@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1903-01-17T16:05:00.000Z,50,-170,0,7,ms,0,,,,centennial,centennial19030117160500,2013-07-09T19:07:15.000Z,"south of the Aleutian Islands",earthquake
+1903-01-14T01:47:00.000Z,15,-98,0,7.4,mw,0,,,,centennial,centennial19030114014700,2013-07-09T19:07:15.000Z,"off the coast of Oaxaca, Mexico",earthquake
+1903-01-04T05:07:00.000Z,-20,-175,400,7.8,uk,0,,,,centennial,centennial19030104050700,2013-07-09T19:07:15.000Z,"Tonga",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-12-25T01:51:37.000Z,52.3,159.6,64,6.7,ms,0,,,,centennial,centennial19531225015137,2013-07-09T19:07:25.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1953-12-12T17:31:28.000Z,-3.619,-80.857,20,7.5,mw,0,,,,centennial,centennial19531212173128,2013-07-09T19:07:25.000Z,"Peru-Ecuador border region",earthquake
+1953-12-07T02:05:39.000Z,-22.54,-68.832,100,7.2,mb,0,,,,centennial,centennial19531207020539,2013-07-09T19:07:25.000Z,"Antofagasta, Chile",earthquake
+1953-12-01T05:08:50.000Z,29.1,128.399,223,6.6,ms,0,,,,centennial,centennial19531201050850,2013-07-09T19:07:25.000Z,"northwest of the Ryukyu Islands, Japan",earthquake

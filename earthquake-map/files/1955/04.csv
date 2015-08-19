@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-04-22T16:27:38.000Z,46,150.5,128,6.5,ms,0,,,,centennial,centennial19550422162738,2013-07-09T19:07:25.000Z,"Kuril Islands",earthquake
+1955-04-19T20:24:06.000Z,-29.9,-71.6,0,6.9,ms,0,,,,centennial,centennial19550419202406,2013-07-09T19:07:25.000Z,"offshore Coquimbo, Chile",earthquake
+1955-04-17T18:35:31.000Z,52.2,159.7,64,6.6,ms,0,,,,centennial,centennial19550417183531,2013-07-09T19:07:25.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1955-04-15T04:13:25.000Z,39.9,74.7,0,6.7,ms,0,,,,centennial,centennial19550415041325,2013-07-09T19:07:25.000Z,"southern Xinjiang, China",earthquake
+1955-04-15T03:40:58.000Z,39.833,74.66,35,7.1,mw,0,,,,centennial,centennial19550415034058,2013-07-09T19:07:25.000Z,"southern Xinjiang, China",earthquake
+1955-04-14T01:29:03.000Z,30.01,101.706,16.3,7.5,mw,0,,,,centennial,centennial19550414012903,2013-07-09T19:07:25.000Z,"western Sichuan, China",earthquake
+1955-04-05T15:09:19.000Z,25.2,-109.6,0,6.6,ms,0,,,,centennial,centennial19550405150919,2013-07-09T19:07:25.000Z,"Gulf of California",earthquake

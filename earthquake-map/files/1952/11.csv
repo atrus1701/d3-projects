@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1952-11-29T23:46:27.000Z,56.3,-153.8,0,6.6,uk,0,,,,centennial,centennial19521129234627,2013-07-09T19:07:25.000Z,"Kodiak Island region, Alaska",earthquake
+1952-11-29T08:22:42.000Z,52.6,160.3,33,6.7,uk,0,,,,centennial,centennial19521129082242,2013-07-09T19:07:25.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1952-11-06T19:47:28.000Z,-4.545,144.816,49.3,7.1,mw,0,,,,centennial,centennial19521106194728,2013-07-09T19:07:25.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1952-11-04T16:58:27.000Z,52.756,160.056,22.1,9,mw,0,,,,centennial,centennial19521104165827,2013-07-09T19:07:25.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake

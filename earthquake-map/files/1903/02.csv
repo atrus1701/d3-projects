@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1903-02-27T00:43:00.000Z,-8,106,0,7.3,mw,0,,,,centennial,centennial19030227004300,2013-07-09T19:07:15.000Z,"Java, Indonesia",earthquake
+1903-02-05T18:26:00.000Z,52,175,0,6.8,ms,0,,,,centennial,centennial19030205182600,2013-07-09T19:07:15.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1903-02-03T12:14:00.000Z,34,137,100,6.5,mj,0,,,,centennial,centennial19030203121400,2013-07-09T19:07:15.000Z,"near the south coast of Honshu, Japan",earthquake
+1903-02-01T09:34:00.000Z,48,98,0,7.1,mw,0,,,,centennial,centennial19030201093400,2013-07-09T19:07:15.000Z,"western Mongolia",earthquake

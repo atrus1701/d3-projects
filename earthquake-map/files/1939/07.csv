@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1939-07-20T02:23:08.000Z,-21.206,-178.774,639.6,6.8,mb,62,,,,centennial,centennial19390720022308,2013-07-09T19:07:21.000Z,"Fiji region",earthquake
+1939-07-12T22:58:22.000Z,-3.031,140.276,35,6.6,uk,32,,,,centennial,centennial19390712225822,2013-07-09T19:07:21.000Z,"Papua, Indonesia",earthquake
+1939-07-05T22:41:08.000Z,-21.927,-179.938,642.6,6.7,uk,63,,,,centennial,centennial19390705224108,2013-07-09T19:07:21.000Z,"Fiji region",earthquake
+1939-07-04T18:26:14.000Z,-21.086,-65.39,298.9,6.6,uk,41,,,,centennial,centennial19390704182614,2013-07-09T19:07:21.000Z,"Chuquisaca, Bolivia",earthquake

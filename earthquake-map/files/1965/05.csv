@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-05-31T11:38:32.000Z,-7.556,128.605,65.1,5.8,mb,102,,,,centennial,centennial19650531113832,2013-07-09T19:07:30.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1965-05-26T19:44:13.000Z,-56.153,-27.693,131.7,5.8,mb,107,,,,centennial,centennial19650526194413,2013-07-09T19:07:30.000Z,"South Sandwich Islands region",earthquake
+1965-05-24T23:21:16.000Z,13.085,124.488,62.7,5.7,mb,170,,,,centennial,centennial19650524232116,2013-07-09T19:07:30.000Z,"Catanduanes, Philippines",earthquake
+1965-05-23T23:46:15.000Z,52.16,175.165,27.8,6,uk,197,,,,centennial,centennial19650523234615,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-05-22T10:31:39.000Z,-21.111,-178.537,557.2,6,ms,128,,,,centennial,centennial19650522103139,2013-07-09T19:07:30.000Z,"Fiji region",earthquake
+1965-05-22T03:05:48.000Z,1.294,126.236,55.1,5.5,mb,85,,,,centennial,centennial19650522030548,2013-07-09T19:07:30.000Z,"Molucca Sea",earthquake
+1965-05-20T00:40:12.000Z,-14.643,167.504,9.7,7.6,mw,154,,,,centennial,centennial19650520004012,2013-07-09T19:07:30.000Z,"Vanuatu",earthquake
+1965-05-19T06:03:59.000Z,-6.601,105.389,64.8,5.6,mb,53,,,,centennial,centennial19650519060359,2013-07-09T19:07:30.000Z,"Sunda Strait, Indonesia",earthquake
+1965-05-19T03:01:00.000Z,-9.055,158.999,56.3,5.5,mb,102,,,,centennial,centennial19650519030100,2013-07-09T19:07:30.000Z,"Solomon Islands",earthquake
+1965-05-17T17:19:33.000Z,22.438,121.277,69.2,6.1,mb,197,,,,centennial,centennial19650517171933,2013-07-09T19:07:30.000Z,"Taiwan region",earthquake
+1965-05-16T11:35:53.000Z,5.244,125.53,90,5.6,mb,119,,,,centennial,centennial19650516113553,2013-07-09T19:07:30.000Z,"Mindanao, Philippines",earthquake
+1965-05-12T10:33:47.000Z,-6.21,130.318,153.7,5.8,mb,125,,,,centennial,centennial19650512103347,2013-07-09T19:07:30.000Z,"Banda Sea",earthquake
+1965-05-12T08:06:00.000Z,-3.586,137.95,93.3,5.6,mb,49,,,,centennial,centennial19650512080600,2013-07-09T19:07:30.000Z,"Papua, Indonesia",earthquake
+1965-05-11T17:37:39.000Z,61.296,-149.653,51,5.8,uk,111,,,,centennial,centennial19650511173739,2013-07-09T19:07:30.000Z,"Southern Alaska",earthquake
+1965-05-07T13:02:28.000Z,-56.004,-27.651,129.7,5.8,mb,46,,,,centennial,centennial19650507130228,2013-07-09T19:07:30.000Z,"South Sandwich Islands region",earthquake
+1965-05-04T08:34:43.000Z,41.749,79.344,15.2,5.5,mb,87,,,,centennial,centennial19650504083443,2013-07-09T19:07:30.000Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1965-05-03T01:09:33.000Z,-32.46,-70.317,86.1,5.6,mb,66,,,,centennial,centennial19650503010933,2013-07-09T19:07:30.000Z,"Valparaiso, Chile",earthquake

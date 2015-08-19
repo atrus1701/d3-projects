@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1919-05-06T19:40:38.000Z,-5.477,152.629,232.8,7.6,mb,11,,,,centennial,centennial19190506194038,2013-07-09T19:07:18.000Z,"New Britain region, Papua New Guinea",earthquake
+1919-05-03T00:52:06.000Z,41.007,145.233,35,7.3,mw,34,,,,centennial,centennial19190503005206,2013-07-09T19:07:18.000Z,"Hokkaido, Japan region",earthquake

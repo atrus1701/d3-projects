@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-07-17T21:58:23.000Z,54.4,-168.3,0,6.7,uk,0,,,,centennial,centennial19550717215823,2013-07-09T19:07:25.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1955-07-16T07:07:10.000Z,37.6,27.2,0,6.6,ms,0,,,,centennial,centennial19550716070710,2013-07-09T19:07:25.000Z,"western Turkey",earthquake
+1955-07-06T01:54:24.000Z,51.4,157.5,64,6.6,uk,0,,,,centennial,centennial19550706015424,2013-07-09T19:07:25.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake

@@ -1,0 +1,20 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-01-28T14:09:16.000Z,36.447,70.938,194.4,6.4,mb,157,,,,centennial,centennial19640128140916,2013-07-09T19:07:28.000Z,"Hindu Kush region, Afghanistan",earthquake
+1964-01-26T09:09:35.000Z,-16.319,-71.535,117.9,6.1,mb,155,,,,centennial,centennial19640126090935,2013-07-09T19:07:28.000Z,"southern Peru",earthquake
+1964-01-22T23:59:44.000Z,-13.599,165.989,30.8,6.2,mb,101,,,,centennial,centennial19640122235944,2013-07-09T19:07:28.000Z,"Vanuatu",earthquake
+1964-01-22T15:58:45.000Z,22.287,93.533,58.4,6,mb,118,,,,centennial,centennial19640122155845,2013-07-09T19:07:28.000Z,"Myanmar-India border region",earthquake
+1964-01-20T17:08:37.000Z,-20.751,169.988,141,6.9,mb,120,,,,centennial,centennial19640120170837,2013-07-09T19:07:28.000Z,"Vanuatu",earthquake
+1964-01-19T09:13:55.000Z,26.761,53.942,38,5.6,mb,71,,,,centennial,centennial19640119091355,2013-07-09T19:07:28.000Z,"southern Iran",earthquake
+1964-01-18T12:04:39.000Z,23.149,120.655,20.3,6.4,mb,154,,,,centennial,centennial19640118120439,2013-07-09T19:07:28.000Z,"Taiwan",earthquake
+1964-01-17T02:54:26.000Z,-21.601,169.885,15.6,5.7,mb,25,,,,centennial,centennial19640117025426,2013-07-09T19:07:28.000Z,"southeast of the Loyalty Islands",earthquake
+1964-01-15T21:36:07.000Z,29.126,140.936,73.9,6.2,mb,174,,,,centennial,centennial19640115213607,2013-07-09T19:07:28.000Z,"Izu Islands, Japan region",earthquake
+1964-01-14T15:38:14.000Z,-5.245,150.844,163.4,5.7,mb,80,,,,centennial,centennial19640114153814,2013-07-09T19:07:28.000Z,"New Britain region, Papua New Guinea",earthquake
+1964-01-12T06:00:15.000Z,53.127,-166.369,42,5.6,mb,163,,,,centennial,centennial19640112060015,2013-07-09T19:07:28.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1964-01-10T04:50:56.000Z,41.899,142.758,50.1,5.8,mb,150,,,,centennial,centennial19640110045056,2013-07-09T19:07:28.000Z,"Hokkaido, Japan region",earthquake
+1964-01-09T18:31:54.000Z,45.635,150.915,36.4,5.8,mb,177,,,,centennial,centennial19640109183154,2013-07-09T19:07:28.000Z,"Kuril Islands",earthquake
+1964-01-08T22:30:48.000Z,-3.738,119.417,60.1,5.5,mb,82,,,,centennial,centennial19640108223048,2013-07-09T19:07:28.000Z,"Sulawesi, Indonesia",earthquake
+1964-01-06T23:45:26.000Z,50.85,157.276,47.5,5.7,mb,146,,,,centennial,centennial19640106234526,2013-07-09T19:07:28.000Z,"Kuril Islands",earthquake
+1964-01-06T05:54:43.000Z,27.243,127.383,100.1,5.6,mb,111,,,,centennial,centennial19640106055443,2013-07-09T19:07:28.000Z,"Ryukyu Islands, Japan",earthquake
+1964-01-05T23:46:07.000Z,-52.174,28.234,7.5,6.8,mb,68,,,,centennial,centennial19640105234607,2013-07-09T19:07:28.000Z,"south of Africa",earthquake
+1964-01-01T17:26:41.000Z,45.375,151.79,20.6,5.6,mb,137,,,,centennial,centennial19640101172641,2013-07-09T19:07:28.000Z,"Kuril Islands",earthquake
+1964-01-01T12:21:58.000Z,-6.809,129.802,111.7,5.7,mb,60,,,,centennial,centennial19640101122158,2013-07-09T19:07:28.000Z,"Banda Sea",earthquake

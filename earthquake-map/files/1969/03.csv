@@ -1,0 +1,31 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-03-31T19:25:28.000Z,38.438,134.488,398.7,6.7,ms,243,,,,centennial,centennial19690331192528,2013-07-09T19:07:35.000Z,"Sea of Japan",earthquake
+1969-03-31T07:15:51.000Z,27.512,33.933,3.4,6.8,ms,180,,,,centennial,centennial19690331071551,2013-07-09T19:07:35.000Z,"Egypt",earthquake
+1969-03-29T13:48:58.000Z,10.368,56.855,24.2,5.6,mb,163,,,,centennial,centennial19690329134858,2013-07-09T19:07:35.000Z,"Carlsberg Ridge",earthquake
+1969-03-29T11:04:49.000Z,11.925,41.358,5.1,5.5,mb,130,,,,centennial,centennial19690329110449,2013-07-09T19:07:35.000Z,"Ethiopia",earthquake
+1969-03-29T09:15:52.000Z,11.938,41.219,11.8,6.3,ms,174,,,,centennial,centennial19690329091552,2013-07-09T19:07:35.000Z,"Ethiopia",earthquake
+1969-03-28T01:48:31.000Z,38.537,28.466,9.5,6.4,ms,157,,,,centennial,centennial19690328014831,2013-07-09T19:07:35.000Z,"western Turkey",earthquake
+1969-03-27T12:41:42.000Z,4.698,127.627,74,5.8,mb,188,,,,centennial,centennial19690327124142,2013-07-09T19:07:35.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1969-03-27T04:46:29.000Z,3.877,128.526,43.1,5.7,ms,86,,,,centennial,centennial19690327044629,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-03-25T13:21:36.000Z,39.201,28.468,48.9,5.5,ms,114,,,,centennial,centennial19690325132136,2013-07-09T19:07:35.000Z,"western Turkey",earthquake
+1969-03-23T21:08:44.000Z,39.125,28.497,12.3,5.6,mb,134,,,,centennial,centennial19690323210844,2013-07-09T19:07:35.000Z,"western Turkey",earthquake
+1969-03-21T04:56:17.000Z,31.176,-114.375,6.2,5.5,ms,91,,,,centennial,centennial19690321045617,2013-07-09T19:07:35.000Z,"Baja California-Sonora border region, Mexico",earthquake
+1969-03-21T03:05:11.000Z,40.447,143.695,16.8,5.5,mb,110,,,,centennial,centennial19690321030511,2013-07-09T19:07:35.000Z,"off the east coast of Honshu, Japan",earthquake
+1969-03-20T16:18:56.000Z,8.741,127.281,20.8,6.1,ms,196,,,,centennial,centennial19690320161856,2013-07-09T19:07:35.000Z,"Philippine Islands region",earthquake
+1969-03-20T08:17:44.000Z,31.232,-114.249,24.5,5.7,ms,90,,,,centennial,centennial19690320081744,2013-07-09T19:07:35.000Z,"Baja California-Sonora border region, Mexico",earthquake
+1969-03-19T13:59:27.000Z,28.789,128.323,167.1,5.6,mb,190,,,,centennial,centennial19690319135927,2013-07-09T19:07:35.000Z,"Ryukyu Islands, Japan",earthquake
+1969-03-18T16:16:37.000Z,44.159,150.953,16,5.6,mb,169,,,,centennial,centennial19690318161637,2013-07-09T19:07:35.000Z,"east of the Kuril Islands",earthquake
+1969-03-18T03:32:52.000Z,-21.39,171.114,36.5,5.8,ms,52,,,,centennial,centennial19690318033252,2013-07-09T19:07:35.000Z,"southeast of the Loyalty Islands",earthquake
+1969-03-18T03:25:37.000Z,-21.301,170.803,27.7,5.8,uk,41,,,,centennial,centennial19690318032537,2013-07-09T19:07:35.000Z,"southeast of the Loyalty Islands",earthquake
+1969-03-16T15:54:19.000Z,38.56,142.722,44.9,5.5,ms,198,,,,centennial,centennial19690316155419,2013-07-09T19:07:35.000Z,"near the east coast of Honshu, Japan",earthquake
+1969-03-15T11:44:42.000Z,-2.825,126.591,20.1,5.6,mb,127,,,,centennial,centennial19690315114442,2013-07-09T19:07:35.000Z,"Ceram Sea, Indonesia",earthquake
+1969-03-14T08:47:17.000Z,12.741,-86.808,180.6,5.5,mb,161,,,,centennial,centennial19690314084717,2013-07-09T19:07:35.000Z,"Nicaragua",earthquake
+1969-03-10T08:15:09.000Z,12.329,-87.418,59.9,6,uk,84,,,,centennial,centennial19690310081509,2013-07-09T19:07:35.000Z,"near the coast of Nicaragua",earthquake
+1969-03-10T06:54:18.000Z,-5.612,147.304,198.9,5.7,mb,181,,,,centennial,centennial19690310065418,2013-07-09T19:07:35.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1969-03-09T14:39:04.000Z,-4.079,135.583,23.3,6,ms,82,,,,centennial,centennial19690309143904,2013-07-09T19:07:35.000Z,"near the south coast of Papua, Indonesia",earthquake
+1969-03-09T13:48:03.000Z,-4.007,135.631,20.1,6.6,ms,96,,,,centennial,centennial19690309134803,2013-07-09T19:07:35.000Z,"near the south coast of Papua, Indonesia",earthquake
+1969-03-08T10:20:10.000Z,41.337,139.672,170.5,5.5,mb,185,,,,centennial,centennial19690308102010,2013-07-09T19:07:35.000Z,"Hokkaido, Japan region",earthquake
+1969-03-05T19:33:24.000Z,36.381,70.721,205.9,5.7,mb,212,,,,centennial,centennial19690305193324,2013-07-09T19:07:35.000Z,"Hindu Kush region, Afghanistan",earthquake
+1969-03-05T16:11:14.000Z,3.944,128.181,59.1,5.6,ms,88,,,,centennial,centennial19690305161114,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-03-05T13:52:06.000Z,4.085,128.064,43.9,5.8,ms,147,,,,centennial,centennial19690305135206,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-03-03T16:30:13.000Z,-16.712,-172.607,14.3,5.5,ms,50,,,,centennial,centennial19690303163013,2013-07-09T19:07:35.000Z,"Samoa Islands region",earthquake

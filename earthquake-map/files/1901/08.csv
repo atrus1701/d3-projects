@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1901-08-11T14:32:00.000Z,-23,178,0,6.8,ms,0,,,,centennial,centennial19010811143200,2013-07-09T19:07:15.000Z,"south of the Fiji Islands",earthquake
+1901-08-10T10:27:00.000Z,-5,155,0,6.9,ms,0,,,,centennial,centennial19010810102700,2013-07-09T19:07:15.000Z,"Bougainville region, Papua New Guinea",earthquake
+1901-08-09T18:33:00.000Z,40.6,142.3,35,7.5,mw,0,,,,centennial,centennial19010809183300,2013-07-09T19:07:15.000Z,"near the east coast of Honshu, Japan",earthquake
+1901-08-09T13:01:00.000Z,-22,170,0,7.9,mw,0,,,,centennial,centennial19010809130100,2013-07-09T19:07:15.000Z,"southeast of the Loyalty Islands",earthquake
+1901-08-09T09:23:00.000Z,40.5,142.5,35,7.2,mw,0,,,,centennial,centennial19010809092300,2013-07-09T19:07:15.000Z,"near the east coast of Honshu, Japan",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1927-07-12T21:07:54.000Z,44.367,145.722,35,6.6,uk,39,,,,centennial,centennial19270712210754,2013-07-09T19:07:19.000Z,"Hokkaido, Japan region",earthquake
+1927-07-01T08:18:58.000Z,36.381,22.723,35,7,mb,10,,,,centennial,centennial19270701081858,2013-07-09T19:07:19.000Z,"southern Greece",earthquake

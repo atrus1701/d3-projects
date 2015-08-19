@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1925-05-23T02:09:50.000Z,35.6,134.8,5,6.6,uk,19,,,,centennial,centennial19250523020950,2013-07-09T19:07:19.000Z,"western Honshu, Japan",earthquake
+1925-05-19T05:23:47.000Z,-34.208,57.88,15,6.6,uk,42,,,,centennial,centennial19250519052347,2013-07-09T19:07:19.000Z,"South Indian Ocean",earthquake
+1925-05-15T11:57:05.000Z,-25.5,-70.546,35,7.1,ms,22,,,,centennial,centennial19250515115705,2013-07-09T19:07:19.000Z,"Antofagasta, Chile",earthquake
+1925-05-05T10:06:15.000Z,9.717,123.138,35,6.6,uk,15,,,,centennial,centennial19250505100615,2013-07-09T19:07:19.000Z,"Negros - Cebu region, Philippines",earthquake
+1925-05-03T22:59:06.000Z,-34.107,57.95,15,7,ms,35,,,,centennial,centennial19250503225906,2013-07-09T19:07:19.000Z,"South Indian Ocean",earthquake
+1925-05-03T17:21:47.000Z,1.216,126.576,35,7.1,ms,16,,,,centennial,centennial19250503172147,2013-07-09T19:07:19.000Z,"Molucca Sea",earthquake

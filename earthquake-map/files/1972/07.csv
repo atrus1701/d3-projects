@@ -1,0 +1,21 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-07-31T15:56:11.000Z,30.72,141.647,43.3,5.6,ms,177,,,,centennial,centennial19720731155611,2013-07-09T19:07:40.000Z,"Izu Islands, Japan region",earthquake
+1972-07-31T03:28:32.000Z,30.679,141.705,39.3,5.8,mb,209,,,,centennial,centennial19720731032832,2013-07-09T19:07:40.000Z,"Izu Islands, Japan region",earthquake
+1972-07-30T23:17:24.000Z,-5.775,130.53,85.6,5.6,mb,150,,,,centennial,centennial19720730231724,2013-07-09T19:07:40.000Z,"Banda Sea",earthquake
+1972-07-30T21:45:13.000Z,56.695,-136.096,7.7,7.6,mw,251,,,,centennial,centennial19720730214513,2013-07-09T19:07:40.000Z,"off the coast of Southeastern Alaska",earthquake
+1972-07-30T20:13:56.000Z,-4.671,152.261,3.3,6,ms,136,,,,centennial,centennial19720730201356,2014-03-17T20:09:05.399Z,"New Britain region, Papua New Guinea",earthquake
+1972-07-30T17:40:21.000Z,-4.564,152.216,15.3,5.9,ms,107,,,,centennial,centennial19720730174021,2014-03-17T20:08:52.281Z,"New Britain region, Papua New Guinea",earthquake
+1972-07-29T05:04:21.000Z,0.081,123.46,138.7,5.7,mb,223,,,,centennial,centennial19720729050421,2013-07-09T19:07:40.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1972-07-23T19:13:06.000Z,50.107,-129.439,6.2,6.4,ms,214,,,,centennial,centennial19720723191306,2013-07-09T19:07:40.000Z,"Vancouver Island, Canada region",earthquake
+1972-07-22T16:41:04.000Z,31.432,91.491,33,5.8,,,,,,atlas,atlas19720722164104,2014-03-17T20:08:36.011Z,"eastern Xizang",earthquake
+1972-07-22T03:16:55.000Z,-60.72,-19.363,15,5.9,ms,82,,,,centennial,centennial19720722031655,2013-07-09T19:07:40.000Z,"east of the South Sandwich Islands",earthquake
+1972-07-16T17:09:07.000Z,-3.104,100.951,34.2,5.8,ms,204,,,,centennial,centennial19720716170907,2013-07-09T19:07:40.000Z,"Kepulauan Mentawai region, Indonesia",earthquake
+1972-07-16T04:21:41.000Z,-35.008,179.988,60.5,5.6,mb,161,,,,centennial,centennial19720716042141,2013-07-09T19:07:40.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1972-07-08T12:10:52.000Z,16.212,-96.96,26.2,5.6,mb,141,,,,centennial,centennial19720708121052,2014-03-17T20:08:21.009Z,"Oaxaca, Mexico",earthquake
+1972-07-08T06:49:23.000Z,36.392,71.42,107.7,5.6,mb,168,,,,centennial,centennial19720708064923,2013-07-09T19:07:40.000Z,"Hindu Kush region, Afghanistan",earthquake
+1972-07-07T12:36:14.000Z,11.876,126.279,19.6,5.5,mb,138,,,,centennial,centennial19720707123614,2013-07-09T19:07:40.000Z,"Philippine Islands region",earthquake
+1972-07-07T12:04:16.000Z,20.466,98.09,48.8,5.5,ms,120,,,,centennial,centennial19720707120416,2013-07-09T19:07:40.000Z,"Myanmar",earthquake
+1972-07-05T10:16:39.000Z,49.409,-127.387,26,5.7,ms,154,,,,centennial,centennial19720705101639,2013-07-09T19:07:40.000Z,"Vancouver Island, Canada region",earthquake
+1972-07-04T10:16:13.000Z,9.437,122.496,50.9,5.7,mb,215,,,,centennial,centennial19720704101613,2013-07-09T19:07:40.000Z,"Negros, Philippines",earthquake
+1972-07-03T05:31:29.000Z,5.803,125.904,104.3,5.5,mb,115,,,,centennial,centennial19720703053129,2013-07-09T19:07:40.000Z,"Mindanao, Philippines",earthquake
+1972-07-03T01:19:29.000Z,18.716,145.159,634.3,5.5,mb,188,,,,centennial,centennial19720703011929,2013-07-09T19:07:40.000Z,"Pagan region, Northern Mariana Islands",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-05-31T19:58:39.000Z,19.4,-70.4,33,6.7,ms,0,,,,centennial,centennial19530531195839,2013-07-09T19:07:25.000Z,"Dominican Republic",earthquake
+1953-05-20T10:43:50.000Z,0.4,123.7,96,6.5,ms,0,,,,centennial,centennial19530520104350,2013-07-09T19:07:25.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1953-05-06T17:16:45.000Z,-36.901,-72.716,35,7.5,mb,0,,,,centennial,centennial19530506171645,2013-07-09T19:07:25.000Z,"Bio-Bio, Chile",earthquake

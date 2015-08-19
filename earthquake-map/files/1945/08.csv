@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-08-29T10:22:43.000Z,-13.925,167.606,42.8,7.1,ms,0,,,,centennial,centennial19450829102243,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1945-08-28T19:19:00.000Z,31,140,100,6.7,ms,0,,,,centennial,centennial19450828191900,2013-07-09T19:07:23.000Z,"Izu Islands, Japan region",earthquake
+1945-08-21T16:29:37.000Z,-10.5,-75,120,6.6,uk,0,,,,centennial,centennial19450821162937,2013-07-09T19:07:23.000Z,"central Peru",earthquake
+1945-08-14T12:10:53.000Z,27,129.5,60,6.6,uk,0,,,,centennial,centennial19450814121053,2013-07-09T19:07:23.000Z,"Ryukyu Islands, Japan",earthquake
+1945-08-08T09:53:46.000Z,11.625,92.154,35,6.6,uk,0,,,,centennial,centennial19450808095346,2013-07-09T19:07:23.000Z,"Andaman Islands, India region",earthquake

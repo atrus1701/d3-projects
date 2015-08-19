@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-02-26T22:14:27.000Z,26,143.5,50,6.5,ms,0,,,,centennial,centennial19450226221427,2013-07-09T19:07:23.000Z,"Volcano Islands, Japan region",earthquake
+1945-02-18T10:08:07.000Z,42,143,50,6.7,ms,0,,,,centennial,centennial19450218100807,2013-07-09T19:07:23.000Z,"Hokkaido, Japan region",earthquake
+1945-02-10T04:57:57.000Z,41.074,142.261,55.2,7.1,ms,0,,,,centennial,centennial19450210045757,2013-07-09T19:07:23.000Z,"Hokkaido, Japan region",earthquake
+1945-02-01T12:13:42.000Z,-21.545,169.051,20,7.2,mb,0,,,,centennial,centennial19450201121342,2013-07-09T19:07:23.000Z,"southeast of the Loyalty Islands",earthquake
+1945-02-01T10:35:53.000Z,-21.598,169.762,20,7,mb,0,,,,centennial,centennial19450201103553,2013-07-09T19:07:23.000Z,"southeast of the Loyalty Islands",earthquake

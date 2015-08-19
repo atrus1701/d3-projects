@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-07-27T13:32:31.000Z,14.06,-91.429,61.7,6.6,uk,64,,,,centennial,centennial19400727133231,2013-07-09T19:07:22.000Z,"Guatemala",earthquake
+1940-07-14T05:52:54.000Z,52.117,178.159,35,7.4,mb,105,,,,centennial,centennial19400714055254,2013-07-09T19:07:22.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1940-07-10T05:49:58.000Z,44.386,130.777,577.6,7.3,mb,94,,,,centennial,centennial19400710054958,2013-07-09T19:07:21.000Z,"Heilongjiang, China",earthquake

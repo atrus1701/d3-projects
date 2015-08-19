@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-09-24T16:30:16.000Z,-10.696,-78.223,64.2,6.9,mb,141,,,,centennial,centennial19630924163016,2013-07-09T19:07:28.000Z,"near the coast of central Peru",earthquake
+1963-09-17T19:20:11.000Z,-10.283,165.414,29.5,7.5,mw,224,,,,centennial,centennial19630917192011,2013-07-09T19:07:28.000Z,"Santa Cruz Islands",earthquake
+1963-09-17T05:54:35.000Z,-10.688,-78.143,64.6,6.8,uk,105,,,,centennial,centennial19630917055435,2013-07-09T19:07:28.000Z,"near the coast of central Peru",earthquake
+1963-09-15T00:46:54.000Z,-10.473,165.764,35,7.5,mw,226,,,,centennial,centennial19630915004654,2013-07-09T19:07:28.000Z,"Santa Cruz Islands",earthquake
+1963-09-04T13:32:09.000Z,71.234,-72.998,1.2,6.5,uk,173,,,,centennial,centennial19630904133209,2013-07-09T19:07:28.000Z,"Baffin Island region, Nunavut, Canada",earthquake

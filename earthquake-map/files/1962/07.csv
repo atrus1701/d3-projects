@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1962-07-30T20:18:50.000Z,5.223,-76.405,35,6.7,ms,178,,,,centennial,centennial19620730201850,2013-07-09T19:07:28.000Z,"Colombia",earthquake
+1962-07-30T17:16:51.000Z,-3.307,143.94,50.4,6.8,ms,231,,,,centennial,centennial19620730171651,2013-07-09T19:07:28.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1962-07-26T08:14:45.000Z,7.494,-82.78,23.6,7.2,mw,183,,,,centennial,centennial19620726081445,2013-07-09T19:07:27.000Z,"south of Panama",earthquake
+1962-07-17T05:32:09.000Z,-43.06,-75.491,18.3,6.8,uk,117,,,,centennial,centennial19620717053209,2013-07-09T19:07:27.000Z,"offshore Los Lagos, Chile",earthquake
+1962-07-06T23:05:35.000Z,36.557,70.376,212.2,6.7,ms,270,,,,centennial,centennial19620706230535,2013-07-09T19:07:27.000Z,"Hindu Kush region, Afghanistan",earthquake
+1962-07-02T08:32:43.000Z,-10.67,166.065,102.9,6.6,uk,125,,,,centennial,centennial19620702083243,2013-07-09T19:07:27.000Z,"Santa Cruz Islands",earthquake

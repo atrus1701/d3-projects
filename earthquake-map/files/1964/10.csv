@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-10-27T21:24:29.000Z,-45.597,96.156,8.9,5.8,mb,71,,,,centennial,centennial19641027212429,2013-07-09T19:07:29.000Z,"southeast Indian Ridge",earthquake
+1964-10-26T14:23:00.000Z,2.073,126.725,54.5,5.5,mb,70,,,,centennial,centennial19641026142300,2013-07-09T19:07:29.000Z,"Molucca Sea",earthquake
+1964-10-23T21:06:25.000Z,44.058,147.836,37.3,5.6,mb,132,,,,centennial,centennial19641023210625,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-10-23T01:56:05.000Z,19.747,-56.03,33.6,6.1,mb,165,,,,centennial,centennial19641023015605,2013-07-09T19:07:29.000Z,"North Atlantic Ocean",earthquake
+1964-10-21T23:09:19.000Z,28.038,93.746,25,6,mb,128,,,,centennial,centennial19641021230919,2013-07-09T19:07:29.000Z,"eastern Xizang-India border region",earthquake
+1964-10-18T12:32:25.000Z,-7.183,123.808,581.7,7,ms,137,,,,centennial,centennial19641018123225,2013-07-09T19:07:29.000Z,"Banda Sea",earthquake
+1964-10-18T09:06:26.000Z,3.012,65.854,21,5.7,mb,111,,,,centennial,centennial19641018090626,2013-07-09T19:07:29.000Z,"Carlsberg Ridge",earthquake
+1964-10-17T03:17:26.000Z,0.631,119.236,35,5.6,mb,99,,,,centennial,centennial19641017031726,2013-07-09T19:07:29.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1964-10-16T06:59:37.000Z,44.452,149.726,11.5,5.6,mb,199,,,,centennial,centennial19641016065937,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-10-15T20:26:53.000Z,44.584,149.879,34.7,5.6,mb,167,,,,centennial,centennial19641015202653,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-10-12T21:55:32.000Z,-31.463,-110.856,15.4,5.9,mb,113,,,,centennial,centennial19641012215532,2013-07-09T19:07:29.000Z,"Easter Island region",earthquake
+1964-10-12T15:42:56.000Z,2.986,126.39,64.6,5.5,mb,108,,,,centennial,centennial19641012154256,2013-07-09T19:07:29.000Z,"Molucca Sea",earthquake
+1964-10-11T21:15:08.000Z,-0.623,121.628,63,5.7,mb,139,,,,centennial,centennial19641011211508,2013-07-09T19:07:29.000Z,"Sulawesi, Indonesia",earthquake
+1964-10-09T21:34:07.000Z,-16.288,-171.689,12.8,5.6,mb,61,,,,centennial,centennial19641009213407,2013-07-09T19:07:29.000Z,"Samoa Islands region",earthquake
+1964-10-06T14:31:23.000Z,40.25,28.206,30.8,6,mb,121,,,,centennial,centennial19641006143123,2013-07-09T19:07:29.000Z,"western Turkey",earthquake
+1964-10-02T13:00:37.000Z,-10.386,162.448,30.3,5.9,mb,148,,,,centennial,centennial19641002130037,2013-07-09T19:07:29.000Z,"Solomon Islands",earthquake
+1964-10-02T00:58:38.000Z,51.929,142.907,15,5.5,mb,135,,,,centennial,centennial19641002005838,2013-07-09T19:07:29.000Z,"Sakhalin, Russia",earthquake

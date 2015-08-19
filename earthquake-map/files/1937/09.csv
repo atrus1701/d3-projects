@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1937-09-27T08:55:16.000Z,-9.027,110.802,35,7,ms,107,,,,centennial,centennial19370927085516,2013-07-09T19:07:21.000Z,"south of Java, Indonesia",earthquake
+1937-09-23T13:06:01.000Z,-6.721,154.011,35,6.9,ms,123,,,,centennial,centennial19370923130601,2013-07-09T19:07:21.000Z,"Bougainville region, Papua New Guinea",earthquake
+1937-09-21T09:39:51.000Z,1.805,126.531,35,6.7,uk,63,,,,centennial,centennial19370921093951,2013-07-09T19:07:21.000Z,"Molucca Sea",earthquake
+1937-09-15T12:27:32.000Z,-10.5,161.5,80,7.2,mb,0,,,,centennial,centennial19370915122732,2013-07-09T19:07:21.000Z,"Solomon Islands",earthquake
+1937-09-08T00:40:14.000Z,-56.541,-26.912,219.4,7.1,mb,15,,,,centennial,centennial19370908004014,2013-07-09T19:07:21.000Z,"South Sandwich Islands region",earthquake
+1937-09-03T18:48:11.000Z,52.447,-177.398,35,7.2,mb,162,,,,centennial,centennial19370903184811,2013-07-09T19:07:21.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1937-09-01T08:38:46.000Z,-32.807,-179.064,35,6.9,mb,66,,,,centennial,centennial19370901083846,2013-07-09T19:07:21.000Z,"south of the Kermadec Islands",earthquake

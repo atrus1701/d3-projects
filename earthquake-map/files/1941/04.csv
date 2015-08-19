@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1941-04-29T01:35:40.000Z,-26.791,116.197,25,6.6,uk,27,,,,centennial,centennial19410429013540,2013-07-09T19:07:22.000Z,"Western Australia",earthquake
+1941-04-15T19:09:57.000Z,18.677,-102.957,35,7.6,mw,76,,,,centennial,centennial19410415190957,2013-07-09T19:07:22.000Z,"Michoacan, Mexico",earthquake
+1941-04-07T23:29:18.000Z,17.265,-78.591,15,7,ms,42,,,,centennial,centennial19410407232918,2013-07-09T19:07:22.000Z,"Jamaica region",earthquake
+1941-04-03T15:21:30.000Z,-22.579,-66.642,150.1,7.2,mb,71,,,,centennial,centennial19410403152130,2013-07-09T19:07:22.000Z,"Jujuy, Argentina",earthquake

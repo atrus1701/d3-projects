@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-02-28T12:54:35.000Z,36.397,70.663,207.7,7.1,mb,0,,,,centennial,centennial19430228125435,2013-07-09T19:07:22.000Z,"Hindu Kush region, Afghanistan",earthquake
+1943-02-22T09:20:49.000Z,17.433,-101.307,35,7.4,mw,0,,,,centennial,centennial19430222092049,2013-07-09T19:07:22.000Z,"offshore Guerrero, Mexico",earthquake
+1943-02-16T07:28:35.000Z,-15,-72,190,6.9,mb,0,,,,centennial,centennial19430216072835,2013-07-09T19:07:22.000Z,"southern Peru",earthquake

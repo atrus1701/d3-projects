@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1948-11-26T05:36:39.000Z,-5.083,144.842,55.3,7,mb,0,,,,centennial,centennial19481126053639,2013-07-09T19:07:24.000Z,"New Guinea, Papua New Guinea",earthquake
+1948-11-21T19:10:28.000Z,-13.5,167,180,6.6,uk,0,,,,centennial,centennial19481121191028,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1948-11-19T01:04:21.000Z,9.449,-83.875,38.5,7,mb,0,,,,centennial,centennial19481119010421,2013-07-09T19:07:24.000Z,"Costa Rica",earthquake

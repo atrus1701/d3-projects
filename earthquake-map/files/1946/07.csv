@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-07-26T06:44:45.000Z,-19.75,-70.5,70,6.6,uk,0,,,,centennial,centennial19460726064445,2013-07-09T19:07:23.000Z,"near the coast of Tarapaca, Chile",earthquake
+1946-07-12T21:56:27.000Z,53.5,-169,100,6.6,uk,0,,,,centennial,centennial19460712215627,2013-07-09T19:07:23.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1946-07-11T04:46:42.000Z,17,-94.5,130,6.9,mb,0,,,,centennial,centennial19460711044642,2013-07-09T19:07:23.000Z,"Oaxaca, Mexico",earthquake
+1946-07-09T13:13:53.000Z,-19.17,169.318,176.9,7.2,mb,0,,,,centennial,centennial19460709131353,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake

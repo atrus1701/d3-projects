@@ -1,0 +1,195 @@
+
+
+/* 
+svg.view-all or svg.view-selected
+
+.breadcrumb-text
+.toggle-view
+.circle-pack
+	.parent
+	.child
+.list-container
+	.list-background
+	.scrollbar
+		.background
+		.up.arrow
+		.down.arrow
+		.handle
+.game-info-container
+	.background
+	.game-title
+	.title.<item>
+	.value.<item>
+.scatterplot
+	.background
+	.x.axis
+	.y.axis
+ */
+	
+body {
+	background-color:white;
+	padding:0; margin:0;
+}
+
+svg {
+	background-color:#eee;
+	font-size:11px;
+}
+
+svg > .background {
+	fill:white;
+}
+
+text {
+	pointer-events:none;
+}
+
+.circle-pack text {
+	font-size:11px;
+}
+
+.circle-pack text.parent {
+	fill:#1f77b4;
+}
+
+.circle-pack circle {
+	fill:white;
+	stroke:#999;
+	fill-opacity:0.1;
+	stroke-width:0.5px;
+	pointer-events:all;
+}
+
+.circle-pack circle.parent {
+	fill:#1f77b4;
+	stroke:steelblue;
+}
+
+.circle-pack circle.parent:hover {
+	stroke: #ff7f0e;
+}
+
+.circle-pack circle.child {
+	fill-opacity:0.3;
+}
+
+.circle-pack circle.child:hover {
+	fill:yellow;
+}
+
+.circle-pack circle.highlight,
+svg.view-all .circle-pack circle.child.selected,
+.scatterplot circle.highlight,
+svg.view-all .scatterplot circle.selected {
+	stroke:#ff7f0e;
+}
+
+.circle-pack circle.child.highlight,
+.scatterplot circle.highlight,
+.list-container text.highlight {
+	fill:yellow;
+}
+
+svg.view-all .circle-pack circle.child.selected,
+svg.view-all .scatterplot circle.selected,
+svg.view-all .list-container text.selected {
+	fill:orange;
+}
+
+.list-container .list-background {
+	fill:rgba(100,100,100,0.1);
+	fill:transparent;
+}
+
+.list-container text {
+	font-family:Arial,sanserif;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.list-container .scrollbar .arrow {
+	fill:rgba(100,100,100,0.5);
+}
+
+.list-container .scrollbar .background {
+	fill:rgba(100,100,100,0.1);
+}
+
+.list-container .scrollbar .handle {
+	fill:rgba(100,100,100,0.2);
+}
+
+.list-container .bar {
+	fill:rgba(100,100,100,0.2);
+	stroke:white;
+	stroke-width:1px;
+}
+
+.scatterplot .background {
+	fill:white;
+	fill:transparent;
+}
+
+.scatterplot .axis path,
+.scatterplot .axis line {
+  fill:none;
+  stroke:#000;
+  shape-rendering:crispEdges;
+}
+
+.scatterplot circle {
+	fill:grey;
+	stroke-width:0.5px;
+}
+
+.scatterplot circle.highlight {
+	stroke:#ff7f0e;
+	fill:yellow;
+	z-index:100;
+}
+
+.game-info-container.show text,
+.game-info-container.show rect {
+	opacity:1;
+}
+
+.game-info-container.hide text,
+.game-info-container.hide rect {
+	opacity:0;
+}
+
+.game-info-container .background {
+	fill:transparent;
+}
+
+.game-info-container .title-background {
+	fill:white;
+	fill-opacity:0.3;
+}
+
+.game-info-container .game-title {
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.game-info-container .title {
+	font-family:Arial;
+	font-size:12px;
+}
+
+.game-info-container .title.sales {
+	text-decoration:underline;
+}
+
+
+.breadcrumbs text {
+	font-size:20px;
+	font-family:Arial, sanserif;
+}
+
+.toggle-button text {
+	fill:white;
+}
+
+

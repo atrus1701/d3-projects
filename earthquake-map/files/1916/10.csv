@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-10-31T15:30:33.000Z,45.4,154,0,7.6,mw,0,,,,centennial,centennial19161031153033,2013-07-09T19:07:18.000Z,"east of the Kuril Islands",earthquake
+1916-10-28T03:20:00.000Z,46,146,100,6.5,mj,0,,,,centennial,centennial19161028032000,2013-07-09T19:07:18.000Z,"northwest of the Kuril Islands",earthquake
+1916-10-03T01:26:13.000Z,-14,-74.5,0,7.1,ms,0,,,,centennial,centennial19161003012613,2013-07-09T19:07:18.000Z,"central Peru",earthquake

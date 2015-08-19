@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1939-05-27T03:45:43.000Z,24.461,93.955,46.9,6.6,uk,40,,,,centennial,centennial19390527034543,2013-07-09T19:07:21.000Z,"Manipur, India region",earthquake
+1939-05-17T18:30:37.000Z,23.223,143.585,35,6.7,uk,48,,,,centennial,centennial19390517183037,2013-07-09T19:07:21.000Z,"Volcano Islands, Japan region",earthquake
+1939-05-08T01:46:52.000Z,37.053,-24.427,15.7,6.5,ms,82,,,,centennial,centennial19390508014652,2013-07-09T19:07:21.000Z,"Azores Islands region",earthquake
+1939-05-01T05:58:32.000Z,39.839,139.969,35,7,ms,50,,,,centennial,centennial19390501055832,2013-07-09T19:07:21.000Z,"near the west coast of Honshu, Japan",earthquake

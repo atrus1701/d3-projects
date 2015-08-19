@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-12-24T18:07:00.000Z,24,121.6,0,6.5,ms,0,,,,centennial,centennial19121224180700,2013-07-09T19:07:17.000Z,"Taiwan",earthquake
+1912-12-23T23:56:12.000Z,0,123,50,6.7,ms,0,,,,centennial,centennial19121223235612,2013-07-09T19:07:17.000Z,"Sulawesi, Indonesia",earthquake
+1912-12-09T08:32:24.000Z,15.5,-93,0,7.1,mw,0,,,,centennial,centennial19121209083224,2013-07-09T19:07:17.000Z,"Chiapas, Mexico",earthquake
+1912-12-08T23:50:00.000Z,39,143.5,35,6.6,mj,0,,,,centennial,centennial19121208235000,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1912-12-07T22:46:50.000Z,-29,-62.5,620,7.3,mb,0,,,,centennial,centennial19121207224650,2013-07-09T19:07:17.000Z,"Santiago Del Estero, Argentina",earthquake
+1912-12-05T12:27:36.000Z,57.5,-154,90,6.9,mb,0,,,,centennial,centennial19121205122736,2013-07-09T19:07:17.000Z,"Kodiak Island region, Alaska",earthquake

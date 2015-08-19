@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-05-28T00:04:00.000Z,24.329,122.542,57,5.5,mb,145,,,,centennial,centennial19660528000400,2013-07-09T19:07:31.000Z,"Taiwan region",earthquake
+1966-05-25T13:20:54.000Z,-52.871,160.186,15,6,mb,144,,,,centennial,centennial19660525132054,2013-07-09T19:07:31.000Z,"Macquarie Island region",earthquake
+1966-05-25T08:29:04.000Z,-6.382,131.044,74.3,5.7,mb,91,,,,centennial,centennial19660525082904,2013-07-09T19:07:31.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1966-05-23T14:22:33.000Z,13.902,146.361,30.1,5.6,uk,93,,,,centennial,centennial19660523142233,2013-07-09T19:07:31.000Z,"Mariana Islands region",earthquake
+1966-05-23T08:39:46.000Z,30.048,139.849,29.3,5.9,uk,117,,,,centennial,centennial19660523083946,2013-07-09T19:07:31.000Z,"Izu Islands, Japan region",earthquake
+1966-05-20T09:14:43.000Z,13.832,146.348,15.3,6.4,uk,131,,,,centennial,centennial19660520091443,2013-07-09T19:07:31.000Z,"Mariana Islands region",earthquake
+1966-05-19T07:06:30.000Z,53.966,-164.072,44.3,6,uk,206,,,,centennial,centennial19660519070630,2013-07-09T19:07:31.000Z,"Unimak Island region, Alaska",earthquake
+1966-05-18T07:32:06.000Z,24.733,-109.27,28.3,5.8,uk,58,,,,centennial,centennial19660518073206,2013-07-09T19:07:31.000Z,"Gulf of California",earthquake
+1966-05-16T02:46:42.000Z,-6.986,129.323,199.6,5.7,mb,131,,,,centennial,centennial19660516024642,2013-07-09T19:07:31.000Z,"Banda Sea",earthquake
+1966-05-15T14:46:08.000Z,51.452,-178.379,33,5.8,uk,227,,,,centennial,centennial19660515144608,2013-07-09T19:07:31.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1966-05-11T14:17:38.000Z,48.876,156.247,24.4,5.6,uk,224,,,,centennial,centennial19660511141738,2013-07-09T19:07:31.000Z,"east of the Kuril Islands",earthquake
+1966-05-11T03:49:17.000Z,-56.059,-27.596,105,5.5,mb,43,,,,centennial,centennial19660511034917,2013-07-09T19:07:31.000Z,"South Sandwich Islands region",earthquake
+1966-05-05T14:21:22.000Z,24.347,122.502,50.3,5.9,uk,172,,,,centennial,centennial19660505142122,2013-07-09T19:07:31.000Z,"Taiwan region",earthquake
+1966-05-02T16:39:44.000Z,-8.553,114.934,91.2,5.5,mb,99,,,,centennial,centennial19660502163944,2013-07-09T19:07:31.000Z,"Bali region, Indonesia",earthquake
+1966-05-01T16:22:57.000Z,-8.437,-74.226,157.8,5.7,mb,185,,,,centennial,centennial19660501162257,2013-07-09T19:07:31.000Z,"central Peru",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-07-29T03:02:20.000Z,19.09,-66.983,35,7.6,mw,0,,,,centennial,centennial19430729030220,2013-07-09T19:07:22.000Z,"Puerto Rico region",earthquake
+1943-07-23T14:53:09.000Z,-8.546,109.76,65,7.6,mb,0,,,,centennial,centennial19430723145309,2013-07-09T19:07:22.000Z,"Java, Indonesia",earthquake
+1943-07-11T02:10:25.000Z,-32.5,-178.5,180,6.9,mb,0,,,,centennial,centennial19430711021025,2013-07-09T19:07:22.000Z,"south of the Kermadec Islands",earthquake
+1943-07-05T21:07:54.000Z,-16,-74,0,6.6,uk,0,,,,centennial,centennial19430705210754,2013-07-09T19:07:22.000Z,"near the coast of southern Peru",earthquake

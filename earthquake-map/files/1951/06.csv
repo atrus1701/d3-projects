@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1951-06-12T22:40:42.000Z,36.668,70.955,222.2,7.5,ms,0,,,,centennial,centennial19510612224042,2013-07-09T19:07:24.000Z,"Hindu Kush region, Afghanistan",earthquake
+1951-06-07T22:58:56.000Z,-28.5,-175.9,0,6.8,uk,0,,,,centennial,centennial19510607225856,2013-07-09T19:07:24.000Z,"Kermadec Islands region",earthquake
+1951-06-06T16:10:48.000Z,71.3,-9.7,0,6.8,uk,0,,,,centennial,centennial19510606161048,2013-07-09T19:07:24.000Z,"Jan Mayen Island region",earthquake
+1951-06-05T16:57:43.000Z,29.75,131.75,60,6.6,uk,0,,,,centennial,centennial19510605165743,2013-07-09T19:07:24.000Z,"southeast of the Ryukyu Islands, Japan",earthquake

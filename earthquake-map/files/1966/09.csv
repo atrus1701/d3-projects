@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-09-28T14:00:20.000Z,27.459,100.09,5.5,5.8,mb,191,,,,centennial,centennial19660928140020,2013-07-09T19:07:32.000Z,"Sichuan-Yunnan border region, China",earthquake
+1966-09-25T06:02:30.000Z,18.291,-100.842,80.3,5.6,mb,136,,,,centennial,centennial19660925060230,2013-07-09T19:07:32.000Z,"Guerrero, Mexico",earthquake
+1966-09-18T20:43:55.000Z,27.822,54.269,17.8,5.9,mb,152,,,,centennial,centennial19660918204355,2013-07-09T19:07:32.000Z,"southern Iran",earthquake
+1966-09-15T17:10:48.000Z,22.885,121.423,49.6,5.5,mb,164,,,,centennial,centennial19660915171048,2013-07-09T19:07:32.000Z,"Taiwan region",earthquake
+1966-09-15T11:51:57.000Z,-60.221,-26.745,28.2,5.5,mb,106,,,,centennial,centennial19660915115157,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1966-09-14T23:18:40.000Z,-60.278,-27.255,14,5.9,mb,160,,,,centennial,centennial19660914231840,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1966-09-12T16:41:02.000Z,39.388,-120.227,2,6,uk,83,,,,centennial,centennial19660912164102,2013-07-09T19:07:32.000Z,"Northern California",earthquake
+1966-09-12T11:29:40.000Z,-23.049,170.691,39.2,5.9,mb,164,,,,centennial,centennial19660912112940,2013-07-09T19:07:32.000Z,"southeast of the Loyalty Islands",earthquake
+1966-09-11T17:38:04.000Z,6.723,-72.953,160,5.7,mb,172,,,,centennial,centennial19660911173804,2013-07-09T19:07:32.000Z,"northern Colombia",earthquake
+1966-09-08T21:17:29.000Z,-22.045,-176.167,149.3,5.5,mb,47,,,,centennial,centennial19660908211729,2013-07-09T19:07:32.000Z,"south of the Fiji Islands",earthquake
+1966-09-08T21:15:52.000Z,2.353,128.385,81,7.2,mb,195,,,,centennial,centennial19660908211552,2013-07-09T19:07:32.000Z,"Halmahera, Indonesia",earthquake
+1966-09-02T07:59:04.000Z,-4.675,-106.18,21.3,6.2,uk,71,,,,centennial,centennial19660902075904,2013-07-09T19:07:32.000Z,"central East Pacific Rise",earthquake

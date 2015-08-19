@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-03-27T10:48:21.000Z,-8.563,160.554,35,7.1,mw,13,,,,centennial,centennial19260327104821,2013-07-09T19:07:19.000Z,"Solomon Islands",earthquake
+1926-03-21T14:19:14.000Z,-60.631,-23.673,35,7.1,ms,11,,,,centennial,centennial19260321141914,2013-07-09T19:07:19.000Z,"South Sandwich Islands region",earthquake
+1926-03-18T14:06:16.000Z,35.787,29.246,35,6.7,uk,7,,,,centennial,centennial19260318140616,2013-07-09T19:07:19.000Z,"eastern Mediterranean Sea",earthquake
+1926-03-17T11:53:42.000Z,11.984,-82.065,25,6.7,uk,26,,,,centennial,centennial19260317115342,2013-07-09T19:07:19.000Z,"north of Panama",earthquake

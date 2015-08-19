@@ -1,0 +1,27 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-07-31T05:52:19.000Z,-6.011,149.374,58.7,5.7,mb,89,,,,centennial,centennial19640731055219,2013-07-09T19:07:29.000Z,"New Britain region, Papua New Guinea",earthquake
+1964-07-30T05:16:05.000Z,11.112,-86.218,53,5.9,uk,87,,,,centennial,centennial19640730051605,2013-07-09T19:07:29.000Z,"near the coast of Nicaragua",earthquake
+1964-07-28T21:38:41.000Z,14.079,96.079,10.6,5.9,mb,136,,,,centennial,centennial19640728213841,2013-07-09T19:07:29.000Z,"Andaman Islands, India region",earthquake
+1964-07-28T18:40:04.000Z,-51.313,139.34,15,5.7,mb,55,,,,centennial,centennial19640728184004,2013-07-09T19:07:29.000Z,"western Indian-Antarctic Ridge",earthquake
+1964-07-25T19:31:08.000Z,-27.873,-71.106,23.1,6.1,mb,107,,,,centennial,centennial19640725193108,2013-07-09T19:07:29.000Z,"Atacama, Chile",earthquake
+1964-07-24T17:02:49.000Z,47.082,153.711,24,5.9,mb,171,,,,centennial,centennial19640724170249,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-07-24T13:25:17.000Z,47.001,153.827,13.2,5.8,mb,136,,,,centennial,centennial19640724132517,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-07-24T08:12:39.000Z,47.16,153.872,16.2,6.8,ms,186,,,,centennial,centennial19640724081239,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-07-24T06:50:50.000Z,47.019,153.909,7.1,5.7,mb,187,,,,centennial,centennial19640724065050,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-07-21T03:48:58.000Z,-25.992,-177.835,206.8,5.6,mb,113,,,,centennial,centennial19640721034858,2013-07-09T19:07:29.000Z,"south of the Fiji Islands",earthquake
+1964-07-18T12:45:53.000Z,0.062,123.568,130.9,5.5,mb,91,,,,centennial,centennial19640718124553,2013-07-09T19:07:29.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1964-07-17T04:41:04.000Z,49.453,158.507,25.9,5.5,mb,127,,,,centennial,centennial19640717044104,2013-07-09T19:07:29.000Z,"east of the Kuril Islands",earthquake
+1964-07-17T02:34:27.000Z,38.049,23.654,154,5.7,mb,128,,,,centennial,centennial19640717023427,2013-07-09T19:07:29.000Z,"Greece",earthquake
+1964-07-12T20:16:00.000Z,24.784,95.28,151.7,5.5,mb,66,,,,centennial,centennial19640712201600,2013-07-09T19:07:29.000Z,"Myanmar",earthquake
+1964-07-12T01:45:27.000Z,38.585,139.318,13.7,5.7,mb,154,,,,centennial,centennial19640712014527,2013-07-09T19:07:29.000Z,"near the west coast of Honshu, Japan",earthquake
+1964-07-11T20:25:41.000Z,59.642,-146.312,34.4,5.5,mb,128,,,,centennial,centennial19640711202541,2013-07-09T19:07:29.000Z,"Gulf of Alaska",earthquake
+1964-07-09T16:39:51.000Z,-15.579,167.747,130.5,7.4,mb,154,,,,centennial,centennial19640709163951,2013-07-09T19:07:29.000Z,"Vanuatu",earthquake
+1964-07-09T11:22:06.000Z,-23.372,-175.46,39.3,5.7,mb,138,,,,centennial,centennial19640709112206,2013-07-09T19:07:29.000Z,"Tonga region",earthquake
+1964-07-08T11:55:44.000Z,-5.596,129.742,206.8,7,mb,124,,,,centennial,centennial19640708115544,2013-07-09T19:07:29.000Z,"Banda Sea",earthquake
+1964-07-06T14:19:50.000Z,-7.033,129.684,121.5,5.6,mb,75,,,,centennial,centennial19640706141950,2013-07-09T19:07:29.000Z,"Kepulauan Babar, Indonesia",earthquake
+1964-07-06T10:13:46.000Z,37.094,71.356,96.7,5.5,mb,84,,,,centennial,centennial19640706101346,2013-07-09T19:07:29.000Z,"Hindu Kush region, Afghanistan",earthquake
+1964-07-06T07:22:12.000Z,18.193,-100.509,92.4,7.2,mb,158,,,,centennial,centennial19640706072212,2013-07-09T19:07:29.000Z,"Guerrero, Mexico",earthquake
+1964-07-06T02:14:35.000Z,26.121,-110.373,15,5.6,mb,82,,,,centennial,centennial19640706021435,2013-07-09T19:07:29.000Z,"Gulf of California",earthquake
+1964-07-05T23:35:59.000Z,44.635,149.525,24.7,5.6,mb,177,,,,centennial,centennial19640705233559,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-07-05T19:07:56.000Z,26.108,-110.239,3.7,5.8,mb,74,,,,centennial,centennial19640705190756,2013-07-09T19:07:29.000Z,"Gulf of California",earthquake
+1964-07-04T10:49:31.000Z,11.717,144.638,37.3,6,mb,100,,,,centennial,centennial19640704104931,2013-07-09T19:07:29.000Z,"south of the Mariana Islands",earthquake

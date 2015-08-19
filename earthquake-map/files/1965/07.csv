@@ -1,0 +1,23 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-07-29T12:20:20.000Z,50.816,-171.599,9.7,5.5,mb,94,,,,centennial,centennial19650729122020,2013-07-09T19:07:30.000Z,"south of the Aleutian Islands",earthquake
+1965-07-29T08:29:23.000Z,51.02,-171.306,22,6.7,ms,247,,,,centennial,centennial19650729082923,2013-07-09T19:07:30.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1965-07-28T22:29:09.000Z,-2.346,101.802,139.1,5.5,mb,131,,,,centennial,centennial19650728222909,2013-07-09T19:07:30.000Z,"southern Sumatra, Indonesia",earthquake
+1965-07-25T21:46:45.000Z,51.475,175.947,22.9,5.8,uk,174,,,,centennial,centennial19650725214645,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-07-25T03:40:38.000Z,1.962,99.212,64.9,5.5,mb,118,,,,centennial,centennial19650725034038,2013-07-09T19:07:30.000Z,"northern Sumatra, Indonesia",earthquake
+1965-07-21T17:52:32.000Z,53.247,170.379,29.3,5.6,mb,154,,,,centennial,centennial19650721175232,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-07-21T02:51:33.000Z,-20.765,-175.62,5,6,uk,75,,,,centennial,centennial19650721025133,2013-07-09T19:07:30.000Z,"Tonga",earthquake
+1965-07-20T13:18:27.000Z,7.526,124.241,24.8,5.6,mb,93,,,,centennial,centennial19650720131827,2013-07-09T19:07:30.000Z,"Mindanao, Philippines",earthquake
+1965-07-17T12:59:10.000Z,-27.227,-177.497,17,5.5,uk,90,,,,centennial,centennial19650717125910,2013-07-09T19:07:30.000Z,"Kermadec Islands region",earthquake
+1965-07-17T07:20:30.000Z,-9.739,159.879,8.8,5.5,uk,117,,,,centennial,centennial19650717072030,2013-07-09T19:07:30.000Z,"Solomon Islands",earthquake
+1965-07-16T22:33:17.000Z,-11.791,166.095,24.1,5.5,uk,37,,,,centennial,centennial19650716223317,2013-07-09T19:07:30.000Z,"Santa Cruz Islands",earthquake
+1965-07-15T18:33:32.000Z,7.666,123.73,594.4,5.8,ms,122,,,,centennial,centennial19650715183332,2013-07-09T19:07:30.000Z,"Mindanao, Philippines",earthquake
+1965-07-14T10:12:00.000Z,-60.705,-24.48,10,5.7,mb,14,,,,centennial,centennial19650714101200,2013-07-09T19:07:30.000Z,"South Sandwich Islands region",earthquake
+1965-07-13T19:37:13.000Z,-4.239,143.264,102.3,5.5,mb,26,,,,centennial,centennial19650713193713,2013-07-09T19:07:30.000Z,"New Guinea, Papua New Guinea",earthquake
+1965-07-12T13:57:15.000Z,-28.455,-68.263,113.3,5.6,mb,85,,,,centennial,centennial19650712135715,2013-07-09T19:07:30.000Z,"La Rioja, Argentina",earthquake
+1965-07-06T18:36:48.000Z,-4.512,155.1,519.2,6.2,ms,162,,,,centennial,centennial19650706183648,2013-07-09T19:07:30.000Z,"Bougainville region, Papua New Guinea",earthquake
+1965-07-06T03:18:44.000Z,38.391,22.428,22.7,5.8,mb,135,,,,centennial,centennial19650706031844,2013-07-09T19:07:30.000Z,"Greece",earthquake
+1965-07-06T03:04:23.000Z,-22.556,172.963,64.3,5.6,mb,53,,,,centennial,centennial19650706030423,2013-07-09T19:07:30.000Z,"southeast of the Loyalty Islands",earthquake
+1965-07-05T08:31:58.000Z,52.771,-34.24,14.9,5.8,uk,114,,,,centennial,centennial19650705083158,2013-07-09T19:07:30.000Z,"Reykjanes Ridge",earthquake
+1965-07-03T11:26:12.000Z,22.466,101.424,28.9,5.9,uk,79,,,,centennial,centennial19650703112612,2013-07-09T19:07:30.000Z,"China-Laos border region",earthquake
+1965-07-02T20:58:41.000Z,52.975,-167.571,59.7,6.5,ms,271,,,,centennial,centennial19650702205841,2013-07-09T19:07:30.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1965-07-01T23:12:42.000Z,-63.083,-163.414,10,6,uk,89,,,,centennial,centennial19650701231242,2013-07-09T19:07:30.000Z,"Pacific-Antarctic Ridge",earthquake

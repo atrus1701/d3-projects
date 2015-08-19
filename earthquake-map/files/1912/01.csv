@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-01-31T20:11:48.000Z,61,-147.5,80,7,mb,0,,,,centennial,centennial19120131201148,2013-07-09T19:07:17.000Z,"Southern Alaska",earthquake
+1912-01-24T16:23:06.000Z,38,20.5,60,6.6,uk,0,,,,centennial,centennial19120124162306,2013-07-09T19:07:17.000Z,"Ionian Sea",earthquake
+1912-01-04T15:46:54.000Z,52,-179,25,6.7,ms,0,,,,centennial,centennial19120104154654,2013-07-09T19:07:17.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

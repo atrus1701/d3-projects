@@ -1,0 +1,29 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-09-30T17:51:40.000Z,-31.829,-177.703,15,6.1,ms,139,,,,centennial,centennial19690930175140,2013-07-09T19:07:36.000Z,"Kermadec Islands region",earthquake
+1969-09-30T04:11:14.000Z,-31.881,-177.747,15,5.5,ms,80,,,,centennial,centennial19690930041114,2013-07-09T19:07:36.000Z,"Kermadec Islands region",earthquake
+1969-09-29T20:03:30.000Z,-33.191,19.335,15,6.3,ms,158,,,,centennial,centennial19690929200330,2014-04-07T19:48:46.373Z,"South Africa",earthquake
+1969-09-29T16:19:59.000Z,-7.284,128.753,127.6,5.5,mb,145,,,,centennial,centennial19690929161959,2013-07-09T19:07:36.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1969-09-28T22:54:10.000Z,34.329,25.134,33.6,5.5,ms,103,,,,centennial,centennial19690928225410,2013-07-09T19:07:36.000Z,"Crete, Greece",earthquake
+1969-09-27T09:04:04.000Z,-60.913,-56.119,31.5,5.9,ms,117,,,,centennial,centennial19690927090404,2013-07-09T19:07:36.000Z,"South Shetland Islands",earthquake
+1969-09-24T18:03:18.000Z,15.228,-45.742,17,6.4,ms,224,,,,centennial,centennial19690924180318,2013-07-09T19:07:36.000Z,"northern Mid-Atlantic Ridge",earthquake
+1969-09-23T22:37:24.000Z,18.859,-107.065,16.2,5.6,ms,43,,,,centennial,centennial19690923223724,2013-07-09T19:07:36.000Z,"off the coast of Jalisco, Mexico",earthquake
+1969-09-23T01:22:01.000Z,-27.342,-113.328,10,5.6,ms,76,,,,centennial,centennial19690923012201,2013-07-09T19:07:36.000Z,"Easter Island region",earthquake
+1969-09-22T03:52:37.000Z,2.888,95.778,22,5.6,ms,110,,,,centennial,centennial19690922035237,2013-07-09T19:07:36.000Z,"Simeulue, Indonesia",earthquake
+1969-09-22T01:46:14.000Z,2.956,95.82,30.4,5.8,ms,154,,,,centennial,centennial19690922014614,2013-07-09T19:07:36.000Z,"Simeulue, Indonesia",earthquake
+1969-09-21T02:00:55.000Z,-23.454,-68.053,117.3,5.5,mb,103,,,,centennial,centennial19690921020055,2013-07-09T19:07:36.000Z,"Antofagasta, Chile",earthquake
+1969-09-20T15:26:41.000Z,1.685,-101.135,25.5,5.7,ms,128,,,,centennial,centennial19690920152641,2013-07-09T19:07:36.000Z,"Galapagos Triple Junction region",earthquake
+1969-09-20T05:08:55.000Z,58.294,-32.106,6.3,6,ms,163,,,,centennial,centennial19690920050855,2013-07-09T19:07:36.000Z,"Reykjanes Ridge",earthquake
+1969-09-19T01:29:38.000Z,6.036,125.304,94.2,5.5,mb,156,,,,centennial,centennial19690919012938,2013-07-09T19:07:36.000Z,"Mindanao, Philippines",earthquake
+1969-09-17T18:40:51.000Z,31.109,131.321,39,5.9,ms,217,,,,centennial,centennial19690917184051,2013-07-09T19:07:36.000Z,"Kyushu, Japan",earthquake
+1969-09-14T16:15:26.000Z,39.738,74.806,31.3,5.6,ms,167,,,,centennial,centennial19690914161526,2013-07-09T19:07:36.000Z,"southern Xinjiang, China",earthquake
+1969-09-13T11:52:13.000Z,43.262,147.634,33.8,5.5,mb,168,,,,centennial,centennial19690913115213,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1969-09-12T08:57:08.000Z,51.254,-179.183,34.6,6.6,ms,277,,,,centennial,centennial19690912085708,2013-07-09T19:07:36.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1969-09-09T05:15:37.000Z,35.787,137.091,7,6,ms,177,,,,centennial,centennial19690909051537,2013-07-09T19:07:36.000Z,"eastern Honshu, Japan",earthquake
+1969-09-07T03:06:04.000Z,-8.881,157.764,38.7,5.5,mb,85,,,,centennial,centennial19690907030604,2013-07-09T19:07:36.000Z,"Solomon Islands",earthquake
+1969-09-06T17:08:06.000Z,-8.959,157.927,19.3,5.7,ms,142,,,,centennial,centennial19690906170806,2013-07-09T19:07:36.000Z,"Solomon Islands",earthquake
+1969-09-06T14:50:02.000Z,-8.879,157.935,45.1,6.1,ms,145,,,,centennial,centennial19690906145002,2013-07-09T19:07:36.000Z,"Solomon Islands",earthquake
+1969-09-06T14:30:41.000Z,36.909,-11.939,39.4,6,ms,154,,,,centennial,centennial19690906143041,2013-07-09T19:07:35.000Z,"Azores-Cape St. Vincent Ridge",earthquake
+1969-09-04T21:12:39.000Z,43.774,147.456,42.7,5.7,mb,199,,,,centennial,centennial19690904211239,2013-07-09T19:07:35.000Z,"Kuril Islands",earthquake
+1969-09-04T03:08:53.000Z,46.621,153.55,26.4,5.7,ms,214,,,,centennial,centennial19690904030853,2013-07-09T19:07:35.000Z,"Kuril Islands",earthquake
+1969-09-02T03:47:10.000Z,-27.805,-66.612,169.7,5.5,mb,135,,,,centennial,centennial19690902034710,2013-07-09T19:07:35.000Z,"Catamarca, Argentina",earthquake
+1969-09-02T02:06:18.000Z,-31.403,-176.849,19.2,6,uk,33,,,,centennial,centennial19690902020618,2013-07-09T19:07:35.000Z,"Kermadec Islands region",earthquake

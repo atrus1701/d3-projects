@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1933-09-25T18:51:26.000Z,38.321,87.167,45.8,6.6,uk,42,,,,centennial,centennial19330925185126,2013-07-09T19:07:20.000Z,"southern Xinjiang, China",earthquake
+1933-09-24T15:19:41.000Z,51.775,-176.726,35,6.6,uk,71,,,,centennial,centennial19330924151941,2013-07-09T19:07:20.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1933-09-09T21:19:56.000Z,-12.407,166.464,35,6.7,uk,44,,,,centennial,centennial19330909211956,2013-07-09T19:07:20.000Z,"Santa Cruz Islands",earthquake
+1933-09-06T22:08:31.000Z,-21.948,-179.243,587.4,7,mb,84,,,,centennial,centennial19330906220831,2013-07-09T19:07:20.000Z,"Fiji region",earthquake
+1933-09-02T16:41:16.000Z,30.262,139.031,424.5,6.6,uk,44,,,,centennial,centennial19330902164116,2013-07-09T19:07:20.000Z,"Izu Islands, Japan region",earthquake

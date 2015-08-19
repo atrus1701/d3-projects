@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1960-11-24T06:52:47.000Z,-24.71,-176.379,36,7.1,mw,187,,,,centennial,centennial19601124065247,2013-07-09T19:07:27.000Z,"south of the Fiji Islands",earthquake
+1960-11-23T14:12:26.000Z,-24.492,-176.119,35,6.6,ms,99,,,,centennial,centennial19601123141226,2013-07-09T19:07:27.000Z,"south of the Fiji Islands",earthquake
+1960-11-22T06:21:48.000Z,-36.342,52.528,15,6.8,uk,93,,,,centennial,centennial19601122062148,2013-07-09T19:07:27.000Z,"Southwest Indian Ridge",earthquake
+1960-11-20T22:02:00.000Z,-6.704,-80.62,35,7.8,mw,103,,,,centennial,centennial19601120220200,2013-07-09T19:07:27.000Z,"near the coast of northern Peru",earthquake
+1960-11-13T09:20:36.000Z,51.298,-168.745,21.6,6.7,ms,308,,,,centennial,centennial19601113092036,2013-07-09T19:07:27.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1960-11-06T06:14:52.000Z,-31.233,-177.535,34.5,6.5,uk,71,,,,centennial,centennial19601106061452,2013-07-09T19:07:27.000Z,"Kermadec Islands region",earthquake
+1960-11-01T08:45:59.000Z,-38.391,-74.862,25,6.8,ms,190,,,,centennial,centennial19601101084559,2013-07-09T19:07:27.000Z,"off the coast of Araucania, Chile",earthquake

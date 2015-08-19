@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-03-31T18:17:11.000Z,7.594,122.825,35,7.3,mb,0,,,,centennial,centennial19550331181711,2013-07-09T19:07:25.000Z,"Mindanao, Philippines",earthquake
+1955-03-22T14:05:06.000Z,-9.191,91.76,15,6.9,ms,0,,,,centennial,centennial19550322140506,2013-07-09T19:07:25.000Z,"South Indian Ocean",earthquake
+1955-03-18T00:06:52.000Z,54.202,161.225,63.4,7.2,mb,0,,,,centennial,centennial19550318000652,2013-07-09T19:07:25.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1955-03-14T13:12:13.000Z,52.767,-173.402,143.6,6.5,mb,0,,,,centennial,centennial19550314131213,2013-07-09T19:07:25.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

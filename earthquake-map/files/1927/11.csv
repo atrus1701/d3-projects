@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1927-11-26T12:54:00.000Z,-24.32,-66.963,179.3,7,mb,19,,,,centennial,centennial19271126125400,2013-07-09T19:07:19.000Z,"Salta, Argentina",earthquake
+1927-11-21T23:12:30.000Z,-45.112,-73.622,15,7.1,mw,17,,,,centennial,centennial19271121231230,2013-07-09T19:07:19.000Z,"Aisen, Chile",earthquake
+1927-11-16T21:10:12.000Z,6.746,125.538,44,6.9,ms,24,,,,centennial,centennial19271116211012,2013-07-09T19:07:19.000Z,"Mindanao, Philippines",earthquake
+1927-11-14T07:19:28.000Z,-30.905,-70.975,35,6.6,uk,26,,,,centennial,centennial19271114071928,2013-07-09T19:07:19.000Z,"Coquimbo, Chile",earthquake
+1927-11-14T04:56:31.000Z,70.033,128.69,15,6.6,uk,46,,,,centennial,centennial19271114045631,2013-07-09T19:07:19.000Z,"northwestern Sakha, Russia",earthquake
+1927-11-06T15:34:37.000Z,-6.86,129.434,217.2,6.6,uk,8,,,,centennial,centennial19271106153437,2013-07-09T19:07:19.000Z,"Banda Sea",earthquake
+1927-11-04T13:51:04.000Z,34.915,-121.031,15,7,ms,41,,,,centennial,centennial19271104135104,2013-07-09T19:07:19.000Z,"offshore Central California",earthquake

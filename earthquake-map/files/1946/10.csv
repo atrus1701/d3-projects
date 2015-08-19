@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-10-30T07:47:34.000Z,54.25,-164,0,6.7,uk,0,,,,centennial,centennial19461030074734,2013-07-09T19:07:23.000Z,"Unimak Island region, Alaska",earthquake
+1946-10-26T00:21:03.000Z,-60,-35,0,6.6,ms,0,,,,centennial,centennial19461026002103,2013-07-09T19:07:23.000Z,"Scotia Sea",earthquake
+1946-10-22T10:00:17.000Z,-14.5,168,220,6.6,uk,0,,,,centennial,centennial19461022100017,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1946-10-08T13:56:25.000Z,-25,178,670,6.6,uk,0,,,,centennial,centennial19461008135625,2013-07-09T19:07:23.000Z,"south of the Fiji Islands",earthquake
+1946-10-02T06:43:13.000Z,51,159,60,6.6,uk,0,,,,centennial,centennial19461002064313,2013-07-09T19:07:23.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1946-10-02T04:46:05.000Z,51,159,60,6.6,uk,0,,,,centennial,centennial19461002044605,2013-07-09T19:07:23.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake

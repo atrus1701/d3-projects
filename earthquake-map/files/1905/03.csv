@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1905-03-22T03:38:00.000Z,50,180,0,7,ms,0,,,,centennial,centennial19050322033800,2013-07-09T19:07:15.000Z,"",earthquake
+1905-03-18T23:56:00.000Z,-10,168,0,7.2,mw,0,,,,centennial,centennial19050318235600,2013-07-09T19:07:15.000Z,"Santa Cruz Islands region",earthquake
+1905-03-18T00:58:00.000Z,-27.5,-173,60,7.3,uk,0,,,,centennial,centennial19050318005800,2013-07-09T19:07:15.000Z,"Kermadec Islands region",earthquake
+1905-03-04T23:17:00.000Z,-4,149,0,6.8,ms,0,,,,centennial,centennial19050304231700,2013-07-09T19:07:15.000Z,"Bismarck Sea",earthquake
+1905-03-04T16:00:20.000Z,-4,149,60,6.9,uk,0,,,,centennial,centennial19050304160020,2013-07-09T19:07:15.000Z,"Bismarck Sea",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1907-07-20T13:38:00.000Z,7.1,125.6,0,6.8,ms,0,,,,centennial,centennial19070720133800,2013-07-09T19:07:16.000Z,"Mindanao, Philippines",earthquake
+1907-07-09T19:54:50.000Z,14,123,60,6.8,uk,0,,,,centennial,centennial19070709195450,2013-07-09T19:07:16.000Z,"Luzon, Philippines",earthquake
+1907-07-05T15:46:06.000Z,43.7,145.5,100,6.6,uk,0,,,,centennial,centennial19070705154606,2013-07-09T19:07:16.000Z,"Hokkaido, Japan region",earthquake

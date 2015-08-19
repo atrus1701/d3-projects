@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1915-10-12T21:30:00.000Z,39,144,35,6.8,mj,0,,,,centennial,centennial19151012213000,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1915-10-11T19:33:12.000Z,19,-67,0,6.6,uk,0,,,,centennial,centennial19151011193312,2013-07-09T19:07:17.000Z,"Puerto Rico region",earthquake
+1915-10-08T15:36:03.000Z,32.8,139.1,200,7,mb,0,,,,centennial,centennial19151008153603,2013-07-09T19:07:17.000Z,"Izu Islands, Japan region",earthquake
+1915-10-03T06:52:48.000Z,40.5,-117.5,0,7.6,mw,0,,,,centennial,centennial19151003065248,2013-07-09T19:07:17.000Z,"Nevada",earthquake

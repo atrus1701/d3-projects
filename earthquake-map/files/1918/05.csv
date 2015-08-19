@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-05-25T19:29:16.000Z,-31.108,-92.109,15,6.6,ms,6,,,,centennial,centennial19180525192916,2013-07-09T19:07:18.000Z,"southeast central Pacific Ocean",earthquake
+1918-05-23T11:57:42.000Z,27.753,-110.933,15,6.6,uk,7,,,,centennial,centennial19180523115742,2013-07-09T19:07:18.000Z,"Sonora, Mexico",earthquake
+1918-05-22T06:30:45.000Z,-17.47,-176.486,35,7.1,mb,11,,,,centennial,centennial19180522063045,2013-07-09T19:07:18.000Z,"Fiji region",earthquake
+1918-05-20T18:03:42.000Z,-2.341,152.973,35,6.5,uk,6,,,,centennial,centennial19180520180342,2013-07-09T19:07:18.000Z,"New Ireland region, Papua New Guinea",earthquake
+1918-05-20T17:55:10.000Z,-28.899,-71.893,35,7.6,mb,10,,,,centennial,centennial19180520175510,2013-07-09T19:07:18.000Z,"offshore Atacama, Chile",earthquake
+1918-05-20T14:36:05.000Z,7.341,-34.802,15,7.1,mw,37,,,,centennial,centennial19180520143605,2013-07-09T19:07:18.000Z,"central Mid-Atlantic Ridge",earthquake

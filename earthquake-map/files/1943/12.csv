@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-12-23T19:00:14.000Z,-5.445,153.961,35,7.2,mw,0,,,,centennial,centennial19431223190014,2013-07-09T19:07:22.000Z,"New Ireland region, Papua New Guinea",earthquake
+1943-12-02T05:08:57.000Z,22.9,121.5,0,6.5,ms,0,,,,centennial,centennial19431202050857,2013-07-09T19:07:22.000Z,"Taiwan region",earthquake
+1943-12-01T10:34:48.000Z,-20.855,-68.718,114,7.1,mb,0,,,,centennial,centennial19431201103448,2013-07-09T19:07:22.000Z,"Tarapaca, Chile",earthquake
+1943-12-01T06:04:59.000Z,-4.218,143.764,120.6,7.3,mb,0,,,,centennial,centennial19431201060459,2013-07-09T19:07:22.000Z,"New Guinea, Papua New Guinea",earthquake

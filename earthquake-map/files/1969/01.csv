@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-01-31T13:48:23.000Z,4.325,128.108,25.2,5.7,ms,88,,,,centennial,centennial19690131134823,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-01-31T00:44:16.000Z,4.14,128.061,48.6,6.3,ms,149,,,,centennial,centennial19690131004416,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-01-30T10:29:42.000Z,4.764,127.436,73.8,7.1,mb,185,,,,centennial,centennial19690130102942,2013-07-09T19:07:35.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1969-01-29T17:44:30.000Z,-17.295,-171.435,22.8,5.6,ms,131,,,,centennial,centennial19690129174430,2013-07-09T19:07:35.000Z,"Tonga region",earthquake
+1969-01-27T13:15:30.000Z,8.777,137.818,32.9,5.6,ms,104,,,,centennial,centennial19690127131530,2013-07-09T19:07:35.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1969-01-26T15:05:36.000Z,55.882,162.848,29,5.5,ms,174,,,,centennial,centennial19690126150536,2013-07-09T19:07:35.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1969-01-25T05:19:19.000Z,0.77,125.986,32.8,5.7,ms,183,,,,centennial,centennial19690125051919,2013-07-09T19:07:35.000Z,"Molucca Sea",earthquake
+1969-01-24T02:33:04.000Z,-21.941,-179.478,594,6.7,ms,208,,,,centennial,centennial19690124023304,2013-07-09T19:07:35.000Z,"Fiji region",earthquake
+1969-01-21T08:05:38.000Z,28.581,-43.618,8.8,5.6,ms,112,,,,centennial,centennial19690121080538,2013-07-09T19:07:35.000Z,"northern Mid-Atlantic Ridge",earthquake
+1969-01-20T14:20:13.000Z,54.831,166.016,29,5.6,ms,234,,,,centennial,centennial19690120142013,2013-07-09T19:07:35.000Z,"Komandorskiye Ostrova, Russia region",earthquake
+1969-01-20T12:24:37.000Z,-10.296,164.758,7.4,5.8,ms,92,,,,centennial,centennial19690120122437,2013-07-09T19:07:35.000Z,"Santa Cruz Islands region",earthquake
+1969-01-19T18:50:53.000Z,-14.909,167.307,113.9,6.2,mb,203,,,,centennial,centennial19690119185053,2013-07-09T19:07:35.000Z,"Vanuatu",earthquake
+1969-01-19T07:02:08.000Z,44.889,143.205,237.5,7.3,mb,301,,,,centennial,centennial19690119070208,2013-07-09T19:07:35.000Z,"Hokkaido, Japan region",earthquake
+1969-01-18T03:02:40.000Z,-56.806,-26.956,146.3,6,mb,169,,,,centennial,centennial19690118030240,2013-07-09T19:07:35.000Z,"South Sandwich Islands region",earthquake
+1969-01-14T23:12:09.000Z,36.14,29.199,33.1,6,ms,140,,,,centennial,centennial19690114231209,2013-07-09T19:07:35.000Z,"western Turkey",earthquake
+1969-01-13T08:55:05.000Z,-7.951,159.01,49.8,5.5,mb,96,,,,centennial,centennial19690113085505,2013-07-09T19:07:35.000Z,"Solomon Islands",earthquake
+1969-01-13T06:36:37.000Z,-37.156,-73.775,28.2,5.6,ms,36,,,,centennial,centennial19690113063637,2013-07-09T19:07:35.000Z,"offshore Bio-Bio, Chile",earthquake
+1969-01-11T04:26:24.000Z,-28.395,-176.705,33.7,6.6,uk,94,,,,centennial,centennial19690111042624,2013-07-09T19:07:35.000Z,"Kermadec Islands region",earthquake
+1969-01-06T15:38:58.000Z,-10.48,164.592,2.3,6.8,ms,203,,,,centennial,centennial19690106153858,2013-07-09T19:07:35.000Z,"Santa Cruz Islands region",earthquake
+1969-01-05T16:50:50.000Z,-8.986,123.448,81.5,5.5,mb,84,,,,centennial,centennial19690105165050,2013-07-09T19:07:35.000Z,"Flores region, Indonesia",earthquake
+1969-01-05T13:26:43.000Z,-7.991,158.968,62.8,7.3,mb,226,,,,centennial,centennial19690105132643,2013-07-09T19:07:35.000Z,"Solomon Islands",earthquake
+1969-01-04T22:36:48.000Z,-6.818,129.779,103.4,5.6,mb,107,,,,centennial,centennial19690104223648,2013-07-09T19:07:35.000Z,"Banda Sea",earthquake
+1969-01-02T17:50:47.000Z,-56.102,-27.66,77.5,5.8,mb,102,,,,centennial,centennial19690102175047,2013-07-09T19:07:35.000Z,"South Sandwich Islands region",earthquake

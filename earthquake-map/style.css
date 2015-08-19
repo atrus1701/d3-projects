@@ -1,0 +1,218 @@
+
+	
+body {
+	background-color:white;
+	padding:0; margin:0;
+}
+
+text {
+	pointer-events:none;
+}
+
+/* ---------------------------------------- */
+
+#diagram {
+	background-color:silver;
+	position:relative;
+	font-size:11px;
+}
+
+/* ---------------------------------------- */
+
+svg {
+	background-color:#eee;
+}
+
+svg .background {
+	fill:white;
+}
+
+/* ---------------------------------------- */
+
+#diagram .controls {
+	background-color:silver;
+	border:solid 1px black;
+}
+
+#diagram h3 {
+	margin:0; padding:0;
+	margin-bottom:10px;
+	margin-top:5px;
+	text-decoration:underline;
+}
+
+#diagram .controls .dates label,
+#diagram .controls .map label {
+	display:block;
+	margin-top:3px;
+}
+
+#diagram .controls .dates select,
+#diagram .controls .map select {
+	width:6em;
+	direction:rtl;
+}
+
+#diagram .controls .dates {
+	float:right;
+	width:100px;
+	margin-right:10px;
+}
+
+#diagram .controls .dates > h3,
+#diagram .controls .dates > div {
+	text-align:right;
+}
+
+#diagram .controls .map {
+	float:right;
+	width:100px;
+	margin-left:10px;
+}
+
+#diagram .controls .map > h3,
+#diagram .controls .map > div {
+	text-align:left;
+}
+
+#diagram .controls .magnitude {
+	float:right;
+	width:210px;
+	margin:0;
+}
+
+#diagram .controls .magnitude > h3 {
+	text-align:center;
+}
+
+#diagram .controls .magnitude > div {
+	float:left;
+	width:98px;
+	border:solid 1px grey;
+	margin:2px;
+}
+
+/* ---------------------------------------- */
+
+svg .barchart .background,
+svg .map .background,
+svg .line-chart .background {
+	fill:white;
+}
+
+.axis path,
+.axis line {
+	fill:none;
+	stroke:#000;
+	shape-rendering:crispEdges;
+}
+
+/* ---------------------------------------- */
+
+#diagram .map .world-map path {
+	stroke:white;
+	stroke-width:0.25px;
+	fill:silver;
+}
+
+#diagram .map-cover {
+	fill:white;
+}
+
+#diagram .map-border {
+	fill:none;
+	stroke:black;
+	shape-rendering:crispEdges;
+}
+
+#diagram .map .plate-tectonics path {
+	fill:none;
+	stroke:steelblue;
+}
+
+#diagram .map-chart .line {
+  fill:none;
+  stroke:steelblue;
+  stroke-width:0.5px;
+}
+
+#diagram .play-button circle {
+	fill:silver;
+	stroke:black;
+}
+
+#diagram .play-text {
+	font-family:Courier;
+	font-size:20px;
+}
+
+/* ---------------------------------------- */
+
+rect.great, 
+circle.earthquake.great {
+	fill:#d53e4f;
+	stroke-width:1px;
+}
+
+rect.major, 
+circle.earthquake.major {
+	fill:#fc8d59;
+	stroke-width:0.75px;
+}
+
+rect.strong, 
+circle.earthquake.strong {
+	fill:#fee08b;
+	stroke-width:0.5px;
+}
+
+rect.moderate, 
+circle.earthquake.moderate {
+	fill:#e6f598;
+	stroke-width:0.5px;
+}
+
+rect.light, 
+circle.earthquake.light {
+	fill:#99d594;
+	stroke-width:0.25px;
+}
+
+rect.minor, 
+circle.earthquake.minor {
+	fill:#3288bd;
+	stroke-width:0.25px;
+}
+
+#diagram .controls .key {
+	height:10px;
+	width:10px;
+	border:solid 1px grey;
+	display:inline-block;
+	margin:3px;
+	float:right;
+}
+
+span.great {
+	background-color:#d53e4f;
+}
+span.major {
+	background-color:#fc8d59;
+}
+span.strong {
+	background-color:#fee08b;
+}
+span.moderate {
+	background-color:#e6f598;
+}
+span.light {
+	background-color:#99d594;
+}
+span.minor {
+	background-color:#3288bd;
+}
+
+.map circle.earthquake {
+	stroke:black;
+}
+

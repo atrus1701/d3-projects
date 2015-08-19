@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-11-23T22:57:48.000Z,-8.283,126.567,217.9,7.1,mb,7,,,,centennial,centennial19181123225748,2013-07-09T19:07:18.000Z,"East Timor region",earthquake
+1918-11-18T18:41:44.000Z,-7.168,129.21,35,7.5,mb,23,,,,centennial,centennial19181118184144,2013-07-09T19:07:18.000Z,"Kepulauan Babar, Indonesia",earthquake
+1918-11-11T07:04:00.000Z,36.5,137.9,5,6.5,mj,0,,,,centennial,centennial19181111070400,2013-07-09T19:07:18.000Z,"eastern Honshu, Japan",earthquake
+1918-11-08T04:38:10.000Z,43.816,152.775,63.5,7.5,mb,34,,,,centennial,centennial19181108043810,2013-07-09T19:07:18.000Z,"east of the Kuril Islands",earthquake
+1918-11-03T11:13:56.000Z,-49.885,163.001,15,6.6,uk,5,,,,centennial,centennial19181103111356,2013-07-09T19:07:18.000Z,"Auckland Islands, New Zealand region",earthquake

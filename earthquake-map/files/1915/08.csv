@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1915-08-12T07:36:36.000Z,-2.5,119.5,60,6.6,uk,0,,,,centennial,centennial19150812073636,2013-07-09T19:07:17.000Z,"Sulawesi, Indonesia",earthquake
+1915-08-06T13:12:07.000Z,43,150.5,0,7.1,mj,0,,,,centennial,centennial19150806131207,2013-07-09T19:07:17.000Z,"east of the Kuril Islands",earthquake

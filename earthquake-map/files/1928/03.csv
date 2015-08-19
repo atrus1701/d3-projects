@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-03-29T05:06:08.000Z,31.682,137.73,433.9,7,mb,34,,,,centennial,centennial19280329050608,2013-07-09T19:07:19.000Z,"Izu Islands, Japan region",earthquake
+1928-03-22T04:17:08.000Z,16.127,-96.505,35,7.5,mw,41,,,,centennial,centennial19280322041708,2013-07-09T19:07:19.000Z,"Oaxaca, Mexico",earthquake
+1928-03-16T05:01:10.000Z,-22.281,170.476,35,7.5,mw,49,,,,centennial,centennial19280316050110,2013-07-09T19:07:19.000Z,"southeast of the Loyalty Islands",earthquake
+1928-03-13T18:31:35.000Z,-7.213,153.873,35,7,mb,13,,,,centennial,centennial19280313183135,2013-07-09T19:07:19.000Z,"New Britain region, Papua New Guinea",earthquake
+1928-03-09T18:05:27.000Z,-2.954,88.801,15,7.7,mw,68,,,,centennial,centennial19280309180527,2013-07-09T19:07:19.000Z,"South Indian Ocean",earthquake

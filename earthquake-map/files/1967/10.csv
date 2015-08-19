@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-10-26T00:22:23.000Z,24.468,122.349,63.2,5.6,mb,171,,,,centennial,centennial19671026002223,2013-07-09T19:07:33.000Z,"Taiwan region",earthquake
+1967-10-25T00:59:24.000Z,24.463,122.218,67.2,7,mb,263,,,,centennial,centennial19671025005924,2013-07-09T19:07:33.000Z,"Taiwan region",earthquake
+1967-10-18T01:11:41.000Z,79.823,2.647,1.2,5.6,mb,228,,,,centennial,centennial19671018011141,2013-07-09T19:07:33.000Z,"Greenland Sea",earthquake
+1967-10-17T21:05:23.000Z,17.194,121.841,30.6,5.5,mb,113,,,,centennial,centennial19671017210523,2013-07-09T19:07:33.000Z,"Luzon, Philippines",earthquake
+1967-10-16T16:58:04.000Z,1.72,127.512,128.4,5.6,mb,122,,,,centennial,centennial19671016165804,2013-07-09T19:07:33.000Z,"Halmahera, Indonesia",earthquake
+1967-10-15T08:00:51.000Z,11.906,-85.924,161.5,6.1,mb,244,,,,centennial,centennial19671015080051,2013-07-09T19:07:33.000Z,"Nicaragua",earthquake
+1967-10-12T18:31:43.000Z,-7.179,129.851,86.7,6,mb,171,,,,centennial,centennial19671012183143,2013-07-09T19:07:33.000Z,"Kepulauan Babar, Indonesia",earthquake
+1967-10-12T12:53:47.000Z,52.155,152.521,472.2,5.5,mb,225,,,,centennial,centennial19671012125347,2013-07-09T19:07:33.000Z,"northwest of the Kuril Islands",earthquake
+1967-10-12T06:35:08.000Z,-21.128,-179.086,644.4,5.5,mb,178,,,,centennial,centennial19671012063508,2013-07-09T19:07:33.000Z,"Fiji region",earthquake
+1967-10-09T17:21:49.000Z,-21.295,-179.063,636.4,7.3,ms,314,,,,centennial,centennial19671009172149,2013-07-09T19:07:33.000Z,"Fiji region",earthquake
+1967-10-08T16:59:38.000Z,-9.439,148.871,37.1,5.6,mb,82,,,,centennial,centennial19671008165938,2013-07-09T19:07:33.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1967-10-04T17:21:19.000Z,-5.658,153.948,29.6,5.8,mb,154,,,,centennial,centennial19671004172119,2013-07-09T19:07:33.000Z,"New Ireland region, Papua New Guinea",earthquake
+1967-10-03T18:16:08.000Z,10.965,-85.885,43.9,5.6,mb,178,,,,centennial,centennial19671003181608,2013-07-09T19:07:33.000Z,"Costa Rica",earthquake

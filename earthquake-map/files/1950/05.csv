@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-05-27T14:27:13.000Z,-18.5,-178,603,6.6,uk,0,,,,centennial,centennial19500527142713,2013-07-09T19:07:24.000Z,"Fiji region",earthquake
+1950-05-26T01:17:25.000Z,-20.25,169.25,40,6.9,ms,0,,,,centennial,centennial19500526011725,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-05-25T18:35:04.000Z,12.545,143.421,77.6,7.1,mb,0,,,,centennial,centennial19500525183504,2013-07-09T19:07:24.000Z,"Guam region",earthquake
+1950-05-19T02:38:11.000Z,-20.6,169,0,6.7,uk,0,,,,centennial,centennial19500519023811,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-05-17T18:13:13.000Z,-21,169,40,6.6,ms,0,,,,centennial,centennial19500517181313,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-05-17T11:46:45.000Z,39.25,130.25,580,6.5,uk,0,,,,centennial,centennial19500517114645,2013-07-09T19:07:24.000Z,"Sea of Japan",earthquake

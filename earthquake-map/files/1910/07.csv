@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-07-29T10:26:42.000Z,-5,143,80,6.7,uk,0,,,,centennial,centennial19100729102642,2013-07-09T19:07:16.000Z,"New Guinea, Papua New Guinea",earthquake
+1910-07-12T07:36:12.000Z,37,76,120,6.6,uk,0,,,,centennial,centennial19100712073612,2013-07-09T19:07:16.000Z,"Tajikistan-Xinjiang border region",earthquake
+1910-07-07T08:17:00.000Z,-12,108,0,6.8,ms,0,,,,centennial,centennial19100707081700,2013-07-09T19:07:16.000Z,"northwest of Australia",earthquake

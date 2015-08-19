@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-03-27T21:18:29.000Z,-5.9,102.9,0,6.8,uk,0,,,,centennial,centennial19500327211829,2013-07-09T19:07:24.000Z,"southern Sumatra, Indonesia",earthquake
+1950-03-27T13:04:02.000Z,53.3,172.2,0,6.6,uk,0,,,,centennial,centennial19500327130402,2013-07-09T19:07:24.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1950-03-14T03:10:04.000Z,-8.5,-74,160,6.6,uk,0,,,,centennial,centennial19500314031004,2013-07-09T19:07:24.000Z,"Peru-Brazil border region",earthquake
+1950-03-07T02:07:47.000Z,10.5,122.3,0,6.7,ms,0,,,,centennial,centennial19500307020747,2013-07-09T19:07:24.000Z,"Panay, Philippines",earthquake
+1950-03-02T18:39:45.000Z,-60,-35,0,6.7,uk,0,,,,centennial,centennial19500302183945,2013-07-09T19:07:24.000Z,"Scotia Sea",earthquake

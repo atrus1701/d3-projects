@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-01-30T00:56:32.000Z,-53.5,-71.5,0,6.9,ms,0,,,,centennial,centennial19500130005632,2013-07-09T19:07:24.000Z,"Magallanes y Antartica Chilena, Chile",earthquake
+1950-01-12T12:06:09.000Z,-18,-178,550,6.6,uk,0,,,,centennial,centennial19500112120609,2013-07-09T19:07:24.000Z,"Fiji region",earthquake
+1950-01-02T15:14:35.000Z,-11.5,165.4,0,6.8,uk,0,,,,centennial,centennial19500102151435,2013-07-09T19:07:24.000Z,"Santa Cruz Islands",earthquake

@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1961-01-31T00:48:39.000Z,55.863,-153.701,23.5,6.5,uk,125,,,,centennial,centennial19610131004839,2013-07-09T19:07:27.000Z,"south of Alaska",earthquake
+1961-01-22T03:24:11.000Z,-12.53,165.688,35,6.8,ms,88,,,,centennial,centennial19610122032411,2013-07-09T19:07:27.000Z,"Santa Cruz Islands",earthquake
+1961-01-16T07:20:13.000Z,36.123,141.91,35,6.9,ms,168,,,,centennial,centennial19610116072013,2013-07-09T19:07:27.000Z,"near the east coast of Honshu, Japan",earthquake
+1961-01-05T18:14:34.000Z,-20.985,169.378,8.7,6.6,ms,119,,,,centennial,centennial19610105181434,2013-07-09T19:07:27.000Z,"Vanuatu",earthquake
+1961-01-05T17:57:48.000Z,-21.013,169.583,5.4,6.5,ms,155,,,,centennial,centennial19610105175748,2013-07-09T19:07:27.000Z,"southeast of the Loyalty Islands",earthquake
+1961-01-05T15:54:04.000Z,-4.226,143.206,141.1,7.1,mb,183,,,,centennial,centennial19610105155404,2013-07-09T19:07:27.000Z,"New Guinea, Papua New Guinea",earthquake
+1961-01-05T14:06:32.000Z,51.748,-175.863,42.7,6.5,ms,256,,,,centennial,centennial19610105140632,2013-07-09T19:07:27.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

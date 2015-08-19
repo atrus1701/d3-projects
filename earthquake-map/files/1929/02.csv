@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1929-02-22T20:41:49.000Z,10.482,-41.883,15,7,ms,68,,,,centennial,centennial19290222204149,2013-07-09T19:07:19.000Z,"northern Mid-Atlantic Ridge",earthquake
+1929-02-06T06:49:14.000Z,48.528,152.84,137.6,6.6,uk,34,,,,centennial,centennial19290206064914,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake
+1929-02-02T00:00:23.000Z,-1.513,-21.784,15,6.8,ms,57,,,,centennial,centennial19290202000023,2013-07-09T19:07:19.000Z,"central Mid-Atlantic Ridge",earthquake
+1929-02-01T17:14:26.000Z,36.459,70.931,207.9,7,mb,56,,,,centennial,centennial19290201171426,2013-07-09T19:07:19.000Z,"Hindu Kush region, Afghanistan",earthquake

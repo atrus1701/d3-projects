@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-12-30T15:39:38.000Z,-4.755,151.853,110.1,5.9,mb,163,,,,centennial,centennial19711230153938,2013-07-09T19:07:39.000Z,"New Britain region, Papua New Guinea",earthquake
+1971-12-30T06:20:57.000Z,49.75,78.13,0,5.8,,,,,,atlas,atlas19711230062057,2014-03-17T19:58:03.703Z,"eastern Kazakhstan",earthquake
+1971-12-29T22:27:07.000Z,25.155,94.684,64,5.6,mb,160,,,,centennial,centennial19711229222707,2013-07-09T19:07:39.000Z,"Myanmar-India border region",earthquake
+1971-12-26T15:50:57.000Z,-6.362,154.951,54.8,6,uk,161,,,,centennial,centennial19711226155057,2014-03-17T19:57:51.380Z,"Bougainville region, Papua New Guinea",earthquake
+1971-12-22T06:59:56.000Z,47.872,48.222,0,6,,,,,,atlas,atlas19711222065956,2014-03-17T19:57:34.906Z,"Russia-Kazakhstan border region",earthquake
+1971-12-17T19:06:08.000Z,55.53,163.832,26.9,5.9,ms,185,,,,centennial,centennial19711217190608,2013-07-09T19:07:39.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1971-12-15T08:29:55.000Z,56.023,163.173,21.8,7.8,mw,306,,,,centennial,centennial19711215082955,2013-07-09T19:07:39.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1971-12-11T07:25:20.000Z,-6.104,154.521,61.9,5.6,mb,143,,,,centennial,centennial19711211072520,2013-07-09T19:07:39.000Z,"Bougainville region, Papua New Guinea",earthquake
+1971-12-11T03:30:00.000Z,1.708,127.308,128.5,5.5,mb,115,,,,centennial,centennial19711211033000,2013-07-09T19:07:39.000Z,"Halmahera, Indonesia",earthquake
+1971-12-09T15:01:00.000Z,-21.654,173.321,42.7,5.7,ms,86,,,,centennial,centennial19711209150100,2013-07-09T19:07:39.000Z,"Vanuatu region",earthquake
+1971-12-09T01:42:31.000Z,27.301,56.377,9.2,5.8,ms,144,,,,centennial,centennial19711209014231,2014-03-17T19:57:18.229Z,"southern Iran",earthquake
+1971-12-08T16:05:25.000Z,-22.877,-70.563,19.8,6.1,ms,122,,,,centennial,centennial19711208160525,2014-03-17T19:57:03.450Z,"near the coast of Antofagasta, Chile",earthquake
+1971-12-07T06:23:11.000Z,3.682,127.967,54.4,5.7,mb,172,,,,centennial,centennial19711207062311,2013-07-09T19:07:39.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1971-12-07T03:26:18.000Z,-54.409,5.844,7.9,6.1,ms,68,,,,centennial,centennial19711207032618,2013-07-09T19:07:39.000Z,"Bouvet Island region",earthquake
+1971-12-05T05:50:09.000Z,49.442,-129.678,15,6,ms,86,,,,centennial,centennial19711205055009,2013-07-09T19:07:39.000Z,"Vancouver Island, Canada region",earthquake
+1971-12-04T02:25:53.000Z,-6.01,154.527,83.9,5.9,mb,201,,,,centennial,centennial19711204022553,2013-07-09T19:07:39.000Z,"Bougainville region, Papua New Guinea",earthquake
+1971-12-02T17:18:22.000Z,44.805,153.439,15.6,6.3,ms,323,,,,centennial,centennial19711202171822,2013-07-09T19:07:39.000Z,"east of the Kuril Islands",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-06-26T05:42:54.000Z,-8.777,124.005,25,6.7,ms,0,,,,centennial,centennial19530626054254,2013-07-09T19:07:25.000Z,"Kepulauan Alor, Indonesia",earthquake
+1953-06-25T10:45:02.000Z,-8.809,123.412,25,6.9,ms,0,,,,centennial,centennial19530625104502,2013-07-09T19:07:25.000Z,"Flores region, Indonesia",earthquake
+1953-06-25T10:43:53.000Z,-9.2,123,0,6.8,ms,0,,,,centennial,centennial19530625104353,2013-07-09T19:07:25.000Z,"South Pacific Ocean",earthquake

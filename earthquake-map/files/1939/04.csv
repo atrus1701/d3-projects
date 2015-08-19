@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1939-04-30T02:55:29.000Z,-9.295,159.234,35,7.9,mw,44,,,,centennial,centennial19390430025529,2013-07-09T19:07:21.000Z,"Solomon Islands",earthquake
+1939-04-21T04:29:17.000Z,47.745,139.821,35,6.9,mb,67,,,,centennial,centennial19390421042917,2013-07-09T19:07:21.000Z,"Primor'ye, Russia",earthquake
+1939-04-18T06:22:43.000Z,-27.138,-70.705,35,7.3,mb,68,,,,centennial,centennial19390418062243,2013-07-09T19:07:21.000Z,"Atacama, Chile",earthquake
+1939-04-05T16:42:45.000Z,-19.712,168.984,35,7,mb,67,,,,centennial,centennial19390405164245,2013-07-09T19:07:21.000Z,"Vanuatu",earthquake

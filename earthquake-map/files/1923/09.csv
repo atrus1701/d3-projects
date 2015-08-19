@@ -1,0 +1,17 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1923-09-26T08:24:00.000Z,34.8,139.4,5,6.7,mj,0,,,,centennial,centennial19230926082400,2013-07-09T19:07:19.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-22T20:47:44.000Z,29.12,56.928,35,6.7,uk,27,,,,centennial,centennial19230922204744,2013-07-09T19:07:19.000Z,"southern Iran",earthquake
+1923-09-09T22:03:53.000Z,24.943,90.32,35,7.1,ms,30,,,,centennial,centennial19230909220353,2013-07-09T19:07:19.000Z,"Bangladesh",earthquake
+1923-09-02T22:38:08.000Z,-15.538,-66.605,35,6.8,mb,15,,,,centennial,centennial19230902223808,2013-07-09T19:07:19.000Z,"Beni, Bolivia",earthquake
+1923-09-02T13:09:00.000Z,35.3,139.1,5,6.5,mj,0,,,,centennial,centennial19230902130900,2013-07-09T19:07:19.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-02T09:27:00.000Z,34.9,140.5,35,7.1,mj,0,,,,centennial,centennial19230902092700,2013-07-09T19:07:19.000Z,"near the east coast of Honshu, Japan",earthquake
+1923-09-02T02:46:46.000Z,34.9,140.2,35,7.6,mw,40,,,,centennial,centennial19230902024646,2013-07-09T19:07:19.000Z,"near the east coast of Honshu, Japan",earthquake
+1923-09-01T07:38:00.000Z,35.5,138.9,5,6.8,mj,0,,,,centennial,centennial19230901073800,2013-07-09T19:07:18.000Z,"eastern Honshu, Japan",earthquake
+1923-09-01T06:19:00.000Z,35.5,140.5,35,6.5,mj,0,,,,centennial,centennial19230901061900,2013-07-09T19:07:18.000Z,"near the east coast of Honshu, Japan",earthquake
+1923-09-01T05:23:00.000Z,35.4,139,35,6.7,mj,0,,,,centennial,centennial19230901052300,2013-07-09T19:07:18.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-01T03:48:00.000Z,35.4,139.8,35,7,mj,0,,,,centennial,centennial19230901034800,2013-07-09T19:07:18.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-01T03:39:00.000Z,35.2,139.7,35,6.6,mj,0,,,,centennial,centennial19230901033900,2013-07-09T19:07:18.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-01T03:23:00.000Z,35.4,139.4,35,6.6,mj,0,,,,centennial,centennial19230901032300,2013-07-09T19:07:18.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-01T03:03:00.000Z,35.1,139.5,35,7.3,mj,0,,,,centennial,centennial19230901030300,2013-07-09T19:07:18.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-01T03:01:00.000Z,35.1,139.5,60,6.5,mj,0,,,,centennial,centennial19230901030100,2013-07-09T19:07:18.000Z,"near the south coast of Honshu, Japan",earthquake
+1923-09-01T02:58:37.000Z,35.405,139.084,35,7.9,mw,39,,,,centennial,centennial19230901025837,2014-03-19T15:53:54.202Z,"near the south coast of Honshu, Japan",earthquake

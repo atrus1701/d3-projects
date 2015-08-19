@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-05-27T05:58:58.000Z,-1.938,135.289,35,7.2,mw,0,,,,centennial,centennial19470527055858,2013-07-09T19:07:23.000Z,"Biak region, Indonesia",earthquake
+1947-05-06T20:30:38.000Z,-6.335,148.922,35,7.3,mw,0,,,,centennial,centennial19470506203038,2013-07-09T19:07:23.000Z,"New Britain region, Papua New Guinea",earthquake

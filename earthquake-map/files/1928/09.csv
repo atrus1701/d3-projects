@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-09-22T07:31:33.000Z,-12.708,165.892,35,6.7,uk,20,,,,centennial,centennial19280922073133,2013-07-09T19:07:19.000Z,"Santa Cruz Islands",earthquake
+1928-09-21T13:27:07.000Z,-14.954,-70.331,242.5,6.6,uk,16,,,,centennial,centennial19280921132707,2013-07-09T19:07:19.000Z,"southern Peru",earthquake
+1928-09-07T02:49:21.000Z,-5.495,147.001,140,6.6,uk,3,,,,centennial,centennial19280907024921,2013-07-09T19:07:19.000Z,"eastern New Guinea region, Papua New Guinea",earthquake

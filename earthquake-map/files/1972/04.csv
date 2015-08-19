@@ -1,0 +1,25 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-04-30T15:15:35.000Z,13.552,120.491,54.2,5.6,mb,159,,,,centennial,centennial19720430151535,2013-07-09T19:07:39.000Z,"Mindoro, Philippines",earthquake
+1972-04-28T23:32:11.000Z,-5.139,154.227,408.8,7.2,ms,246,,,,centennial,centennial19720428233211,2014-03-17T20:03:27.627Z,"Bougainville region, Papua New Guinea",earthquake
+1972-04-27T19:20:55.000Z,24.054,122.507,31.3,5.5,mb,146,,,,centennial,centennial19720427192055,2013-07-09T19:07:39.000Z,"Taiwan region",earthquake
+1972-04-25T19:30:08.000Z,13.388,120.312,29.7,7.2,mw,300,,,,centennial,centennial19720425193008,2014-03-17T20:03:09.545Z,"Mindoro, Philippines",earthquake
+1972-04-25T17:26:27.000Z,-26.113,27.582,33,5.5,,,,,,atlas,atlas19720425172627,2014-03-17T20:02:51.730Z,"South Africa",earthquake
+1972-04-24T09:57:21.000Z,23.605,121.531,20.9,6.9,ms,286,,,,centennial,centennial19720424095721,2014-03-17T20:02:35.523Z,"Taiwan",earthquake
+1972-04-24T02:04:25.000Z,-21.382,-179.276,608.8,5.5,mb,130,,,,centennial,centennial19720424020425,2013-07-09T19:07:39.000Z,"Fiji region",earthquake
+1972-04-24T01:20:47.000Z,-31.316,-111.087,14.9,6.1,ms,151,,,,centennial,centennial19720424012047,2013-07-09T19:07:39.000Z,"Easter Island region",earthquake
+1972-04-21T13:25:17.000Z,-15.307,-173.574,80,5.7,mb,134,,,,centennial,centennial19720421132517,2013-07-09T19:07:39.000Z,"Tonga",earthquake
+1972-04-21T01:28:11.000Z,53.916,-166.838,107.4,5.8,mb,252,,,,centennial,centennial19720421012811,2013-07-09T19:07:39.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1972-04-17T10:49:45.000Z,24.17,122.463,41.4,6.1,ms,248,,,,centennial,centennial19720417104945,2013-07-09T19:07:39.000Z,"Taiwan region",earthquake
+1972-04-11T02:21:14.000Z,0.895,-28.321,12.5,6.4,ms,256,,,,centennial,centennial19720411022114,2013-07-09T19:07:39.000Z,"central Mid-Atlantic Ridge",earthquake
+1972-04-10T02:06:51.000Z,28.411,52.789,5.6,6.9,ms,253,,,,centennial,centennial19720410020651,2014-03-20T16:49:57.365Z,"southern Iran",earthquake
+1972-04-08T06:24:16.000Z,42.561,-126.453,21.4,5.5,uk,76,,,,centennial,centennial19720408062416,2013-07-09T19:07:39.000Z,"off the coast of Oregon",earthquake
+1972-04-07T00:30:54.000Z,5.154,62.005,13.4,5.5,ms,96,,,,centennial,centennial19720407003054,2013-07-09T19:07:39.000Z,"Carlsberg Ridge",earthquake
+1972-04-04T22:43:08.000Z,-7.512,125.566,382.3,6.8,ms,247,,,,centennial,centennial19720404224308,2014-03-17T20:02:04.390Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1972-04-03T20:36:20.000Z,54.268,-35.169,7.7,5.5,ms,175,,,,centennial,centennial19720403203620,2013-07-09T19:07:39.000Z,"Reykjanes Ridge",earthquake
+1972-04-03T18:52:57.000Z,54.212,-35.15,6.2,5.7,ms,169,,,,centennial,centennial19720403185257,2013-07-09T19:07:39.000Z,"Reykjanes Ridge",earthquake
+1972-04-02T21:30:05.000Z,-13.136,166.175,11,6.6,ms,153,,,,centennial,centennial19720402213005,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1972-04-02T09:01:21.000Z,-16.077,-172.976,1.7,5.8,ms,164,,,,centennial,centennial19720402090121,2013-07-09T19:07:39.000Z,"Samoa Islands region",earthquake
+1972-04-02T04:49:18.000Z,-22.351,171.622,43.9,5.5,uk,33,,,,centennial,centennial19720402044918,2013-07-09T19:07:39.000Z,"southeast of the Loyalty Islands",earthquake
+1972-04-02T00:38:59.000Z,-49.496,164.05,15,5.5,mb,60,,,,centennial,centennial19720402003859,2013-07-09T19:07:39.000Z,"Auckland Islands, New Zealand region",earthquake
+1972-04-02T00:17:41.000Z,-49.55,164.126,5.2,5.5,mb,38,,,,centennial,centennial19720402001741,2013-07-09T19:07:39.000Z,"Auckland Islands, New Zealand region",earthquake
+1972-04-01T23:51:19.000Z,-49.454,164.062,1.8,6.3,ms,187,,,,centennial,centennial19720401235119,2013-07-09T19:07:39.000Z,"Auckland Islands, New Zealand region",earthquake

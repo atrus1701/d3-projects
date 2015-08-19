@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-06-29T17:09:12.000Z,-62.702,166.456,10,6,ms,105,,,,centennial,centennial19690629170912,2013-07-09T19:07:35.000Z,"Balleny Islands region",earthquake
+1969-06-29T10:34:10.000Z,-30.627,-178.076,66.7,5.7,mb,180,,,,centennial,centennial19690629103410,2013-07-09T19:07:35.000Z,"Kermadec Islands, New Zealand",earthquake
+1969-06-22T10:45:26.000Z,51.435,-179.951,62,6.1,mb,245,,,,centennial,centennial19690622104526,2013-07-09T19:07:35.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1969-06-21T15:12:10.000Z,-5.446,109.592,558.6,5.5,mb,161,,,,centennial,centennial19690621151210,2013-07-09T19:07:35.000Z,"Java Sea",earthquake
+1969-06-20T15:37:51.000Z,40.792,142.131,58.4,5.5,mb,165,,,,centennial,centennial19690620153751,2013-07-09T19:07:35.000Z,"near the east coast of Honshu, Japan",earthquake
+1969-06-18T23:44:15.000Z,52.597,-167.957,35.3,5.6,ms,184,,,,centennial,centennial19690618234415,2013-07-09T19:07:35.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1969-06-17T23:58:08.000Z,-52.609,159.814,12.4,6.6,ms,116,,,,centennial,centennial19690617235808,2013-07-09T19:07:35.000Z,"Macquarie Island region",earthquake
+1969-06-17T19:26:30.000Z,18.955,145.547,211.1,5.7,mb,213,,,,centennial,centennial19690617192630,2013-07-09T19:07:35.000Z,"Pagan region, Northern Mariana Islands",earthquake
+1969-06-14T03:22:57.000Z,-7.943,159.067,58.7,6.6,uk,181,,,,centennial,centennial19690614032257,2013-07-09T19:07:35.000Z,"Solomon Islands",earthquake
+1969-06-13T08:48:30.000Z,49.428,155.478,61.6,6,mb,286,,,,centennial,centennial19690613084830,2013-07-09T19:07:35.000Z,"Kuril Islands",earthquake
+1969-06-12T15:13:32.000Z,34.396,25.051,22.6,5.8,ms,157,,,,centennial,centennial19690612151332,2013-07-09T19:07:35.000Z,"Crete, Greece",earthquake
+1969-06-09T21:53:02.000Z,-23.536,-174.805,28.3,5.6,ms,140,,,,centennial,centennial19690609215302,2013-07-09T19:07:35.000Z,"Tonga region",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-05-13T09:02:08.000Z,-4.889,153.842,35,6.6,uk,56,,,,centennial,centennial19340513090208,2013-07-09T19:07:20.000Z,"New Ireland region, Papua New Guinea",earthquake
+1934-05-04T04:36:10.000Z,61.519,-147.599,35,7.1,mb,142,,,,centennial,centennial19340504043610,2013-07-09T19:07:20.000Z,"Southern Alaska",earthquake
+1934-05-01T07:04:59.000Z,3.783,97.937,144.7,6.9,mb,71,,,,centennial,centennial19340501070459,2013-07-09T19:07:20.000Z,"northern Sumatra, Indonesia",earthquake

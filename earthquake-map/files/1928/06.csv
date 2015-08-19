@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-06-29T22:49:45.000Z,-15.664,170.701,35,7.1,ms,32,,,,centennial,centennial19280629224945,2013-07-09T19:07:19.000Z,"Vanuatu region",earthquake
+1928-06-21T16:27:19.000Z,60.191,-147.538,35,6.8,ms,56,,,,centennial,centennial19280621162719,2013-07-09T19:07:19.000Z,"Southern Alaska",earthquake
+1928-06-17T03:19:33.000Z,16.028,-97.036,35,7.7,mw,58,,,,centennial,centennial19280617031933,2013-07-09T19:07:19.000Z,"Oaxaca, Mexico",earthquake
+1928-06-15T17:16:29.000Z,13.007,120.748,35,6.6,uk,20,,,,centennial,centennial19280615171629,2013-07-09T19:07:19.000Z,"Mindoro, Philippines",earthquake
+1928-06-15T06:12:42.000Z,12.732,120.819,35,7,ms,47,,,,centennial,centennial19280615061242,2013-07-09T19:07:19.000Z,"Mindoro, Philippines",earthquake

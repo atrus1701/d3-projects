@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-08-31T17:44:42.000Z,-3.018,151.289,35,6.6,uk,39,,,,centennial,centennial19380831174442,2013-07-09T19:07:21.000Z,"New Ireland region, Papua New Guinea",earthquake
+1938-08-30T11:49:39.000Z,-3.911,143.574,35,6.6,uk,35,,,,centennial,centennial19380830114939,2013-07-09T19:07:21.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1938-08-25T01:28:06.000Z,-5.679,101.297,35,6.7,uk,72,,,,centennial,centennial19380825012806,2013-07-09T19:07:21.000Z,"southwest of Sumatra, Indonesia",earthquake
+1938-08-18T09:30:11.000Z,-4.04,102.687,124.6,6.7,uk,60,,,,centennial,centennial19380818093011,2013-07-09T19:07:21.000Z,"southern Sumatra, Indonesia",earthquake
+1938-08-16T04:27:56.000Z,22.957,93.884,35,7.1,mw,71,,,,centennial,centennial19380816042756,2013-07-09T19:07:21.000Z,"Myanmar-India border region",earthquake
+1938-08-04T08:54:54.000Z,-23.761,-66.559,207.7,6.6,uk,51,,,,centennial,centennial19380804085454,2013-07-09T19:07:21.000Z,"Jujuy, Argentina",earthquake

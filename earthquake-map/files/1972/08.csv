@@ -1,0 +1,33 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-08-30T10:29:50.000Z,-3.498,144.909,1.1,6.4,ms,159,,,,centennial,centennial19720830102950,2014-03-17T20:11:28.084Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1972-08-28T18:57:59.000Z,-21.338,-174.237,1.5,6,ms,151,,,,centennial,centennial19720828185759,2013-07-09T19:07:40.000Z,"Tonga",earthquake
+1972-08-28T02:18:56.000Z,-24.992,136.326,13.4,5.6,mb,120,,,,centennial,centennial19720828021856,2013-07-09T19:07:40.000Z,"Northern Territory, Australia",earthquake
+1972-08-26T03:46:56.000Z,49.994,77.781,0,5.5,,,,,,atlas,atlas19720826034656,2014-03-17T20:11:10.658Z,"eastern Kazakhstan",earthquake
+1972-08-23T11:59:54.000Z,1.807,127.276,115.2,5.6,mb,100,,,,centennial,centennial19720823115954,2013-07-09T19:07:40.000Z,"Halmahera, Indonesia",earthquake
+1972-08-23T08:47:18.000Z,58.182,-153.485,68.8,5.5,mb,191,,,,centennial,centennial19720823084718,2013-07-09T19:07:40.000Z,"Kodiak Island region, Alaska",earthquake
+1972-08-21T06:23:50.000Z,49.44,147.082,589.7,6.2,ms,318,,,,centennial,centennial19720821062350,2013-07-09T19:07:40.000Z,"Sea of Okhotsk",earthquake
+1972-08-20T10:09:10.000Z,38.708,139.9669,25,5.5,,,,,,atlas,atlas19720820100910,2014-03-17T20:10:55.160Z,"near the west coast of Honshu, Japan",earthquake
+1972-08-20T02:59:57.000Z,49.462,48.179,0,5.7,,,,,,atlas,atlas19720820025957,2014-03-17T20:10:39.066Z,"Russia-Kazakhstan border region",earthquake
+1972-08-19T16:06:16.000Z,-5.142,134.089,31.4,6.1,mb,33,,,,centennial,centennial19720819160616,2014-03-17T20:10:25.931Z,"Kepulauan Aru region, Indonesia",earthquake
+1972-08-18T01:12:04.000Z,-5.986,152.701,37.6,5.5,mb,48,,,,centennial,centennial19720818011204,2013-07-09T19:07:40.000Z,"New Britain region, Papua New Guinea",earthquake
+1972-08-18T00:23:52.000Z,-6.048,152.623,30.6,5.8,mb,109,,,,centennial,centennial19720818002352,2013-07-09T19:07:40.000Z,"New Britain region, Papua New Guinea",earthquake
+1972-08-17T23:44:08.000Z,-6.003,152.929,15.4,7.1,ms,264,,,,centennial,centennial19720817234408,2013-07-09T19:07:40.000Z,"New Britain region, Papua New Guinea",earthquake
+1972-08-16T11:25:53.000Z,-51.936,139.534,15,5.6,ms,32,,,,centennial,centennial19720816112553,2013-07-09T19:07:40.000Z,"western Indian-Antarctic Ridge",earthquake
+1972-08-16T03:16:57.000Z,49.759,78.146,0,5.2,,,,,,atlas,atlas19720816031657,2014-03-17T20:10:11.233Z,"eastern Kazakhstan",earthquake
+1972-08-14T22:29:29.000Z,-6.282,144.518,40.1,5.5,ms,147,,,,centennial,centennial19720814222929,2013-07-09T19:07:40.000Z,"New Guinea, Papua New Guinea",earthquake
+1972-08-14T15:33:19.000Z,1.697,126.397,53.1,5.5,mb,104,,,,centennial,centennial19720814153319,2013-07-09T19:07:40.000Z,"Molucca Sea",earthquake
+1972-08-13T11:47:47.000Z,-51.921,-74.243,21.6,5.5,mb,101,,,,centennial,centennial19720813114747,2013-07-09T19:07:40.000Z,"Magallanes y Antartica Chilena, Chile",earthquake
+1972-08-12T23:47:57.000Z,41.125,22.749,12,4.9,,,,,,atlas,atlas19720812234757,2014-03-17T20:09:54.948Z,"Macedonia region",earthquake
+1972-08-12T13:15:48.000Z,5.044,-82.639,20.2,5.6,ms,155,,,,centennial,centennial19720812131548,2013-07-09T19:07:40.000Z,"south of Panama",earthquake
+1972-08-09T04:17:36.000Z,7.939,93.991,11.7,5.6,ms,166,,,,centennial,centennial19720809041736,2013-07-09T19:07:40.000Z,"Nicobar Islands, India region",earthquake
+1972-08-07T23:16:39.000Z,-19.062,169.206,182.2,5.5,mb,101,,,,centennial,centennial19720807231639,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake
+1972-08-07T09:24:13.000Z,-16.661,-171.962,16.3,6,ms,201,,,,centennial,centennial19720807092413,2013-07-09T19:07:40.000Z,"Samoa Islands region",earthquake
+1972-08-06T07:14:45.000Z,-11.086,162.18,29.2,6.5,uk,223,,,,centennial,centennial19720806071445,2014-03-17T20:09:42.524Z,"Solomon Islands",earthquake
+1972-08-05T06:31:00.000Z,-11.155,162.226,31,6.1,ms,120,,,,centennial,centennial19720805063100,2014-03-17T20:09:30.250Z,"Solomon Islands",earthquake
+1972-08-04T22:30:35.000Z,-11.038,162.066,13.5,6.1,ms,123,,,,centennial,centennial19720804223035,2014-03-17T20:09:19.470Z,"Solomon Islands",earthquake
+1972-08-04T20:01:38.000Z,-11.134,162.078,26.6,6,ms,123,,,,centennial,centennial19720804200138,2013-07-09T19:07:40.000Z,"Solomon Islands",earthquake
+1972-08-04T17:51:09.000Z,49.172,156.01,12.4,5.9,uk,294,,,,centennial,centennial19720804175109,2013-07-09T19:07:40.000Z,"Kuril Islands",earthquake
+1972-08-04T11:38:09.000Z,56.138,-135.507,19.3,5.8,ms,202,,,,centennial,centennial19720804113809,2013-07-09T19:07:40.000Z,"Southeastern Alaska",earthquake
+1972-08-03T04:40:55.000Z,51.118,-178.139,34.3,6.2,ms,276,,,,centennial,centennial19720803044055,2013-07-09T19:07:40.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1972-08-02T21:38:51.000Z,56.009,163.206,23.6,5.7,ms,257,,,,centennial,centennial19720802213851,2013-07-09T19:07:40.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1972-08-01T19:06:36.000Z,2.358,127.569,99.3,5.8,mb,235,,,,centennial,centennial19720801190636,2013-07-09T19:07:40.000Z,"Molucca Sea",earthquake

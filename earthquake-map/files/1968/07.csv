@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-07-30T20:38:42.000Z,-6.928,-80.408,29.4,6.4,ms,182,,,,centennial,centennial19680730203842,2013-07-09T19:07:34.000Z,"near the coast of northern Peru",earthquake
+1968-07-29T23:52:19.000Z,-0.293,133.499,32.4,6,ms,186,,,,centennial,centennial19680729235219,2013-07-09T19:07:34.000Z,"near the north coast of Papua, Indonesia",earthquake
+1968-07-29T13:30:31.000Z,-3.237,150.806,10.8,5.7,ms,94,,,,centennial,centennial19680729133031,2013-07-09T19:07:34.000Z,"New Ireland region, Papua New Guinea",earthquake
+1968-07-29T11:12:03.000Z,-22.501,-174.895,57.2,6,ms,145,,,,centennial,centennial19680729111203,2013-07-09T19:07:34.000Z,"Tonga region",earthquake
+1968-07-28T21:12:39.000Z,55.376,166.637,24.1,5.8,ms,193,,,,centennial,centennial19680728211239,2013-07-09T19:07:34.000Z,"Komandorskiye Ostrova, Russia region",earthquake
+1968-07-27T10:51:34.000Z,-19.227,175.928,31.2,5.5,mb,66,,,,centennial,centennial19680727105134,2013-07-09T19:07:34.000Z,"south of the Fiji Islands",earthquake
+1968-07-25T10:50:33.000Z,45.648,146.825,18.9,5.7,mb,225,,,,centennial,centennial19680725105033,2013-07-09T19:07:34.000Z,"Kuril Islands",earthquake
+1968-07-25T07:23:09.000Z,-30.81,-178.144,64.7,7.1,mb,271,,,,centennial,centennial19680725072309,2013-07-09T19:07:34.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-07-23T18:28:01.000Z,18.863,-106.931,15,5.9,ms,89,,,,centennial,centennial19680723182801,2013-07-09T19:07:34.000Z,"off the coast of Jalisco, Mexico",earthquake
+1968-07-22T17:58:31.000Z,-20.162,169.19,34.7,5.5,ms,121,,,,centennial,centennial19680722175831,2013-07-09T19:07:34.000Z,"Vanuatu",earthquake
+1968-07-21T17:28:18.000Z,-58.173,148.67,11.6,5.9,ms,29,,,,centennial,centennial19680721172818,2013-07-09T19:07:34.000Z,"west of Macquarie Island",earthquake
+1968-07-19T04:56:27.000Z,8.705,93.669,23.7,5.5,ms,195,,,,centennial,centennial19680719045627,2013-07-09T19:07:34.000Z,"Nicobar Islands, India region",earthquake
+1968-07-17T05:24:15.000Z,-8.728,125.063,12.9,5.6,mb,128,,,,centennial,centennial19680717052415,2013-07-09T19:07:34.000Z,"East Timor region",earthquake
+1968-07-12T03:56:28.000Z,39.61,143.214,19.7,5.6,mb,218,,,,centennial,centennial19680712035628,2013-07-09T19:07:34.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-07-12T00:44:37.000Z,39.585,143.215,21.4,5.8,mb,244,,,,centennial,centennial19680712004437,2013-07-09T19:07:34.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-07-10T11:16:44.000Z,-36.806,78.424,15,6.1,ms,107,,,,centennial,centennial19680710111644,2013-07-09T19:07:34.000Z,"Mid-Indian Ridge",earthquake
+1968-07-07T23:05:18.000Z,8.431,-103.292,27,5.6,ms,62,,,,centennial,centennial19680707230518,2013-07-09T19:07:34.000Z,"northern East Pacific Rise",earthquake
+1968-07-06T19:28:59.000Z,-6.437,133.859,50,5.6,mb,113,,,,centennial,centennial19680706192859,2013-07-09T19:07:34.000Z,"Kepulauan Aru region, Indonesia",earthquake
+1968-07-06T14:02:40.000Z,41.112,-117.31,6.8,5.5,uk,44,,,,centennial,centennial19680706140240,2013-07-09T19:07:34.000Z,"Nevada",earthquake
+1968-07-05T11:28:14.000Z,38.55,142.117,46.2,6,mb,264,,,,centennial,centennial19680705112814,2013-07-09T19:07:34.000Z,"near the east coast of Honshu, Japan",earthquake
+1968-07-02T18:40:15.000Z,-2.73,139.145,92.2,5.8,mb,84,,,,centennial,centennial19680702184015,2013-07-09T19:07:34.000Z,"near the north coast of Papua, Indonesia",earthquake
+1968-07-02T03:44:51.000Z,17.519,-100.259,58.3,5.7,mb,173,,,,centennial,centennial19680702034451,2013-07-09T19:07:34.000Z,"Guerrero, Mexico",earthquake
+1968-07-01T10:45:12.000Z,36.016,139.304,61.4,5.8,mb,247,,,,centennial,centennial19680701104512,2013-07-09T19:07:34.000Z,"eastern Honshu, Japan",earthquake

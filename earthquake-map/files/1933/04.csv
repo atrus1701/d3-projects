@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1933-04-27T02:36:11.000Z,60.987,-151.002,35,6.9,ms,108,,,,centennial,centennial19330427023611,2013-07-09T19:07:20.000Z,"Kenai Peninsula, Alaska",earthquake
+1933-04-23T05:57:37.000Z,36.516,27.15,35,6.6,uk,40,,,,centennial,centennial19330423055737,2013-07-09T19:07:20.000Z,"Dodecanese Islands, Greece",earthquake
+1933-04-09T02:46:42.000Z,39.398,143.658,35,6.6,uk,42,,,,centennial,centennial19330409024642,2013-07-09T19:07:20.000Z,"off the east coast of Honshu, Japan",earthquake

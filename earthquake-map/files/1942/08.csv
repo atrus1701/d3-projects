@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1942-08-29T01:39:20.000Z,-24,179.5,570,6.6,uk,0,,,,centennial,centennial19420829013920,2013-07-09T19:07:22.000Z,"south of the Fiji Islands",earthquake
+1942-08-24T22:50:31.000Z,-14.975,-74.92,35,7.7,mw,68,,,,centennial,centennial19420824225031,2013-07-09T19:07:22.000Z,"central Peru",earthquake
+1942-08-06T23:37:00.000Z,13.78,-90.913,35,7.7,mw,68,,,,centennial,centennial19420806233700,2013-07-09T19:07:22.000Z,"offshore Guatemala",earthquake
+1942-08-01T14:30:12.000Z,-47.796,100.768,15,6.8,ms,18,,,,centennial,centennial19420801143012,2013-07-09T19:07:22.000Z,"southeast Indian Ridge",earthquake
+1942-08-01T12:34:04.000Z,-41.066,175.684,35,6.9,ms,60,,,,centennial,centennial19420801123404,2013-07-09T19:07:22.000Z,"North Island of New Zealand",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-06-12T12:43:42.000Z,17,-89,0,6.6,uk,0,,,,centennial,centennial19120612124342,2013-07-09T19:07:17.000Z,"Belize",earthquake
+1912-06-10T16:06:06.000Z,59,-153,0,6.9,ms,0,,,,centennial,centennial19120610160606,2013-07-09T19:07:17.000Z,"Southern Alaska",earthquake
+1912-06-08T04:41:30.000Z,40.5,142,35,6.6,uk,0,,,,centennial,centennial19120608044130,2013-07-09T19:07:17.000Z,"near the east coast of Honshu, Japan",earthquake

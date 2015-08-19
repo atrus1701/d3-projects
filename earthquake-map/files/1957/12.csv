@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-12-17T13:50:22.000Z,-12.473,166.672,124.2,7.2,mb,220,,,,centennial,centennial19571217135022,2013-07-09T19:07:26.000Z,"Santa Cruz Islands",earthquake
+1957-12-13T01:45:06.000Z,34.298,47.718,35,6.8,ms,128,,,,centennial,centennial19571213014506,2013-07-09T19:07:26.000Z,"western Iran",earthquake
+1957-12-13T01:31:58.000Z,6.777,-76.791,56.6,6.5,ms,99,,,,centennial,centennial19571213013158,2013-07-09T19:07:26.000Z,"northern Colombia",earthquake
+1957-12-10T14:36:01.000Z,-6.563,154.947,23.1,6.6,ms,108,,,,centennial,centennial19571210143601,2013-07-09T19:07:26.000Z,"Bougainville region, Papua New Guinea",earthquake
+1957-12-04T03:37:51.000Z,45.182,99.219,25,8.1,mw,203,,,,centennial,centennial19571204033751,2013-07-09T19:07:26.000Z,"central Mongolia",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-10-26T07:35:09.000Z,37.531,143.058,11.6,6.5,ms,165,,,,centennial,centennial19591026073509,2013-07-09T19:07:27.000Z,"off the east coast of Honshu, Japan",earthquake
+1959-10-15T06:15:39.000Z,0.007,119.99,24.2,6.5,ms,207,,,,centennial,centennial19591015061539,2013-07-09T19:07:27.000Z,"Minahasa, Sulawesi, Indonesia",earthquake

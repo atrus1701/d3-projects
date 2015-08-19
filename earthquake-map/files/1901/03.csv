@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1901-03-16T11:56:00.000Z,-10,40,0,6.9,ms,0,,,,centennial,centennial19010316115600,2013-07-09T19:07:15.000Z,"off the coast of Tanzania",earthquake
+1901-03-05T10:45:00.000Z,25,-110,0,6.9,ms,0,,,,centennial,centennial19010305104500,2013-07-09T19:07:15.000Z,"Baja California Sur, Mexico",earthquake

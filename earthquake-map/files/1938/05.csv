@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-05-30T14:29:52.000Z,-19.882,169.165,35,7,mb,86,,,,centennial,centennial19380530142952,2013-07-09T19:07:21.000Z,"Vanuatu",earthquake
+1938-05-23T08:21:54.000Z,18.053,119.994,35,7,mb,42,,,,centennial,centennial19380523082154,2013-07-09T19:07:21.000Z,"Philippine Islands region",earthquake
+1938-05-23T07:18:32.000Z,36.458,141.755,35,7.7,mw,91,,,,centennial,centennial19380523071832,2013-07-09T19:07:21.000Z,"near the east coast of Honshu, Japan",earthquake
+1938-05-19T17:08:36.000Z,-0.366,119.525,49.4,7.5,mw,37,,,,centennial,centennial19380519170836,2013-07-09T19:07:21.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1938-05-12T15:39:05.000Z,-6.271,147.803,35,7.3,mw,71,,,,centennial,centennial19380512153905,2013-07-09T19:07:21.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1938-05-08T13:48:05.000Z,-48.27,99.722,15,6.6,uk,25,,,,centennial,centennial19380508134805,2013-07-09T19:07:21.000Z,"southeast Indian Ridge",earthquake

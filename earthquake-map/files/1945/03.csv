@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-03-23T23:14:15.000Z,-61.327,154.836,15,7,ms,0,,,,centennial,centennial19450323231415,2013-07-09T19:07:23.000Z,"Balleny Islands region",earthquake
+1945-03-17T23:57:54.000Z,6.6,-78.5,0,6.6,uk,0,,,,centennial,centennial19450317235754,2013-07-09T19:07:23.000Z,"south of Panama",earthquake
+1945-03-11T21:37:50.000Z,37,142,50,6.7,ms,0,,,,centennial,centennial19450311213750,2013-07-09T19:07:23.000Z,"near the east coast of Honshu, Japan",earthquake
+1945-03-11T17:45:05.000Z,5,126.5,100,6.6,uk,0,,,,centennial,centennial19450311174505,2013-07-09T19:07:23.000Z,"Mindanao, Philippines",earthquake

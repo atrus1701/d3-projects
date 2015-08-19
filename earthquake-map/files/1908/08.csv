@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1908-08-20T09:53:00.000Z,32,89,60,6.8,uk,0,,,,centennial,centennial19080820095300,2013-07-09T19:07:16.000Z,"western Xizang",earthquake
+1908-08-17T10:32:00.000Z,-60,-40,0,7.2,mw,0,,,,centennial,centennial19080817103200,2013-07-09T19:07:16.000Z,"Scotia Sea",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-08-14T04:39:39.000Z,25.765,95.655,143.9,7,mb,82,,,,centennial,centennial19320814043939,2013-07-09T19:07:20.000Z,"Myanmar",earthquake
+1932-08-12T03:24:04.000Z,52.418,-168.623,35,6.6,uk,81,,,,centennial,centennial19320812032404,2013-07-09T19:07:20.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

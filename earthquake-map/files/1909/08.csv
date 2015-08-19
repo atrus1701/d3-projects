@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-08-18T00:39:30.000Z,-22,172,100,7.2,mb,0,,,,centennial,centennial19090818003930,2013-07-09T19:07:16.000Z,"southeast of the Loyalty Islands",earthquake
+1909-08-16T06:58:00.000Z,10,-84,0,6.8,ms,0,,,,centennial,centennial19090816065800,2013-07-09T19:07:16.000Z,"Costa Rica",earthquake
+1909-08-14T06:31:00.000Z,35.4,136.3,5,6.7,ms,0,,,,centennial,centennial19090814063100,2013-07-09T19:07:16.000Z,"western Honshu, Japan",earthquake
+1909-08-04T00:00:00.000Z,28.8,90.5,0,6.5,ms,0,,,,centennial,centennial19090804000000,2013-07-09T19:07:16.000Z,"eastern Xizang",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-07-30T05:45:53.000Z,-29.963,-177.077,29.5,6.5,uk,127,,,,centennial,centennial19630730054553,2013-07-09T19:07:28.000Z,"Kermadec Islands, New Zealand",earthquake
+1963-07-26T04:17:00.000Z,42.008,21.455,5,6.1,,,,,,atlas,atlas19630726041700,2014-04-07T19:42:37.032Z,"Macedonia",earthquake
+1963-07-16T18:27:15.000Z,43.237,41.593,1.9,6.5,ms,127,,,,centennial,centennial19630716182715,2013-07-09T19:07:28.000Z,"Russia-Georgia border region",earthquake
+1963-07-04T10:58:10.000Z,-26.519,-177.567,130.8,6.9,mb,184,,,,centennial,centennial19630704105810,2013-07-09T19:07:28.000Z,"south of the Fiji Islands",earthquake

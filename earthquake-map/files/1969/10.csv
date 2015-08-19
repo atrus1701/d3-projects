@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-10-31T11:33:01.000Z,51.264,-178.976,9.7,6.3,ms,277,,,,centennial,centennial19691031113301,2013-07-09T19:07:36.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1969-10-27T08:10:57.000Z,44.836,17.233,15,6.1,ms,136,,,,centennial,centennial19691027081057,2013-07-09T19:07:36.000Z,"Bosnia and Herzegovina",earthquake
+1969-10-26T21:39:21.000Z,-53.337,23.479,25.2,6.1,ms,130,,,,centennial,centennial19691026213921,2013-07-09T19:07:36.000Z,"south of Africa",earthquake
+1969-10-26T15:36:51.000Z,44.805,17.351,15,5.6,ms,96,,,,centennial,centennial19691026153651,2013-07-09T19:07:36.000Z,"Bosnia and Herzegovina",earthquake
+1969-10-26T06:38:02.000Z,-16.206,-173.78,105.3,5.8,mb,164,,,,centennial,centennial19691026063802,2013-07-09T19:07:36.000Z,"Tonga",earthquake
+1969-10-20T13:11:37.000Z,10.92,-72.401,23.3,5.5,ms,103,,,,centennial,centennial19691020131137,2013-07-09T19:07:36.000Z,"Zulia, Venezuela",earthquake
+1969-10-17T01:25:01.000Z,23.094,94.714,25,6.1,mb,214,,,,centennial,centennial19691017012501,2013-07-09T19:07:36.000Z,"Myanmar",earthquake
+1969-10-13T06:56:02.000Z,-18.786,169.415,243.9,5.7,mb,156,,,,centennial,centennial19691013065602,2013-07-09T19:07:36.000Z,"Vanuatu",earthquake
+1969-10-09T07:45:17.000Z,43.566,-127.625,7.5,5.5,ms,13,,,,centennial,centennial19691009074517,2013-07-09T19:07:36.000Z,"off the coast of Oregon",earthquake
+1969-10-06T12:48:06.000Z,14.984,120.101,62,5.6,mb,156,,,,centennial,centennial19691006124806,2013-07-09T19:07:36.000Z,"Luzon, Philippines",earthquake
+1969-10-03T01:33:22.000Z,-33.017,-177.964,35.6,5.6,mb,91,,,,centennial,centennial19691003013322,2013-07-09T19:07:36.000Z,"south of the Kermadec Islands",earthquake
+1969-10-02T06:19:59.000Z,38.296,-122.755,15,5.7,uk,35,,,,centennial,centennial19691002061959,2013-07-09T19:07:36.000Z,"Northern California",earthquake
+1969-10-01T19:53:13.000Z,-60.864,-19.771,5,6,ms,72,,,,centennial,centennial19691001195313,2013-07-09T19:07:36.000Z,"east of the South Sandwich Islands",earthquake
+1969-10-01T17:10:58.000Z,0.767,-85.029,32.3,5.9,ms,140,,,,centennial,centennial19691001171058,2013-07-09T19:07:36.000Z,"off the coast of Ecuador",earthquake
+1969-10-01T08:28:16.000Z,-11.797,-75.034,8,5.7,mb,118,,,,centennial,centennial19691001082816,2013-07-09T19:07:36.000Z,"central Peru",earthquake
+1969-10-01T05:58:17.000Z,-11.695,-74.975,20.7,5.6,mb,122,,,,centennial,centennial19691001055817,2013-07-09T19:07:36.000Z,"central Peru",earthquake
+1969-10-01T05:05:45.000Z,-11.835,-75.194,6,6.2,ms,163,,,,centennial,centennial19691001050545,2013-07-09T19:07:36.000Z,"central Peru",earthquake

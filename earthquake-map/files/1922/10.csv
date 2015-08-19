@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1922-10-24T21:21:03.000Z,47.267,152.19,35,7.3,mb,35,,,,centennial,centennial19221024212103,2013-07-09T19:07:18.000Z,"Kuril Islands",earthquake
+1922-10-14T23:45:00.000Z,24.5,122,35,6.9,mj,0,,,,centennial,centennial19221014234500,2013-07-09T19:07:18.000Z,"Taiwan region",earthquake
+1922-10-11T14:50:06.000Z,-16.125,-72.385,160,7.6,mb,30,,,,centennial,centennial19221011145006,2013-07-09T19:07:18.000Z,"near the coast of southern Peru",earthquake

@@ -1,0 +1,31 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-08-30T23:37:15.000Z,18.602,-107.283,9,5.9,uk,25,,,,centennial,centennial19660830233715,2013-07-09T19:07:32.000Z,"off the coast of Jalisco, Mexico",earthquake
+1966-08-30T20:20:54.000Z,61.282,-147.56,29.6,5.9,uk,174,,,,centennial,centennial19660830202054,2013-07-09T19:07:32.000Z,"Southern Alaska",earthquake
+1966-08-29T13:10:24.000Z,-64.907,178.1,6.8,5.5,mb,19,,,,centennial,centennial19660829131024,2013-07-09T19:07:32.000Z,"Balleny Islands region",earthquake
+1966-08-28T07:29:39.000Z,-35.885,178.579,144,5.5,mb,95,,,,centennial,centennial19660828072939,2013-07-09T19:07:32.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1966-08-26T09:06:48.000Z,-22.154,170.169,8.7,5.6,uk,38,,,,centennial,centennial19660826090648,2013-07-09T19:07:32.000Z,"southeast of the Loyalty Islands",earthquake
+1966-08-26T00:51:52.000Z,-27.718,-176.989,63.7,5.5,mb,77,,,,centennial,centennial19660826005152,2013-07-09T19:07:32.000Z,"Kermadec Islands region",earthquake
+1966-08-22T17:42:11.000Z,-22.444,170.702,36.5,6.5,uk,119,,,,centennial,centennial19660822174211,2013-07-09T19:07:32.000Z,"southeast of the Loyalty Islands",earthquake
+1966-08-22T17:02:08.000Z,-1.719,134.23,39.5,5.6,mb,70,,,,centennial,centennial19660822170208,2013-07-09T19:07:32.000Z,"near the north coast of Papua, Indonesia",earthquake
+1966-08-21T05:00:30.000Z,8.46,126.581,82.2,5.8,mb,173,,,,centennial,centennial19660821050030,2013-07-09T19:07:32.000Z,"Mindanao, Philippines",earthquake
+1966-08-20T22:55:03.000Z,-23.559,-175.726,48.4,5.8,uk,118,,,,centennial,centennial19660820225503,2013-07-09T19:07:32.000Z,"Tonga region",earthquake
+1966-08-20T09:32:32.000Z,43.025,140.605,160.3,5.6,mb,212,,,,centennial,centennial19660820093232,2013-07-09T19:07:32.000Z,"Hokkaido, Japan region",earthquake
+1966-08-20T07:43:28.000Z,-3.172,-77.205,113.5,5.5,mb,117,,,,centennial,centennial19660820074328,2013-07-09T19:07:32.000Z,"Peru-Ecuador border region",earthquake
+1966-08-19T12:22:10.000Z,39.165,41.575,17,5.8,mb,153,,,,centennial,centennial19660819122210,2014-04-07T19:44:18.980Z,"eastern Turkey",earthquake
+1966-08-18T14:37:54.000Z,-0.062,125.046,32.1,6.1,mb,68,,,,centennial,centennial19660818143754,2013-07-09T19:07:32.000Z,"Molucca Sea",earthquake
+1966-08-18T14:34:01.000Z,-0.081,124.935,44.6,6,mb,158,,,,centennial,centennial19660818143401,2013-07-09T19:07:32.000Z,"Molucca Sea",earthquake
+1966-08-18T10:33:17.000Z,14.504,-91.688,69.3,5.6,mb,169,,,,centennial,centennial19660818103317,2013-07-09T19:07:32.000Z,"Guatemala",earthquake
+1966-08-17T19:54:12.000Z,-5.035,125.126,551.9,5.5,mb,113,,,,centennial,centennial19660817195412,2013-07-09T19:07:32.000Z,"Banda Sea",earthquake
+1966-08-16T19:45:38.000Z,-21.354,171.583,22.7,5.8,uk,54,,,,centennial,centennial19660816194538,2013-07-09T19:07:32.000Z,"southeast of the Loyalty Islands",earthquake
+1966-08-16T02:16:21.000Z,36.435,70.844,197,5.5,mb,163,,,,centennial,centennial19660816021621,2013-07-09T19:07:32.000Z,"Hindu Kush region, Afghanistan",earthquake
+1966-08-15T02:45:35.000Z,13.306,121.317,19.4,5.5,mb,139,,,,centennial,centennial19660815024535,2013-07-09T19:07:32.000Z,"Mindoro, Philippines",earthquake
+1966-08-15T02:15:32.000Z,28.616,78.892,25,5.6,mb,114,,,,centennial,centennial19660815021532,2013-07-09T19:07:32.000Z,"Uttar Pradesh, India",earthquake
+1966-08-11T23:25:39.000Z,-23.43,-175.748,37.6,5.6,uk,91,,,,centennial,centennial19660811232539,2013-07-09T19:07:32.000Z,"Tonga region",earthquake
+1966-08-10T05:01:10.000Z,-20.211,-175.207,97.7,5.6,mb,155,,,,centennial,centennial19660810050110,2013-07-09T19:07:32.000Z,"Tonga",earthquake
+1966-08-08T08:02:47.000Z,19.291,-108.123,34,5.7,uk,84,,,,centennial,centennial19660808080247,2013-07-09T19:07:32.000Z,"Revilla Gigedo Islands region",earthquake
+1966-08-07T17:36:27.000Z,31.652,-114.497,15,5.6,mb,94,,,,centennial,centennial19660807173627,2013-07-09T19:07:32.000Z,"Baja California-Sonora border region, Mexico",earthquake
+1966-08-07T03:07:17.000Z,-10.635,161.246,41.6,5.5,mb,51,,,,centennial,centennial19660807030717,2013-07-09T19:07:32.000Z,"Solomon Islands",earthquake
+1966-08-07T02:13:02.000Z,50.549,-171.21,11.2,6.4,ms,278,,,,centennial,centennial19660807021302,2013-07-09T19:07:32.000Z,"south of the Aleutian Islands",earthquake
+1966-08-05T04:33:01.000Z,-11.034,162.736,26.8,5.5,mb,102,,,,centennial,centennial19660805043301,2013-07-09T19:07:32.000Z,"Solomon Islands",earthquake
+1966-08-01T21:02:57.000Z,30.048,68.63,7.4,6.8,uk,187,,,,centennial,centennial19660801210257,2013-07-09T19:07:32.000Z,"Pakistan",earthquake
+1966-08-01T19:09:56.000Z,29.936,68.675,19.2,5.5,mb,154,,,,centennial,centennial19660801190956,2013-07-09T19:07:32.000Z,"Pakistan",earthquake

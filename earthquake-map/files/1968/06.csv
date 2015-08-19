@@ -1,0 +1,28 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-06-26T15:40:32.000Z,-22.219,171.44,97.3,5.7,mb,95,,,,centennial,centennial19680626154032,2013-07-09T19:07:34.000Z,"southeast of the Loyalty Islands",earthquake
+1968-06-22T01:12:33.000Z,40.374,143.702,17,5.6,mb,183,,,,centennial,centennial19680622011233,2013-07-09T19:07:34.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-06-21T00:26:09.000Z,-5.64,-77.203,22.9,5.6,mb,117,,,,centennial,centennial19680621002609,2013-07-09T19:07:34.000Z,"northern Peru",earthquake
+1968-06-20T02:38:38.000Z,-5.521,-77.256,21.1,5.7,ms,154,,,,centennial,centennial19680620023838,2013-07-09T19:07:34.000Z,"northern Peru",earthquake
+1968-06-19T19:58:03.000Z,-44.042,-75.551,26.4,5.6,mb,110,,,,centennial,centennial19680619195803,2013-07-09T19:07:34.000Z,"off the coast of Aisen, Chile",earthquake
+1968-06-19T08:13:34.000Z,-5.558,-77.153,17.1,6.9,ms,228,,,,centennial,centennial19680619081334,2013-07-09T19:07:34.000Z,"northern Peru",earthquake
+1968-06-17T18:09:41.000Z,-12.425,166.552,86.7,5.6,mb,163,,,,centennial,centennial19680617180941,2013-07-09T19:07:34.000Z,"Santa Cruz Islands",earthquake
+1968-06-17T11:53:01.000Z,41.097,143.072,36.4,6.8,uk,242,,,,centennial,centennial19680617115301,2013-07-09T19:07:34.000Z,"Hokkaido, Japan region",earthquake
+1968-06-16T07:13:15.000Z,-0.454,-91.797,15,5.5,ms,44,,,,centennial,centennial19680616071315,2013-07-09T19:07:34.000Z,"Galapagos Islands, Ecuador",earthquake
+1968-06-16T04:56:03.000Z,-35.929,-16.124,15,6.1,ms,32,,,,centennial,centennial19680616045603,2013-07-09T19:07:34.000Z,"southern Mid-Atlantic Ridge",earthquake
+1968-06-15T11:27:33.000Z,51.687,159.234,33.5,5.6,mb,160,,,,centennial,centennial19680615112733,2013-07-09T19:07:34.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1968-06-15T07:08:49.000Z,5.571,-82.602,11.7,6,ms,174,,,,centennial,centennial19680615070849,2013-07-09T19:07:34.000Z,"south of Panama",earthquake
+1968-06-15T05:59:04.000Z,26.97,126.507,121.5,5.6,mb,152,,,,centennial,centennial19680615055904,2013-07-09T19:07:34.000Z,"Ryukyu Islands, Japan",earthquake
+1968-06-14T22:27:44.000Z,-0.441,-91.399,15,5.5,mb,58,,,,centennial,centennial19680614222744,2013-07-09T19:07:34.000Z,"Galapagos Islands, Ecuador",earthquake
+1968-06-14T19:03:26.000Z,-41.883,172.028,8.5,5.5,mb,21,,,,centennial,centennial19680614190326,2013-07-09T19:07:34.000Z,"South Island of New Zealand",earthquake
+1968-06-14T12:17:25.000Z,45.231,153.457,13.4,5.5,mb,153,,,,centennial,centennial19680614121725,2013-07-09T19:07:34.000Z,"east of the Kuril Islands",earthquake
+1968-06-12T20:15:50.000Z,-0.686,132.837,45.6,5.5,mb,94,,,,centennial,centennial19680612201550,2013-07-09T19:07:34.000Z,"near the north coast of Papua, Indonesia",earthquake
+1968-06-12T14:11:01.000Z,-59.986,-27.73,92.6,5.6,mb,47,,,,centennial,centennial19680612141101,2013-07-09T19:07:34.000Z,"South Sandwich Islands region",earthquake
+1968-06-12T13:41:51.000Z,39.501,142.892,31.4,7.1,mw,245,,,,centennial,centennial19680612134151,2013-07-09T19:07:34.000Z,"near the east coast of Honshu, Japan",earthquake
+1968-06-10T12:41:07.000Z,56.211,-161.52,185.4,5.5,mb,137,,,,centennial,centennial19680610124107,2013-07-09T19:07:34.000Z,"Alaska Peninsula",earthquake
+1968-06-09T13:01:50.000Z,-0.701,132.777,40.1,5.5,mb,25,,,,centennial,centennial19680609130150,2013-07-09T19:07:34.000Z,"near the north coast of Papua, Indonesia",earthquake
+1968-06-08T23:24:03.000Z,-48.882,31.132,18.1,6,ms,149,,,,centennial,centennial19680608232403,2013-07-09T19:07:34.000Z,"south of Africa",earthquake
+1968-06-08T00:16:36.000Z,-8.687,157.595,3.6,5.6,mb,105,,,,centennial,centennial19680608001636,2013-07-09T19:07:34.000Z,"Solomon Islands",earthquake
+1968-06-07T21:30:51.000Z,-2.085,120.423,17.2,5.9,ms,121,,,,centennial,centennial19680607213051,2013-07-09T19:07:34.000Z,"Sulawesi, Indonesia",earthquake
+1968-06-07T11:57:34.000Z,-1.863,120.065,46.5,6.7,ms,197,,,,centennial,centennial19680607115734,2013-07-09T19:07:34.000Z,"Sulawesi, Indonesia",earthquake
+1968-06-03T09:17:46.000Z,-5.454,146.958,183.8,5.5,mb,112,,,,centennial,centennial19680603091746,2013-07-09T19:07:34.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1968-06-01T10:31:50.000Z,40.214,142.31,48.9,5.5,mb,176,,,,centennial,centennial19680601103150,2013-07-09T19:07:34.000Z,"near the east coast of Honshu, Japan",earthquake

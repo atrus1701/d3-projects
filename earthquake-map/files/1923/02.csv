@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1923-02-24T07:34:44.000Z,55.937,162.623,35,7.2,mw,22,,,,centennial,centennial19230224073444,2013-07-09T19:07:18.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1923-02-23T05:51:58.000Z,-0.681,122.996,35,6.6,uk,8,,,,centennial,centennial19230223055158,2013-07-09T19:07:18.000Z,"Sulawesi, Indonesia",earthquake
+1923-02-03T16:01:48.000Z,53.853,160.761,35,8.5,mw,47,,,,centennial,centennial19230203160148,2013-07-09T19:07:18.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1923-02-02T05:07:42.000Z,54.019,161.521,35,7.1,mw,23,,,,centennial,centennial19230202050742,2013-07-09T19:07:18.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1923-02-01T19:24:58.000Z,-21.001,169.537,35,6.7,ms,7,,,,centennial,centennial19230201192458,2013-07-09T19:07:18.000Z,"southeast of the Loyalty Islands",earthquake

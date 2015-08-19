@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-08-21T05:38:36.000Z,-17,-179,600,7.4,mb,0,,,,centennial,centennial19100821053836,2013-07-09T19:07:16.000Z,"Fiji region",earthquake
+1910-08-05T01:31:36.000Z,42,-127,0,6.6,uk,0,,,,centennial,centennial19100805013136,2013-07-09T19:07:16.000Z,"off the coast of Oregon",earthquake

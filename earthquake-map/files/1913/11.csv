@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1913-11-15T05:27:06.000Z,-23,171,150,7.1,mb,0,,,,centennial,centennial19131115052706,2013-07-09T19:07:17.000Z,"southeast of the Loyalty Islands",earthquake
+1913-11-10T21:12:30.000Z,-18,169,80,7.2,mb,0,,,,centennial,centennial19131110211230,2013-07-09T19:07:17.000Z,"Vanuatu",earthquake

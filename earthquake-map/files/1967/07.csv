@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-07-30T00:00:02.000Z,10.555,-67.31,23.1,5.5,mb,177,,,,centennial,centennial19670730000002,2014-03-03T19:12:40.168Z,"offshore Vargas, Venezuela",earthquake
+1967-07-29T10:24:26.000Z,6.788,-73.072,161.2,5.9,mb,262,,,,centennial,centennial19670729102426,2013-07-09T19:07:33.000Z,"northern Colombia",earthquake
+1967-07-26T18:52:59.000Z,39.506,40.406,8.1,5.6,mb,114,,,,centennial,centennial19670726185259,2013-07-09T19:07:33.000Z,"eastern Turkey",earthquake
+1967-07-24T07:39:32.000Z,-8.278,121.247,191,5.5,mb,86,,,,centennial,centennial19670724073932,2013-07-09T19:07:33.000Z,"Flores region, Indonesia",earthquake
+1967-07-22T16:56:55.000Z,40.629,30.74,4.4,7.4,mw,223,,,,centennial,centennial19670722165655,2014-04-07T19:45:29.008Z,"western Turkey",earthquake
+1967-07-20T15:36:24.000Z,7.606,134.729,22,5.7,mb,196,,,,centennial,centennial19670720153624,2013-07-09T19:07:33.000Z,"Palau region",earthquake
+1967-07-06T13:42:26.000Z,52.499,-168.161,29.5,5.9,mb,248,,,,centennial,centennial19670706134226,2013-07-09T19:07:33.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1967-07-04T23:42:14.000Z,43.151,142.505,158.4,5.5,mb,217,,,,centennial,centennial19670704234214,2013-07-09T19:07:33.000Z,"Hokkaido, Japan region",earthquake
+1967-07-02T07:03:54.000Z,8.617,93.615,33.2,5.7,mb,175,,,,centennial,centennial19670702070354,2013-07-09T19:07:33.000Z,"Nicobar Islands, India region",earthquake
+1967-07-01T23:10:08.000Z,54.313,-157.999,29.9,6.2,mb,270,,,,centennial,centennial19670701231008,2013-07-09T19:07:33.000Z,"south of Alaska",earthquake

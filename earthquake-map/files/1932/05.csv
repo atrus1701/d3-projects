@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-05-26T16:09:39.000Z,-25.399,179.049,568.8,7.5,mb,53,,,,centennial,centennial19320526160939,2013-07-09T19:07:20.000Z,"south of the Fiji Islands",earthquake
+1932-05-21T10:10:03.000Z,12.364,-87.894,35,6.7,uk,66,,,,centennial,centennial19320521101003,2013-07-09T19:07:20.000Z,"near the coast of Nicaragua",earthquake
+1932-05-14T13:11:05.000Z,0.258,126.169,35,8.1,mw,60,,,,centennial,centennial19320514131105,2013-07-09T19:07:20.000Z,"Molucca Sea",earthquake

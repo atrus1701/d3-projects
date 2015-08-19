@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1929-07-07T21:23:16.000Z,51.347,-177.91,35,7.2,mw,91,,,,centennial,centennial19290707212316,2013-07-09T19:07:20.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1929-07-05T14:19:08.000Z,51.424,-178.136,35,7,ms,82,,,,centennial,centennial19290705141908,2013-07-09T19:07:20.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

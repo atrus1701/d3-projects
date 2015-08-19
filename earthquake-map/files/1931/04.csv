@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-04-24T17:22:19.000Z,-6.656,154.973,35,6.7,uk,60,,,,centennial,centennial19310424172219,2013-07-09T19:07:20.000Z,"Bougainville region, Papua New Guinea",earthquake
+1931-04-06T06:49:43.000Z,-6.631,155.016,35,6.6,uk,45,,,,centennial,centennial19310406064943,2013-07-09T19:07:20.000Z,"Bougainville region, Papua New Guinea",earthquake
+1931-04-03T23:19:22.000Z,-19.911,179.247,637.8,6.6,uk,61,,,,centennial,centennial19310403231922,2013-07-09T19:07:20.000Z,"south of the Fiji Islands",earthquake

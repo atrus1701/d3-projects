@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-12-29T03:03:57.000Z,17.191,121.409,35,7.2,mw,0,,,,centennial,centennial19491229030357,2013-07-09T19:07:24.000Z,"Luzon, Philippines",earthquake
+1949-12-27T23:57:16.000Z,-60,-22,50,6.7,ms,0,,,,centennial,centennial19491227235716,2013-07-09T19:07:24.000Z,"east of the South Sandwich Islands",earthquake
+1949-12-26T06:23:52.000Z,-15.5,180,0,6.8,ms,0,,,,centennial,centennial19491226062352,2013-07-09T19:07:24.000Z,"",earthquake
+1949-12-21T19:33:08.000Z,-19.5,-64,620,6.6,uk,0,,,,centennial,centennial19491221193308,2013-07-09T19:07:24.000Z,"Chuquisaca, Bolivia",earthquake
+1949-12-18T05:39:03.000Z,-34.5,180,190,6.6,uk,0,,,,centennial,centennial19491218053903,2013-07-09T19:07:24.000Z,"",earthquake
+1949-12-17T15:07:58.000Z,-54.319,-68.474,35,7.8,mw,0,,,,centennial,centennial19491217150758,2013-07-09T19:07:24.000Z,"southern Chile-Argentina border region",earthquake
+1949-12-17T06:53:32.000Z,-53.909,-69.605,35,7.8,mw,0,,,,centennial,centennial19491217065332,2013-07-09T19:07:24.000Z,"Tierra del Fuego, Magallanes, Chile",earthquake

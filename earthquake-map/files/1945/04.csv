@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-04-23T06:22:31.000Z,-4.5,153,160,6.6,uk,0,,,,centennial,centennial19450423062231,2013-07-09T19:07:23.000Z,"New Ireland region, Papua New Guinea",earthquake
+1945-04-22T09:51:18.000Z,5,123,650,6.6,uk,0,,,,centennial,centennial19450422095118,2013-07-09T19:07:23.000Z,"Celebes Sea",earthquake
+1945-04-19T13:03:58.000Z,-21,169.5,40,6.7,ms,0,,,,centennial,centennial19450419130358,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1945-04-15T03:41:28.000Z,57,164,0,6.6,uk,0,,,,centennial,centennial19450415034128,2013-07-09T19:07:23.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1945-04-15T02:35:27.000Z,57.193,163.882,35,7.1,mw,0,,,,centennial,centennial19450415023527,2013-07-09T19:07:23.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake

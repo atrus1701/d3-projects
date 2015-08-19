@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-02-26T16:42:00.000Z,5,-95,60,6.9,uk,0,,,,centennial,centennial19090226164200,2013-07-09T19:07:16.000Z,"east central Pacific Ocean",earthquake
+1909-02-22T09:21:42.000Z,-18,-179,550,7.6,mb,0,,,,centennial,centennial19090222092142,2013-07-09T19:07:16.000Z,"Fiji region",earthquake
+1909-02-09T11:24:06.000Z,40,38,60,6.6,uk,0,,,,centennial,centennial19090209112406,2013-07-09T19:07:16.000Z,"central Turkey",earthquake

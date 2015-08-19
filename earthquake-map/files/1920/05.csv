@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1920-05-20T07:26:06.000Z,-12.339,166.527,84.7,6.6,uk,12,,,,centennial,centennial19200520072606,2013-07-09T19:07:18.000Z,"Santa Cruz Islands",earthquake
+1920-05-12T21:53:09.000Z,34.83,139.476,150,6.6,uk,6,,,,centennial,centennial19200512215309,2013-07-09T19:07:18.000Z,"near the south coast of Honshu, Japan",earthquake
+1920-05-06T09:40:00.000Z,43,131.5,500,6.5,mj,0,,,,centennial,centennial19200506094000,2013-07-09T19:07:18.000Z,"eastern Russia-northeastern China border region",earthquake

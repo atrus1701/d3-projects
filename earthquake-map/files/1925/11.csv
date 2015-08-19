@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1925-11-16T11:55:01.000Z,18.375,-106.809,25,7,ms,27,,,,centennial,centennial19251116115501,2013-07-09T19:07:19.000Z,"off the coast of Jalisco, Mexico",earthquake
+1925-11-13T12:14:53.000Z,12.726,124.849,35,7.2,mw,32,,,,centennial,centennial19251113121453,2013-07-09T19:07:19.000Z,"Samar, Philippines",earthquake
+1925-11-10T13:50:40.000Z,-0.633,130.267,35,7.2,mw,16,,,,centennial,centennial19251110135040,2013-07-09T19:07:19.000Z,"Papua region, Indonesia",earthquake

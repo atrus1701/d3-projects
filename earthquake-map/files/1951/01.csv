@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1951-01-23T06:52:41.000Z,-55,-136.5,0,6.7,uk,0,,,,centennial,centennial19510123065241,2013-07-09T19:07:24.000Z,"Pacific-Antarctic Ridge",earthquake
+1951-01-15T04:12:12.000Z,-14.9,167.1,96,6.5,uk,0,,,,centennial,centennial19510115041212,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1951-01-08T21:39:29.000Z,-5,151,0,6.7,uk,0,,,,centennial,centennial19510108213929,2013-07-09T19:07:24.000Z,"New Britain region, Papua New Guinea",earthquake
+1951-01-06T07:51:32.000Z,7.104,-80.986,58,6.7,uk,0,,,,centennial,centennial19510106075132,2013-07-09T19:07:24.000Z,"Panama",earthquake
+1951-01-06T05:17:20.000Z,36.5,71,223,6.6,uk,0,,,,centennial,centennial19510106051720,2013-07-09T19:07:24.000Z,"Hindu Kush region, Afghanistan",earthquake
+1951-01-05T00:52:40.000Z,7.168,-80.806,35,6.6,uk,0,,,,centennial,centennial19510105005240,2013-07-09T19:07:24.000Z,"Panama",earthquake

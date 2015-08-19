@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-01-28T19:10:09.000Z,16.857,-99.643,35,6.6,uk,42,,,,centennial,centennial19340128191009,2013-07-09T19:07:20.000Z,"Guerrero, Mexico",earthquake
+1934-01-15T08:43:25.000Z,26.773,86.762,35,8,mw,75,,,,centennial,centennial19340115084325,2013-07-09T19:07:20.000Z,"Nepal-India border region",earthquake
+1934-01-03T09:42:08.000Z,53.929,156.28,35,6.7,uk,78,,,,centennial,centennial19340103094208,2013-07-09T19:07:20.000Z,"Kamchatka Peninsula, Russia",earthquake

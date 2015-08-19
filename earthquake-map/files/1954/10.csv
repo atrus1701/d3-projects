@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1954-10-21T00:10:09.000Z,-41.3,80.2,0,6.5,ms,0,,,,centennial,centennial19541021001009,2013-07-09T19:07:25.000Z,"Mid-Indian Ridge",earthquake
+1954-10-03T11:18:47.000Z,60.7,-150.3,64,6.6,ms,0,,,,centennial,centennial19541003111847,2013-07-09T19:07:25.000Z,"Kenai Peninsula, Alaska",earthquake
+1954-10-03T02:47:22.000Z,-10.7,165.9,0,6.7,ms,0,,,,centennial,centennial19541003024722,2013-07-09T19:07:25.000Z,"Santa Cruz Islands",earthquake
+1954-10-01T02:55:35.000Z,-10.9,166.2,0,6.6,uk,0,,,,centennial,centennial19541001025535,2013-07-09T19:07:25.000Z,"Santa Cruz Islands",earthquake

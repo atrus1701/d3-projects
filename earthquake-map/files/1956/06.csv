@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-06-23T02:18:06.000Z,56.258,163.515,19.8,6.5,ms,151,,,,centennial,centennial19560623021806,2013-07-09T19:07:26.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1956-06-09T23:13:56.000Z,35.031,67.476,35,7.6,mw,207,,,,centennial,centennial19560609231356,2013-07-09T19:07:26.000Z,"central Afghanistan",earthquake
+1956-06-09T10:08:30.000Z,-30.238,-71.445,29.1,6.6,ms,77,,,,centennial,centennial19560609100830,2013-07-09T19:07:26.000Z,"Coquimbo, Chile",earthquake

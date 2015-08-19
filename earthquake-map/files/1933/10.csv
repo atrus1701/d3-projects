@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1933-10-26T12:07:06.000Z,-60.29,-59.301,15,6.6,uk,10,,,,centennial,centennial19331026120706,2013-07-09T19:07:20.000Z,"Drake Passage",earthquake
+1933-10-25T23:28:15.000Z,-23.686,-66.65,206.5,7,mb,54,,,,centennial,centennial19331025232815,2013-07-09T19:07:20.000Z,"Jujuy, Argentina",earthquake
+1933-10-02T15:29:29.000Z,-2.044,-81.099,35,6.7,uk,82,,,,centennial,centennial19331002152929,2013-07-09T19:07:20.000Z,"near the coast of Ecuador",earthquake

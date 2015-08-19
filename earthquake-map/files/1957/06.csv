@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-06-27T00:09:32.000Z,56.419,116.44,15,7.4,mw,160,,,,centennial,centennial19570627000932,2013-07-09T19:07:26.000Z,"Chitinskaya Oblast', Russia",earthquake
+1957-06-22T23:50:30.000Z,-2.009,136.684,35,7.3,mw,154,,,,centennial,centennial19570622235030,2013-07-09T19:07:26.000Z,"near the north coast of Papua, Indonesia",earthquake
+1957-06-19T08:01:37.000Z,-16.388,176.838,41,6.5,ms,81,,,,centennial,centennial19570619080137,2013-07-09T19:07:26.000Z,"Fiji region",earthquake
+1957-06-18T17:56:12.000Z,-25.606,170.071,35.9,6.5,ms,63,,,,centennial,centennial19570618175612,2013-07-09T19:07:26.000Z,"southeast of the Loyalty Islands",earthquake
+1957-06-18T14:48:28.000Z,14.471,95.679,35,6.5,ms,91,,,,centennial,centennial19570618144828,2013-07-09T19:07:26.000Z,"Andaman Islands, India region",earthquake
+1957-06-13T10:40:43.000Z,51.518,-175.156,17.8,6.7,ms,232,,,,centennial,centennial19570613104043,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-06-11T18:49:31.000Z,17.885,120.204,35,6.6,ms,132,,,,centennial,centennial19570611184931,2013-07-09T19:07:26.000Z,"Luzon, Philippines",earthquake
+1957-06-11T14:49:44.000Z,-30.802,-177.947,47.9,6.9,mb,117,,,,centennial,centennial19570611144944,2013-07-09T19:07:26.000Z,"Kermadec Islands, New Zealand",earthquake
+1957-06-10T03:13:17.000Z,13.09,143.91,151,6.6,uk,0,,,,centennial,centennial19570610031317,2013-07-09T19:07:26.000Z,"Guam region",earthquake
+1957-06-10T01:00:06.000Z,-8.948,117.892,57.9,6.5,ms,143,,,,centennial,centennial19570610010006,2013-07-09T19:07:26.000Z,"Sumbawa region, Indonesia",earthquake

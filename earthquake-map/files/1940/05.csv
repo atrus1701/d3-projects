@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-05-28T09:40:47.000Z,-2.318,139.15,35,7,ms,58,,,,centennial,centennial19400528094047,2013-07-09T19:07:21.000Z,"near the north coast of Papua, Indonesia",earthquake
+1940-05-24T16:33:58.000Z,-11.119,-77.629,50.1,7.5,mw,91,,,,centennial,centennial19400524163358,2013-07-09T19:07:21.000Z,"near the coast of central Peru",earthquake
+1940-05-19T15:17:57.000Z,50.574,149.133,573.7,6.6,uk,80,,,,centennial,centennial19400519151757,2013-07-09T19:07:21.000Z,"Sea of Okhotsk",earthquake
+1940-05-19T04:36:48.000Z,33.222,-115.697,15,7.1,ms,34,,,,centennial,centennial19400519043648,2013-07-09T19:07:21.000Z,"Southern California",earthquake

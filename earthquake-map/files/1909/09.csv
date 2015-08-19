@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-09-16T19:39:00.000Z,42,142,35,6.8,mj,0,,,,centennial,centennial19090916193900,2013-07-09T19:07:16.000Z,"Hokkaido, Japan region",earthquake
+1909-09-10T18:08:54.000Z,28,129,100,6.6,uk,0,,,,centennial,centennial19090910180854,2013-07-09T19:07:16.000Z,"Ryukyu Islands, Japan",earthquake
+1909-09-08T16:49:48.000Z,52.5,-169,90,7,mb,0,,,,centennial,centennial19090908164948,2013-07-09T19:07:16.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

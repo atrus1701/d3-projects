@@ -1,0 +1,27 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-03-31T15:36:52.000Z,-55.293,-29.1,16.2,5.9,ms,112,,,,centennial,centennial19720331153652,2013-07-09T19:07:39.000Z,"South Sandwich Islands region",earthquake
+1972-03-30T11:00:20.000Z,-29.86,-71.535,59.9,5.6,mb,114,,,,centennial,centennial19720330110020,2013-07-09T19:07:39.000Z,"offshore Coquimbo, Chile",earthquake
+1972-03-30T05:34:52.000Z,-25.744,179.632,496.2,7.3,ms,284,,,,centennial,centennial19720330053452,2013-07-09T19:07:39.000Z,"south of the Fiji Islands",earthquake
+1972-03-28T13:58:23.000Z,-30.851,-179.765,353.8,5.6,mb,220,,,,centennial,centennial19720328135823,2013-07-09T19:07:39.000Z,"Kermadec Islands region",earthquake
+1972-03-25T22:59:42.000Z,43.359,146.039,45.6,6,ms,276,,,,centennial,centennial19720325225942,2014-03-17T20:01:53.380Z,"Kuril Islands",earthquake
+1972-03-25T12:15:27.000Z,-3.544,150.202,13.1,6.4,ms,145,,,,centennial,centennial19720325121527,2013-07-09T19:07:39.000Z,"New Ireland region, Papua New Guinea",earthquake
+1972-03-25T00:56:06.000Z,48.037,153.105,138.5,5.8,mb,273,,,,centennial,centennial19720325005606,2013-07-09T19:07:39.000Z,"Kuril Islands",earthquake
+1972-03-24T17:17:45.000Z,7.129,123.674,61.3,5.6,mb,112,,,,centennial,centennial19720324171745,2013-07-09T19:07:39.000Z,"Mindanao, Philippines",earthquake
+1972-03-24T16:43:25.000Z,-33.308,-179.09,61.2,5.5,mb,25,,,,centennial,centennial19720324164325,2013-07-09T19:07:39.000Z,"south of the Kermadec Islands",earthquake
+1972-03-24T15:40:42.000Z,3.73,125.446,51.3,5.5,mb,56,,,,centennial,centennial19720324154042,2013-07-09T19:07:39.000Z,"Kepulauan Sangihe, Indonesia",earthquake
+1972-03-24T03:38:28.000Z,56.097,-157.132,69,6,mb,266,,,,centennial,centennial19720324033828,2013-07-09T19:07:39.000Z,"Alaska Peninsula",earthquake
+1972-03-23T21:48:17.000Z,1.352,126.212,59.9,5.5,mb,42,,,,centennial,centennial19720323214817,2013-07-09T19:07:39.000Z,"Molucca Sea",earthquake
+1972-03-23T07:16:56.000Z,-15.495,-172.808,44,5.5,ms,87,,,,centennial,centennial19720323071656,2013-07-09T19:07:39.000Z,"Samoa Islands region",earthquake
+1972-03-22T15:53:32.000Z,-21.072,-174.276,26.5,5.7,ms,127,,,,centennial,centennial19720322155332,2013-07-09T19:07:39.000Z,"Tonga",earthquake
+1972-03-22T10:27:43.000Z,49.066,153.549,137.7,6.2,mb,324,,,,centennial,centennial19720322102743,2013-07-09T19:07:39.000Z,"Kuril Islands",earthquake
+1972-03-20T07:33:49.000Z,-6.811,-76.781,49.4,6.9,uk,231,,,,centennial,centennial19720320073349,2014-03-17T20:01:32.060Z,"northern Peru",earthquake
+1972-03-19T15:57:51.000Z,40.872,141.93,72.3,5.9,mb,271,,,,centennial,centennial19720319155751,2013-07-09T19:07:39.000Z,"near the east coast of Honshu, Japan",earthquake
+1972-03-18T23:17:42.000Z,33.597,141.318,43.4,6,uk,258,,,,centennial,centennial19720318231742,2013-07-09T19:07:39.000Z,"off the east coast of Honshu, Japan",earthquake
+1972-03-17T00:21:28.000Z,-24.842,-179.559,428.8,5.5,mb,204,,,,centennial,centennial19720317002128,2013-07-09T19:07:39.000Z,"south of the Fiji Islands",earthquake
+1972-03-14T07:26:02.000Z,-40.709,174.133,57,5.7,mb,18,,,,centennial,centennial19720314072602,2013-07-09T19:07:39.000Z,"Cook Strait, New Zealand",earthquake
+1972-03-10T04:56:57.000Z,49.755,78.18,0,5.5,,,,,,atlas,atlas19720310045657,2014-03-17T20:01:15.145Z,"eastern Kazakhstan",earthquake
+1972-03-08T03:45:26.000Z,-3.755,131.369,25.4,5.8,ms,162,,,,centennial,centennial19720308034526,2013-07-09T19:07:39.000Z,"Ceram Sea, Indonesia",earthquake
+1972-03-07T07:45:24.000Z,-28.269,-178.202,208,6.1,mb,290,,,,centennial,centennial19720307074524,2013-07-09T19:07:39.000Z,"Kermadec Islands region",earthquake
+1972-03-02T20:10:09.000Z,33.438,140.941,56.4,5.8,mb,245,,,,centennial,centennial19720302201009,2013-07-09T19:07:39.000Z,"Izu Islands, Japan region",earthquake
+1972-03-01T21:39:44.000Z,-24.822,-69.963,50.2,5.5,mb,89,,,,centennial,centennial19720301213944,2013-07-09T19:07:39.000Z,"Antofagasta, Chile",earthquake
+1972-03-01T09:28:55.000Z,40.491,-125.419,8.2,5.9,ms,127,,,,centennial,centennial19720301092855,2013-07-09T19:07:39.000Z,"offshore Northern California",earthquake

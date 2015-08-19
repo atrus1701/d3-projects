@@ -1,0 +1,30 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-11-27T15:17:42.000Z,-5.35,126.619,426.2,6.3,ms,208,,,,centennial,centennial19721127151742,2013-07-09T19:07:40.000Z,"Banda Sea",earthquake
+1972-11-27T02:49:49.000Z,3.03,124.627,50.1,5.6,mb,30,,,,centennial,centennial19721127024949,2013-07-09T19:07:40.000Z,"Celebes Sea",earthquake
+1972-11-26T12:41:53.000Z,-32.558,-178.057,5.8,5.5,mb,58,,,,centennial,centennial19721126124153,2013-07-09T19:07:40.000Z,"south of the Kermadec Islands",earthquake
+1972-11-26T04:22:51.000Z,-22.117,-179.534,588.2,5.5,mb,144,,,,centennial,centennial19721126042251,2013-07-09T19:07:40.000Z,"south of the Fiji Islands",earthquake
+1972-11-25T20:03:28.000Z,80.299,-2.077,12.8,5.6,mb,162,,,,centennial,centennial19721125200328,2013-07-09T19:07:40.000Z,"north of Svalbard",earthquake
+1972-11-22T13:51:12.000Z,-15.439,167.204,43.1,5.7,ms,114,,,,centennial,centennial19721122135112,2014-03-17T20:18:05.227Z,"Vanuatu",earthquake
+1972-11-21T17:01:54.000Z,52.453,173.594,31.8,5.5,mb,206,,,,centennial,centennial19721121170154,2013-07-09T19:07:40.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1972-11-21T07:31:16.000Z,-54.821,-130.475,17.2,5.7,mb,22,,,,centennial,centennial19721121073116,2013-07-09T19:07:40.000Z,"Pacific-Antarctic Ridge",earthquake
+1972-11-21T03:59:12.000Z,-6.467,154.178,46.1,6.4,ms,88,,,,centennial,centennial19721121035912,2013-07-09T19:07:40.000Z,"Bougainville region, Papua New Guinea",earthquake
+1972-11-21T02:47:16.000Z,23.88,121.638,17.1,5.5,mb,198,,,,centennial,centennial19721121024716,2014-03-17T20:17:50.286Z,"Taiwan",earthquake
+1972-11-16T12:43:06.000Z,35.67,69.883,115.9,5.6,mb,197,,,,centennial,centennial19721116124306,2013-07-09T19:07:40.000Z,"Hindu Kush region, Afghanistan",earthquake
+1972-11-16T02:26:33.000Z,-17.817,-178.374,567,5.6,mb,28,,,,centennial,centennial19721116022633,2013-07-09T19:07:40.000Z,"Fiji region",earthquake
+1972-11-15T16:19:29.000Z,-49.024,123.528,10.3,5.8,ms,74,,,,centennial,centennial19721115161929,2013-07-09T19:07:40.000Z,"western Indian-Antarctic Ridge",earthquake
+1972-11-13T23:34:11.000Z,12.438,95.193,11.2,5.5,ms,142,,,,centennial,centennial19721113233411,2013-07-09T19:07:40.000Z,"Andaman Islands, India region",earthquake
+1972-11-13T08:11:50.000Z,27.921,140.077,378.8,5.6,mb,214,,,,centennial,centennial19721113081150,2013-07-09T19:07:40.000Z,"Bonin Islands, Japan region",earthquake
+1972-11-13T04:43:44.000Z,15.511,-95.098,15,6.5,ms,155,,,,centennial,centennial19721113044344,2014-03-17T20:17:36.233Z,"offshore Oaxaca, Mexico",earthquake
+1972-11-12T17:56:54.000Z,38.285,73.163,115.2,5.9,mb,239,,,,centennial,centennial19721112175654,2013-07-09T19:07:40.000Z,"Tajikistan",earthquake
+1972-11-10T07:40:57.000Z,44.479,147.418,116.3,5.7,mb,197,,,,centennial,centennial19721110074057,2013-07-09T19:07:40.000Z,"Kuril Islands",earthquake
+1972-11-09T18:41:14.000Z,23.888,121.555,19,6.1,ms,238,,,,centennial,centennial19721109184114,2014-03-17T20:17:21.283Z,"Taiwan",earthquake
+1972-11-09T08:09:45.000Z,-20.988,-178.979,608.1,5.7,mb,155,,,,centennial,centennial19721109080945,2013-07-09T19:07:40.000Z,"Fiji region",earthquake
+1972-11-05T00:05:49.000Z,-9.759,122.186,15,5.9,ms,197,,,,centennial,centennial19721105000549,2013-07-09T19:07:40.000Z,"Savu Sea",earthquake
+1972-11-04T21:36:03.000Z,-8.22,112.236,128.3,5.7,mb,221,,,,centennial,centennial19721104213603,2013-07-09T19:07:40.000Z,"Java, Indonesia",earthquake
+1972-11-04T09:47:21.000Z,-4.794,144.597,81.1,5.6,mb,177,,,,centennial,centennial19721104094721,2013-07-09T19:07:40.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1972-11-04T03:49:57.000Z,-20.052,169.225,49.4,6.2,uk,165,,,,centennial,centennial19721104034957,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake
+1972-11-03T16:13:42.000Z,-13.456,-111.427,24.8,5.6,ms,51,,,,centennial,centennial19721103161342,2013-07-09T19:07:40.000Z,"central East Pacific Rise",earthquake
+1972-11-02T19:55:24.000Z,-20.035,169.007,38.6,7,ms,222,,,,centennial,centennial19721102195524,2014-03-17T20:17:08.761Z,"Vanuatu",earthquake
+1972-11-02T14:43:42.000Z,-26.295,27.344,20,5.2,,,,,,atlas,atlas19721102144342,2014-03-17T20:16:51.983Z,"South Africa",earthquake
+1972-11-02T09:51:47.000Z,-6.424,131.232,18.3,5.6,mb,110,,,,centennial,centennial19721102095147,2013-07-09T19:07:40.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1972-11-02T01:26:57.000Z,49.913,78.837,0,6.2,,,,,,atlas,atlas19721102012657,2014-03-17T20:16:33.813Z,"eastern Kazakhstan",earthquake

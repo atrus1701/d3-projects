@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1903-04-29T03:59:00.000Z,-20,-175,0,7.1,mw,0,,,,centennial,centennial19030429035900,2013-07-09T19:07:15.000Z,"Tonga",earthquake
+1903-04-19T13:25:00.000Z,37,71,160,6.9,ms,0,,,,centennial,centennial19030419132500,2013-07-09T19:07:15.000Z,"Hindu Kush region, Afghanistan",earthquake

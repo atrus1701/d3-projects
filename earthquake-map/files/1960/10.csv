@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1960-10-28T13:18:19.000Z,52.069,157.681,109.6,6.9,mb,210,,,,centennial,centennial19601028131819,2013-07-09T19:07:27.000Z,"Kamchatka Peninsula, Russia",earthquake
+1960-10-28T04:18:43.000Z,71.414,-9.083,15,6.8,uk,104,,,,centennial,centennial19601028041843,2013-07-09T19:07:27.000Z,"Jan Mayen Island region",earthquake
+1960-10-08T05:53:05.000Z,40.107,130.099,608.8,6.5,ms,198,,,,centennial,centennial19601008055305,2013-07-09T19:07:27.000Z,"Sea of Japan",earthquake
+1960-10-07T15:18:34.000Z,-7.616,130.742,47.7,6.6,ms,207,,,,centennial,centennial19601007151834,2013-07-09T19:07:27.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1960-10-01T16:10:57.000Z,51.306,-172.464,34.5,6.5,uk,158,,,,centennial,centennial19601001161057,2013-07-09T19:07:27.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

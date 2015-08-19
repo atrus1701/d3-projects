@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1923-05-04T22:26:51.000Z,-27.062,-69.78,105.8,6.7,mb,4,,,,centennial,centennial19230504222651,2013-07-09T19:07:18.000Z,"Atacama, Chile",earthquake
+1923-05-04T16:26:46.000Z,55.765,-156.986,25,7.1,ms,33,,,,centennial,centennial19230504162646,2013-07-09T19:07:18.000Z,"south of Alaska",earthquake
+1923-05-01T10:36:20.000Z,-55.316,-25.844,15,6.6,uk,5,,,,centennial,centennial19230501103620,2013-07-09T19:07:18.000Z,"South Sandwich Islands region",earthquake

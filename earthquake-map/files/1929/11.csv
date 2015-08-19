@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1929-11-18T20:32:00.000Z,44.539,-56.008,15,7.4,mw,69,,,,centennial,centennial19291118203200,2013-07-09T19:07:20.000Z,"North Atlantic Ocean",earthquake
+1929-11-15T18:50:32.000Z,7.522,142.735,25,7.1,ms,29,,,,centennial,centennial19291115185032,2013-07-09T19:07:20.000Z,"State of Yap, Federated States of Micronesia",earthquake

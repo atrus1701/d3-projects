@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1905-04-26T21:43:00.000Z,-21,-70,60,6.8,uk,0,,,,centennial,centennial19050426214300,2013-07-09T19:07:15.000Z,"Tarapaca, Chile",earthquake
+1905-04-19T12:25:00.000Z,-32,-171,0,6.8,ms,0,,,,centennial,centennial19050419122500,2013-07-09T19:07:15.000Z,"Kermadec Islands region",earthquake
+1905-04-04T00:50:00.000Z,33,76,0,7.8,mw,0,,,,centennial,centennial19050404005000,2013-07-09T19:07:15.000Z,"Kashmir-India border region",earthquake

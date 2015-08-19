@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1935-06-29T06:48:58.000Z,18.54,-103.659,35,6.7,uk,40,,,,centennial,centennial19350629064858,2013-07-09T19:07:21.000Z,"offshore Michoacan, Mexico",earthquake
+1935-06-24T23:23:18.000Z,-15.55,167.872,141.6,7.1,mb,104,,,,centennial,centennial19350624232318,2013-07-09T19:07:21.000Z,"Vanuatu",earthquake

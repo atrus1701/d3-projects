@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-07-28T08:40:10.000Z,16.886,-99.288,41.2,7.8,mw,115,,,,centennial,centennial19570728084010,2013-07-09T19:07:26.000Z,"Guerrero, Mexico",earthquake
+1957-07-14T08:10:54.000Z,-30.061,-177.589,51.1,6.6,ms,159,,,,centennial,centennial19570714081054,2013-07-09T19:07:26.000Z,"Kermadec Islands, New Zealand",earthquake
+1957-07-14T06:24:01.000Z,-27.139,-177.741,200.6,7,mb,225,,,,centennial,centennial19570714062401,2013-07-09T19:07:26.000Z,"Kermadec Islands region",earthquake
+1957-07-10T09:04:11.000Z,7.524,-82.741,10,6.5,ms,113,,,,centennial,centennial19570710090411,2013-07-09T19:07:26.000Z,"south of Panama",earthquake
+1957-07-02T00:42:28.000Z,36.069,52.695,35,7.1,mw,197,,,,centennial,centennial19570702004228,2013-07-09T19:07:26.000Z,"northern Iran",earthquake
+1957-07-01T19:30:21.000Z,24.444,93.868,35,6.6,ms,120,,,,centennial,centennial19570701193021,2013-07-09T19:07:26.000Z,"Manipur, India region",earthquake

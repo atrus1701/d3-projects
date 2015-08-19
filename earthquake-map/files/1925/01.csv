@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1925-01-28T04:05:00.000Z,43.5,147.5,35,6.9,mj,0,,,,centennial,centennial19250128040500,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake
+1925-01-21T18:11:00.000Z,-55,-24,35,6.6,uk,0,,,,centennial,centennial19250121181100,2013-07-09T19:07:19.000Z,"South Sandwich Islands region",earthquake
+1925-01-18T12:05:57.000Z,47.912,153.635,35,7.2,mw,52,,,,centennial,centennial19250118120557,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake

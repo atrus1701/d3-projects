@@ -1,0 +1,27 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-02-28T19:58:50.000Z,27.833,56.317,37.8,5.5,mb,123,,,,centennial,centennial19700228195850,2013-07-09T19:07:36.000Z,"southern Iran",earthquake
+1970-02-28T10:52:34.000Z,52.555,-175.032,179.2,6,mb,308,,,,centennial,centennial19700228105234,2013-07-09T19:07:36.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1970-02-27T10:47:54.000Z,-8.011,119.714,178.6,5.5,mb,169,,,,centennial,centennial19700227104754,2013-07-09T19:07:36.000Z,"Flores region, Indonesia",earthquake
+1970-02-27T07:07:59.000Z,50.14,-179.629,14.8,5.9,ms,274,,,,centennial,centennial19700227070759,2013-07-09T19:07:36.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1970-02-26T23:29:05.000Z,43.5,147.67,28.1,5.7,ms,184,,,,centennial,centennial19700226232905,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-02-26T23:05:59.000Z,43.477,147.626,21.6,5.5,ms,192,,,,centennial,centennial19700226230559,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-02-24T08:05:42.000Z,59.435,-144.055,18.9,5.6,ms,57,,,,centennial,centennial19700224080542,2013-07-09T19:07:36.000Z,"Gulf of Alaska",earthquake
+1970-02-24T02:07:34.000Z,30.604,103.053,3.3,5.8,mb,210,,,,centennial,centennial19700224020734,2014-03-17T19:06:53.580Z,"eastern Sichuan, China",earthquake
+1970-02-19T22:55:06.000Z,-4.474,140.135,25.2,5.6,mb,86,,,,centennial,centennial19700219225506,2013-07-09T19:07:36.000Z,"Papua, Indonesia",earthquake
+1970-02-19T10:47:41.000Z,-30.29,-177.769,63.8,5.5,mb,108,,,,centennial,centennial19700219104741,2013-07-09T19:07:36.000Z,"Kermadec Islands, New Zealand",earthquake
+1970-02-19T07:10:01.000Z,27.4,94,18,5.5,,,,,,atlas,atlas19700219071001,2014-03-17T19:06:36.697Z,"northeastern India",earthquake
+1970-02-18T15:23:33.000Z,-20.831,-176.709,251.9,5.7,mb,205,,,,centennial,centennial19700218152333,2013-07-09T19:07:36.000Z,"Fiji region",earthquake
+1970-02-17T05:46:05.000Z,9.827,125.933,86.2,5.8,mb,173,,,,centennial,centennial19700217054605,2013-07-09T19:07:36.000Z,"Mindanao, Philippines",earthquake
+1970-02-15T12:36:36.000Z,-0.07,122.949,136.8,5.6,mb,173,,,,centennial,centennial19700215123636,2013-07-09T19:07:36.000Z,"Sulawesi, Indonesia",earthquake
+1970-02-14T11:17:16.000Z,-9.88,-75.573,35,5.9,,,,,,atlas,atlas19700214111716,2014-03-17T19:06:18.336Z,"central Peru",earthquake
+1970-02-13T15:43:28.000Z,-5.987,112.973,623.6,6.5,ms,214,,,,centennial,centennial19700213154328,2014-03-17T19:06:06.042Z,"Java Sea",earthquake
+1970-02-10T19:34:05.000Z,-5.972,130.648,121.4,5.5,mb,115,,,,centennial,centennial19700210193405,2013-07-09T19:07:36.000Z,"Banda Sea",earthquake
+1970-02-07T10:01:04.000Z,47.267,153.948,13.5,5.5,ms,173,,,,centennial,centennial19700207100104,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-02-06T22:10:40.000Z,23.049,100.751,5.1,6.1,ms,143,,,,centennial,centennial19700206221040,2014-03-17T19:05:47.676Z,"Yunnan, China",earthquake
+1970-02-05T22:05:59.000Z,12.6,122.057,7.8,6.6,ms,215,,,,centennial,centennial19700205220559,2014-03-17T19:05:31.056Z,"Sibuyan Sea, Philippines",earthquake
+1970-02-05T12:46:39.000Z,47.014,154.107,25.1,5.5,ms,191,,,,centennial,centennial19700205124639,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-02-04T22:46:00.000Z,-22.72,171.466,60,5.5,uk,51,,,,centennial,centennial19700204224600,2013-07-09T19:07:36.000Z,"southeast of the Loyalty Islands",earthquake
+1970-02-04T05:08:51.000Z,15.518,-99.485,32,6.5,ms,171,,,,centennial,centennial19700204050851,2013-07-09T19:07:36.000Z,"off the coast of Guerrero, Mexico",earthquake
+1970-02-02T18:05:50.000Z,43.267,147.582,28.4,5.5,mb,92,,,,centennial,centennial19700202180550,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-02-02T17:49:53.000Z,43.376,147.431,33.9,5.6,mb,182,,,,centennial,centennial19700202174953,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-02-02T17:22:09.000Z,43.349,147.531,32.5,5.5,mb,158,,,,centennial,centennial19700202172209,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake

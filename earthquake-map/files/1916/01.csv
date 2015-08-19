@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-01-25T11:38:00.000Z,45,144,250,6.9,mj,0,,,,centennial,centennial19160125113800,2013-07-09T19:07:17.000Z,"Hokkaido, Japan region",earthquake
+1916-01-24T06:55:07.000Z,41,37,0,7.2,mw,0,,,,centennial,centennial19160124065507,2013-07-09T19:07:17.000Z,"central Turkey",earthquake
+1916-01-13T08:20:48.000Z,-3,135.5,0,7.6,mw,0,,,,centennial,centennial19160113082048,2013-07-09T19:07:17.000Z,"Papua, Indonesia",earthquake
+1916-01-13T06:18:30.000Z,-3,136,0,7.3,mw,0,,,,centennial,centennial19160113061830,2013-07-09T19:07:17.000Z,"Papua, Indonesia",earthquake
+1916-01-01T13:20:36.000Z,-4,154,0,7.7,mw,0,,,,centennial,centennial19160101132036,2013-07-09T19:07:17.000Z,"New Ireland region, Papua New Guinea",earthquake

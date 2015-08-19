@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-03-26T17:38:14.000Z,-23,-176.5,100,6.7,uk,0,,,,centennial,centennial19430326173814,2013-07-09T19:07:22.000Z,"south of the Fiji Islands",earthquake
+1943-03-25T18:27:19.000Z,-60.106,-27.542,35,7,ms,0,,,,centennial,centennial19430325182719,2013-07-09T19:07:22.000Z,"South Sandwich Islands region",earthquake
+1943-03-21T20:35:47.000Z,-5.807,150.882,35,7.1,ms,0,,,,centennial,centennial19430321203547,2013-07-09T19:07:22.000Z,"New Britain region, Papua New Guinea",earthquake
+1943-03-15T22:59:15.000Z,-14.5,-177,300,6.6,uk,0,,,,centennial,centennial19430315225915,2013-07-09T19:07:22.000Z,"Fiji region",earthquake
+1943-03-15T04:47:56.000Z,9.5,142,0,6.6,uk,0,,,,centennial,centennial19430315044756,2013-07-09T19:07:22.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1943-03-15T02:24:29.000Z,-22,169.5,0,6.9,ms,0,,,,centennial,centennial19430315022429,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake
+1943-03-14T18:37:58.000Z,-19.447,-69.131,77.1,7.1,mb,0,,,,centennial,centennial19430314183758,2013-07-09T19:07:22.000Z,"Tarapaca, Chile",earthquake
+1943-03-14T17:11:00.000Z,-22,169.5,0,6.8,ms,0,,,,centennial,centennial19430314171100,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake
+1943-03-11T09:34:11.000Z,-22,170,80,6.6,uk,0,,,,centennial,centennial19430311093411,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake
+1943-03-09T09:49:00.000Z,-60.666,-27.993,35,7.1,mw,0,,,,centennial,centennial19430309094900,2013-07-09T19:07:22.000Z,"South Sandwich Islands region",earthquake
+1943-03-05T00:31:40.000Z,5.25,-82.5,0,6.6,uk,0,,,,centennial,centennial19430305003140,2013-07-09T19:07:22.000Z,"south of Panama",earthquake

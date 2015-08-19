@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-08-30T03:05:02.000Z,8.645,126.531,35,7.2,mw,12,,,,centennial,centennial19240830030502,2013-07-09T19:07:19.000Z,"Mindanao, Philippines",earthquake
+1924-08-25T14:31:00.000Z,36.2,142,35,6.7,mj,0,,,,centennial,centennial19240825143100,2013-07-09T19:07:19.000Z,"off the east coast of Honshu, Japan",earthquake
+1924-08-25T02:21:49.000Z,-44.863,34.929,25,6.6,uk,11,,,,centennial,centennial19240825022149,2013-07-09T19:07:19.000Z,"Prince Edward Islands region",earthquake
+1924-08-17T02:10:00.000Z,36,142.5,35,6.6,mj,0,,,,centennial,centennial19240817021000,2013-07-09T19:07:19.000Z,"off the east coast of Honshu, Japan",earthquake
+1924-08-14T23:27:00.000Z,36.3,142.2,35,6.7,mj,0,,,,centennial,centennial19240814232700,2013-07-09T19:07:19.000Z,"off the east coast of Honshu, Japan",earthquake
+1924-08-14T18:02:39.000Z,36.133,141.892,35,7,ms,26,,,,centennial,centennial19240814180239,2013-07-09T19:07:19.000Z,"near the east coast of Honshu, Japan",earthquake
+1924-08-10T06:11:58.000Z,-30.865,-177.189,35,6.6,uk,21,,,,centennial,centennial19240810061158,2013-07-09T19:07:19.000Z,"Kermadec Islands, New Zealand",earthquake

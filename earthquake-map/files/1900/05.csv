@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1900-05-16T20:12:00.000Z,20,-105,0,6.9,ms,0,,,,centennial,centennial19000516201200,2013-07-09T19:07:15.000Z,"Jalisco, Mexico",earthquake
+1900-05-11T17:23:00.000Z,38.7,141.1,5,7,mj,0,,,,centennial,centennial19000511172300,2013-07-09T19:07:15.000Z,"near the east coast of Honshu, Japan",earthquake

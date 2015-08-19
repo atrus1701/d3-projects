@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-05-30T21:01:18.000Z,-8,131,100,7.1,mb,0,,,,centennial,centennial19090530210118,2013-07-09T19:07:16.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1909-05-17T08:02:54.000Z,-20,-64,250,7,mb,0,,,,centennial,centennial19090517080254,2013-07-09T19:07:16.000Z,"Chuquisaca, Bolivia",earthquake

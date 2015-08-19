@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1958-08-16T19:13:50.000Z,34.255,47.875,35,6.5,ms,159,,,,centennial,centennial19580816191350,2013-07-09T19:07:26.000Z,"western Iran",earthquake
+1958-08-15T22:29:10.000Z,1.556,124.94,77.9,6.9,mb,205,,,,centennial,centennial19580815222910,2013-07-09T19:07:26.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1958-08-15T19:55:44.000Z,53.516,160.227,45,6.6,ms,183,,,,centennial,centennial19580815195544,2013-07-09T19:07:26.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1958-08-06T21:09:18.000Z,-16.67,-173.06,54,6.6,uk,0,,,,centennial,centennial19580806210918,2013-07-09T19:07:26.000Z,"Tonga",earthquake

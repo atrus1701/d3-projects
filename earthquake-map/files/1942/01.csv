@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1942-01-29T09:23:48.000Z,-19.321,169.042,117.7,7,mb,40,,,,centennial,centennial19420129092348,2013-07-09T19:07:22.000Z,"Vanuatu",earthquake
+1942-01-27T13:29:11.000Z,-4.325,134.838,18.4,7.1,ms,30,,,,centennial,centennial19420127132911,2013-07-09T19:07:22.000Z,"near the south coast of Papua, Indonesia",earthquake

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1939-12-26T23:57:22.000Z,39.77,39.533,35,7.7,mw,34,,,,centennial,centennial19391226235722,2013-07-09T19:07:21.000Z,"eastern Turkey",earthquake
+1939-12-22T04:44:03.000Z,9.543,-84.675,35,6.6,uk,60,,,,centennial,centennial19391222044403,2013-07-09T19:07:21.000Z,"Costa Rica",earthquake
+1939-12-21T21:00:33.000Z,-0.208,122.565,35,7.8,mb,52,,,,centennial,centennial19391221210033,2013-07-09T19:07:21.000Z,"Sulawesi, Indonesia",earthquake
+1939-12-21T20:54:53.000Z,9.986,-84.546,35,7.2,mw,57,,,,centennial,centennial19391221205453,2013-07-09T19:07:21.000Z,"Costa Rica",earthquake
+1939-12-16T10:46:31.000Z,43.624,147.797,35,7.1,mb,77,,,,centennial,centennial19391216104631,2013-07-09T19:07:21.000Z,"Kuril Islands",earthquake
+1939-12-05T08:30:13.000Z,14.253,-91.904,35,6.6,uk,66,,,,centennial,centennial19391205083013,2013-07-09T19:07:21.000Z,"offshore Guatemala",earthquake

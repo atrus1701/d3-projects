@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-11-28T16:30:34.000Z,-6.796,156.221,173.1,5.7,mb,181,,,,centennial,centennial19681128163034,2013-07-09T19:07:34.000Z,"Solomon Islands",earthquake
+1968-11-28T10:36:07.000Z,15.241,-94.769,21.4,6.4,ms,154,,,,centennial,centennial19681128103607,2013-07-09T19:07:34.000Z,"near the coast of Oaxaca, Mexico",earthquake
+1968-11-25T18:36:56.000Z,5.056,126.587,48.2,6.2,ms,139,,,,centennial,centennial19681125183656,2013-07-09T19:07:34.000Z,"Mindanao, Philippines",earthquake
+1968-11-24T21:21:01.000Z,40.315,142.334,49.7,5.9,mb,249,,,,centennial,centennial19681124212101,2013-07-09T19:07:34.000Z,"near the east coast of Honshu, Japan",earthquake
+1968-11-22T11:38:17.000Z,13.173,122.556,6.1,5.5,mb,119,,,,centennial,centennial19681122113817,2013-07-09T19:07:34.000Z,"Luzon, Philippines",earthquake
+1968-11-22T10:31:51.000Z,1.448,125.634,44.6,5.6,mb,58,,,,centennial,centennial19681122103151,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-11-22T08:59:27.000Z,16.202,122.151,45.7,5.8,ms,148,,,,centennial,centennial19681122085927,2013-07-09T19:07:34.000Z,"Luzon, Philippines",earthquake
+1968-11-17T07:41:16.000Z,-1.308,-13.582,18.9,5.8,ms,128,,,,centennial,centennial19681117074116,2013-07-09T19:07:34.000Z,"north of Ascension Island",earthquake
+1968-11-17T00:16:10.000Z,9.483,-72.679,174.9,5.8,mb,206,,,,centennial,centennial19681117001610,2013-07-09T19:07:34.000Z,"Zulia, Venezuela",earthquake
+1968-11-16T07:45:51.000Z,-16.617,176.038,46.6,6.1,uk,77,,,,centennial,centennial19681116074551,2013-07-09T19:07:34.000Z,"Fiji region",earthquake
+1968-11-15T00:07:10.000Z,58.273,-150.45,22.1,6.4,uk,83,,,,centennial,centennial19681115000710,2013-07-09T19:07:34.000Z,"Gulf of Alaska",earthquake
+1968-11-14T23:08:54.000Z,-21.49,170.155,84.1,5.6,mb,25,,,,centennial,centennial19681114230854,2013-07-09T19:07:34.000Z,"southeast of the Loyalty Islands",earthquake
+1968-11-13T18:41:49.000Z,40.195,142.573,46.5,5.8,ms,199,,,,centennial,centennial19681113184149,2013-07-09T19:07:34.000Z,"near the east coast of Honshu, Japan",earthquake
+1968-11-12T00:44:14.000Z,27.519,128.42,50.2,5.8,mb,142,,,,centennial,centennial19681112004414,2013-07-09T19:07:34.000Z,"Ryukyu Islands, Japan",earthquake
+1968-11-11T14:41:16.000Z,40.164,143.186,27.1,5.9,ms,42,,,,centennial,centennial19681111144116,2013-07-09T19:07:34.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-11-09T20:30:45.000Z,2.38,126.857,48.6,6,ms,157,,,,centennial,centennial19681109203045,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-11-07T03:32:49.000Z,-16.648,-172.602,13.3,5.5,ms,87,,,,centennial,centennial19681107033249,2013-07-09T19:07:34.000Z,"Samoa Islands region",earthquake
+1968-11-04T09:07:40.000Z,-14.227,172.113,592.7,6.5,ms,200,,,,centennial,centennial19681104090740,2013-07-09T19:07:34.000Z,"Vanuatu region",earthquake

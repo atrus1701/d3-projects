@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-01-30T00:19:34.000Z,-9.84,160.93,59,6.6,uk,0,,,,centennial,centennial19590130001934,2013-07-09T19:07:26.000Z,"Solomon Islands",earthquake
+1959-01-22T05:10:31.000Z,37.557,142.48,32.1,7.2,mw,155,,,,centennial,centennial19590122051031,2013-07-09T19:07:26.000Z,"off the east coast of Honshu, Japan",earthquake
+1959-01-13T01:15:27.000Z,13.43,146.09,0,6.6,uk,0,,,,centennial,centennial19590113011527,2013-07-09T19:07:26.000Z,"Mariana Islands region",earthquake

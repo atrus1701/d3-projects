@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-11-22T10:16:26.000Z,51.4,-176,0,6.6,uk,0,,,,centennial,centennial19501122101626,2013-07-09T19:07:24.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1950-11-17T19:28:16.000Z,16.8,-100.7,0,6.6,uk,0,,,,centennial,centennial19501117192816,2013-07-09T19:07:24.000Z,"offshore Guerrero, Mexico",earthquake
+1950-11-08T02:18:17.000Z,-9.791,159.957,35,7.1,mw,0,,,,centennial,centennial19501108021817,2013-07-09T19:07:24.000Z,"Solomon Islands",earthquake
+1950-11-05T17:37:27.000Z,33.25,134.75,0,6.7,uk,0,,,,centennial,centennial19501105173727,2013-07-09T19:07:24.000Z,"Shikoku, Japan",earthquake
+1950-11-02T15:28:13.000Z,-6.893,129.247,194.4,7.4,mb,0,,,,centennial,centennial19501102152813,2013-07-09T19:07:24.000Z,"Banda Sea",earthquake

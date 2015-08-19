@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-06-30T10:49:02.000Z,-7,122,720,6.6,uk,0,,,,centennial,centennial19430630104902,2013-07-09T19:07:22.000Z,"Flores Sea",earthquake
+1943-06-13T08:36:55.000Z,41,143.3,0,6.5,ms,0,,,,centennial,centennial19430613083655,2013-07-09T19:07:22.000Z,"off the east coast of Honshu, Japan",earthquake
+1943-06-13T05:11:42.000Z,40.98,143.313,35,7.1,mw,0,,,,centennial,centennial19430613051142,2013-07-09T19:07:22.000Z,"off the east coast of Honshu, Japan",earthquake
+1943-06-09T03:06:19.000Z,-1.726,101.088,35,7.5,mw,0,,,,centennial,centennial19430609030619,2013-07-09T19:07:22.000Z,"southern Sumatra, Indonesia",earthquake
+1943-06-08T20:42:43.000Z,-2.933,101.739,35,7.2,mw,0,,,,centennial,centennial19430608204243,2013-07-09T19:07:22.000Z,"southern Sumatra, Indonesia",earthquake

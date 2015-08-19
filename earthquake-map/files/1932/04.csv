@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-04-12T23:52:39.000Z,-4.797,152.654,85.9,6.6,uk,28,,,,centennial,centennial19320412235239,2013-07-09T19:07:20.000Z,"New Britain region, Papua New Guinea",earthquake
+1932-04-04T19:16:38.000Z,30.557,138.816,415.8,6.6,uk,47,,,,centennial,centennial19320404191638,2013-07-09T19:07:20.000Z,"Izu Islands, Japan region",earthquake

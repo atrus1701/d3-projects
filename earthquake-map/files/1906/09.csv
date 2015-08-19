@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1906-09-28T15:24:54.000Z,-2,-79,150,7.5,mb,0,,,,centennial,centennial19060928152454,2013-07-09T19:07:16.000Z,"Ecuador",earthquake
+1906-09-17T08:38:00.000Z,-4,149,0,6.8,ms,0,,,,centennial,centennial19060917083800,2013-07-09T19:07:16.000Z,"Bismarck Sea",earthquake
+1906-09-14T16:04:18.000Z,-7,149,0,8,mw,0,,,,centennial,centennial19060914160418,2013-07-09T19:07:16.000Z,"New Britain region, Papua New Guinea",earthquake
+1906-09-07T18:52:00.000Z,34,141,35,7,ms,0,,,,centennial,centennial19060907185200,2013-07-09T19:07:16.000Z,"near the east coast of Honshu, Japan",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1919-06-29T23:14:09.000Z,11.935,-88.289,35,6.6,uk,6,,,,centennial,centennial19190629231409,2013-07-09T19:07:18.000Z,"off the coast of Central America",earthquake
+1919-06-01T06:51:04.000Z,27.074,123.315,35,7.1,mb,11,,,,centennial,centennial19190601065104,2013-07-09T19:07:18.000Z,"northeast of Taiwan",earthquake

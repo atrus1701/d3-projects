@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-09-28T05:06:36.000Z,-28.063,-177.833,17.3,6.6,uk,58,,,,centennial,centennial19650928050636,2013-07-09T19:07:31.000Z,"Kermadec Islands region",earthquake
+1965-09-26T21:33:56.000Z,-54.833,-38.328,34.6,5.6,uk,115,,,,centennial,centennial19650926213356,2013-07-09T19:07:31.000Z,"South Georgia Island region",earthquake
+1965-09-25T02:01:18.000Z,-24.509,-175.847,19.8,6.5,uk,36,,,,centennial,centennial19650925020118,2013-07-09T19:07:31.000Z,"south of Tonga",earthquake
+1965-09-22T22:08:03.000Z,36.42,141.345,45.5,6.8,uk,191,,,,centennial,centennial19650922220803,2013-07-09T19:07:31.000Z,"near the east coast of Honshu, Japan",earthquake
+1965-09-22T20:01:51.000Z,-5.366,151.572,60.6,5.7,mb,138,,,,centennial,centennial19650922200151,2013-07-09T19:07:31.000Z,"New Britain region, Papua New Guinea",earthquake
+1965-09-21T01:38:31.000Z,28.993,128.182,196.5,6,mb,212,,,,centennial,centennial19650921013831,2013-07-09T19:07:31.000Z,"Ryukyu Islands, Japan",earthquake
+1965-09-18T22:03:14.000Z,8.295,126.893,32.2,5.5,mb,90,,,,centennial,centennial19650918220314,2013-07-09T19:07:31.000Z,"Mindanao, Philippines",earthquake
+1965-09-18T20:46:38.000Z,59.348,-145.258,10.3,6,uk,103,,,,centennial,centennial19650918204638,2013-07-09T19:07:31.000Z,"Gulf of Alaska",earthquake
+1965-09-17T16:21:21.000Z,36.335,141.333,42.6,6.9,uk,225,,,,centennial,centennial19650917162121,2013-07-09T19:07:31.000Z,"near the east coast of Honshu, Japan",earthquake
+1965-09-17T11:13:57.000Z,-1.463,-77.659,187.2,5.9,mb,163,,,,centennial,centennial19650917111357,2013-07-09T19:07:31.000Z,"Ecuador",earthquake
+1965-09-16T13:50:12.000Z,7.108,126.543,170.4,5.9,mb,133,,,,centennial,centennial19650916135012,2013-07-09T19:07:31.000Z,"Mindanao, Philippines",earthquake
+1965-09-13T16:15:43.000Z,-36.518,-97.732,13.8,5.8,uk,47,,,,centennial,centennial19650913161543,2013-07-09T19:07:31.000Z,"West Chile Rise",earthquake
+1965-09-12T22:02:35.000Z,-6.477,70.745,29.4,7,uk,199,,,,centennial,centennial19650912220235,2013-07-09T19:07:31.000Z,"Chagos Archipelago region",earthquake
+1965-09-12T08:40:13.000Z,-6.351,151.679,38.7,6.6,uk,180,,,,centennial,centennial19650912084013,2013-07-09T19:07:31.000Z,"New Britain region, Papua New Guinea",earthquake
+1965-09-11T06:53:01.000Z,-5.321,153.071,45.6,6.2,uk,193,,,,centennial,centennial19650911065301,2013-07-09T19:07:30.000Z,"New Ireland region, Papua New Guinea",earthquake
+1965-09-09T10:02:25.000Z,6.497,-84.463,15,6.8,uk,133,,,,centennial,centennial19650909100225,2013-07-09T19:07:30.000Z,"off the coast of Central America",earthquake
+1965-09-04T14:32:50.000Z,58.176,-152.634,28.4,6.8,ms,209,,,,centennial,centennial19650904143250,2013-07-09T19:07:30.000Z,"Kodiak Island region, Alaska",earthquake
+1965-09-01T04:47:33.000Z,-34.688,179.825,91,5.7,mb,67,,,,centennial,centennial19650901044733,2013-07-09T19:07:30.000Z,"south of the Kermadec Islands",earthquake

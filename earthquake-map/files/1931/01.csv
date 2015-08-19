@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-01-28T21:24:10.000Z,10.778,144.803,35,7.1,ms,34,,,,centennial,centennial19310128212410,2013-07-09T19:07:20.000Z,"south of the Mariana Islands",earthquake
+1931-01-27T20:09:22.000Z,25.675,96.755,35,7.6,mw,63,,,,centennial,centennial19310127200922,2013-07-09T19:07:20.000Z,"Myanmar",earthquake
+1931-01-15T21:01:42.000Z,28.497,127.137,35,6.6,uk,22,,,,centennial,centennial19310115210142,2013-07-09T19:07:20.000Z,"northwest of the Ryukyu Islands, Japan",earthquake
+1931-01-15T01:50:47.000Z,16.053,-96.614,35,7.8,mw,80,,,,centennial,centennial19310115015047,2013-07-09T19:07:20.000Z,"Oaxaca, Mexico",earthquake
+1931-01-02T09:49:04.000Z,18.614,-107.205,25,6.6,uk,28,,,,centennial,centennial19310102094904,2013-07-09T19:07:20.000Z,"off the coast of Jalisco, Mexico",earthquake

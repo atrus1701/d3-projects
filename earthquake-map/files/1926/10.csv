@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-10-26T03:44:43.000Z,-3.219,139.097,35,7.5,mw,36,,,,centennial,centennial19261026034443,2013-07-09T19:07:19.000Z,"Papua, Indonesia",earthquake
+1926-10-13T19:08:16.000Z,51.771,-175.361,35,7,ms,54,,,,centennial,centennial19261013190816,2013-07-09T19:07:19.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1926-10-03T19:38:01.000Z,-49.809,161.703,15,7.3,mw,17,,,,centennial,centennial19261003193801,2013-07-09T19:07:19.000Z,"north of Macquarie Island",earthquake

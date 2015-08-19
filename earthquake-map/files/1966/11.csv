@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-11-26T02:18:18.000Z,-25.546,-70.595,50.9,5.6,mb,92,,,,centennial,centennial19661126021818,2013-07-09T19:07:32.000Z,"Antofagasta, Chile",earthquake
+1966-11-23T02:19:16.000Z,-14.896,166.943,57.6,5.5,mb,114,,,,centennial,centennial19661123021916,2013-07-09T19:07:32.000Z,"Vanuatu",earthquake
+1966-11-22T07:01:13.000Z,-58.004,-25.362,42.3,5.6,mb,100,,,,centennial,centennial19661122070113,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1966-11-22T06:29:54.000Z,47.963,146.8,458.7,5.5,mb,223,,,,centennial,centennial19661122062954,2013-07-09T19:07:32.000Z,"northwest of the Kuril Islands",earthquake
+1966-11-20T18:53:32.000Z,-55.194,-128.545,22.2,5.6,mb,18,,,,centennial,centennial19661120185332,2013-07-09T19:07:32.000Z,"Pacific-Antarctic Ridge",earthquake
+1966-11-12T18:45:02.000Z,-15.652,167.359,33.4,5.6,mb,166,,,,centennial,centennial19661112184502,2013-07-09T19:07:32.000Z,"Vanuatu",earthquake
+1966-11-12T12:49:45.000Z,41.763,144.182,31.9,5.8,mb,191,,,,centennial,centennial19661112124945,2013-07-09T19:07:32.000Z,"Hokkaido, Japan region",earthquake
+1966-11-12T11:50:33.000Z,-23.824,-67.685,133.6,5.5,mb,103,,,,centennial,centennial19661112115033,2013-07-09T19:07:32.000Z,"Antofagasta, Chile",earthquake
+1966-11-11T15:31:04.000Z,52.184,-169.124,30.5,5.5,mb,161,,,,centennial,centennial19661111153104,2013-07-09T19:07:32.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1966-11-10T03:02:33.000Z,-31.945,-68.389,114.8,6,mb,116,,,,centennial,centennial19661110030233,2013-07-09T19:07:32.000Z,"San Juan, Argentina",earthquake
+1966-11-03T16:24:33.000Z,19.13,-67.942,24.4,5.6,mb,168,,,,centennial,centennial19661103162433,2013-07-09T19:07:32.000Z,"Mona Passage",earthquake

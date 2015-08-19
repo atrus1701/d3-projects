@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1904-06-27T00:09:00.000Z,52,159,0,7.2,mw,0,,,,centennial,centennial19040627000900,2013-07-09T19:07:15.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1904-06-25T21:00:30.000Z,52,159,0,7.6,mw,0,,,,centennial,centennial19040625210030,2013-07-09T19:07:15.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1904-06-25T14:45:36.000Z,52,159,0,7.5,mw,0,,,,centennial,centennial19040625144536,2013-07-09T19:07:15.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1904-06-07T08:17:54.000Z,39,135,350,7.4,mb,0,,,,centennial,centennial19040607081754,2013-07-09T19:07:15.000Z,"Sea of Japan",earthquake

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-11-28T15:51:34.000Z,-17.981,-175.062,277.5,7,mb,0,,,,centennial,centennial19461128155134,2013-07-09T19:07:23.000Z,"Tonga",earthquake
+1946-11-12T17:28:42.000Z,-20.035,-173.027,10,7.1,mw,0,,,,centennial,centennial19461112172842,2013-07-09T19:07:23.000Z,"Tonga",earthquake
+1946-11-10T17:42:53.000Z,-8.5,-77.5,0,6.8,mw,0,,,,centennial,centennial19461110174253,2013-07-09T19:07:23.000Z,"central Peru",earthquake
+1946-11-04T21:47:51.000Z,39.845,54.667,47,7.1,mw,0,,,,centennial,centennial19461104214751,2013-07-09T19:07:23.000Z,"Turkmenistan",earthquake
+1946-11-02T18:28:36.000Z,41.849,71.805,39.8,7.3,mw,0,,,,centennial,centennial19461102182836,2013-07-09T19:07:23.000Z,"Kyrgyzstan",earthquake
+1946-11-01T11:14:33.000Z,51.584,-174.525,65,7,ms,0,,,,centennial,centennial19461101111433,2013-07-09T19:07:23.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

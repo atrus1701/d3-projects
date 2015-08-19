@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-08-28T20:13:36.000Z,13.8,-90.8,64,6.6,ms,0,,,,centennial,centennial19550828201336,2013-07-09T19:07:25.000Z,"offshore Guatemala",earthquake
+1955-08-21T17:34:15.000Z,-3.1,137.5,128,6.7,ms,0,,,,centennial,centennial19550821173415,2013-07-09T19:07:25.000Z,"Papua, Indonesia",earthquake
+1955-08-16T11:47:04.000Z,-6.2,155,192,6.9,mb,0,,,,centennial,centennial19550816114704,2013-07-09T19:07:25.000Z,"Bougainville region, Papua New Guinea",earthquake
+1955-08-06T08:31:13.000Z,-20.985,-177.41,185,7,mb,0,,,,centennial,centennial19550806083113,2013-07-09T19:07:25.000Z,"Fiji region",earthquake

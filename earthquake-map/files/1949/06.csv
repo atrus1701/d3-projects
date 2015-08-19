@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-06-24T22:38:49.000Z,-6.2,105.7,65,6.8,uk,0,,,,centennial,centennial19490624223849,2013-07-09T19:07:24.000Z,"Sunda Strait, Indonesia",earthquake
+1949-06-23T22:27:11.000Z,-16.1,168.3,129,6.6,uk,0,,,,centennial,centennial19490623222711,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1949-06-12T17:55:54.000Z,-26.5,-62.5,620,6.7,uk,0,,,,centennial,centennial19490612175554,2013-07-09T19:07:24.000Z,"Santiago Del Estero, Argentina",earthquake
+1949-06-12T17:52:26.000Z,-26.5,-62.5,620,6.7,uk,0,,,,centennial,centennial19490612175226,2013-07-09T19:07:24.000Z,"Santiago Del Estero, Argentina",earthquake

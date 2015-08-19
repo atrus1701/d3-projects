@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-10-31T10:18:00.000Z,8,-105,0,6.9,ms,0,,,,centennial,centennial19091031101800,2013-07-09T19:07:16.000Z,"northern East Pacific Rise",earthquake
+1909-10-30T10:17:30.000Z,-6,131,250,6.7,uk,0,,,,centennial,centennial19091030101730,2013-07-09T19:07:16.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1909-10-20T23:41:12.000Z,30,68,0,7,ms,0,,,,centennial,centennial19091020234112,2013-07-09T19:07:16.000Z,"Pakistan",earthquake

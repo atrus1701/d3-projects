@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-08-23T21:14:30.000Z,36.5,70.5,200,6.6,uk,0,,,,centennial,centennial19120823211430,2013-07-09T19:07:17.000Z,"Hindu Kush region, Afghanistan",earthquake
+1912-08-17T19:11:48.000Z,4,127,0,7.2,mw,0,,,,centennial,centennial19120817191148,2013-07-09T19:07:17.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1912-08-09T01:29:00.000Z,40.5,27,0,7.6,mw,0,,,,centennial,centennial19120809012900,2013-07-09T19:07:17.000Z,"western Turkey",earthquake
+1912-08-06T21:11:18.000Z,-14,167,260,7.3,mb,0,,,,centennial,centennial19120806211118,2013-07-09T19:07:17.000Z,"Vanuatu",earthquake

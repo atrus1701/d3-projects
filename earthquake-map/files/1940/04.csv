@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-04-27T10:33:15.000Z,1.305,-19.177,15,6.6,uk,21,,,,centennial,centennial19400427103315,2013-07-09T19:07:21.000Z,"central Mid-Atlantic Ridge",earthquake
+1940-04-16T06:43:09.000Z,52.818,173.345,35,7.1,ms,40,,,,centennial,centennial19400416064309,2013-07-09T19:07:21.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1940-04-16T06:07:47.000Z,52.168,173.72,35,6.8,ms,104,,,,centennial,centennial19400416060747,2013-07-09T19:07:21.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1940-04-01T11:19:07.000Z,-3.104,139.357,50.8,6.7,uk,35,,,,centennial,centennial19400401111907,2013-07-09T19:07:21.000Z,"Papua, Indonesia",earthquake

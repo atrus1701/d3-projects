@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-05-30T01:32:50.000Z,-20.8,-69,96,6.8,uk,0,,,,centennial,centennial19490530013250,2013-07-09T19:07:24.000Z,"Tarapaca, Chile",earthquake
+1949-05-09T13:36:24.000Z,4.692,95.572,35,6.6,uk,0,,,,centennial,centennial19490509133624,2013-07-09T19:07:24.000Z,"northern Sumatra, Indonesia",earthquake
+1949-05-08T21:24:31.000Z,-20.8,-69,129,6.6,uk,0,,,,centennial,centennial19490508212431,2013-07-09T19:07:24.000Z,"Tarapaca, Chile",earthquake
+1949-05-03T05:56:41.000Z,48.6,153.5,96,6.8,uk,0,,,,centennial,centennial19490503055641,2013-07-09T19:07:24.000Z,"Kuril Islands",earthquake

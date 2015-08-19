@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-09-26T16:02:03.000Z,24.843,123.118,118.6,7.4,mb,0,,,,centennial,centennial19470926160203,2013-07-09T19:07:23.000Z,"southwestern Ryukyu Islands, Japan",earthquake
+1947-09-23T12:28:18.000Z,33.588,58.604,35,6.6,uk,0,,,,centennial,centennial19470923122818,2013-07-09T19:07:23.000Z,"eastern Iran",earthquake
+1947-09-03T15:26:56.000Z,47,153,120,6.6,uk,0,,,,centennial,centennial19470903152656,2013-07-09T19:07:23.000Z,"Kuril Islands",earthquake
+1947-09-02T14:32:40.000Z,-19,-176,250,6.6,uk,0,,,,centennial,centennial19470902143240,2013-07-09T19:07:23.000Z,"Tonga",earthquake

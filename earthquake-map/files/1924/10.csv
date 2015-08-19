@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-10-18T23:05:30.000Z,2.814,-80.169,15,6.6,uk,15,,,,centennial,centennial19241018230530,2013-07-09T19:07:19.000Z,"south of Panama",earthquake
+1924-10-13T16:17:46.000Z,36.522,70.831,179.4,7.2,mb,31,,,,centennial,centennial19241013161746,2013-07-09T19:07:19.000Z,"Hindu Kush region, Afghanistan",earthquake

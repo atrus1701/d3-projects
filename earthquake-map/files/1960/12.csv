@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1960-12-31T18:08:07.000Z,-44.123,-75.683,15,6.6,uk,105,,,,centennial,centennial19601231180807,2013-07-09T19:07:27.000Z,"off the coast of Aisen, Chile",earthquake
+1960-12-29T10:36:42.000Z,-44.967,-75.889,19.8,6.6,uk,102,,,,centennial,centennial19601229103642,2013-07-09T19:07:27.000Z,"off the coast of Aisen, Chile",earthquake
+1960-12-14T23:51:27.000Z,2.891,126.129,35,6.5,ms,196,,,,centennial,centennial19601214235127,2013-07-09T19:07:27.000Z,"Molucca Sea",earthquake
+1960-12-13T07:36:17.000Z,-52.04,160.98,15,7.2,mw,28,,,,centennial,centennial19601213073617,2013-07-09T19:07:27.000Z,"Macquarie Island region",earthquake
+1960-12-03T04:24:19.000Z,43.133,104.469,25,6.9,ms,186,,,,centennial,centennial19601203042419,2013-07-09T19:07:27.000Z,"central Mongolia",earthquake
+1960-12-02T09:10:43.000Z,-24.669,-70.08,14.1,7.2,mw,96,,,,centennial,centennial19601202091043,2013-07-09T19:07:27.000Z,"Antofagasta, Chile",earthquake

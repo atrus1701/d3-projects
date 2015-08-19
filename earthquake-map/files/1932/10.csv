@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-10-30T20:47:00.000Z,54.829,-159.856,25,6.6,uk,62,,,,centennial,centennial19321030204700,2013-07-09T19:07:20.000Z,"south of Alaska",earthquake
+1932-10-16T12:08:06.000Z,54.916,-159.655,25,6.6,uk,85,,,,centennial,centennial19321016120806,2013-07-09T19:07:20.000Z,"south of Alaska",earthquake
+1932-10-02T02:59:12.000Z,11.273,-87.494,35,6.6,uk,31,,,,centennial,centennial19321002025912,2013-07-09T19:07:20.000Z,"near the coast of Nicaragua",earthquake

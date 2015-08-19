@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-04-19T10:59:23.000Z,39.439,34.015,35,6.6,uk,41,,,,centennial,centennial19380419105923,2013-07-09T19:07:21.000Z,"central Turkey",earthquake
+1938-04-14T01:16:27.000Z,23.372,94.407,35,6.6,uk,73,,,,centennial,centennial19380414011627,2013-07-09T19:07:21.000Z,"Myanmar",earthquake
+1938-04-13T02:45:21.000Z,38.112,14.925,35,6.6,uk,50,,,,centennial,centennial19380413024521,2013-07-09T19:07:21.000Z,"Sicily, Italy",earthquake

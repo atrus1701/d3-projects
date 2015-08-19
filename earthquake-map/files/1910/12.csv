@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-12-16T14:45:00.000Z,4.5,126.5,0,7.6,mw,0,,,,centennial,centennial19101216144500,2013-07-09T19:07:17.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1910-12-14T20:46:12.000Z,-21,-178,600,7.2,mb,0,,,,centennial,centennial19101214204612,2013-07-09T19:07:17.000Z,"Fiji region",earthquake
+1910-12-13T11:37:24.000Z,-8,31,0,7.6,mw,0,,,,centennial,centennial19101213113724,2013-07-09T19:07:17.000Z,"Lake Rukwa region, Tanzania",earthquake
+1910-12-10T09:26:42.000Z,-11,162.5,50,7.2,mw,0,,,,centennial,centennial19101210092642,2013-07-09T19:07:16.000Z,"Solomon Islands",earthquake
+1910-12-04T11:00:00.000Z,-10,140,0,6.8,ms,0,,,,centennial,centennial19101204110000,2013-07-09T19:07:16.000Z,"near the south coast of Papua, Indonesia",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1962-08-28T10:59:50.000Z,37.52,22.726,35,6.6,ms,137,,,,centennial,centennial19620828105950,2013-07-09T19:07:28.000Z,"southern Greece",earthquake
+1962-08-03T08:56:18.000Z,-23.287,-68.012,113,7.2,mb,199,,,,centennial,centennial19620803085618,2013-07-09T19:07:28.000Z,"Antofagasta, Chile",earthquake
+1962-08-01T04:36:58.000Z,-3.277,143.77,18.8,6.7,ms,152,,,,centennial,centennial19620801043658,2013-07-09T19:07:28.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake

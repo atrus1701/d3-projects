@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-01-31T09:17:12.000Z,-3.421,152.035,362.1,6.9,ms,90,,,,centennial,centennial19560131091712,2013-07-09T19:07:26.000Z,"New Ireland region, Papua New Guinea",earthquake
+1956-01-16T23:37:45.000Z,-0.819,-80.281,35,6.9,ms,112,,,,centennial,centennial19560116233745,2013-07-09T19:07:26.000Z,"near the coast of Ecuador",earthquake
+1956-01-10T08:52:33.000Z,-26.215,-174.972,35,6.9,ms,18,,,,centennial,centennial19560110085233,2013-07-09T19:07:26.000Z,"south of Tonga",earthquake
+1956-01-08T20:54:21.000Z,-19.051,-70.631,43.3,6.7,ms,116,,,,centennial,centennial19560108205421,2013-07-09T19:07:26.000Z,"near the coast of Tarapaca, Chile",earthquake

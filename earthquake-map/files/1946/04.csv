@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-04-23T04:55:56.000Z,-50,140,0,6.6,uk,0,,,,centennial,centennial19460423045556,2013-07-09T19:07:23.000Z,"western Indian-Antarctic Ridge",earthquake
+1946-04-11T01:52:26.000Z,-1.458,-14.252,35,7.2,mw,0,,,,centennial,centennial19460411015226,2013-07-09T19:07:23.000Z,"north of Ascension Island",earthquake
+1946-04-01T12:29:03.000Z,53.362,-162.854,35,8.6,mw,0,,,,centennial,centennial19460401122903,2013-07-09T19:07:23.000Z,"south of Alaska",earthquake

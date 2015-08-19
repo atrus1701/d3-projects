@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-11-30T02:29:51.000Z,37.026,142.133,35,6.9,ms,68,,,,centennial,centennial19381130022951,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake
+1938-11-17T03:54:40.000Z,55.224,-157.551,35,7.2,mw,123,,,,centennial,centennial19381117035440,2013-07-09T19:07:21.000Z,"Alaska Peninsula",earthquake
+1938-11-13T22:31:32.000Z,36.727,142.36,35,7,ms,40,,,,centennial,centennial19381113223132,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake
+1938-11-13T13:13:42.000Z,45.21,149.308,35,6.7,uk,95,,,,centennial,centennial19381113131342,2013-07-09T19:07:21.000Z,"Kuril Islands",earthquake
+1938-11-10T20:18:46.000Z,55.328,-158.37,35,8.3,mw,112,,,,centennial,centennial19381110201846,2013-07-09T19:07:21.000Z,"Alaska Peninsula",earthquake
+1938-11-06T21:38:46.000Z,36.867,142.625,35,7,ms,62,,,,centennial,centennial19381106213846,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake
+1938-11-06T08:53:55.000Z,37.287,142.283,35,7.7,mw,98,,,,centennial,centennial19381106085355,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake
+1938-11-05T10:50:16.000Z,37.108,142.081,35,7.8,mw,97,,,,centennial,centennial19381105105016,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake
+1938-11-05T08:43:22.000Z,37.009,142.045,35,7.9,mw,89,,,,centennial,centennial19381105084322,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake

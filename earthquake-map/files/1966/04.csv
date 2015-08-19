@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-04-28T01:15:34.000Z,-49.373,164.441,10.1,5.5,mb,32,,,,centennial,centennial19660428011534,2013-07-09T19:07:31.000Z,"Auckland Islands, New Zealand region",earthquake
+1966-04-23T08:56:44.000Z,-0.576,122.118,50.6,6,uk,156,,,,centennial,centennial19660423085644,2013-07-09T19:07:31.000Z,"Sulawesi, Indonesia",earthquake
+1966-04-23T06:49:40.000Z,-41.631,174.568,21.9,5.5,mb,34,,,,centennial,centennial19660423064940,2013-07-09T19:07:31.000Z,"Cook Strait, New Zealand",earthquake
+1966-04-23T03:49:10.000Z,-0.56,122.056,52.7,5.5,mb,45,,,,centennial,centennial19660423034910,2013-07-09T19:07:31.000Z,"Sulawesi, Indonesia",earthquake
+1966-04-23T00:09:32.000Z,-1.066,122.247,18.6,6.8,uk,132,,,,centennial,centennial19660423000932,2013-07-09T19:07:31.000Z,"Sulawesi, Indonesia",earthquake
+1966-04-22T23:27:21.000Z,57.319,-152.371,21.9,5.6,uk,184,,,,centennial,centennial19660422232721,2013-07-09T19:07:31.000Z,"Kodiak Island region, Alaska",earthquake
+1966-04-16T01:27:13.000Z,56.842,-153.681,12.5,6.2,uk,198,,,,centennial,centennial19660416012713,2013-07-09T19:07:31.000Z,"Kodiak Island region, Alaska",earthquake
+1966-04-13T03:35:16.000Z,-38.226,-73.293,27.2,5.5,uk,126,,,,centennial,centennial19660413033516,2013-07-09T19:07:31.000Z,"Bio-Bio, Chile",earthquake
+1966-04-12T23:37:37.000Z,-38.205,-73.289,6.9,6,uk,129,,,,centennial,centennial19660412233737,2013-07-09T19:07:31.000Z,"Bio-Bio, Chile",earthquake
+1966-04-10T16:36:16.000Z,-31.467,-71.064,60.6,5.6,mb,143,,,,centennial,centennial19660410163616,2013-07-09T19:07:31.000Z,"Coquimbo, Chile",earthquake
+1966-04-09T02:42:10.000Z,9.476,-84.169,33.2,5.6,uk,129,,,,centennial,centennial19660409024210,2013-07-09T19:07:31.000Z,"Costa Rica",earthquake
+1966-04-08T22:10:57.000Z,56.513,-152.444,25,5.6,uk,89,,,,centennial,centennial19660408221057,2013-07-09T19:07:31.000Z,"Kodiak Island region, Alaska",earthquake
+1966-04-08T01:46:46.000Z,51.257,157.735,46,6.5,uk,229,,,,centennial,centennial19660408014646,2013-07-09T19:07:31.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1966-04-07T09:42:34.000Z,26.252,127.533,49,5.5,mb,163,,,,centennial,centennial19660407094234,2013-07-09T19:07:31.000Z,"Ryukyu Islands, Japan",earthquake
+1966-04-06T02:59:00.000Z,-45.765,95.95,10,6,uk,100,,,,centennial,centennial19660406025900,2013-07-09T19:07:31.000Z,"southeast Indian Ridge",earthquake
+1966-04-03T04:43:40.000Z,36.64,141.04,48.1,5.6,mb,161,,,,centennial,centennial19660403044340,2013-07-09T19:07:31.000Z,"near the east coast of Honshu, Japan",earthquake
+1966-04-01T05:21:09.000Z,-5.792,149.256,92.4,5.7,mb,38,,,,centennial,centennial19660401052109,2013-07-09T19:07:31.000Z,"New Britain region, Papua New Guinea",earthquake

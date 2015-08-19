@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-08-28T22:28:21.000Z,-26.547,-63.432,572.7,7.1,mb,0,,,,centennial,centennial19460828222821,2013-07-09T19:07:23.000Z,"Santiago Del Estero, Argentina",earthquake
+1946-08-21T18:00:18.000Z,-24,-177,100,6.9,mb,0,,,,centennial,centennial19460821180018,2013-07-09T19:07:23.000Z,"south of the Fiji Islands",earthquake
+1946-08-11T01:54:26.000Z,-8,156,0,6.6,uk,0,,,,centennial,centennial19460811015426,2013-07-09T19:07:23.000Z,"Solomon Islands",earthquake
+1946-08-08T13:28:37.000Z,19.63,-69.631,50,7.5,mw,0,,,,centennial,centennial19460808132837,2013-07-09T19:07:23.000Z,"Dominican Republic region",earthquake
+1946-08-04T17:51:12.000Z,18.959,-69,51.2,7.9,mw,0,,,,centennial,centennial19460804175112,2013-07-09T19:07:23.000Z,"Dominican Republic",earthquake
+1946-08-02T19:18:52.000Z,-26.437,-70.813,41.4,7.1,ms,0,,,,centennial,centennial19460802191852,2013-07-09T19:07:23.000Z,"offshore Atacama, Chile",earthquake

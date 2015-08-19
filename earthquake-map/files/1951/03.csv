@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1951-03-24T00:17:43.000Z,-10.6,165.5,160,6.9,uk,0,,,,centennial,centennial19510324001743,2013-07-09T19:07:24.000Z,"Santa Cruz Islands",earthquake
+1951-03-23T21:38:51.000Z,-30.5,180,270,6.8,mb,0,,,,centennial,centennial19510323213851,2013-07-09T19:07:24.000Z,"",earthquake
+1951-03-10T21:57:30.000Z,-15.231,167.427,102.4,7.2,mb,0,,,,centennial,centennial19510310215730,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1951-03-09T19:44:17.000Z,-8.7,124.1,540,6.6,uk,0,,,,centennial,centennial19510309194417,2013-07-09T19:07:24.000Z,"Kepulauan Alor, Indonesia",earthquake
+1951-03-05T20:11:48.000Z,28.5,128,170,6.7,uk,0,,,,centennial,centennial19510305201148,2013-07-09T19:07:24.000Z,"Ryukyu Islands, Japan",earthquake
+1951-03-04T11:17:24.000Z,-16,-74.5,64,6.7,uk,0,,,,centennial,centennial19510304111724,2013-07-09T19:07:24.000Z,"near the coast of southern Peru",earthquake

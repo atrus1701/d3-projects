@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-08-15T17:30:13.000Z,5.232,125.886,35,6.9,ms,6,,,,centennial,centennial19180815173013,2013-07-09T19:07:18.000Z,"Mindanao, Philippines",earthquake
+1918-08-15T12:18:16.000Z,5.653,123.563,35,8.2,mw,12,,,,centennial,centennial19180815121816,2013-07-09T19:07:18.000Z,"Celebes Sea",earthquake

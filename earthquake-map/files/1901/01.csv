@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1901-01-18T04:39:00.000Z,60,-135,0,7.1,mw,0,,,,centennial,centennial19010118043900,2013-07-09T19:07:15.000Z,"British Columbia, Canada",earthquake
+1901-01-13T22:41:00.000Z,42.3,143.8,35,6.8,mj,0,,,,centennial,centennial19010113224100,2013-07-09T19:07:15.000Z,"Hokkaido, Japan region",earthquake
+1901-01-07T00:29:00.000Z,-2,-82,0,7.2,mw,0,,,,centennial,centennial19010107002900,2013-07-09T19:07:15.000Z,"near the coast of Ecuador",earthquake

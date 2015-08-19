@@ -1,0 +1,33 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-01-31T13:37:34.000Z,2.731,-84.353,25.2,5.5,mb,100,,,,centennial,centennial19670131133734,2013-07-09T19:07:32.000Z,"off the coast of Central America",earthquake
+1967-01-28T17:42:02.000Z,52.318,-169.414,46.9,6,uk,201,,,,centennial,centennial19670128174202,2013-07-09T19:07:32.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1967-01-28T13:52:58.000Z,52.318,-169.606,37.4,6.4,uk,270,,,,centennial,centennial19670128135258,2013-07-09T19:07:32.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1967-01-25T01:50:20.000Z,36.656,71.576,275.8,5.6,mb,198,,,,centennial,centennial19670125015020,2013-07-09T19:07:32.000Z,"Hindu Kush region, Afghanistan",earthquake
+1967-01-24T03:05:40.000Z,41.503,142.026,68.1,5.6,mb,199,,,,centennial,centennial19670124030540,2013-07-09T19:07:32.000Z,"Hokkaido, Japan region",earthquake
+1967-01-23T20:25:34.000Z,19.776,-109.457,15,5.8,uk,54,,,,centennial,centennial19670123202534,2013-07-09T19:07:32.000Z,"Revilla Gigedo Islands region",earthquake
+1967-01-21T02:54:01.000Z,-49.724,-114.906,23.9,6.8,uk,68,,,,centennial,centennial19670121025401,2013-07-09T19:07:32.000Z,"southern East Pacific Rise",earthquake
+1967-01-20T01:57:20.000Z,48.073,103.057,2.1,6.8,uk,264,,,,centennial,centennial19670120015720,2013-07-09T19:07:32.000Z,"central Mongolia",earthquake
+1967-01-19T12:40:11.000Z,-14.796,-178.737,3.5,6.9,ms,69,,,,centennial,centennial19670119124011,2013-07-09T19:07:32.000Z,"Fiji region",earthquake
+1967-01-19T12:39:08.000Z,-11.112,166.379,142.2,5.6,mb,43,,,,centennial,centennial19670119123908,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-01-19T12:38:31.000Z,-11.843,166.591,143.7,5.6,mb,143,,,,centennial,centennial19670119123831,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-01-18T08:18:22.000Z,52.473,-168.298,22.5,6,uk,238,,,,centennial,centennial19670118081822,2013-07-09T19:07:32.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1967-01-18T05:34:35.000Z,56.652,121.002,14.3,6.6,uk,269,,,,centennial,centennial19670118053435,2013-07-09T19:07:32.000Z,"Amurskaya Oblast', Russia",earthquake
+1967-01-17T11:59:33.000Z,38.308,142.163,45.1,6.5,uk,271,,,,centennial,centennial19670117115933,2013-07-09T19:07:32.000Z,"near the east coast of Honshu, Japan",earthquake
+1967-01-17T01:07:55.000Z,-27.381,-63.264,591.3,6.2,ms,173,,,,centennial,centennial19670117010755,2013-07-09T19:07:32.000Z,"Santiago Del Estero, Argentina",earthquake
+1967-01-16T14:26:28.000Z,-11.26,165.825,30.7,6,uk,101,,,,centennial,centennial19670116142628,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-01-16T11:09:09.000Z,-10.637,161.428,42.3,5.5,uk,58,,,,centennial,centennial19670116110909,2013-07-09T19:07:32.000Z,"Solomon Islands",earthquake
+1967-01-13T13:48:13.000Z,-10.568,161.37,37.3,6.8,uk,102,,,,centennial,centennial19670113134813,2013-07-09T19:07:32.000Z,"Solomon Islands",earthquake
+1967-01-11T11:20:44.000Z,34.069,45.655,13.1,5.6,mb,139,,,,centennial,centennial19670111112044,2013-07-09T19:07:32.000Z,"Iran-Iraq border region",earthquake
+1967-01-11T05:54:06.000Z,-0.146,119.988,67,5.5,mb,104,,,,centennial,centennial19670111055406,2013-07-09T19:07:32.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1967-01-07T13:34:50.000Z,11.835,142.861,40.5,5.5,mb,91,,,,centennial,centennial19670107133450,2013-07-09T19:07:32.000Z,"south of the Mariana Islands",earthquake
+1967-01-07T00:27:26.000Z,-48.811,112.682,27.8,5.5,mb,114,,,,centennial,centennial19670107002726,2013-07-09T19:07:32.000Z,"southeast Indian Ridge",earthquake
+1967-01-06T00:04:05.000Z,41.863,143.38,38.9,5.5,mb,167,,,,centennial,centennial19670106000405,2013-07-09T19:07:32.000Z,"Hokkaido, Japan region",earthquake
+1967-01-05T00:42:11.000Z,48.418,103.041,9,5.6,mb,130,,,,centennial,centennial19670105004211,2013-07-09T19:07:32.000Z,"central Mongolia",earthquake
+1967-01-05T00:14:39.000Z,48.201,102.921,14.3,7,mw,242,,,,centennial,centennial19670105001439,2013-07-09T19:07:32.000Z,"central Mongolia",earthquake
+1967-01-04T03:41:36.000Z,20.39,120.113,19.8,5.5,mb,144,,,,centennial,centennial19670104034136,2013-07-09T19:07:32.000Z,"Philippine Islands region",earthquake
+1967-01-03T21:23:22.000Z,-12.381,166.544,27.5,5.6,uk,90,,,,centennial,centennial19670103212322,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-01-03T05:35:47.000Z,-10.926,165.661,29.4,6.2,uk,60,,,,centennial,centennial19670103053547,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-01-02T20:00:01.000Z,-12.421,166.434,42.6,6,uk,96,,,,centennial,centennial19670102200001,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-01-01T21:58:57.000Z,-11.036,165.589,19.5,6,uk,89,,,,centennial,centennial19670101215857,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-01-01T07:05:50.000Z,-15.268,-173.558,33.1,6.6,uk,151,,,,centennial,centennial19670101070550,2013-07-09T19:07:32.000Z,"Tonga",earthquake
+1967-01-01T00:21:07.000Z,-12.036,166.31,24.3,6.6,uk,90,,,,centennial,centennial19670101002107,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake

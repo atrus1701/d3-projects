@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-02-27T20:20:48.000Z,12,-90,0,7.3,mw,0,,,,centennial,centennial19160227202048,2013-07-09T19:07:17.000Z,"off the coast of El Salvador",earthquake
+1916-02-06T21:51:19.000Z,48.5,178.5,0,7.5,uk,0,,,,centennial,centennial19160206215119,2013-07-09T19:07:17.000Z,"south of the Aleutian Islands",earthquake
+1916-02-06T10:56:00.000Z,45,151,35,6.7,mj,0,,,,centennial,centennial19160206105600,2013-07-09T19:07:17.000Z,"Kuril Islands",earthquake
+1916-02-01T07:36:22.000Z,29.5,131.5,0,7.4,mj,0,,,,centennial,centennial19160201073622,2013-07-09T19:07:17.000Z,"southeast of the Ryukyu Islands, Japan",earthquake

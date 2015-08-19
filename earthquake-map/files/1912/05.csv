@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-05-23T02:24:06.000Z,21,97,0,7.7,mw,0,,,,centennial,centennial19120523022406,2013-07-09T19:07:17.000Z,"Myanmar",earthquake
+1912-05-13T19:35:48.000Z,57,162,100,6.6,uk,0,,,,centennial,centennial19120513193548,2013-07-09T19:07:17.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1912-05-11T17:26:24.000Z,-9,72,0,6.6,uk,0,,,,centennial,centennial19120511172624,2013-07-09T19:07:17.000Z,"Chagos Archipelago region",earthquake
+1912-05-06T19:00:00.000Z,64,-20,0,7,ms,0,,,,centennial,centennial19120506190000,2013-07-09T19:07:17.000Z,"Iceland",earthquake

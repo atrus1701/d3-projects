@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-07-25T09:12:52.000Z,18.803,-103.942,35,6.6,uk,45,,,,centennial,centennial19320725091252,2013-07-09T19:07:20.000Z,"offshore Colima, Mexico",earthquake
+1932-07-25T08:24:40.000Z,35.381,135.709,360.7,6.6,uk,39,,,,centennial,centennial19320725082440,2013-07-09T19:07:20.000Z,"western Honshu, Japan",earthquake
+1932-07-12T19:24:12.000Z,26.238,-110.288,15,6.6,uk,32,,,,centennial,centennial19320712192412,2013-07-09T19:07:20.000Z,"Gulf of California",earthquake
+1932-07-07T16:15:53.000Z,29.098,-113.318,15,6.6,uk,34,,,,centennial,centennial19320707161553,2013-07-09T19:07:20.000Z,"Baja California, Mexico",earthquake

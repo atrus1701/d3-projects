@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-10-20T02:19:24.000Z,-9.268,123.243,35,7.3,mb,89,,,,centennial,centennial19381020021924,2013-07-09T19:07:21.000Z,"Timor region, Indonesia",earthquake
+1938-10-19T04:13:26.000Z,49,90,0,6.6,uk,0,,,,centennial,centennial19381019041326,2013-07-09T19:07:21.000Z,"western Mongolia",earthquake
+1938-10-10T20:48:10.000Z,2.386,126.553,35,7.2,mw,73,,,,centennial,centennial19381010204810,2013-07-09T19:07:21.000Z,"Molucca Sea",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-04-11T14:46:00.000Z,36.3,141.5,0,6.6,ms,0,,,,centennial,centennial19430411144600,2013-07-09T19:07:22.000Z,"near the east coast of Honshu, Japan",earthquake
+1943-04-09T08:48:59.000Z,19,146,170,6.9,mb,0,,,,centennial,centennial19430409084859,2013-07-09T19:07:22.000Z,"Pagan region, Northern Mariana Islands",earthquake
+1943-04-06T16:07:16.000Z,-31.369,-71.433,35,8.2,mw,0,,,,centennial,centennial19430406160716,2013-07-09T19:07:22.000Z,"Coquimbo, Chile",earthquake
+1943-04-01T14:18:16.000Z,-6.045,105.987,35,7.1,ms,0,,,,centennial,centennial19430401141816,2013-07-09T19:07:22.000Z,"Sunda Strait, Indonesia",earthquake

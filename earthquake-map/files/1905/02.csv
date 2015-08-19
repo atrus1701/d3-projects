@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1905-02-27T17:25:00.000Z,-23,-176,0,6.9,ms,0,,,,centennial,centennial19050227172500,2013-07-09T19:07:15.000Z,"Tonga region",earthquake
+1905-02-19T04:35:00.000Z,-10,168,0,6.8,ms,0,,,,centennial,centennial19050219043500,2013-07-09T19:07:15.000Z,"Santa Cruz Islands region",earthquake
+1905-02-17T11:42:00.000Z,26,96,0,6.8,ms,0,,,,centennial,centennial19050217114200,2013-07-09T19:07:15.000Z,"Myanmar-India border region",earthquake
+1905-02-14T08:46:36.000Z,53,-178,0,7.2,mw,0,,,,centennial,centennial19050214084636,2013-07-09T19:07:15.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

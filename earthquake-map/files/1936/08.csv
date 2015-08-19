@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-08-23T21:12:13.000Z,5.296,94.759,35,7.1,ms,149,,,,centennial,centennial19360823211213,2013-07-09T19:07:21.000Z,"northern Sumatra, Indonesia",earthquake
+1936-08-22T11:09:19.000Z,21.949,121.186,35,7.2,mw,10,,,,centennial,centennial19360822110919,2013-07-09T19:07:21.000Z,"Taiwan region",earthquake
+1936-08-13T20:02:43.000Z,8.588,126.553,35,6.6,uk,35,,,,centennial,centennial19360813200243,2013-07-09T19:07:21.000Z,"Mindanao, Philippines",earthquake

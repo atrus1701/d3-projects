@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-05-25T23:07:42.000Z,7.472,127.25,35,7.6,mw,0,,,,centennial,centennial19430525230742,2013-07-09T19:07:22.000Z,"Philippine Islands region",earthquake
+1943-05-22T09:01:57.000Z,-30.75,-72,0,6.6,uk,0,,,,centennial,centennial19430522090157,2013-07-09T19:07:22.000Z,"offshore Coquimbo, Chile",earthquake
+1943-05-03T01:59:12.000Z,12.836,124.597,35,7.2,mw,0,,,,centennial,centennial19430503015912,2013-07-09T19:07:22.000Z,"Samar, Philippines",earthquake
+1943-05-02T17:18:09.000Z,6.701,-80.4,24.8,7,ms,0,,,,centennial,centennial19430502171809,2013-07-09T19:07:22.000Z,"south of Panama",earthquake

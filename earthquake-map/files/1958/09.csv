@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1958-09-25T07:20:06.000Z,7.939,-39.353,35,6.5,ms,139,,,,centennial,centennial19580925072006,2013-07-09T19:07:26.000Z,"central Mid-Atlantic Ridge",earthquake
+1958-09-04T21:51:17.000Z,-33.826,-70.14,35,6.6,ms,97,,,,centennial,centennial19580904215117,2013-07-09T19:07:26.000Z,"Region Metropolitana, Chile",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-10-24T16:04:36.000Z,-22,-174,0,6.8,ms,0,,,,centennial,centennial19431024160436,2013-07-09T19:07:22.000Z,"Tonga",earthquake
+1943-10-23T17:23:27.000Z,26.556,93.855,65.5,7.1,mw,0,,,,centennial,centennial19431023172327,2013-07-09T19:07:22.000Z,"Assam, India",earthquake
+1943-10-21T23:08:13.000Z,-15,-177.5,0,6.8,ms,0,,,,centennial,centennial19431021230813,2013-07-09T19:07:22.000Z,"Fiji region",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-03-27T06:34:04.000Z,2.577,127.67,35,7.1,mw,0,,,,centennial,centennial19490327063404,2013-07-09T19:07:24.000Z,"Molucca Sea",earthquake
+1949-03-17T21:05:03.000Z,-5.5,151,60,6.6,ms,0,,,,centennial,centennial19490317210503,2013-07-09T19:07:24.000Z,"New Britain region, Papua New Guinea",earthquake
+1949-03-16T22:15:13.000Z,-5.5,151,60,6.6,ms,0,,,,centennial,centennial19490316221513,2013-07-09T19:07:24.000Z,"New Britain region, Papua New Guinea",earthquake
+1949-03-04T10:19:30.000Z,36.635,70.859,228.4,7.4,mb,0,,,,centennial,centennial19490304101930,2013-07-09T19:07:24.000Z,"Hindu Kush region, Afghanistan",earthquake

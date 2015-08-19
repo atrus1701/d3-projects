@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-12-30T06:16:04.000Z,-16.621,-71.047,104.2,5.6,mb,94,,,,centennial,centennial19651230061604,2013-07-09T19:07:31.000Z,"southern Peru",earthquake
+1965-12-30T02:06:32.000Z,54.039,-164.287,21.7,5.6,uk,135,,,,centennial,centennial19651230020632,2013-07-09T19:07:31.000Z,"Unimak Island region, Alaska",earthquake
+1965-12-28T20:32:28.000Z,27.879,141.824,59.7,6,uk,155,,,,centennial,centennial19651228203228,2013-07-09T19:07:31.000Z,"Bonin Islands, Japan region",earthquake
+1965-12-26T03:53:12.000Z,-5.386,151.699,81.7,5.8,mb,131,,,,centennial,centennial19651226035312,2013-07-09T19:07:31.000Z,"New Britain region, Papua New Guinea",earthquake
+1965-12-25T02:57:59.000Z,-18.12,-179.091,623,6.2,ms,113,,,,centennial,centennial19651225025759,2013-07-09T19:07:31.000Z,"Fiji region",earthquake
+1965-12-23T20:47:38.000Z,60.496,-140.846,22,5.7,mb,134,,,,centennial,centennial19651223204738,2013-07-09T19:07:31.000Z,"Southern Yukon Territory, Canada",earthquake
+1965-12-22T19:41:24.000Z,58.279,-153.156,52.1,6.4,mb,208,,,,centennial,centennial19651222194124,2013-07-09T19:07:31.000Z,"Kodiak Island region, Alaska",earthquake
+1965-12-19T22:06:30.000Z,-32.234,78.786,5.3,5.5,mb,126,,,,centennial,centennial19651219220630,2013-07-09T19:07:31.000Z,"Mid-Indian Ridge",earthquake
+1965-12-15T23:05:24.000Z,7.593,-82.158,23.4,6.8,uk,157,,,,centennial,centennial19651215230524,2013-07-09T19:07:31.000Z,"south of Panama",earthquake
+1965-12-13T10:52:09.000Z,44.659,150.18,28.1,6,uk,203,,,,centennial,centennial19651213105209,2013-07-09T19:07:31.000Z,"east of the Kuril Islands",earthquake
+1965-12-13T03:44:51.000Z,-5.811,133.687,36.3,5.6,mb,44,,,,centennial,centennial19651213034451,2013-07-09T19:07:31.000Z,"Kepulauan Kai, Indonesia",earthquake
+1965-12-10T21:53:19.000Z,-11.363,166.292,59,5.7,mb,103,,,,centennial,centennial19651210215319,2013-07-09T19:07:31.000Z,"Santa Cruz Islands",earthquake
+1965-12-09T13:12:56.000Z,-18.065,-178.077,644.4,6.1,ms,92,,,,centennial,centennial19651209131256,2013-07-09T19:07:31.000Z,"Fiji region",earthquake
+1965-12-09T06:07:49.000Z,17.202,-100.098,51.4,6.2,uk,152,,,,centennial,centennial19651209060749,2013-07-09T19:07:31.000Z,"Guerrero, Mexico",earthquake
+1965-12-08T18:05:26.000Z,-37.043,177.575,165,6.1,mb,97,,,,centennial,centennial19651208180526,2013-07-09T19:07:31.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1965-12-07T22:19:17.000Z,-6.397,146.348,120.5,6,mb,134,,,,centennial,centennial19651207221917,2013-07-09T19:07:31.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1965-12-06T11:34:53.000Z,18.92,-107.192,15,6.8,uk,127,,,,centennial,centennial19651206113453,2013-07-09T19:07:31.000Z,"off the coast of Jalisco, Mexico",earthquake
+1965-12-04T02:11:50.000Z,51.005,-170.576,10,5.6,mb,131,,,,centennial,centennial19651204021150,2013-07-09T19:07:31.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

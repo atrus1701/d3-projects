@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1958-07-26T17:37:14.000Z,-13.285,-69.41,614.7,7.2,mb,244,,,,centennial,centennial19580726173714,2013-07-09T19:07:26.000Z,"southern Peru",earthquake
+1958-07-19T18:16:57.000Z,-0.719,129.792,35,6.6,ms,116,,,,centennial,centennial19580719181657,2013-07-09T19:07:26.000Z,"Halmahera, Indonesia",earthquake
+1958-07-10T06:15:58.000Z,58.475,-136.283,15,7.8,mw,177,,,,centennial,centennial19580710061558,2013-07-09T19:07:26.000Z,"Southeastern Alaska",earthquake

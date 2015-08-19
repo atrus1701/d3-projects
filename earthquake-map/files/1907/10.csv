@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1907-10-21T04:23:36.000Z,38,69,0,7.2,mw,0,,,,centennial,centennial19071021042336,2013-07-09T19:07:16.000Z,"Tajikistan",earthquake
+1907-10-16T14:57:18.000Z,28,-112.5,0,7.2,mw,0,,,,centennial,centennial19071016145718,2013-07-09T19:07:16.000Z,"Baja California Sur, Mexico",earthquake
+1907-10-11T14:28:00.000Z,-15,167,0,6.9,ms,0,,,,centennial,centennial19071011142800,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake

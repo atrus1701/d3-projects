@@ -1,0 +1,28 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-04-29T15:49:01.000Z,-5.635,110.229,536.3,5.7,mb,95,,,,centennial,centennial19650429154901,2013-07-09T19:07:30.000Z,"Java Sea",earthquake
+1965-04-29T15:28:45.000Z,47.317,-122.333,65.7,6.5,mb,203,,,,centennial,centennial19650429152845,2014-04-07T19:43:00.264Z,"Seattle-Tacoma urban area, Washington",earthquake
+1965-04-27T14:09:07.000Z,35.657,23.548,43.5,5.6,mb,96,,,,centennial,centennial19650427140907,2013-07-09T19:07:30.000Z,"Crete, Greece",earthquake
+1965-04-27T10:54:36.000Z,-7.056,129.577,139.8,5.8,mb,114,,,,centennial,centennial19650427105436,2013-07-09T19:07:30.000Z,"Kepulauan Babar, Indonesia",earthquake
+1965-04-26T22:15:44.000Z,21.056,120.711,39,5.8,uk,137,,,,centennial,centennial19650426221544,2013-07-09T19:07:30.000Z,"Taiwan region",earthquake
+1965-04-26T09:47:31.000Z,-1.702,126.678,45.6,5.9,uk,73,,,,centennial,centennial19650426094731,2013-07-09T19:07:30.000Z,"Kepulauan Sula, Indonesia",earthquake
+1965-04-25T01:00:17.000Z,24.251,142.75,49,5.9,uk,133,,,,centennial,centennial19650425010017,2013-07-09T19:07:30.000Z,"Volcano Islands, Japan region",earthquake
+1965-04-24T21:55:29.000Z,11.453,140.146,72.3,5.6,mb,99,,,,centennial,centennial19650424215529,2013-07-09T19:07:30.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1965-04-19T23:42:00.000Z,34.842,138.278,39,5.6,mb,130,,,,centennial,centennial19650419234200,2013-07-09T19:07:30.000Z,"near the south coast of Honshu, Japan",earthquake
+1965-04-18T12:41:56.000Z,-59.803,-26.419,23,6,uk,88,,,,centennial,centennial19650418124156,2013-07-09T19:07:30.000Z,"South Sandwich Islands region",earthquake
+1965-04-18T09:39:21.000Z,-59.806,-26.483,40.6,6,uk,102,,,,centennial,centennial19650418093921,2013-07-09T19:07:30.000Z,"South Sandwich Islands region",earthquake
+1965-04-16T23:22:19.000Z,64.603,-160.345,4.2,5.9,uk,152,,,,centennial,centennial19650416232219,2013-07-09T19:07:30.000Z,"Central Alaska",earthquake
+1965-04-11T00:11:13.000Z,-42.687,174.141,32.1,6.2,mb,92,,,,centennial,centennial19650411001113,2013-07-09T19:07:30.000Z,"off the east coast of the South Island of New Zealand",earthquake
+1965-04-10T22:53:05.000Z,-13.469,170.377,636.9,6.2,ms,95,,,,centennial,centennial19650410225305,2013-07-09T19:07:30.000Z,"Vanuatu region",earthquake
+1965-04-10T22:32:47.000Z,-17.887,-178.696,545.2,6.4,ms,131,,,,centennial,centennial19650410223247,2013-07-09T19:07:30.000Z,"Fiji region",earthquake
+1965-04-10T14:46:53.000Z,-20.297,-173.654,41.6,5.6,mb,58,,,,centennial,centennial19650410144653,2013-07-09T19:07:30.000Z,"Tonga",earthquake
+1965-04-09T23:57:04.000Z,35.075,24.375,50.1,5.8,uk,112,,,,centennial,centennial19650409235704,2013-07-09T19:07:30.000Z,"Crete, Greece",earthquake
+1965-04-08T20:30:55.000Z,-57.569,-28.888,57.6,6.3,mb,12,,,,centennial,centennial19650408203055,2013-07-09T19:07:30.000Z,"South Sandwich Islands region",earthquake
+1965-04-08T13:43:50.000Z,52.202,173.472,14.1,5.8,uk,158,,,,centennial,centennial19650408134350,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-04-06T09:42:32.000Z,-0.499,119.919,53.4,6,uk,124,,,,centennial,centennial19650406094232,2013-07-09T19:07:30.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1965-04-06T05:32:00.000Z,36.103,139.843,57.8,5.5,mb,124,,,,centennial,centennial19650406053200,2013-07-09T19:07:30.000Z,"eastern Honshu, Japan",earthquake
+1965-04-04T15:36:12.000Z,-26.901,-176.037,27.7,6,uk,75,,,,centennial,centennial19650404153612,2013-07-09T19:07:30.000Z,"south of the Fiji Islands",earthquake
+1965-04-04T13:30:38.000Z,51.789,175.373,27.5,6,uk,187,,,,centennial,centennial19650404133038,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-04-03T11:29:12.000Z,16.024,-97.861,30,6.2,uk,51,,,,centennial,centennial19650403112912,2013-07-09T19:07:30.000Z,"offshore Oaxaca, Mexico",earthquake
+1965-04-03T11:20:44.000Z,15.84,-97.981,15,6,uk,90,,,,centennial,centennial19650403112044,2013-07-09T19:07:30.000Z,"offshore Oaxaca, Mexico",earthquake
+1965-04-02T13:04:04.000Z,12.627,123.921,31,5.5,mb,37,,,,centennial,centennial19650402130404,2013-07-09T19:07:30.000Z,"Masbate region, Philippines",earthquake
+1965-04-01T07:08:41.000Z,9.902,125.833,100.1,5.5,mb,64,,,,centennial,centennial19650401070841,2013-07-09T19:07:30.000Z,"Mindanao, Philippines",earthquake

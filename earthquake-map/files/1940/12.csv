@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-12-28T16:37:46.000Z,18.14,147.527,35,7.3,mb,52,,,,centennial,centennial19401228163746,2013-07-09T19:07:22.000Z,"Mariana Islands region",earthquake
+1940-12-22T18:59:47.000Z,-15.009,-69.429,151.1,6.9,mb,42,,,,centennial,centennial19401222185947,2013-07-09T19:07:22.000Z,"Peru-Bolivia border region",earthquake

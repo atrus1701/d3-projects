@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-07-29T23:49:02.000Z,-6.5,155,70,6.9,mb,0,,,,centennial,centennial19500729234902,2013-07-09T19:07:24.000Z,"Bougainville region, Papua New Guinea",earthquake
+1950-07-29T16:46:00.000Z,2.297,127.398,35,7,mb,0,,,,centennial,centennial19500729164600,2013-07-09T19:07:24.000Z,"Molucca Sea",earthquake
+1950-07-21T20:32:00.000Z,-16.1,168.3,0,6.5,ms,0,,,,centennial,centennial19500721203200,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-07-13T04:03:59.000Z,28,139.6,540,6.7,uk,0,,,,centennial,centennial19500713040359,2013-07-09T19:07:24.000Z,"Bonin Islands, Japan region",earthquake
+1950-07-09T16:10:22.000Z,36.634,71.285,214.8,7.5,ms,0,,,,centennial,centennial19500709161022,2013-07-09T19:07:24.000Z,"Hindu Kush region, Afghanistan",earthquake
+1950-07-09T04:50:09.000Z,-8.136,-70.886,647.8,7,mb,0,,,,centennial,centennial19500709045009,2013-07-09T19:07:24.000Z,"Acre, Brazil",earthquake
+1950-07-09T04:40:07.000Z,-8.161,-71.018,645.4,7,mb,0,,,,centennial,centennial19500709044007,2013-07-09T19:07:24.000Z,"Acre, Brazil",earthquake
+1950-07-09T01:39:29.000Z,-33,-112,0,6.6,uk,0,,,,centennial,centennial19500709013929,2013-07-09T19:07:24.000Z,"southern East Pacific Rise",earthquake

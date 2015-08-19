@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1952-12-24T18:39:40.000Z,-5.472,151.779,21.7,7.1,mw,0,,,,centennial,centennial19521224183940,2013-07-09T19:07:25.000Z,"New Britain region, Papua New Guinea",earthquake
+1952-12-22T22:24:41.000Z,53.8,161.7,0,6.6,uk,0,,,,centennial,centennial19521222222441,2013-07-09T19:07:25.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1952-12-17T23:03:57.000Z,34.4,24.5,0,6.6,uk,0,,,,centennial,centennial19521217230357,2013-07-09T19:07:25.000Z,"Crete, Greece",earthquake
+1952-12-06T10:41:25.000Z,-8.238,156.108,35,7.2,mw,0,,,,centennial,centennial19521206104125,2013-07-09T19:07:25.000Z,"Solomon Islands",earthquake

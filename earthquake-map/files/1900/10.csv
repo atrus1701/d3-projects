@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1900-10-29T09:11:00.000Z,11,-66,0,7.7,mw,0,,,,centennial,centennial19001029091100,2013-07-09T19:07:15.000Z,"offshore Miranda, Venezuela",earthquake
+1900-10-09T12:28:00.000Z,57.09,-153.48,0,7.7,mw,0,,,,centennial,centennial19001009122800,2013-07-09T19:07:15.000Z,"Kodiak Island region, Alaska",earthquake
+1900-10-07T21:04:00.000Z,-4,140,0,6.9,ms,0,,,,centennial,centennial19001007210400,2013-07-09T19:07:15.000Z,"Papua, Indonesia",earthquake

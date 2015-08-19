@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1913-06-26T04:57:12.000Z,-20,-174,0,7.7,mw,0,,,,centennial,centennial19130626045712,2013-07-09T19:07:17.000Z,"Tonga",earthquake
+1913-06-22T13:49:52.000Z,48,-178,0,7,uk,0,,,,centennial,centennial19130622134952,2013-07-09T19:07:17.000Z,"south of the Aleutian Islands",earthquake
+1913-06-14T09:33:12.000Z,43.5,25.5,0,6.6,uk,0,,,,centennial,centennial19130614093312,2013-07-09T19:07:17.000Z,"Bulgaria",earthquake
+1913-06-04T09:57:18.000Z,-1.5,150,0,6.8,ms,0,,,,centennial,centennial19130604095718,2013-07-09T19:07:17.000Z,"New Ireland region, Papua New Guinea",earthquake

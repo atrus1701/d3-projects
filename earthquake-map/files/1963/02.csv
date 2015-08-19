@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-02-26T20:14:11.000Z,-7.575,146.219,181.2,7.3,mb,245,,,,centennial,centennial19630226201411,2013-07-09T19:07:28.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1963-02-14T22:07:54.000Z,-4.884,144.594,65.2,6.5,uk,116,,,,centennial,centennial19630214220754,2013-07-09T19:07:28.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1963-02-13T18:13:55.000Z,-9.936,160.893,21.6,6.5,ms,140,,,,centennial,centennial19630213181355,2013-07-09T19:07:28.000Z,"Solomon Islands",earthquake
+1963-02-13T08:50:04.000Z,24.355,122.055,35,7.3,mw,179,,,,centennial,centennial19630213085004,2013-07-09T19:07:28.000Z,"Taiwan region",earthquake

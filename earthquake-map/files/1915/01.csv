@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1915-01-13T06:52:42.000Z,42,13.5,0,6.9,ms,0,,,,centennial,centennial19150113065242,2013-07-09T19:07:17.000Z,"central Italy",earthquake
+1915-01-05T23:26:42.000Z,25.1,123.3,150,7.3,mb,0,,,,centennial,centennial19150105232642,2013-07-09T19:07:17.000Z,"northeast of Taiwan",earthquake
+1915-01-05T14:33:15.000Z,-15,168,200,7.3,mb,0,,,,centennial,centennial19150105143315,2013-07-09T19:07:17.000Z,"Vanuatu",earthquake

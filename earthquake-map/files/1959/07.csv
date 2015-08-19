@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-07-19T15:06:16.000Z,-15.087,-70.331,210.1,7.1,mb,203,,,,centennial,centennial19590719150616,2013-07-09T19:07:27.000Z,"southern Peru",earthquake
+1959-07-18T19:55:04.000Z,15.753,120.575,156.6,6.7,ms,182,,,,centennial,centennial19590718195504,2013-07-09T19:07:27.000Z,"Luzon, Philippines",earthquake
+1959-07-03T17:56:01.000Z,-16.292,173.037,60.3,6.6,ms,0,,,,centennial,centennial19590703175601,2013-07-09T19:07:27.000Z,"Fiji region",earthquake

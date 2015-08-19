@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-04-21T22:32:30.000Z,33.812,-117.44,15,6.6,uk,17,,,,centennial,centennial19180421223230,2013-07-09T19:07:18.000Z,"Greater Los Angeles area, California",earthquake
+1918-04-10T02:03:53.000Z,43.476,130.919,564.9,7,mb,17,,,,centennial,centennial19180410020353,2013-07-09T19:07:18.000Z,"Jilin-Heilongjiang border region, China",earthquake

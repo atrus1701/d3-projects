@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1961-03-28T09:36:05.000Z,0.054,123.631,138.9,7.3,mb,226,,,,centennial,centennial19610328093605,2013-07-09T19:07:27.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1961-03-18T14:55:02.000Z,-49.637,163.514,15,6.8,ms,78,,,,centennial,centennial19610318145502,2013-07-09T19:07:27.000Z,"Auckland Islands, New Zealand region",earthquake
+1961-03-11T01:31:39.000Z,48.816,155.045,35,6.5,uk,142,,,,centennial,centennial19610311013139,2013-07-09T19:07:27.000Z,"Kuril Islands",earthquake
+1961-03-07T10:10:39.000Z,-29.26,-175.265,35,7.1,mw,240,,,,centennial,centennial19610307101039,2013-07-09T19:07:27.000Z,"Kermadec Islands region",earthquake

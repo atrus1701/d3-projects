@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-09-18T01:08:00.000Z,36.3,140.2,35,6.6,mj,0,,,,centennial,centennial19240918010800,2013-07-09T19:07:19.000Z,"near the east coast of Honshu, Japan",earthquake
+1924-09-13T14:34:17.000Z,39.864,41.876,35,6.6,uk,9,,,,centennial,centennial19240913143417,2013-07-09T19:07:19.000Z,"eastern Turkey",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1905-06-30T17:07:00.000Z,-20,-175,0,7.1,mw,0,,,,centennial,centennial19050630170700,2013-07-09T19:07:15.000Z,"Tonga",earthquake
+1905-06-14T11:30:00.000Z,-20,-175,0,7,ms,0,,,,centennial,centennial19050614113000,2013-07-09T19:07:15.000Z,"Tonga",earthquake
+1905-06-02T05:39:42.000Z,34.1,132.5,55,7,mb,0,,,,centennial,centennial19050602053942,2013-07-09T19:07:15.000Z,"western Honshu, Japan",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-10-31T17:55:43.000Z,-5.6,153.6,96,6.6,uk,0,,,,centennial,centennial19491031175543,2013-07-09T19:07:24.000Z,"New Ireland region, Papua New Guinea",earthquake
+1949-10-19T21:00:19.000Z,-5.813,153.595,45,7.5,mw,0,,,,centennial,centennial19491019210019,2013-07-09T19:07:24.000Z,"New Ireland region, Papua New Guinea",earthquake
+1949-10-07T12:02:21.000Z,-33.25,58,0,6.6,uk,0,,,,centennial,centennial19491007120221,2013-07-09T19:07:24.000Z,"South Indian Ocean",earthquake

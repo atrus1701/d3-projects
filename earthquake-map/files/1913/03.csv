@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1913-03-31T03:41:06.000Z,51,-179,60,6.7,uk,0,,,,centennial,centennial19130331034106,2013-07-09T19:07:17.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1913-03-23T20:47:18.000Z,24,142,80,7.1,mb,0,,,,centennial,centennial19130323204718,2013-07-09T19:07:17.000Z,"Volcano Islands, Japan region",earthquake
+1913-03-14T08:45:00.000Z,4.5,126.5,0,7.9,mw,0,,,,centennial,centennial19130314084500,2013-07-09T19:07:17.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1913-03-03T20:02:12.000Z,28,129,150,6.6,uk,0,,,,centennial,centennial19130303200212,2013-07-09T19:07:17.000Z,"Ryukyu Islands, Japan",earthquake

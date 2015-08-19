@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1911-11-22T23:05:24.000Z,-15,169,200,7.3,mb,0,,,,centennial,centennial19111122230524,2013-07-09T19:07:17.000Z,"Vanuatu",earthquake
+1911-11-21T07:36:00.000Z,39,136,300,6.6,mj,0,,,,centennial,centennial19111121073600,2013-07-09T19:07:17.000Z,"Sea of Japan",earthquake
+1911-11-13T16:13:12.000Z,52,173,0,6.9,ms,0,,,,centennial,centennial19111113161312,2013-07-09T19:07:17.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1911-11-08T14:12:00.000Z,34.5,140.5,35,6.5,mj,0,,,,centennial,centennial19111108141200,2013-07-09T19:07:17.000Z,"near the east coast of Honshu, Japan",earthquake

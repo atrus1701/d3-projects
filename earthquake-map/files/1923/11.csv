@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1923-11-06T19:18:00.000Z,29.2,130.4,35,6.5,mj,0,,,,centennial,centennial19231106191800,2013-07-09T19:07:19.000Z,"Ryukyu Islands, Japan",earthquake
+1923-11-05T21:28:02.000Z,29.646,129.636,35,7.1,mw,17,,,,centennial,centennial19231105212802,2013-07-09T19:07:19.000Z,"Ryukyu Islands, Japan",earthquake
+1923-11-04T00:04:47.000Z,-4.539,153.107,148.5,6.9,mb,16,,,,centennial,centennial19231104000447,2013-07-09T19:07:19.000Z,"New Ireland region, Papua New Guinea",earthquake
+1923-11-03T16:19:00.000Z,29.4,130.8,35,6.8,mj,0,,,,centennial,centennial19231103161900,2013-07-09T19:07:19.000Z,"Ryukyu Islands, Japan",earthquake
+1923-11-02T21:08:11.000Z,-4.653,154.232,145.1,7.2,mb,15,,,,centennial,centennial19231102210811,2013-07-09T19:07:19.000Z,"Bougainville region, Papua New Guinea",earthquake

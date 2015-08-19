@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-10-27T17:06:40.000Z,-1.121,150.278,35,7.2,mw,11,,,,centennial,centennial19181027170640,2013-07-09T19:07:18.000Z,"New Ireland region, Papua New Guinea",earthquake
+1918-10-14T12:00:12.000Z,-20.902,-173.296,35,6.6,mb,8,,,,centennial,centennial19181014120012,2013-07-09T19:07:18.000Z,"Tonga",earthquake
+1918-10-11T14:14:40.000Z,18.473,-67.631,35,7.3,mw,23,,,,centennial,centennial19181011141440,2013-07-09T19:07:18.000Z,"Mona Passage, Puerto Rico",earthquake

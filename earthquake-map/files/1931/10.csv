@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-10-18T04:29:47.000Z,-26.765,-179.91,35,6.6,uk,33,,,,centennial,centennial19311018042947,2013-07-09T19:07:20.000Z,"south of the Fiji Islands",earthquake
+1931-10-10T02:16:49.000Z,-10.66,161.064,35,6.6,uk,8,,,,centennial,centennial19311010021649,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-10-10T01:30:53.000Z,-9.878,161.334,35,6.6,uk,11,,,,centennial,centennial19311010013053,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-10-10T01:08:23.000Z,-10.13,161.184,35,6.6,uk,13,,,,centennial,centennial19311010010823,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-10-10T00:20:01.000Z,-9.968,161.194,50.2,7.7,mw,75,,,,centennial,centennial19311010002001,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-10-05T22:31:28.000Z,36.535,70.854,206.4,6.6,uk,62,,,,centennial,centennial19311005223128,2013-07-09T19:07:20.000Z,"Hindu Kush region, Afghanistan",earthquake
+1931-10-03T22:47:47.000Z,-10.913,161.403,35,7.1,mw,34,,,,centennial,centennial19311003224747,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-10-03T21:55:14.000Z,-12.684,163.187,35,7,ms,10,,,,centennial,centennial19311003215514,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-10-03T21:18:20.000Z,-12.292,161.538,35,6.6,uk,15,,,,centennial,centennial19311003211820,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake
+1931-10-03T19:13:20.000Z,-10.932,161.016,35,7.8,mw,45,,,,centennial,centennial19311003191320,2013-07-09T19:07:20.000Z,"Solomon Islands",earthquake

@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-06-29T14:27:03.000Z,26.986,127.473,142.2,7.4,mb,38,,,,centennial,centennial19260629142703,2013-07-09T19:07:19.000Z,"Ryukyu Islands, Japan",earthquake
+1926-06-28T03:23:30.000Z,-0.051,101.522,35,6.6,uk,22,,,,centennial,centennial19260628032330,2013-07-09T19:07:19.000Z,"southern Sumatra, Indonesia",earthquake
+1926-06-26T19:46:40.000Z,36.605,26.888,101.8,7.7,mb,26,,,,centennial,centennial19260626194640,2013-07-09T19:07:19.000Z,"Dodecanese Islands, Greece",earthquake
+1926-06-20T06:54:15.000Z,-56.727,-26.803,35,6.7,uk,10,,,,centennial,centennial19260620065415,2013-07-09T19:07:19.000Z,"South Sandwich Islands region",earthquake
+1926-06-03T04:47:03.000Z,-15.048,168.192,77.2,7.1,mb,18,,,,centennial,centennial19260603044703,2013-07-09T19:07:19.000Z,"Vanuatu",earthquake

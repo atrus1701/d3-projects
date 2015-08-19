@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-01-29T13:41:16.000Z,-6.808,155.035,53.8,7.1,ms,37,,,,centennial,centennial19320129134116,2013-07-09T19:07:20.000Z,"Bougainville region, Papua New Guinea",earthquake
+1932-01-20T02:30:46.000Z,-11.866,-77.386,35,6.6,uk,9,,,,centennial,centennial19320120023046,2013-07-09T19:07:20.000Z,"near the coast of central Peru",earthquake
+1932-01-09T10:21:48.000Z,-6.083,154.445,387.6,7.2,mb,80,,,,centennial,centennial19320109102148,2013-07-09T19:07:20.000Z,"Bougainville region, Papua New Guinea",earthquake

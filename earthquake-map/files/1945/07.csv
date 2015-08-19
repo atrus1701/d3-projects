@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-07-23T03:54:56.000Z,5.229,96.029,15,6.6,uk,0,,,,centennial,centennial19450723035456,2013-07-09T19:07:23.000Z,"northern Sumatra, Indonesia",earthquake
+1945-07-15T05:35:16.000Z,17.804,145.987,140,7.1,mb,0,,,,centennial,centennial19450715053516,2013-07-09T19:07:23.000Z,"Alamagan region, Northern Mariana Islands",earthquake

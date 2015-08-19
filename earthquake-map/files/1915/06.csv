@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1915-06-27T15:29:00.000Z,44,148,35,6.5,mj,0,,,,centennial,centennial19150627152900,2013-07-09T19:07:17.000Z,"Kuril Islands",earthquake
+1915-06-06T21:29:37.000Z,-18.5,-68.5,160,7.3,mb,0,,,,centennial,centennial19150606212937,2013-07-09T19:07:17.000Z,"Oruro, Bolivia",earthquake
+1915-06-04T21:59:00.000Z,40,143.5,35,6.7,mj,0,,,,centennial,centennial19150604215900,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1915-06-01T14:43:54.000Z,78.5,8,0,6.6,uk,0,,,,centennial,centennial19150601144354,2013-07-09T19:07:17.000Z,"Svalbard region",earthquake

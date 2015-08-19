@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-10-29T18:38:50.000Z,13.203,145.414,35,6.6,uk,22,,,,centennial,centennial19361029183850,2013-07-09T19:07:21.000Z,"Guam region",earthquake
+1936-10-19T12:04:25.000Z,-2.158,126.24,35,6.6,uk,64,,,,centennial,centennial19361019120425,2013-07-09T19:07:21.000Z,"Ceram Sea, Indonesia",earthquake
+1936-10-05T09:44:25.000Z,1.633,126.237,35,7,ms,103,,,,centennial,centennial19361005094425,2013-07-09T19:07:21.000Z,"Molucca Sea",earthquake

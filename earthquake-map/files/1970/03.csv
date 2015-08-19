@@ -1,0 +1,21 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-03-31T18:18:23.000Z,-3.788,69.678,8.2,5.5,mb,133,,,,centennial,centennial19700331181823,2013-07-09T19:07:36.000Z,"Chagos Archipelago region",earthquake
+1970-03-30T16:46:45.000Z,6.763,126.617,63.1,7.1,mb,210,,,,centennial,centennial19700330164645,2014-03-17T19:09:06.681Z,"Mindanao, Philippines",earthquake
+1970-03-29T10:08:21.000Z,-17.086,168.606,236.5,6,mb,181,,,,centennial,centennial19700329100821,2013-07-09T19:07:36.000Z,"Vanuatu",earthquake
+1970-03-28T21:02:25.000Z,39.174,29.545,24.4,7.2,uk,190,,,,centennial,centennial19700328210225,2014-04-07T19:49:33.155Z,"western Turkey",earthquake
+1970-03-28T07:46:00.000Z,-6.208,154.655,54.4,5.8,uk,133,,,,centennial,centennial19700328074600,2013-07-09T19:07:36.000Z,"Bougainville region, Papua New Guinea",earthquake
+1970-03-27T18:36:51.000Z,0.272,119.327,33.6,6.7,ms,195,,,,centennial,centennial19700327183651,2014-03-17T19:08:28.835Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1970-03-27T05:02:56.000Z,49.8,78,0,5.2,,,,,,atlas,atlas19700327050256,2014-03-17T19:08:12.309Z,"eastern Kazakhstan",earthquake
+1970-03-24T10:35:20.000Z,-22.053,126.666,15,5.9,ms,206,,,,centennial,centennial19700324103520,2013-07-09T19:07:36.000Z,"Western Australia",earthquake
+1970-03-23T12:14:56.000Z,29.821,129.363,160.2,5.7,mb,187,,,,centennial,centennial19700323121456,2013-07-09T19:07:36.000Z,"Ryukyu Islands, Japan",earthquake
+1970-03-23T01:52:59.000Z,21.7,73,3,5.4,,,,,,atlas,atlas19700323015259,2014-03-17T19:07:55.824Z,"Gujarat, India",earthquake
+1970-03-23T00:20:56.000Z,40.17,140.247,144.8,5.5,mb,213,,,,centennial,centennial19700323002056,2013-07-09T19:07:36.000Z,"eastern Honshu, Japan",earthquake
+1970-03-20T11:07:40.000Z,5.037,125.292,90.1,5.7,mb,172,,,,centennial,centennial19700320110740,2013-07-09T19:07:36.000Z,"Mindanao, Philippines",earthquake
+1970-03-19T23:33:30.000Z,51.297,173.77,16.2,6.2,ms,247,,,,centennial,centennial19700319233330,2013-07-09T19:07:36.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1970-03-15T12:39:18.000Z,-29.653,-69.453,118.4,5.8,mb,175,,,,centennial,centennial19700315123918,2013-07-09T19:07:36.000Z,"San Juan, Argentina",earthquake
+1970-03-11T22:38:36.000Z,57.328,-153.941,38.4,6,ms,257,,,,centennial,centennial19700311223836,2013-07-09T19:07:36.000Z,"Kodiak Island region, Alaska",earthquake
+1970-03-10T17:15:12.000Z,-31.093,116.513,15,5.5,mb,69,,,,centennial,centennial19700310171512,2014-04-07T19:49:07.807Z,"Western Australia",earthquake
+1970-03-10T06:11:58.000Z,12.667,122.24,32.4,5.6,mb,142,,,,centennial,centennial19700310061158,2014-03-17T19:07:24.714Z,"Sibuyan Sea, Philippines",earthquake
+1970-03-09T16:01:11.000Z,-19.079,168.68,35.3,6.5,ms,159,,,,centennial,centennial19700309160111,2014-03-17T19:07:12.554Z,"Vanuatu",earthquake
+1970-03-09T00:50:06.000Z,39.627,143.407,18.7,5.8,ms,145,,,,centennial,centennial19700309005006,2013-07-09T19:07:36.000Z,"off the east coast of Honshu, Japan",earthquake
+1970-03-04T03:30:37.000Z,12.169,143.856,36.9,6.2,ms,202,,,,centennial,centennial19700304033037,2013-07-09T19:07:36.000Z,"Guam region",earthquake

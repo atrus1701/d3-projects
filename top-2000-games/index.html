@@ -1,0 +1,178 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+
+<div id="diagram"></div>
+
+<script src="d3/d3.v3.min.js"></script>
+<script src="d3/queue.v1.min.js"></script>
+<script src="InfoBox.js"></script>
+<script src="List.js"></script>
+<script src="Pack.js"></script>
+<script src="Scatterplot.js"></script>
+<script src="Breadcrumbs.js"></script>
+<script src="Toggle.js"></script>
+<script>
+
+var view_all = true;
+
+var canvas_size = { width: 1220, height:670 };
+var svg = d3.select( '#diagram' )
+	.append( 'svg:svg' )
+		.attr( 'class', 'view-all' )
+		.attr( 'width', canvas_size.width )
+		.attr( 'height', canvas_size.height );
+		
+var background = svg
+	.append( 'svg:rect' )
+		.attr( 'class', 'background' )
+		.attr( 'transform', 'translate(0,0)' )
+		.attr( 'width', canvas_size.width )
+		.attr( 'height', canvas_size.height );
+		
+var debug_text = svg
+	.append( 'svg:text' )
+		.attr( 'transform', 'translate(300,650)' )
+		.text( '' );
+
+var packs = [];
+packs.push( new Pack( 0, 'SALES', 'global-sales', [200,-200] ) );
+packs.push( new Pack( 1, 'RATINGS', 'review-rating', [-200,-200] ) );
+var list_box = new List();
+var info_box = new InfoBox();
+var scatterplot = new Scatterplot( 'global-sales', 'review-rating' );
+var breadcrumbs = new Breadcrumbs();
+var toggle = new Toggle();
+
+queue()
+    .defer( d3.tsv, 'top-2000-games.tsv' )
+    .await( ready );
+
+var games_list = null;
+var genres = d3.set();
+var platforms = d3.set();
+
+var selected_pack_index = -1;
+
+function ready( error, games )
+{
+    if( error )
+    {
+        console.log( error );
+        d3.select('#log').append( error );
+        return;
+    }
+    
+    games_list = {};
+    games.forEach(
+    	function( e, i, a )
+    	{
+			e['rank'] = parseInt(e['rank']);
+			e['north-america-sales'] = parseFloat(e['north-america-sales']);
+			e['europe-sales'] = parseFloat(e['europe-sales']);
+			e['japan-sales'] = parseFloat(e['japan-sales']);
+			e['rest-of-world-sales'] = parseFloat(e['rest-of-world-sales']);
+			e['global-sales'] = parseFloat(e['global-sales']);
+			e['review-rating'] = parseFloat(e['review-rating']);
+
+			games_list[ e.title ] = e;
+			genres.add( e.genre );
+			platforms.add( e.platform );
+    	});
+        
+    packs.forEach( function( e, i, a ) { e.init(); } );
+    list_box.init();
+    info_box.init();
+    scatterplot.init();
+    breadcrumbs.init();
+
+    packs.forEach( function( e, i, a ) { e.populate(); } );
+}
+
+function focus_on_node( node, pack_index )
+{
+	selected_pack_index = pack_index;
+	
+	packs.forEach(
+		function( e, i, a ) 
+		{
+			if( i == pack_index )
+			{
+				e.focus_on_node( node );
+			}
+			else
+			{
+				if( node == null )
+					e.focus_on_node( null, false, false );
+				else
+					e.focus_on_node( null, false, true );
+			}
+		});
+
+			
+	list_box.populate( node );
+	scatterplot.populate( node );
+	breadcrumbs.populate( node );
+}
+
+function highlight_data( name, index )
+{
+	list_box.highlight_data( name );
+	scatterplot.highlight_data( name );
+	packs.forEach( function( e, i, a ) { e.highlight_data( name ); } );
+	
+	info_box.populate( name );
+	
+	debug( index, false );
+}
+
+function select_data( node, index )
+{
+	if( !view_all ) return;
+	
+	list_box.select_data( node );
+	scatterplot.select_data( node );
+	packs.forEach( function( e, i, a ) { e.select_data( node ); } );
+}
+
+function toggle_view()
+{
+	view_all = !view_all;
+
+	var node = null;
+	packs.forEach( 
+		function( e, i, a )
+		{
+			e.toggle_view();
+			if( e.node !== null ) node = e.node;
+		});
+		
+	scatterplot.populate( node );
+	list_box.populate( node );
+	toggle.toggle_view();
+	
+	if( view_all ) svg.attr( 'class', 'view-all' );
+	else svg.attr( 'class', 'view-selected' );
+}
+
+function debug( text, append )
+{
+	if( append ) text = debug_text.text() + text;
+	debug_text.text( text );
+}
+
+</script>
+
+
+</body>
+</html>
+

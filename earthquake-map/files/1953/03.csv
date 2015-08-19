@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-03-19T08:27:52.000Z,14.061,-61.215,119.5,7.1,mb,0,,,,centennial,centennial19530319082752,2013-07-09T19:07:25.000Z,"Saint Lucia region, Windward Islands",earthquake
+1953-03-18T19:06:15.000Z,40.121,27.582,9.4,7.2,mw,0,,,,centennial,centennial19530318190615,2013-07-09T19:07:25.000Z,"western Turkey",earthquake
+1953-03-03T11:27:00.000Z,-20.6,169,0,6.5,ms,0,,,,centennial,centennial19530303112700,2013-07-09T19:07:25.000Z,"Vanuatu",earthquake

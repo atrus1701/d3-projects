@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1922-03-28T03:58:01.000Z,-21.454,-68.13,136.4,7.1,mb,27,,,,centennial,centennial19220328035801,2013-07-09T19:07:18.000Z,"Potosi, Bolivia",earthquake
+1922-03-10T16:52:31.000Z,-20.656,179.626,570,6.6,uk,6,,,,centennial,centennial19220310165231,2013-07-09T19:07:18.000Z,"south of the Fiji Islands",earthquake
+1922-03-04T13:07:44.000Z,52.924,157.181,241.4,7.1,mb,37,,,,centennial,centennial19220304130744,2013-07-09T19:07:18.000Z,"Kamchatka Peninsula, Russia",earthquake

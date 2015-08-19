@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-09-29T06:32:20.000Z,19,-107,60,6.6,ms,0,,,,centennial,centennial19500929063220,2013-07-09T19:07:24.000Z,"off the coast of Jalisco, Mexico",earthquake
+1950-09-22T23:53:32.000Z,-17.6,-177.1,413,6.8,uk,0,,,,centennial,centennial19500922235332,2013-07-09T19:07:24.000Z,"Fiji region",earthquake
+1950-09-22T07:52:04.000Z,-25.5,-114,0,6.6,uk,0,,,,centennial,centennial19500922075204,2013-07-09T19:07:24.000Z,"Easter Island region",earthquake
+1950-09-19T20:29:48.000Z,-2,138.5,0,6.7,uk,0,,,,centennial,centennial19500919202948,2013-07-09T19:07:24.000Z,"near the north coast of Papua, Indonesia",earthquake
+1950-09-10T15:16:17.000Z,-14.86,167.459,142,7.1,mb,0,,,,centennial,centennial19500910151617,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1950-09-10T03:21:22.000Z,35.5,140.4,0,6.6,uk,0,,,,centennial,centennial19500910032122,2013-07-09T19:07:24.000Z,"near the east coast of Honshu, Japan",earthquake

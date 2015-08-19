@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-03-31T18:13:00.000Z,-71,-6,0,7.1,ms,0,,,,centennial,centennial19100331181300,2013-07-09T19:07:16.000Z,"Antarctica",earthquake
+1910-03-30T16:55:48.000Z,-21,170,80,7.1,mb,0,,,,centennial,centennial19100330165548,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake

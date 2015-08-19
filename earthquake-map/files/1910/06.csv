@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-06-29T14:21:00.000Z,-28,-178,0,6.9,ms,0,,,,centennial,centennial19100629142100,2013-07-09T19:07:16.000Z,"Kermadec Islands region",earthquake
+1910-06-29T10:45:00.000Z,-32,-176,0,7.2,mw,0,,,,centennial,centennial19100629104500,2013-07-09T19:07:16.000Z,"Kermadec Islands region",earthquake
+1910-06-17T05:28:00.000Z,21,121,0,6.8,ms,0,,,,centennial,centennial19100617052800,2013-07-09T19:07:16.000Z,"Taiwan region",earthquake
+1910-06-16T06:30:42.000Z,-19,169.5,100,7.9,mb,0,,,,centennial,centennial19100616063042,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake
+1910-06-09T11:48:00.000Z,30,139,400,6.7,mj,0,,,,centennial,centennial19100609114800,2013-07-09T19:07:16.000Z,"Izu Islands, Japan region",earthquake
+1910-06-01T06:48:18.000Z,-20,169,80,7.1,mb,0,,,,centennial,centennial19100601064818,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake
+1910-06-01T05:55:30.000Z,-20,169,80,7.3,mb,0,,,,centennial,centennial19100601055530,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake

@@ -1,0 +1,17 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-01-26T10:49:37.000Z,-2.389,125.981,43.9,5.5,mb,30,,,,centennial,centennial19650126104937,2013-07-09T19:07:29.000Z,"Kepulauan Sula, Indonesia",earthquake
+1965-01-24T02:31:18.000Z,-2.676,125.975,12.9,5.8,mb,26,,,,centennial,centennial19650124023118,2013-07-09T19:07:29.000Z,"Kepulauan Sula, Indonesia",earthquake
+1965-01-24T00:11:17.000Z,-2.453,125.963,28.6,8.2,mw,143,,,,centennial,centennial19650124001117,2013-07-09T19:07:29.000Z,"Kepulauan Sula, Indonesia",earthquake
+1965-01-21T06:09:57.000Z,-34.263,-179.987,20,5.9,uk,24,,,,centennial,centennial19650121060957,2013-07-09T19:07:29.000Z,"south of the Kermadec Islands",earthquake
+1965-01-17T20:57:41.000Z,-6.858,108.986,226.9,5.7,mb,112,,,,centennial,centennial19650117205741,2013-07-09T19:07:29.000Z,"Java, Indonesia",earthquake
+1965-01-17T10:43:17.000Z,-24.566,178.489,557.9,5.6,mb,79,,,,centennial,centennial19650117104317,2013-07-09T19:07:29.000Z,"south of the Fiji Islands",earthquake
+1965-01-16T11:32:38.000Z,-56.426,-27.085,102.6,5.9,mb,75,,,,centennial,centennial19650116113238,2013-07-09T19:07:29.000Z,"South Sandwich Islands region",earthquake
+1965-01-14T08:25:18.000Z,-5.679,-81.406,32.9,5.5,mb,85,,,,centennial,centennial19650114082518,2013-07-09T19:07:29.000Z,"near the coast of northern Peru",earthquake
+1965-01-12T13:32:25.000Z,27.384,87.845,23,5.9,mb,111,,,,centennial,centennial19650112133225,2013-07-09T19:07:29.000Z,"Nepal",earthquake
+1965-01-10T13:36:33.000Z,-13.503,166.64,49.1,6.8,uk,140,,,,centennial,centennial19650110133633,2013-07-09T19:07:29.000Z,"Vanuatu",earthquake
+1965-01-09T13:32:53.000Z,11.891,126.277,40.4,5.7,mb,108,,,,centennial,centennial19650109133253,2013-07-09T19:07:29.000Z,"Philippine Islands region",earthquake
+1965-01-08T18:49:43.000Z,-59.224,-23.487,13.9,5.6,mb,62,,,,centennial,centennial19650108184943,2013-07-09T19:07:29.000Z,"South Sandwich Islands region",earthquake
+1965-01-06T09:18:58.000Z,-41.466,-85.738,8.3,5.6,mb,41,,,,centennial,centennial19650106091858,2013-07-09T19:07:29.000Z,"West Chile Rise",earthquake
+1965-01-05T18:05:56.000Z,-20.509,-173.911,4.3,6.8,uk,87,,,,centennial,centennial19650105180556,2013-07-09T19:07:29.000Z,"Tonga",earthquake
+1965-01-04T11:29:49.000Z,1.828,127.3,79.5,5.5,mb,57,,,,centennial,centennial19650104112949,2013-07-09T19:07:29.000Z,"Halmahera, Indonesia",earthquake
+1965-01-02T13:44:18.000Z,19.139,145.671,120.4,5.7,mb,118,,,,centennial,centennial19650102134418,2013-07-09T19:07:29.000Z,"Maug Islands region, Northern Mariana Islands",earthquake

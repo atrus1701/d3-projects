@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1927-02-25T15:41:26.000Z,-38.327,177.943,35,6.6,uk,5,,,,centennial,centennial19270225154126,2013-07-09T19:07:19.000Z,"North Island of New Zealand",earthquake
+1927-02-16T01:35:27.000Z,46.617,153.073,35,7,ms,60,,,,centennial,centennial19270216013527,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake
+1927-02-01T17:56:36.000Z,-6.704,154.972,35,6.7,uk,37,,,,centennial,centennial19270201175636,2013-07-09T19:07:19.000Z,"Bougainville region, Papua New Guinea",earthquake

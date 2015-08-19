@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-09-27T22:03:44.000Z,-30.122,-177.865,55.7,7,mb,0,,,,centennial,centennial19430927220344,2013-07-09T19:07:22.000Z,"Kermadec Islands, New Zealand",earthquake
+1943-09-24T11:31:37.000Z,36.5,74,120,6.6,uk,0,,,,centennial,centennial19430924113137,2013-07-09T19:07:22.000Z,"northwestern Kashmir",earthquake
+1943-09-23T15:00:44.000Z,15,-91.5,110,6.6,uk,0,,,,centennial,centennial19430923150044,2013-07-09T19:07:22.000Z,"Guatemala",earthquake
+1943-09-22T23:18:08.000Z,-35.5,-178.5,0,6.6,uk,0,,,,centennial,centennial19430922231808,2013-07-09T19:07:22.000Z,"east of the North Island of New Zealand",earthquake
+1943-09-14T07:18:11.000Z,-30.094,-177.537,51.8,7.4,ms,0,,,,centennial,centennial19430914071811,2013-07-09T19:07:22.000Z,"Kermadec Islands, New Zealand",earthquake
+1943-09-14T03:47:19.000Z,-22.517,170.445,35,7.1,ms,0,,,,centennial,centennial19430914034719,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake
+1943-09-14T02:01:15.000Z,-22.332,170.359,35,7.2,mw,0,,,,centennial,centennial19430914020115,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake
+1943-09-11T19:34:00.000Z,-15,-174,0,6.7,uk,0,,,,centennial,centennial19430911193400,2013-07-09T19:07:22.000Z,"Tonga",earthquake
+1943-09-10T08:36:57.000Z,35.36,134.076,15,7,mw,0,,,,centennial,centennial19430910083657,2013-07-09T19:07:22.000Z,"western Honshu, Japan",earthquake
+1943-09-06T03:41:32.000Z,-54.228,159.183,35,7.6,mw,0,,,,centennial,centennial19430906034132,2013-07-09T19:07:22.000Z,"Macquarie Island region",earthquake

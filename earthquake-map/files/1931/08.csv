@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-08-27T15:27:24.000Z,29.473,67.172,35,7.1,mw,74,,,,centennial,centennial19310827152724,2013-07-09T19:07:20.000Z,"Pakistan",earthquake
+1931-08-24T21:35:27.000Z,29.733,67.425,35,6.7,ms,57,,,,centennial,centennial19310824213527,2013-07-09T19:07:20.000Z,"Pakistan",earthquake
+1931-08-18T14:21:08.000Z,47.29,90.118,35,7.2,mw,85,,,,centennial,centennial19310818142108,2013-07-09T19:07:20.000Z,"Mongolia-China border region",earthquake
+1931-08-10T21:18:47.000Z,46.571,89.965,35,7.9,mw,87,,,,centennial,centennial19310810211847,2013-07-09T19:07:20.000Z,"northern Xinjiang, China",earthquake
+1931-08-07T02:11:43.000Z,-2.859,142.079,35,7.1,mw,39,,,,centennial,centennial19310807021143,2013-07-09T19:07:20.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake

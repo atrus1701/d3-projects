@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1930-03-30T08:26:14.000Z,-54.722,-28.861,35,6.6,uk,14,,,,centennial,centennial19300330082614,2013-07-09T19:07:20.000Z,"South Sandwich Islands region",earthquake
+1930-03-26T07:12:12.000Z,-7.714,125.755,35,6.9,ms,29,,,,centennial,centennial19300326071212,2013-07-09T19:07:20.000Z,"Kepulauan Barat Daya, Indonesia",earthquake

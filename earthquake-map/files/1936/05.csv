@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-05-28T18:49:00.000Z,10.286,-103.77,15,6.6,uk,42,,,,centennial,centennial19360528184900,2013-07-09T19:07:21.000Z,"northern East Pacific Rise",earthquake
+1936-05-27T06:19:17.000Z,28.345,83.283,35,7,ms,144,,,,centennial,centennial19360527061917,2013-07-09T19:07:21.000Z,"Nepal",earthquake
+1936-05-19T20:50:17.000Z,-9.245,123.836,147.7,6.6,uk,81,,,,centennial,centennial19360519205017,2013-07-09T19:07:21.000Z,"Timor region, Indonesia",earthquake
+1936-05-16T07:05:47.000Z,28.675,103.684,25,6.6,uk,66,,,,centennial,centennial19360516070547,2013-07-09T19:07:21.000Z,"eastern Sichuan, China",earthquake

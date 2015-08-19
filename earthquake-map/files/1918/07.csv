@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-07-25T20:50:00.000Z,36.2,142.3,35,6.7,mj,0,,,,centennial,centennial19180725205000,2013-07-09T19:07:18.000Z,"off the east coast of Honshu, Japan",earthquake
+1918-07-08T10:22:07.000Z,24.809,90.725,15,7.5,mw,22,,,,centennial,centennial19180708102207,2013-07-09T19:07:18.000Z,"Bangladesh",earthquake
+1918-07-03T06:52:08.000Z,-3.471,143.217,35,7.2,mw,18,,,,centennial,centennial19180703065208,2013-07-09T19:07:18.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake

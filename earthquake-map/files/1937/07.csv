@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1937-07-31T20:35:50.000Z,35.252,115.153,25,6.7,uk,60,,,,centennial,centennial19370731203550,2013-07-09T19:07:21.000Z,"Henan-Shandong border region, China",earthquake
+1937-07-26T19:56:34.000Z,38.396,142.17,35,7.1,mb,66,,,,centennial,centennial19370726195634,2013-07-09T19:07:21.000Z,"near the east coast of Honshu, Japan",earthquake
+1937-07-26T03:47:09.000Z,18.523,-95.878,35,7.2,mb,75,,,,centennial,centennial19370726034709,2013-07-09T19:07:21.000Z,"Veracruz, Mexico",earthquake
+1937-07-22T17:09:35.000Z,64.494,-146.854,35,7.2,mw,118,,,,centennial,centennial19370722170935,2013-07-09T19:07:21.000Z,"Central Alaska",earthquake
+1937-07-19T19:35:27.000Z,-1.978,-76.397,184.2,7.1,mb,74,,,,centennial,centennial19370719193527,2013-07-09T19:07:21.000Z,"Ecuador",earthquake
+1937-07-04T05:55:20.000Z,-11.293,163.955,35,6.7,uk,31,,,,centennial,centennial19370704055520,2013-07-09T19:07:21.000Z,"Solomon Islands",earthquake
+1937-07-02T02:37:16.000Z,-13.857,167.049,35,7,mb,81,,,,centennial,centennial19370702023716,2013-07-09T19:07:21.000Z,"Vanuatu",earthquake
+1937-07-01T11:49:49.000Z,3.123,95.787,35,6.6,uk,54,,,,centennial,centennial19370701114949,2013-07-09T19:07:21.000Z,"off the west coast of northern Sumatra",earthquake

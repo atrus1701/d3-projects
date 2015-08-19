@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-06-23T17:13:26.000Z,49.762,-125.061,35,7.6,mw,0,,,,centennial,centennial19460623171326,2013-07-09T19:07:23.000Z,"Vancouver Island, Canada region",earthquake
+1946-06-15T18:29:15.000Z,-2,128,60,6.6,uk,0,,,,centennial,centennial19460615182915,2013-07-09T19:07:23.000Z,"Halmahera, Indonesia",earthquake
+1946-06-07T04:13:20.000Z,16.5,-94,100,6.9,mb,0,,,,centennial,centennial19460607041320,2013-07-09T19:07:23.000Z,"Chiapas, Mexico",earthquake

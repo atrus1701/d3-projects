@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-05-21T09:16:42.000Z,14.5,-60.5,50,6.5,ms,0,,,,centennial,centennial19460521091642,2013-07-09T19:07:23.000Z,"Martinique region, Windward Islands",earthquake
+1946-05-08T05:20:27.000Z,-0.529,99.072,35,7.1,ms,0,,,,centennial,centennial19460508052027,2013-07-09T19:07:23.000Z,"southern Sumatra, Indonesia",earthquake
+1946-05-03T22:23:53.000Z,-4.548,153.166,35,7.2,mw,0,,,,centennial,centennial19460503222353,2013-07-09T19:07:23.000Z,"New Ireland region, Papua New Guinea",earthquake

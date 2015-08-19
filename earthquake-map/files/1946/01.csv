@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1946-01-20T16:54:21.000Z,-17.5,167.5,0,6.7,ms,0,,,,centennial,centennial19460120165421,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1946-01-17T09:39:39.000Z,-6.397,147.195,106.8,7.2,mb,0,,,,centennial,centennial19460117093939,2013-07-09T19:07:23.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1946-01-12T20:25:37.000Z,59.25,-147.25,50,6.7,ms,0,,,,centennial,centennial19460112202537,2013-07-09T19:07:23.000Z,"Gulf of Alaska",earthquake
+1946-01-11T01:33:29.000Z,44,129.5,580,6.9,mb,0,,,,centennial,centennial19460111013329,2013-07-09T19:07:23.000Z,"Jilin-Heilongjiang border region, China",earthquake
+1946-01-05T19:57:24.000Z,-15.323,167.049,35,7.1,mw,0,,,,centennial,centennial19460105195724,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake

@@ -1,0 +1,43 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-02-27T07:46:25.000Z,28.206,-112.275,10.5,5.5,uk,41,,,,centennial,centennial19650227074625,2013-07-09T19:07:30.000Z,"Gulf of California",earthquake
+1965-02-26T08:55:40.000Z,-6.751,102.675,12.5,5.5,mb,77,,,,centennial,centennial19650226085540,2013-07-09T19:07:30.000Z,"southwest of Sumatra, Indonesia",earthquake
+1965-02-25T05:22:15.000Z,52.054,173.163,27.9,5.7,mb,150,,,,centennial,centennial19650225052215,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-25T04:51:28.000Z,-5.397,152.051,30.5,6.5,uk,148,,,,centennial,centennial19650225045128,2013-07-09T19:07:30.000Z,"New Britain region, Papua New Guinea",earthquake
+1965-02-24T08:09:18.000Z,13.974,-92.106,47.6,5.5,uk,61,,,,centennial,centennial19650224080918,2013-07-09T19:07:30.000Z,"offshore Guatemala",earthquake
+1965-02-23T22:11:48.000Z,-25.665,-70.708,38.5,6.5,ms,160,,,,centennial,centennial19650223221148,2013-07-09T19:07:30.000Z,"near the coast of Antofagasta, Chile",earthquake
+1965-02-18T23:13:39.000Z,51.393,179.266,33.3,6,uk,149,,,,centennial,centennial19650218231339,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-18T22:39:48.000Z,-7.298,126.684,38.3,5.8,mb,56,,,,centennial,centennial19650218223948,2013-07-09T19:07:30.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1965-02-17T10:18:52.000Z,51.56,176.623,40.4,6.5,uk,132,,,,centennial,centennial19650217101852,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-15T10:43:27.000Z,2.964,125.827,92.4,5.8,mb,103,,,,centennial,centennial19650215104327,2013-07-09T19:07:30.000Z,"Kepulauan Sangihe, Indonesia",earthquake
+1965-02-15T01:25:08.000Z,51.073,179.373,30,6,uk,153,,,,centennial,centennial19650215012508,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-12T00:55:08.000Z,52.195,172.843,24,6,uk,145,,,,centennial,centennial19650212005508,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-12T00:43:17.000Z,51.435,175.885,22.1,5.8,uk,112,,,,centennial,centennial19650212004317,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-09T17:37:15.000Z,52.73,171.953,24.9,5.8,mb,139,,,,centennial,centennial19650209173715,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-08T15:46:50.000Z,55.111,165.608,29.9,5.5,uk,188,,,,centennial,centennial19650208154650,2013-07-09T19:07:30.000Z,"Komandorskiye Ostrova, Russia region",earthquake
+1965-02-07T09:25:51.000Z,51.331,179.199,21,6.2,uk,132,,,,centennial,centennial19650207092551,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-07T02:17:08.000Z,51.314,173.448,18.6,5.8,mb,176,,,,centennial,centennial19650207021708,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-06T16:50:28.000Z,53.157,-161.805,20,6.5,uk,214,,,,centennial,centennial19650206165028,2013-07-09T19:07:30.000Z,"south of Alaska",earthquake
+1965-02-06T04:02:53.000Z,51.952,175.603,31.3,5.8,mb,179,,,,centennial,centennial19650206040253,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-06T01:40:32.000Z,53.061,-161.942,19.4,6.6,uk,221,,,,centennial,centennial19650206014032,2013-07-09T19:07:30.000Z,"south of Alaska",earthquake
+1965-02-05T20:47:13.000Z,51.806,174.401,24,5.7,mb,161,,,,centennial,centennial19650205204713,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-05T13:38:48.000Z,51.922,173.933,33.5,5.6,mb,106,,,,centennial,centennial19650205133848,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-05T09:32:10.000Z,52.347,174.345,38,6.5,uk,203,,,,centennial,centennial19650205093210,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-05T06:39:50.000Z,51.664,174.817,24.7,6.4,uk,133,,,,centennial,centennial19650205063950,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-05T00:31:56.000Z,50.279,176.794,8.4,5.5,mb,32,,,,centennial,centennial19650205003156,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T22:30:05.000Z,51.747,174.281,22.5,5.5,mb,83,,,,centennial,centennial19650204223005,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T19:44:05.000Z,13.283,-44.854,21.7,5.5,mb,111,,,,centennial,centennial19650204194405,2013-07-09T19:07:30.000Z,"northern Mid-Atlantic Ridge",earthquake
+1965-02-04T15:51:24.000Z,53.037,170.836,20,6.2,uk,166,,,,centennial,centennial19650204155124,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T14:18:28.000Z,53.019,171.089,21.2,6.2,uk,172,,,,centennial,centennial19650204141828,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T12:06:03.000Z,52.785,172.029,6.4,6.5,uk,186,,,,centennial,centennial19650204120603,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T08:40:38.000Z,51.396,179.561,7.9,7.8,mw,171,,,,centennial,centennial19650204084038,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T08:33:41.000Z,51.905,174.065,20.9,5.6,mb,88,,,,centennial,centennial19650204083341,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T08:06:19.000Z,51.875,174.293,45.9,5.5,mb,89,,,,centennial,centennial19650204080619,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T07:23:14.000Z,51.936,173.272,24.5,5.6,mb,65,,,,centennial,centennial19650204072314,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T07:14:59.000Z,51.875,173.919,19.4,5.7,mb,79,,,,centennial,centennial19650204071459,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T07:11:23.000Z,51.047,177.857,24.7,5.6,mb,75,,,,centennial,centennial19650204071123,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T06:39:31.000Z,51.597,175.894,25.1,5.7,mb,64,,,,centennial,centennial19650204063931,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T06:37:07.000Z,52.538,172.093,38.4,5.5,mb,58,,,,centennial,centennial19650204063707,2013-07-09T19:07:30.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T06:04:59.000Z,51.684,175.056,38.6,6.1,uk,51,,,,centennial,centennial19650204060459,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T05:01:21.000Z,51.21,178.498,28.8,8.7,mw,194,,,,centennial,centennial19650204050121,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-02-04T03:25:00.000Z,-51.831,139.678,11.9,5.7,mb,50,,,,centennial,centennial19650204032500,2013-07-09T19:07:30.000Z,"western Indian-Antarctic Ridge",earthquake
+1965-02-01T05:27:06.000Z,-18.711,-178.059,479.2,5.5,mb,82,,,,centennial,centennial19650201052706,2013-07-09T19:07:29.000Z,"Fiji region",earthquake

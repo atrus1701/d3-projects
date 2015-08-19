@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1914-10-23T06:18:34.000Z,6,132.5,0,7.6,mw,0,,,,centennial,centennial19141023061834,2013-07-09T19:07:17.000Z,"Palau region",earthquake
+1914-10-11T16:17:06.000Z,12,94,80,7.2,mb,0,,,,centennial,centennial19141011161706,2013-07-09T19:07:17.000Z,"Andaman Islands, India region",earthquake
+1914-10-09T02:39:10.000Z,35,78,0,6.6,ms,0,,,,centennial,centennial19141009023910,2013-07-09T19:07:17.000Z,"Kashmir-Xinjiang border region",earthquake
+1914-10-03T22:06:34.000Z,37.5,32.5,0,7.1,mw,0,,,,centennial,centennial19141003220634,2013-07-09T19:07:17.000Z,"central Turkey",earthquake
+1914-10-03T17:22:12.000Z,16,-61,100,7.4,mb,0,,,,centennial,centennial19141003172212,2013-07-09T19:07:17.000Z,"Guadeloupe region, Leeward Islands",earthquake

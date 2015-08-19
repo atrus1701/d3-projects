@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-12-28T22:55:04.000Z,43.397,146.579,35,7,ms,33,,,,centennial,centennial19241228225504,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake
+1924-12-27T11:21:53.000Z,44.159,146.37,35,7,mb,28,,,,centennial,centennial19241227112153,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake

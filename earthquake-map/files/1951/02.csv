@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1951-02-17T21:07:11.000Z,-7.206,145.903,185,7.2,mb,0,,,,centennial,centennial19510217210711,2013-07-09T19:07:24.000Z,"near the south coast of New Guinea, Papua New Guinea",earthquake
+1951-02-13T22:13:01.000Z,55.689,-156.261,35,7.2,mw,0,,,,centennial,centennial19510213221301,2013-07-09T19:07:24.000Z,"south of Alaska",earthquake
+1951-02-13T11:55:50.000Z,-15,-175.25,250,6.7,uk,0,,,,centennial,centennial19510213115550,2013-07-09T19:07:24.000Z,"Tonga",earthquake

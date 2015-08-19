@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1911-07-19T10:01:00.000Z,-29,-179,200,6.7,uk,0,,,,centennial,centennial19110719100100,2013-07-09T19:07:17.000Z,"Kermadec Islands region",earthquake
+1911-07-12T04:07:36.000Z,9,126,0,7.5,mw,0,,,,centennial,centennial19110712040736,2013-07-09T19:07:17.000Z,"Mindanao, Philippines",earthquake
+1911-07-11T21:22:18.000Z,-14,167,150,6.7,uk,0,,,,centennial,centennial19110711212218,2013-07-09T19:07:17.000Z,"Vanuatu",earthquake
+1911-07-05T18:40:06.000Z,-7.5,117.5,370,7,mb,0,,,,centennial,centennial19110705184006,2013-07-09T19:07:17.000Z,"Bali Sea",earthquake
+1911-07-04T13:33:26.000Z,36,70.5,190,7.4,mb,0,,,,centennial,centennial19110704133326,2013-07-09T19:07:17.000Z,"Hindu Kush region, Afghanistan",earthquake
+1911-07-01T00:00:00.000Z,28.5,97.5,0,6.5,ms,0,,,,centennial,centennial19110701000000,2013-07-09T19:07:17.000Z,"Xizang-India-Myanmar border region",earthquake

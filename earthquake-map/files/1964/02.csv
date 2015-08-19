@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-02-29T23:49:47.000Z,-8.562,112.652,126.8,5.7,mb,72,,,,centennial,centennial19640229234947,2013-07-09T19:07:28.000Z,"Java, Indonesia",earthquake
+1964-02-27T15:10:50.000Z,21.586,94.376,99.3,5.8,mb,156,,,,centennial,centennial19640227151050,2013-07-09T19:07:28.000Z,"Myanmar",earthquake
+1964-02-25T00:34:29.000Z,-44.664,37.268,10,6,mb,41,,,,centennial,centennial19640225003429,2013-07-09T19:07:28.000Z,"Prince Edward Islands region",earthquake
+1964-02-16T21:34:34.000Z,-5.621,152.02,52.4,5.8,mb,36,,,,centennial,centennial19640216213434,2013-07-09T19:07:28.000Z,"New Britain region, Papua New Guinea",earthquake
+1964-02-14T16:29:46.000Z,-5.192,151.811,61.4,6,mb,123,,,,centennial,centennial19640214162946,2013-07-09T19:07:28.000Z,"New Britain region, Papua New Guinea",earthquake
+1964-02-10T17:28:00.000Z,-6.235,104.087,38.7,5.5,mb,33,,,,centennial,centennial19640210172800,2013-07-09T19:07:28.000Z,"Sunda Strait, Indonesia",earthquake
+1964-02-06T13:13:45.000Z,55.646,-155.964,25.3,5.9,mb,40,,,,centennial,centennial19640206131345,2013-07-09T19:07:28.000Z,"south of Alaska",earthquake
+1964-02-06T13:07:22.000Z,55.641,-156.07,3.7,7.1,mw,191,,,,centennial,centennial19640206130722,2013-07-09T19:07:28.000Z,"south of Alaska",earthquake
+1964-02-05T11:30:18.000Z,36.442,141.018,51.6,5.6,mb,133,,,,centennial,centennial19640205113018,2013-07-09T19:07:28.000Z,"near the east coast of Honshu, Japan",earthquake

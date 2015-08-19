@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1907-05-25T14:02:08.000Z,50.5,148,600,7.4,mb,0,,,,centennial,centennial19070525140208,2013-07-09T19:07:16.000Z,"Sea of Okhotsk",earthquake
+1907-05-07T10:16:00.000Z,-2.8,144.5,0,6.8,ms,0,,,,centennial,centennial19070507101600,2013-07-09T19:07:16.000Z,"Ninigo Islands region, Papua New Guinea",earthquake
+1907-05-04T08:36:48.000Z,28,141,200,6.9,mb,0,,,,centennial,centennial19070504083648,2013-07-09T19:07:16.000Z,"Bonin Islands, Japan region",earthquake
+1907-05-04T06:51:00.000Z,-7.5,153.7,60,7.5,uk,0,,,,centennial,centennial19070504065100,2013-07-09T19:07:16.000Z,"New Britain region, Papua New Guinea",earthquake

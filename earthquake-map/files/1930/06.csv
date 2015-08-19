@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1930-06-11T00:49:42.000Z,-5.873,148.886,35,7.1,ms,30,,,,centennial,centennial19300611004942,2013-07-09T19:07:20.000Z,"New Britain region, Papua New Guinea",earthquake
+1930-06-04T09:50:32.000Z,-6.446,127.851,375.9,6.6,uk,22,,,,centennial,centennial19300604095032,2013-07-09T19:07:20.000Z,"Banda Sea",earthquake

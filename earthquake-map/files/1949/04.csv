@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-04-30T01:23:32.000Z,6.157,125.554,93.7,7.3,mb,0,,,,centennial,centennial19490430012332,2013-07-09T19:07:24.000Z,"Mindanao, Philippines",earthquake
+1949-04-25T13:55:00.000Z,-19.753,-69.107,69.6,7.2,mb,0,,,,centennial,centennial19490425135500,2013-07-09T19:07:24.000Z,"Tarapaca, Chile",earthquake
+1949-04-23T11:15:34.000Z,-7.976,120.811,42.1,7,mb,0,,,,centennial,centennial19490423111534,2013-07-09T19:07:24.000Z,"Flores Sea",earthquake
+1949-04-20T03:29:09.000Z,-37.601,-72.73,55,7.1,mb,0,,,,centennial,centennial19490420032909,2013-07-09T19:07:24.000Z,"Bio-Bio, Chile",earthquake
+1949-04-18T21:34:42.000Z,-15.8,-172.8,0,6.8,uk,0,,,,centennial,centennial19490418213442,2013-07-09T19:07:24.000Z,"Samoa Islands region",earthquake
+1949-04-13T19:55:43.000Z,47.167,-122.392,30,6.5,ms,0,,,,centennial,centennial19490413195543,2013-07-09T19:07:24.000Z,"Seattle-Tacoma urban area, Washington",earthquake
+1949-04-05T09:27:06.000Z,41,131,580,6.5,uk,0,,,,centennial,centennial19490405092706,2013-07-09T19:07:24.000Z,"Sea of Japan",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-08-30T01:14:09.000Z,-17.5,167.5,60,6.6,uk,0,,,,centennial,centennial19440830011409,2013-07-09T19:07:22.000Z,"Vanuatu",earthquake
+1944-08-18T10:33:17.000Z,38,140,150,6.7,uk,0,,,,centennial,centennial19440818103317,2013-07-09T19:07:22.000Z,"eastern Honshu, Japan",earthquake
+1944-08-15T11:47:40.000Z,13,143,110,6.7,uk,0,,,,centennial,centennial19440815114740,2013-07-09T19:07:22.000Z,"Guam region",earthquake

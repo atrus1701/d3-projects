@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-11-28T19:27:20.000Z,49.166,155.375,63.8,6.5,ms,123,,,,centennial,centennial19561128192720,2013-07-09T19:07:26.000Z,"Kuril Islands",earthquake
+1956-11-04T07:05:46.000Z,-22.181,-175.645,35.4,6.6,ms,98,,,,centennial,centennial19561104070546,2013-07-09T19:07:26.000Z,"Tonga region",earthquake

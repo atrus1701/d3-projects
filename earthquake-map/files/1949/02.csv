@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-02-28T00:13:04.000Z,-57,-29,60,6.6,ms,0,,,,centennial,centennial19490228001304,2013-07-09T19:07:24.000Z,"South Sandwich Islands region",earthquake
+1949-02-23T16:08:14.000Z,41.914,84.031,35,7.3,mw,0,,,,centennial,centennial19490223160814,2013-07-09T19:07:24.000Z,"southern Xinjiang, China",earthquake
+1949-02-13T18:24:24.000Z,-33.5,-178,60,6.8,ms,0,,,,centennial,centennial19490213182424,2013-07-09T19:07:24.000Z,"south of the Kermadec Islands",earthquake
+1949-02-10T21:56:36.000Z,-15.8,-172.8,0,6.6,uk,0,,,,centennial,centennial19490210215636,2013-07-09T19:07:24.000Z,"Samoa Islands region",earthquake
+1949-02-02T17:41:29.000Z,53,-173,220,6.8,mb,0,,,,centennial,centennial19490202174129,2013-07-09T19:07:24.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1941-05-17T02:24:58.000Z,-10.462,166.139,35,7.2,mw,44,,,,centennial,centennial19410517022458,2013-07-09T19:07:22.000Z,"Santa Cruz Islands",earthquake
+1941-05-16T07:14:34.000Z,23.514,99.408,25,6.7,uk,36,,,,centennial,centennial19410516071434,2013-07-09T19:07:22.000Z,"Myanmar-China border region",earthquake
+1941-05-09T05:32:45.000Z,13.789,122.451,35,6.6,uk,18,,,,centennial,centennial19410509053245,2013-07-09T19:07:22.000Z,"Luzon, Philippines",earthquake
+1941-05-08T10:21:50.000Z,-18.083,-178.407,568.7,6.7,uk,63,,,,centennial,centennial19410508102150,2013-07-09T19:07:22.000Z,"Fiji region",earthquake
+1941-05-07T12:19:48.000Z,-18.857,168.936,153.4,6.6,uk,26,,,,centennial,centennial19410507121948,2013-07-09T19:07:22.000Z,"Vanuatu",earthquake

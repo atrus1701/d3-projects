@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-11-26T12:44:03.000Z,-16.839,167.846,10.3,6,ms,89,,,,centennial,centennial19691126124403,2013-07-09T19:07:36.000Z,"Vanuatu",earthquake
+1969-11-24T22:51:50.000Z,56.066,-153.741,22.5,5.7,ms,158,,,,centennial,centennial19691124225150,2013-07-09T19:07:36.000Z,"Kodiak Island region, Alaska",earthquake
+1969-11-24T17:23:21.000Z,37.144,71.617,116.2,5.8,mb,158,,,,centennial,centennial19691124172321,2013-07-09T19:07:36.000Z,"Tajikistan",earthquake
+1969-11-22T23:09:35.000Z,57.729,163.595,9.2,7.8,mw,293,,,,centennial,centennial19691122230935,2013-07-09T19:07:36.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1969-11-21T02:05:35.000Z,1.972,94.573,10.3,7.6,mw,288,,,,centennial,centennial19691121020535,2013-07-09T19:07:36.000Z,"off the west coast of northern Sumatra",earthquake
+1969-11-20T23:46:09.000Z,56.432,-153.388,9.2,5.5,ms,121,,,,centennial,centennial19691120234609,2013-07-09T19:07:36.000Z,"Kodiak Island region, Alaska",earthquake
+1969-11-13T07:51:29.000Z,-27.79,-71.835,23.3,6,ms,145,,,,centennial,centennial19691113075129,2013-07-09T19:07:36.000Z,"offshore Atacama, Chile",earthquake
+1969-11-12T19:09:04.000Z,52.893,-168.31,57.5,5.8,uk,213,,,,centennial,centennial19691112190904,2013-07-09T19:07:36.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1969-11-08T01:41:45.000Z,-16.2,167.498,44.8,5.5,ms,80,,,,centennial,centennial19691108014145,2013-07-09T19:07:36.000Z,"Vanuatu",earthquake
+1969-11-07T18:34:06.000Z,27.816,59.979,76,6.1,mb,229,,,,centennial,centennial19691107183406,2013-07-09T19:07:36.000Z,"southeastern Iran",earthquake
+1969-11-06T20:20:16.000Z,51.341,-178.949,10.2,5.7,ms,197,,,,centennial,centennial19691106202016,2013-07-09T19:07:36.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1969-11-05T17:54:10.000Z,34.699,-121.312,2.2,5.8,ms,182,,,,centennial,centennial19691105175410,2013-07-09T19:07:36.000Z,"offshore Central California",earthquake
+1969-11-01T11:08:21.000Z,23.084,-107.994,13.3,6.6,ms,96,,,,centennial,centennial19691101110821,2013-07-09T19:07:36.000Z,"Gulf of California",earthquake

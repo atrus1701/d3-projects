@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-09-24T03:32:42.000Z,17,-96,80,6.7,uk,0,,,,centennial,centennial19100924033242,2013-07-09T19:07:16.000Z,"Oaxaca, Mexico",earthquake
+1910-09-09T01:13:18.000Z,51.5,-176,25,7,ms,0,,,,centennial,centennial19100909011318,2013-07-09T19:07:16.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1910-09-07T07:11:18.000Z,-6,151,80,7.2,mb,0,,,,centennial,centennial19100907071118,2013-07-09T19:07:16.000Z,"New Britain region, Papua New Guinea",earthquake
+1910-09-06T19:59:00.000Z,-25,-70,0,7.1,mw,0,,,,centennial,centennial19100906195900,2013-07-09T19:07:16.000Z,"Antofagasta, Chile",earthquake
+1910-09-01T14:20:00.000Z,24,122,0,6.8,ms,0,,,,centennial,centennial19100901142000,2013-07-09T19:07:16.000Z,"Taiwan region",earthquake
+1910-09-01T00:45:00.000Z,21,122,0,7,ms,0,,,,centennial,centennial19100901004500,2013-07-09T19:07:16.000Z,"Batan Islands region, Philippines",earthquake

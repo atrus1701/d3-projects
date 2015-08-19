@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-02-15T02:59:40.000Z,11.355,-91.794,35,6.7,uk,33,,,,centennial,centennial19260215025940,2013-07-09T19:07:19.000Z,"off the coast of Central America",earthquake
+1926-02-08T15:17:57.000Z,12.011,-88.758,35,7.1,mw,23,,,,centennial,centennial19260208151757,2013-07-09T19:07:19.000Z,"off the coast of El Salvador",earthquake

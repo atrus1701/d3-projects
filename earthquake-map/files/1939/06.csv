@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1939-06-13T20:39:47.000Z,0.47,125.257,35,6.7,uk,29,,,,centennial,centennial19390613203947,2013-07-09T19:07:21.000Z,"Molucca Sea",earthquake
+1939-06-08T20:46:51.000Z,-15.269,-173.931,35,7,mb,81,,,,centennial,centennial19390608204651,2013-07-09T19:07:21.000Z,"Tonga",earthquake
+1939-06-02T03:33:16.000Z,4.595,126.239,35,6.5,ms,49,,,,centennial,centennial19390602033316,2013-07-09T19:07:21.000Z,"Kepulauan Talaud, Indonesia",earthquake

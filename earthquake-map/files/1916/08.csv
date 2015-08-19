@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-08-28T07:27:05.000Z,23.9,120.5,5,7.2,mj,0,,,,centennial,centennial19160828072705,2013-07-09T19:07:18.000Z,"Taiwan",earthquake
+1916-08-28T06:39:42.000Z,30,81,0,7.2,mw,0,,,,centennial,centennial19160828063942,2013-07-09T19:07:18.000Z,"western Xizang",earthquake
+1916-08-27T22:43:00.000Z,37.2,141.1,35,6.8,mj,0,,,,centennial,centennial19160827224300,2013-07-09T19:07:18.000Z,"near the east coast of Honshu, Japan",earthquake
+1916-08-25T09:44:42.000Z,-21,-68,180,7,mb,0,,,,centennial,centennial19160825094442,2013-07-09T19:07:18.000Z,"Potosi, Bolivia",earthquake
+1916-08-03T01:30:02.000Z,-4,144.5,0,7.1,mw,0,,,,centennial,centennial19160803013002,2013-07-09T19:07:18.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake

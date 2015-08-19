@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-04-28T11:13:39.000Z,-22.665,-68.164,35,7.1,mb,23,,,,centennial,centennial19260428111339,2013-07-09T19:07:19.000Z,"Antofagasta, Chile",earthquake
+1926-04-12T08:32:34.000Z,-10.709,160.626,35,7.2,mw,37,,,,centennial,centennial19260412083234,2013-07-09T19:07:19.000Z,"Solomon Islands",earthquake
+1926-04-01T16:03:53.000Z,34.152,136.923,356.2,6.7,uk,17,,,,centennial,centennial19260401160353,2013-07-09T19:07:19.000Z,"western Honshu, Japan",earthquake

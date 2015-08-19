@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-10-27T18:20:47.000Z,-19.5,-66.5,287,6.5,ms,0,,,,centennial,centennial19531027182047,2013-07-09T19:07:25.000Z,"Potosi, Bolivia",earthquake
+1953-10-14T14:47:23.000Z,42.8,144.6,128,6.7,ms,0,,,,centennial,centennial19531014144723,2013-07-09T19:07:25.000Z,"Hokkaido, Japan region",earthquake
+1953-10-11T13:08:33.000Z,50,156.4,33,6.6,ms,0,,,,centennial,centennial19531011130833,2013-07-09T19:07:25.000Z,"Kuril Islands",earthquake
+1953-10-05T04:31:43.000Z,54.1,161,0,6.6,ms,0,,,,centennial,centennial19531005043143,2013-07-09T19:07:25.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake

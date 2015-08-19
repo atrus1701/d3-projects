@@ -1,0 +1,27 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-04-29T04:37:40.000Z,29.561,51.529,23,5.5,mb,111,,,,centennial,centennial19690429043740,2013-07-09T19:07:35.000Z,"southern Iran",earthquake
+1969-04-28T19:39:05.000Z,-7.896,158.847,66.4,5.5,mb,111,,,,centennial,centennial19690428193905,2013-07-09T19:07:35.000Z,"Solomon Islands",earthquake
+1969-04-28T07:25:29.000Z,-22.385,-177.504,285.9,5.7,mb,135,,,,centennial,centennial19690428072529,2013-07-09T19:07:35.000Z,"south of the Fiji Islands",earthquake
+1969-04-27T12:59:10.000Z,-57.786,-25.498,54.9,5.5,ms,99,,,,centennial,centennial19690427125910,2013-07-09T19:07:35.000Z,"South Sandwich Islands region",earthquake
+1969-04-26T06:02:50.000Z,-30.603,-71.422,33.6,6.3,ms,90,,,,centennial,centennial19690426060250,2013-07-09T19:07:35.000Z,"Coquimbo, Chile",earthquake
+1969-04-26T05:58:50.000Z,-30.685,-71.529,22.3,6,ms,118,,,,centennial,centennial19690426055850,2013-07-09T19:07:35.000Z,"Coquimbo, Chile",earthquake
+1969-04-22T22:34:37.000Z,12.776,58.221,16.9,5.6,mb,136,,,,centennial,centennial19690422223437,2013-07-09T19:07:35.000Z,"Owen Fracture Zone region",earthquake
+1969-04-22T06:31:57.000Z,-26.699,-113.958,15,6.2,ms,135,,,,centennial,centennial19690422063157,2013-07-09T19:07:35.000Z,"Easter Island region",earthquake
+1969-04-22T04:38:00.000Z,-26.677,-114.291,2.7,5.7,ms,76,,,,centennial,centennial19690422043800,2013-07-09T19:07:35.000Z,"Easter Island region",earthquake
+1969-04-21T07:19:28.000Z,32.147,131.869,36.5,6.8,uk,219,,,,centennial,centennial19690421071928,2013-07-09T19:07:35.000Z,"Kyushu, Japan",earthquake
+1969-04-18T12:32:05.000Z,-4.577,132.673,34,5.5,mb,85,,,,centennial,centennial19690418123205,2013-07-09T19:07:35.000Z,"near the south coast of Papua, Indonesia",earthquake
+1969-04-16T12:20:04.000Z,-13.669,167.447,77.9,5.9,mb,37,,,,centennial,centennial19690416122004,2013-07-09T19:07:35.000Z,"Vanuatu",earthquake
+1969-04-16T12:19:38.000Z,-13.571,166.984,125.9,5.6,mb,136,,,,centennial,centennial19690416121938,2013-07-09T19:07:35.000Z,"Vanuatu",earthquake
+1969-04-16T01:22:46.000Z,-3.514,151.003,15,6.5,ms,116,,,,centennial,centennial19690416012246,2013-07-09T19:07:35.000Z,"New Ireland region, Papua New Guinea",earthquake
+1969-04-15T22:15:11.000Z,-6.018,113.1,586.4,5.5,mb,143,,,,centennial,centennial19690415221511,2013-07-09T19:07:35.000Z,"Java, Indonesia",earthquake
+1969-04-13T23:33:18.000Z,-6.125,129.891,165.1,5.8,mb,176,,,,centennial,centennial19690413233318,2013-07-09T19:07:35.000Z,"Banda Sea",earthquake
+1969-04-13T15:24:54.000Z,17.838,80.68,10,5.7,ms,130,,,,centennial,centennial19690413152454,2013-07-09T19:07:35.000Z,"Andhra Pradesh, India",earthquake
+1969-04-10T14:54:04.000Z,42.044,131.056,552.2,5.7,ms,171,,,,centennial,centennial19690410145404,2013-07-09T19:07:35.000Z,"eastern Russia-northeastern China border region",earthquake
+1969-04-09T12:57:25.000Z,36.824,139.713,111,5.5,mb,177,,,,centennial,centennial19690409125725,2013-07-09T19:07:35.000Z,"eastern Honshu, Japan",earthquake
+1969-04-09T11:43:48.000Z,-49.114,30.581,20,5.5,mb,72,,,,centennial,centennial19690409114348,2013-07-09T19:07:35.000Z,"south of Africa",earthquake
+1969-04-07T20:26:29.000Z,76.536,130.865,12.1,5.5,ms,160,,,,centennial,centennial19690407202629,2013-07-09T19:07:35.000Z,"Laptev Sea",earthquake
+1969-04-06T20:08:33.000Z,-56.364,-27.063,90.5,5.5,mb,52,,,,centennial,centennial19690406200833,2013-07-09T19:07:35.000Z,"South Sandwich Islands region",earthquake
+1969-04-06T03:49:35.000Z,38.465,26.443,15,5.6,mb,120,,,,centennial,centennial19690406034935,2013-07-09T19:07:35.000Z,"near the coast of western Turkey",earthquake
+1969-04-05T23:26:09.000Z,1.25,-85.171,2,6.2,ms,89,,,,centennial,centennial19690405232609,2013-07-09T19:07:35.000Z,"off the coast of Ecuador",earthquake
+1969-04-05T02:18:29.000Z,11.952,41.332,6.9,6.1,ms,138,,,,centennial,centennial19690405021829,2013-07-09T19:07:35.000Z,"Ethiopia",earthquake
+1969-04-04T22:57:18.000Z,54.488,169.446,27.9,5.5,mb,132,,,,centennial,centennial19690404225718,2013-07-09T19:07:35.000Z,"Komandorskiye Ostrova, Russia region",earthquake

@@ -1,0 +1,17 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-12-22T09:06:34.000Z,36.256,101.784,6.1,5.5,mb,141,,,,centennial,centennial19681222090634,2013-07-09T19:07:35.000Z,"northern Qinghai, China",earthquake
+1968-12-19T15:16:01.000Z,53.383,160.141,63.7,5.7,mb,212,,,,centennial,centennial19681219151601,2013-07-09T19:07:35.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1968-12-19T05:17:53.000Z,36.141,70.114,150.1,5.7,mb,139,,,,centennial,centennial19681219051753,2013-07-09T19:07:35.000Z,"Hindu Kush region, Afghanistan",earthquake
+1968-12-18T20:03:45.000Z,-19.897,-177.58,375.3,5.6,mb,117,,,,centennial,centennial19681218200345,2013-07-09T19:07:35.000Z,"Fiji region",earthquake
+1968-12-17T12:02:18.000Z,60.106,-152.843,107.6,6,mb,261,,,,centennial,centennial19681217120218,2013-07-09T19:07:35.000Z,"Southern Alaska",earthquake
+1968-12-15T02:28:31.000Z,51.671,175.762,16.2,6.1,ms,167,,,,centennial,centennial19681215022831,2013-07-09T19:07:35.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1968-12-15T02:14:18.000Z,51.547,175.837,25.4,6.2,ms,229,,,,centennial,centennial19681215021418,2013-07-09T19:07:35.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1968-12-14T09:59:00.000Z,51.451,175.737,11.7,5.8,ms,154,,,,centennial,centennial19681214095900,2013-07-09T19:07:35.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1968-12-12T05:25:36.000Z,9.681,125.709,96.3,5.6,mb,128,,,,centennial,centennial19681212052536,2013-07-09T19:07:34.000Z,"Mindanao, Philippines",earthquake
+1968-12-10T04:25:26.000Z,-6.295,130.428,104.9,5.5,mb,50,,,,centennial,centennial19681210042526,2013-07-09T19:07:34.000Z,"Banda Sea",earthquake
+1968-12-07T21:35:46.000Z,-20.639,169.422,68.7,5.6,mb,125,,,,centennial,centennial19681207213546,2013-07-09T19:07:34.000Z,"Vanuatu",earthquake
+1968-12-07T20:35:21.000Z,-44.947,-80.46,24.5,5.7,mb,114,,,,centennial,centennial19681207203521,2013-07-09T19:07:34.000Z,"off the coast of Aisen, Chile",earthquake
+1968-12-07T04:57:49.000Z,-3.443,146.261,1.8,6.5,ms,93,,,,centennial,centennial19681207045749,2013-07-09T19:07:34.000Z,"Bismarck Sea",earthquake
+1968-12-05T09:44:13.000Z,63.885,-21.833,4.9,6,ms,145,,,,centennial,centennial19681205094413,2013-07-09T19:07:34.000Z,"Iceland region",earthquake
+1968-12-02T02:33:43.000Z,-14.104,23.779,11.5,5.9,mb,173,,,,centennial,centennial19681202023343,2013-07-09T19:07:34.000Z,"Zambia",earthquake
+1968-12-01T13:14:57.000Z,-10.638,-74.825,45.1,5.6,ms,122,,,,centennial,centennial19681201131457,2013-07-09T19:07:34.000Z,"central Peru",earthquake

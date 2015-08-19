@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-04-29T22:41:12.000Z,-35,53,0,6.6,uk,0,,,,centennial,centennial19090429224112,2013-07-09T19:07:16.000Z,"Southwest Indian Ridge",earthquake
+1909-04-27T12:44:00.000Z,0,147,0,7.1,mw,0,,,,centennial,centennial19090427124400,2013-07-09T19:07:16.000Z,"Admiralty Islands region, Papua New Guinea",earthquake
+1909-04-25T22:36:00.000Z,4,127,100,7.1,mb,0,,,,centennial,centennial19090425223600,2013-07-09T19:07:16.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1909-04-14T19:53:42.000Z,25,122.5,5,7.1,mb,0,,,,centennial,centennial19090414195342,2013-07-09T19:07:16.000Z,"Taiwan region",earthquake
+1909-04-10T19:36:00.000Z,52,175,0,7,ms,0,,,,centennial,centennial19090410193600,2013-07-09T19:07:16.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1909-04-10T18:46:54.000Z,77.5,128,0,6.6,uk,0,,,,centennial,centennial19090410184654,2013-07-09T19:07:16.000Z,"Laptev Sea",earthquake
+1909-04-10T05:23:00.000Z,-15,167,0,6.9,ms,0,,,,centennial,centennial19090410052300,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake

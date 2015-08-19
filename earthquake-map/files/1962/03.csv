@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1962-03-24T12:59:36.000Z,-5.742,145.265,115.9,6.6,ms,184,,,,centennial,centennial19620324125936,2013-07-09T19:07:27.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1962-03-22T15:13:04.000Z,-3.217,142.53,3.8,6.5,ms,154,,,,centennial,centennial19620322151304,2013-07-09T19:07:27.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1962-03-17T20:47:33.000Z,10.809,-43.308,15,7,mb,136,,,,centennial,centennial19620317204733,2013-07-09T19:07:27.000Z,"northern Mid-Atlantic Ridge",earthquake
+1962-03-12T11:40:15.000Z,8.106,-82.674,9.8,6.6,ms,86,,,,centennial,centennial19620312114015,2013-07-09T19:07:27.000Z,"Panama-Costa Rica border region",earthquake
+1962-03-07T11:01:02.000Z,19.104,145.237,640,6.9,ms,166,,,,centennial,centennial19620307110102,2013-07-09T19:07:27.000Z,"Maug Islands region, Northern Mariana Islands",earthquake

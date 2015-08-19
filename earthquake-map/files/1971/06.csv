@@ -1,0 +1,20 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-06-30T03:56:57.000Z,49.975,79.051,0,5.4,,,,,,atlas,atlas19710630035657,2014-03-17T19:47:11.839Z,"eastern Kazakhstan",earthquake
+1971-06-29T09:08:11.000Z,37.146,36.833,35,5.5,,,,,,atlas,atlas19710629090811,2014-03-17T19:46:54.097Z,"central Turkey",earthquake
+1971-06-27T02:37:20.000Z,-5.88,144.3649,58,6.3,,,,,,atlas,atlas19710627023720,2014-03-17T19:46:32.600Z,"New Guinea, Papua New Guinea",earthquake
+1971-06-26T19:27:16.000Z,-5.216,96.844,29,6.4,ms,205,,,,centennial,centennial19710626192716,2013-07-09T19:07:38.000Z,"southwest of Sumatra, Indonesia",earthquake
+1971-06-19T23:19:18.000Z,19.862,-109.068,32.7,5.5,ms,16,,,,centennial,centennial19710619231918,2013-07-09T19:07:38.000Z,"Revilla Gigedo Islands region",earthquake
+1971-06-19T04:03:57.000Z,50.009,77.743,0,5.5,,,,,,atlas,atlas19710619040357,2014-03-17T19:46:15.956Z,"eastern Kazakhstan",earthquake
+1971-06-17T21:00:41.000Z,-25.423,-69.051,90.3,7.2,mb,208,,,,centennial,centennial19710617210041,2014-03-17T19:45:50.576Z,"Antofagasta, Chile",earthquake
+1971-06-16T00:58:37.000Z,41.529,79.392,33,5.5,,,,,,atlas,atlas19710616005837,2014-03-17T19:45:16.944Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1971-06-15T22:15:49.000Z,41.397,79.348,33,5.7,,,,,,atlas,atlas19710615221549,2014-03-17T19:44:53.217Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1971-06-15T22:04:13.000Z,41.519,79.347,33,5.6,,,,,,atlas,atlas19710615220413,2014-03-17T19:44:23.576Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1971-06-15T07:39:37.000Z,41.455,79.397,33,5.6,,,,,,atlas,atlas19710615073937,2014-03-17T19:43:53.211Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1971-06-14T13:48:54.000Z,56.185,123.622,7.2,5.7,ms,160,,,,centennial,centennial19710614134854,2013-07-09T19:07:38.000Z,"Amurskaya Oblast', Russia",earthquake
+1971-06-13T04:05:52.000Z,36.291,140.92,47,5.5,mb,149,,,,centennial,centennial19710613040552,2013-07-09T19:07:38.000Z,"near the east coast of Honshu, Japan",earthquake
+1971-06-11T13:58:39.000Z,51.581,176.092,24.5,6.5,ms,249,,,,centennial,centennial19710611135839,2013-07-09T19:07:38.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1971-06-11T12:56:06.000Z,17.985,-69.804,58.8,6.5,uk,263,,,,centennial,centennial19710611125606,2014-03-17T19:43:38.619Z,"Dominican Republic region",earthquake
+1971-06-11T01:33:02.000Z,-4.179,-80.599,57.2,5.5,mb,104,,,,centennial,centennial19710611013302,2013-07-09T19:07:38.000Z,"Peru-Ecuador border region",earthquake
+1971-06-10T19:59:54.000Z,41.097,138.488,228.7,5.6,mb,257,,,,centennial,centennial19710610195954,2013-07-09T19:07:38.000Z,"eastern Sea of Japan",earthquake
+1971-06-10T06:47:39.000Z,-10.812,-76.139,124.2,5.6,mb,138,,,,centennial,centennial19710610064739,2013-07-09T19:07:38.000Z,"central Peru",earthquake
+1971-06-06T04:02:57.000Z,49.981,77.771,0,5.5,,,,,,atlas,atlas19710606040257,2014-03-17T19:43:22.174Z,"eastern Kazakhstan",earthquake

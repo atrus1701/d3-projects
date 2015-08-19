@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1917-02-20T19:29:48.000Z,19.5,-78.5,0,7.2,mw,0,,,,centennial,centennial19170220192948,2013-07-09T19:07:18.000Z,"Cuba region",earthquake
+1917-02-15T00:48:24.000Z,-30,-73,0,6.8,ms,0,,,,centennial,centennial19170215004824,2013-07-09T19:07:18.000Z,"off the coast of Coquimbo, Chile",earthquake

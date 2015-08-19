@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-07-27T15:11:42.000Z,-28,-177,70,6.9,mb,0,,,,centennial,centennial19490727151142,2013-07-09T19:07:24.000Z,"Kermadec Islands region",earthquake
+1949-07-25T11:24:27.000Z,-34,-112,0,6.6,uk,0,,,,centennial,centennial19490725112427,2013-07-09T19:07:24.000Z,"southern East Pacific Rise",earthquake
+1949-07-25T03:50:41.000Z,16.4,147.6,191,6.6,uk,0,,,,centennial,centennial19490725035041,2013-07-09T19:07:24.000Z,"Mariana Islands region",earthquake
+1949-07-23T15:03:30.000Z,38.6,26.3,0,6.6,uk,0,,,,centennial,centennial19490723150330,2013-07-09T19:07:24.000Z,"near the coast of western Turkey",earthquake
+1949-07-23T10:26:46.000Z,-18.91,169.188,143.7,7.2,mb,0,,,,centennial,centennial19490723102646,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1949-07-10T16:24:00.000Z,39.2,70.7,0,6.5,ms,0,,,,centennial,centennial19490710162400,2013-07-09T19:07:24.000Z,"Tajikistan",earthquake
+1949-07-10T03:53:42.000Z,39.18,70.708,35,7.6,mw,0,,,,centennial,centennial19490710035342,2013-07-09T19:07:24.000Z,"Tajikistan",earthquake
+1949-07-02T19:57:13.000Z,16,148,50,6.6,ms,0,,,,centennial,centennial19490702195713,2013-07-09T19:07:24.000Z,"Mariana Islands region",earthquake

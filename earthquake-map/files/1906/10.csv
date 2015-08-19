@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1906-10-24T15:39:30.000Z,36.5,68,32,6.8,ms,0,,,,centennial,centennial19061024153930,2013-07-09T19:07:16.000Z,"Hindu Kush region, Afghanistan",earthquake
+1906-10-24T14:42:00.000Z,40,68,0,6.9,ms,0,,,,centennial,centennial19061024144200,2013-07-09T19:07:16.000Z,"eastern Uzbekistan",earthquake
+1906-10-17T09:40:00.000Z,19,121,60,7.1,uk,0,,,,centennial,centennial19061017094000,2013-07-09T19:07:16.000Z,"Philippine Islands region",earthquake
+1906-10-08T04:53:38.000Z,52.5,154.5,200,6.7,mb,0,,,,centennial,centennial19061008045338,2013-07-09T19:07:16.000Z,"northwest of the Kuril Islands",earthquake
+1906-10-02T01:50:00.000Z,-4,149,0,7.2,mw,0,,,,centennial,centennial19061002015000,2013-07-09T19:07:16.000Z,"Bismarck Sea",earthquake

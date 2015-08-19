@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1913-01-19T23:47:55.000Z,46,151,150,6.9,mb,0,,,,centennial,centennial19130119234755,2013-07-09T19:07:17.000Z,"Kuril Islands",earthquake
+1913-01-19T17:05:15.000Z,1,88,0,6.9,ms,0,,,,centennial,centennial19130119170515,2013-07-09T19:07:17.000Z,"North Indian Ocean",earthquake
+1913-01-11T13:16:54.000Z,1.5,122,0,7.2,mw,0,,,,centennial,centennial19130111131654,2013-07-09T19:07:17.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1913-01-08T18:54:51.000Z,23.8,121.7,0,6.5,ms,0,,,,centennial,centennial19130108185451,2013-07-09T19:07:17.000Z,"Taiwan",earthquake
+1913-01-07T22:50:43.000Z,23.8,121.7,0,6.7,ms,0,,,,centennial,centennial19130107225043,2013-07-09T19:07:17.000Z,"Taiwan",earthquake

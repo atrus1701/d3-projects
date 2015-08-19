@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1904-12-27T22:47:00.000Z,31,138,100,6.7,mj,0,,,,centennial,centennial19041227224700,2013-07-09T19:07:15.000Z,"Izu Islands, Japan region",earthquake
+1904-12-20T05:44:18.000Z,8.5,-83,0,7.2,mw,0,,,,centennial,centennial19041220054418,2013-07-09T19:07:15.000Z,"Panama-Costa Rica border region",earthquake

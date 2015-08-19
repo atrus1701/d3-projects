@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-10-31T23:24:13.000Z,-6.197,104.876,64,5.6,mb,60,,,,centennial,centennial19721031232413,2013-07-09T19:07:40.000Z,"Sunda Strait, Indonesia",earthquake
+1972-10-30T16:48:10.000Z,-6.294,154.819,49.5,6.2,ms,199,,,,centennial,centennial19721030164810,2014-03-17T20:16:21.490Z,"Bougainville region, Papua New Guinea",earthquake
+1972-10-28T03:16:53.000Z,-15.296,167.564,136.3,5.7,mb,193,,,,centennial,centennial19721028031653,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake
+1972-10-28T02:27:12.000Z,-7.325,146.831,3,6,ms,198,,,,centennial,centennial19721028022712,2014-03-17T20:16:03.531Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1972-10-27T09:23:09.000Z,-19.966,168.976,32.9,6.2,ms,160,,,,centennial,centennial19721027092309,2013-07-09T19:07:40.000Z,"Vanuatu",earthquake
+1972-10-20T08:17:46.000Z,18.711,-106.771,10.1,6.5,ms,172,,,,centennial,centennial19721020081746,2013-07-09T19:07:40.000Z,"off the coast of Jalisco, Mexico",earthquake
+1972-10-20T04:33:48.000Z,20.554,-29.689,16,5.8,ms,262,,,,centennial,centennial19721020043348,2013-07-09T19:07:40.000Z,"North Atlantic Ocean",earthquake
+1972-10-18T20:01:51.000Z,-8.587,124.9169,33,6.3,,,,,,atlas,atlas19721018200151,2014-03-17T20:15:48.492Z,"Kepulauan Alor, Indonesia",earthquake
+1972-10-18T18:18:24.000Z,-8.573,124.901,13.5,5.9,ms,154,,,,centennial,centennial19721018181824,2013-07-09T19:07:40.000Z,"Kepulauan Alor, Indonesia",earthquake
+1972-10-17T21:23:15.000Z,-10.338,120.449,17.3,5.8,ms,155,,,,centennial,centennial19721017212315,2014-03-17T20:15:37.555Z,"Sumba region, Indonesia",earthquake
+1972-10-15T10:28:13.000Z,-22.18,171.345,143,5.6,mb,136,,,,centennial,centennial19721015102813,2013-07-09T19:07:40.000Z,"southeast of the Loyalty Islands",earthquake
+1972-10-14T23:52:01.000Z,-33.006,-178.425,1.7,5.7,ms,77,,,,centennial,centennial19721014235201,2013-07-09T19:07:40.000Z,"south of the Kermadec Islands",earthquake
+1972-10-14T00:00:25.000Z,48.34,148.759,394,5.5,mb,225,,,,centennial,centennial19721014000025,2013-07-09T19:07:40.000Z,"northwest of the Kuril Islands",earthquake
+1972-10-12T17:49:54.000Z,1.768,127.439,123.6,5.8,mb,161,,,,centennial,centennial19721012174954,2013-07-09T19:07:40.000Z,"Halmahera, Indonesia",earthquake
+1972-10-10T22:42:19.000Z,-20.091,-68.872,124.4,5.5,mb,138,,,,centennial,centennial19721010224219,2013-07-09T19:07:40.000Z,"Tarapaca, Chile",earthquake
+1972-10-06T16:42:55.000Z,-6.072,149.858,49.5,6.4,uk,170,,,,centennial,centennial19721006164255,2014-03-17T20:15:21.263Z,"New Britain region, Papua New Guinea",earthquake
+1972-10-03T08:59:57.000Z,46.848,45.01,0,5.8,,,,,,atlas,atlas19721003085957,2014-03-17T20:14:59.020Z,"southwestern Russia",earthquake
+1972-10-01T23:49:38.000Z,7.476,123.762,629.4,6,mb,219,,,,centennial,centennial19721001234938,2013-07-09T19:07:40.000Z,"Mindanao, Philippines",earthquake

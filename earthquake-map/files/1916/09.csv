@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-09-15T07:01:18.000Z,34.4,141.2,35,7.1,mb,0,,,,centennial,centennial19160915070118,2013-07-09T19:07:18.000Z,"off the east coast of Honshu, Japan",earthquake
+1916-09-11T06:30:36.000Z,-9,113,100,7.1,mb,0,,,,centennial,centennial19160911063036,2013-07-09T19:07:18.000Z,"south of Java, Indonesia",earthquake

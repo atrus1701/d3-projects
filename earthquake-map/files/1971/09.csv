@@ -1,0 +1,29 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-09-30T21:24:08.000Z,-0.516,-4.865,2.6,5.5,ms,216,,,,centennial,centennial19710930212408,2013-07-09T19:07:38.000Z,"South Atlantic Ocean",earthquake
+1971-09-30T08:18:00.000Z,26.97,-110.837,15,6.6,ms,123,,,,centennial,centennial19710930081800,2014-03-17T19:54:25.720Z,"Gulf of California",earthquake
+1971-09-28T23:16:02.000Z,-32.045,-70.02,105.2,5.7,mb,141,,,,centennial,centennial19710928231602,2013-07-09T19:07:38.000Z,"San Juan, Argentina",earthquake
+1971-09-27T22:20:00.000Z,-3.197,148.285,1.2,6.1,ms,104,,,,centennial,centennial19710927222000,2013-07-09T19:07:38.000Z,"Bismarck Sea",earthquake
+1971-09-27T19:01:46.000Z,46.42,141.159,19.2,6,ms,240,,,,centennial,centennial19710927190146,2013-07-09T19:07:38.000Z,"Sakhalin, Russia",earthquake
+1971-09-26T16:33:04.000Z,-0.004,124.765,59.2,5.8,mb,182,,,,centennial,centennial19710926163304,2013-07-09T19:07:38.000Z,"Molucca Sea",earthquake
+1971-09-26T11:03:01.000Z,-56.726,-27.396,186.8,5.6,mb,116,,,,centennial,centennial19710926110301,2013-07-09T19:07:38.000Z,"South Sandwich Islands region",earthquake
+1971-09-25T13:05:59.000Z,-32.47,-73.014,21.7,5.5,mb,98,,,,centennial,centennial19710925130559,2013-07-09T19:07:38.000Z,"off the coast of Valparaiso, Chile",earthquake
+1971-09-25T04:36:15.000Z,-6.556,146.674,111.6,6.3,mb,273,,,,centennial,centennial19710925043615,2014-03-17T19:54:08.906Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1971-09-24T04:32:57.000Z,-16.437,-73.634,37.5,5.6,ms,81,,,,centennial,centennial19710924043257,2013-07-09T19:07:38.000Z,"near the coast of southern Peru",earthquake
+1971-09-24T01:10:02.000Z,39.425,143.273,21.2,5.7,ms,235,,,,centennial,centennial19710924011002,2013-07-09T19:07:38.000Z,"off the east coast of Honshu, Japan",earthquake
+1971-09-22T14:14:20.000Z,14.969,-93.706,25.7,5.6,ms,105,,,,centennial,centennial19710922141420,2013-07-09T19:07:38.000Z,"offshore Chiapas, Mexico",earthquake
+1971-09-16T06:22:41.000Z,-5.971,130.696,132.5,6.4,mb,204,,,,centennial,centennial19710916062241,2013-07-09T19:07:38.000Z,"Banda Sea",earthquake
+1971-09-15T14:55:07.000Z,39.164,143.439,20.4,6,ms,213,,,,centennial,centennial19710915145507,2013-07-09T19:07:38.000Z,"off the east coast of Honshu, Japan",earthquake
+1971-09-14T05:20:30.000Z,-6.441,151.547,34.4,6.3,ms,258,,,,centennial,centennial19710914052030,2013-07-09T19:07:38.000Z,"New Britain region, Papua New Guinea",earthquake
+1971-09-14T03:03:41.000Z,-7.36,156.035,52,5.9,ms,120,,,,centennial,centennial19710914030341,2013-07-09T19:07:38.000Z,"Solomon Islands",earthquake
+1971-09-12T08:06:54.000Z,-26.764,-177.091,98.1,5.7,mb,169,,,,centennial,centennial19710912080654,2013-07-09T19:07:38.000Z,"south of the Fiji Islands",earthquake
+1971-09-10T06:28:51.000Z,-20.419,-174.151,22.1,5.8,ms,162,,,,centennial,centennial19710910062851,2013-07-09T19:07:38.000Z,"Tonga",earthquake
+1971-09-09T23:01:11.000Z,44.401,150.855,28.6,5.9,ms,278,,,,centennial,centennial19710909230111,2013-07-09T19:07:38.000Z,"east of the Kuril Islands",earthquake
+1971-09-08T22:09:00.000Z,-6.573,130.657,62.5,5.5,mb,115,,,,centennial,centennial19710908220900,2013-07-09T19:07:38.000Z,"Banda Sea",earthquake
+1971-09-08T16:59:55.000Z,46.303,141.054,20.4,6.2,ms,250,,,,centennial,centennial19710908165955,2013-07-09T19:07:38.000Z,"Sakhalin, Russia",earthquake
+1971-09-08T11:48:28.000Z,46.446,141.12,23.4,6.6,ms,277,,,,centennial,centennial19710908114828,2014-03-17T19:53:56.382Z,"Sakhalin, Russia",earthquake
+1971-09-08T07:25:15.000Z,37.171,141.413,46.4,5.5,mb,172,,,,centennial,centennial19710908072515,2013-07-09T19:07:38.000Z,"near the east coast of Honshu, Japan",earthquake
+1971-09-06T13:37:11.000Z,46.756,141.388,21.2,5.5,ms,278,,,,centennial,centennial19710906133711,2013-07-09T19:07:38.000Z,"Sakhalin, Russia",earthquake
+1971-09-06T06:46:00.000Z,46.397,141.202,13.2,5.6,mb,185,,,,centennial,centennial19710906064600,2013-07-09T19:07:38.000Z,"Sakhalin, Russia",earthquake
+1971-09-05T19:33:51.000Z,46.37,141.22,27.8,5.6,mb,161,,,,centennial,centennial19710905193351,2013-07-09T19:07:38.000Z,"Sakhalin, Russia",earthquake
+1971-09-05T18:35:28.000Z,46.557,141.189,17.4,7.3,mw,313,,,,centennial,centennial19710905183528,2014-03-17T19:53:43.609Z,"Sakhalin, Russia",earthquake
+1971-09-04T15:53:28.000Z,54.913,-163.373,121.1,5.7,mb,240,,,,centennial,centennial19710904155328,2013-07-09T19:07:38.000Z,"Unimak Island region, Alaska",earthquake

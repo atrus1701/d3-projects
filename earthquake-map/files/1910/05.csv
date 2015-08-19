@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-05-31T04:54:00.000Z,10,-105,0,7,ms,0,,,,centennial,centennial19100531045400,2013-07-09T19:07:16.000Z,"northern East Pacific Rise",earthquake
+1910-05-22T06:25:00.000Z,44,148,35,6.9,ms,0,,,,centennial,centennial19100522062500,2013-07-09T19:07:16.000Z,"Kuril Islands",earthquake
+1910-05-13T07:58:06.000Z,57,-160,100,6.6,uk,0,,,,centennial,centennial19100513075806,2013-07-09T19:07:16.000Z,"Bristol Bay",earthquake
+1910-05-01T18:30:36.000Z,-20,169,80,7.1,mb,0,,,,centennial,centennial19100501183036,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake

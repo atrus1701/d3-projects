@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-04-19T07:35:22.000Z,35.631,96.96,15,6.9,ms,180,,,,centennial,centennial19630419073522,2013-07-09T19:07:28.000Z,"southern Qinghai, China",earthquake
+1963-04-16T01:29:23.000Z,-1.136,128.005,34.5,7.2,mw,181,,,,centennial,centennial19630416012923,2013-07-09T19:07:28.000Z,"Kepulauan Obi, Indonesia",earthquake
+1963-04-13T02:20:58.000Z,-6.293,-76.517,121.3,6.5,ms,163,,,,centennial,centennial19630413022058,2013-07-09T19:07:28.000Z,"northern Peru",earthquake
+1963-04-01T04:28:45.000Z,44.61,141.425,260.1,6.5,ms,125,,,,centennial,centennial19630401042845,2013-07-09T19:07:28.000Z,"Hokkaido, Japan region",earthquake

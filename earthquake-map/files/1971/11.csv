@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-11-29T06:02:57.000Z,49.758,78.126,0,5.5,,,,,,atlas,atlas19711129060257,2014-03-17T19:56:48.352Z,"eastern Kazakhstan",earthquake
+1971-11-28T11:12:04.000Z,-29.909,-69.518,125,5.8,mb,160,,,,centennial,centennial19711128111204,2013-07-09T19:07:39.000Z,"San Juan, Argentina",earthquake
+1971-11-27T13:45:12.000Z,29.202,130.069,53.2,5.6,mb,149,,,,centennial,centennial19711127134512,2013-07-09T19:07:39.000Z,"Ryukyu Islands, Japan",earthquake
+1971-11-24T19:35:31.000Z,52.811,159.174,116.2,7.4,mb,301,,,,centennial,centennial19711124193531,2013-07-09T19:07:39.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1971-11-22T08:19:57.000Z,0.11,123.97,104.9,5.7,mb,161,,,,centennial,centennial19711122081957,2013-07-09T19:07:39.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1971-11-22T00:46:13.000Z,52.335,174.268,44.9,5.5,ms,230,,,,centennial,centennial19711122004613,2013-07-09T19:07:39.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1971-11-21T06:20:01.000Z,-11.936,166.687,116,5.8,mb,89,,,,centennial,centennial19711121062001,2013-07-09T19:07:39.000Z,"Santa Cruz Islands",earthquake
+1971-11-21T05:57:12.000Z,-11.881,166.624,114.7,7.1,mb,228,,,,centennial,centennial19711121055712,2014-03-17T19:56:35.981Z,"Santa Cruz Islands",earthquake
+1971-11-20T21:24:40.000Z,48.774,-129.615,8.8,5.7,ms,111,,,,centennial,centennial19711120212440,2013-07-09T19:07:39.000Z,"Vancouver Island, Canada region",earthquake
+1971-11-20T07:28:00.000Z,-23.498,-179.815,542.7,6.5,ms,246,,,,centennial,centennial19711120072800,2013-07-09T19:07:39.000Z,"south of the Fiji Islands",earthquake
+1971-11-08T22:43:01.000Z,5.737,126.412,159.5,5.5,mb,141,,,,centennial,centennial19711108224301,2013-07-09T19:07:39.000Z,"Mindanao, Philippines",earthquake
+1971-11-08T03:06:34.000Z,27.013,54.458,6.4,5.9,ms,197,,,,centennial,centennial19711108030634,2014-03-17T19:56:19.876Z,"southern Iran",earthquake
+1971-11-07T14:12:26.000Z,-4.606,-105.462,5.6,5.6,ms,46,,,,centennial,centennial19711107141226,2013-07-09T19:07:39.000Z,"central East Pacific Rise",earthquake
+1971-11-05T22:11:19.000Z,10.131,92.933,76.1,5.9,mb,227,,,,centennial,centennial19711105221119,2013-07-09T19:07:39.000Z,"Andaman Islands, India region",earthquake
+1971-11-01T09:59:45.000Z,-10.313,169.821,50,6,uk,47,,,,centennial,centennial19711101095945,2013-07-09T19:07:39.000Z,"Santa Cruz Islands region",earthquake

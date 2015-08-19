@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1906-04-18T13:12:26.000Z,37.75,-122.55,10,7.7,mw,0,,,,centennial,centennial19060418131226,2013-07-09T19:07:16.000Z,"offshore Northern California",earthquake
+1906-04-13T23:52:00.000Z,23.6,120.4,5,6.9,mj,0,,,,centennial,centennial19060413235200,2013-07-09T19:07:16.000Z,"Taiwan",earthquake
+1906-04-13T19:18:00.000Z,23.6,120.4,5,7.1,mj,0,,,,centennial,centennial19060413191800,2013-07-09T19:07:16.000Z,"Taiwan",earthquake
+1906-04-10T21:18:00.000Z,20,-110,0,7.2,mw,0,,,,centennial,centennial19060410211800,2013-07-09T19:07:16.000Z,"Revilla Gigedo Islands region",earthquake

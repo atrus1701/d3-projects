@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1942-10-26T21:09:14.000Z,46.016,151.542,35,6.8,ms,67,,,,centennial,centennial19421026210914,2013-07-09T19:07:22.000Z,"Kuril Islands",earthquake
+1942-10-20T23:21:52.000Z,7.731,122.595,35,7.2,mw,33,,,,centennial,centennial19421020232152,2013-07-09T19:07:22.000Z,"Mindanao, Philippines",earthquake
+1942-10-09T15:46:12.000Z,-11.538,34.646,25,6.6,uk,37,,,,centennial,centennial19421009154612,2013-07-09T19:07:22.000Z,"Malawi",earthquake

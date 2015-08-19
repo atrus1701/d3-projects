@@ -1,0 +1,30 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-05-31T05:13:57.000Z,25.234,96.494,3.6,6.1,ms,145,,,,centennial,centennial19710531051357,2014-03-17T19:43:03.439Z,"Myanmar",earthquake
+1971-05-31T03:46:51.000Z,72.205,1.005,15,6,uk,145,,,,centennial,centennial19710531034651,2013-07-09T19:07:38.000Z,"Norwegian Sea",earthquake
+1971-05-30T15:44:16.000Z,25.199,96.351,6.2,6.1,ms,194,,,,centennial,centennial19710530154416,2014-03-17T19:42:44.952Z,"Myanmar",earthquake
+1971-05-29T08:52:45.000Z,31.381,131.336,50.1,5.7,ms,176,,,,centennial,centennial19710529085245,2013-07-09T19:07:38.000Z,"Kyushu, Japan",earthquake
+1971-05-28T17:58:24.000Z,-23.628,179.282,554.6,5.7,mb,39,,,,centennial,centennial19710528175824,2013-07-09T19:07:38.000Z,"south of the Fiji Islands",earthquake
+1971-05-26T06:13:16.000Z,31.359,131.384,50.8,5.7,ms,175,,,,centennial,centennial19710526061316,2013-07-09T19:07:38.000Z,"Kyushu, Japan",earthquake
+1971-05-25T13:00:21.000Z,31.305,131.316,52.7,5.6,mb,178,,,,centennial,centennial19710525130021,2013-07-09T19:07:38.000Z,"Kyushu, Japan",earthquake
+1971-05-25T05:43:26.000Z,39.029,29.732,12.4,5.5,ms,149,,,,centennial,centennial19710525054326,2014-03-17T19:42:28.239Z,"western Turkey",earthquake
+1971-05-25T04:02:57.000Z,49.804,78.21,0,5.2,,,,,,atlas,atlas19710525040257,2014-03-17T19:42:11.725Z,"eastern Kazakhstan",earthquake
+1971-05-24T03:13:37.000Z,-3.535,139.7849,33,5.6,,,,,,atlas,atlas19710524031337,2014-03-17T19:41:53.286Z,"Papua, Indonesia",earthquake
+1971-05-22T20:03:29.000Z,32.327,92.098,1.5,6.1,ms,183,,,,centennial,centennial19710522200329,2014-03-17T19:41:34.799Z,"Xizang-Qinghai border region",earthquake
+1971-05-22T16:44:01.000Z,38.867,40.539,4.3,6.7,ms,171,,,,centennial,centennial19710522164401,2014-03-17T19:41:13.044Z,"eastern Turkey",earthquake
+1971-05-18T22:44:42.000Z,63.923,146.108,8.5,6.8,uk,251,,,,centennial,centennial19710518224442,2013-07-09T19:07:38.000Z,"Magadanskaya Oblast', Russia",earthquake
+1971-05-18T06:12:39.000Z,-28.516,-68.858,108.3,5.7,mb,159,,,,centennial,centennial19710518061239,2013-07-09T19:07:38.000Z,"La Rioja, Argentina",earthquake
+1971-05-17T11:04:08.000Z,-1.63,-77.655,172.3,5.7,mb,252,,,,centennial,centennial19710517110408,2013-07-09T19:07:38.000Z,"Ecuador",earthquake
+1971-05-12T06:25:15.000Z,37.558,29.745,27.5,5.9,ms,125,,,,centennial,centennial19710512062515,2014-03-17T19:40:54.648Z,"western Turkey",earthquake
+1971-05-11T00:09:37.000Z,22.327,121.142,50.2,5.5,mb,150,,,,centennial,centennial19710511000937,2013-07-09T19:07:38.000Z,"Taiwan region",earthquake
+1971-05-09T19:26:34.000Z,35.528,71.065,64.6,5.5,mb,190,,,,centennial,centennial19710509192634,2013-07-09T19:07:38.000Z,"Hindu Kush region, Afghanistan",earthquake
+1971-05-09T14:01:06.000Z,-2.938,119.6,37,5.5,mb,27,,,,centennial,centennial19710509140106,2013-07-09T19:07:38.000Z,"Sulawesi, Indonesia",earthquake
+1971-05-09T08:25:01.000Z,-39.746,-104.947,23.5,6,ms,247,,,,centennial,centennial19710509082501,2013-07-09T19:07:38.000Z,"southern Pacific Ocean",earthquake
+1971-05-08T00:49:47.000Z,-42.294,-71.795,156.4,5.8,mb,196,,,,centennial,centennial19710508004947,2013-07-09T19:07:38.000Z,"Chubut, Argentina",earthquake
+1971-05-07T00:43:51.000Z,-2.573,119.7699,24,5.5,,,,,,atlas,atlas19710507004351,2014-03-17T19:40:37.750Z,"Sulawesi, Indonesia",earthquake
+1971-05-07T00:21:15.000Z,-2.693,119.604,31.8,5.8,ms,129,,,,centennial,centennial19710507002115,2014-03-17T19:40:21.051Z,"Sulawesi, Indonesia",earthquake
+1971-05-04T23:51:17.000Z,-39.739,177.1119,51,5.9,,,,,,atlas,atlas19710504235117,2014-03-17T19:40:03.376Z,"off the east coast of the North Island of New Zealand",earthquake
+1971-05-04T02:04:32.000Z,-6.547,105.312,49.9,6,uk,217,,,,centennial,centennial19710504020432,2014-03-17T19:39:47.134Z,"Sunda Strait, Indonesia",earthquake
+1971-05-03T10:49:22.000Z,-11.179,161.893,3.1,5.7,ms,32,,,,centennial,centennial19710503104922,2013-07-09T19:07:38.000Z,"Solomon Islands",earthquake
+1971-05-03T06:19:08.000Z,8.787,124.233,74.4,5.6,mb,34,,,,centennial,centennial19710503061908,2013-07-09T19:07:38.000Z,"Mindanao, Philippines",earthquake
+1971-05-02T06:08:25.000Z,51.433,-177.246,19.5,7.1,ms,315,,,,centennial,centennial19710502060825,2013-07-09T19:07:38.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1971-05-01T14:15:36.000Z,-22.302,171.694,143.7,5.7,mb,139,,,,centennial,centennial19710501141536,2013-07-09T19:07:38.000Z,"southeast of the Loyalty Islands",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-02-18T07:34:24.000Z,30.173,138.275,480.2,7.1,mb,124,,,,centennial,centennial19560218073424,2013-07-09T19:07:26.000Z,"Izu Islands, Japan region",earthquake
+1956-02-09T14:32:42.000Z,31.705,-116.059,15,6.6,ms,82,,,,centennial,centennial19560209143242,2013-07-09T19:07:26.000Z,"Baja California, Mexico",earthquake
+1956-02-01T13:41:52.000Z,18.853,145.06,379.9,7,mb,104,,,,centennial,centennial19560201134152,2013-07-09T19:07:26.000Z,"Pagan region, Northern Mariana Islands",earthquake

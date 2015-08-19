@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1908-05-17T12:30:54.000Z,35,24,100,6.6,uk,0,,,,centennial,centennial19080517123054,2013-07-09T19:07:16.000Z,"Crete, Greece",earthquake
+1908-05-15T08:31:36.000Z,59,-141,0,7,ms,0,,,,centennial,centennial19080515083136,2013-07-09T19:07:16.000Z,"Southeastern Alaska",earthquake
+1908-05-05T06:17:42.000Z,3,123,0,6.9,ms,0,,,,centennial,centennial19080505061742,2013-07-09T19:07:16.000Z,"Celebes Sea",earthquake
+1908-05-03T00:51:00.000Z,43,146.5,35,6.5,mj,0,,,,centennial,centennial19080503005100,2013-07-09T19:07:16.000Z,"Kuril Islands",earthquake

@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1902-01-31T01:42:00.000Z,41.6,142.2,35,6.6,mj,0,,,,centennial,centennial19020131014200,2013-07-09T19:07:15.000Z,"Hokkaido, Japan region",earthquake
+1902-01-30T23:15:00.000Z,40.9,141.7,0,6.9,ms,0,,,,centennial,centennial19020130231500,2013-07-09T19:07:15.000Z,"near the east coast of Honshu, Japan",earthquake
+1902-01-30T14:01:00.000Z,40.5,141.3,35,6.9,ms,0,,,,centennial,centennial19020130140100,2013-07-09T19:07:15.000Z,"near the east coast of Honshu, Japan",earthquake
+1902-01-24T23:27:00.000Z,-8,150,0,7.2,mw,0,,,,centennial,centennial19020124232700,2013-07-09T19:07:15.000Z,"New Britain region, Papua New Guinea",earthquake
+1902-01-17T19:38:00.000Z,41.6,141.9,35,6.5,mj,0,,,,centennial,centennial19020117193800,2013-07-09T19:07:15.000Z,"Hokkaido, Japan region",earthquake
+1902-01-12T22:18:00.000Z,3,122,0,7,ms,0,,,,centennial,centennial19020112221800,2013-07-09T19:07:15.000Z,"Celebes Sea",earthquake
+1902-01-01T05:20:00.000Z,55,-165,0,7,ms,0,,,,centennial,centennial19020101052000,2013-07-09T19:07:15.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

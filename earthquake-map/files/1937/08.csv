@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1937-08-20T11:59:22.000Z,14.318,121.547,35,7.3,mw,59,,,,centennial,centennial19370820115922,2013-07-09T19:07:21.000Z,"Luzon, Philippines",earthquake
+1937-08-11T00:55:48.000Z,-9.675,117.533,35,7.2,mb,84,,,,centennial,centennial19370811005548,2013-07-09T19:07:21.000Z,"Sumbawa region, Indonesia",earthquake
+1937-08-05T14:43:57.000Z,-5.936,149.731,124,6.6,uk,66,,,,centennial,centennial19370805144357,2013-07-09T19:07:21.000Z,"New Britain region, Papua New Guinea",earthquake
+1937-08-01T10:41:07.000Z,35.222,115.154,25,6.6,uk,46,,,,centennial,centennial19370801104107,2013-07-09T19:07:21.000Z,"Henan-Shandong border region, China",earthquake

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-09-22T09:10:05.000Z,-4,147,50,6.8,ms,0,,,,centennial,centennial19450922091005,2013-07-09T19:07:23.000Z,"Bismarck Sea",earthquake
+1945-09-19T12:28:02.000Z,42.5,144.4,65,6.6,ms,0,,,,centennial,centennial19450919122802,2013-07-09T19:07:23.000Z,"Hokkaido, Japan region",earthquake
+1945-09-13T11:17:12.000Z,-33.83,-70.409,91.4,7,mb,0,,,,centennial,centennial19450913111712,2013-07-09T19:07:23.000Z,"Region Metropolitana, Chile",earthquake
+1945-09-09T04:03:54.000Z,-17,167,60,6.6,ms,0,,,,centennial,centennial19450909040354,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1945-09-05T21:48:46.000Z,-5.182,152.686,35,7.1,ms,0,,,,centennial,centennial19450905214846,2013-07-09T19:07:23.000Z,"New Britain region, Papua New Guinea",earthquake
+1945-09-01T22:44:12.000Z,-46.994,165.835,35,7.1,ms,0,,,,centennial,centennial19450901224412,2013-07-09T19:07:23.000Z,"off the west coast of the South Island of New Zealand",earthquake

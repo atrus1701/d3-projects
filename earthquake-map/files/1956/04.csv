@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-04-10T13:16:08.000Z,-2.923,102.236,133,6.6,ms,104,,,,centennial,centennial19560410131608,2013-07-09T19:07:26.000Z,"southern Sumatra, Indonesia",earthquake
+1956-04-06T07:11:37.000Z,36.383,70.762,206,6.6,ms,115,,,,centennial,centennial19560406071137,2013-07-09T19:07:26.000Z,"Hindu Kush region, Afghanistan",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-04-26T23:59:11.000Z,28.733,103.497,25,6.6,uk,44,,,,centennial,centennial19360426235911,2013-07-09T19:07:21.000Z,"eastern Sichuan, China",earthquake
+1936-04-19T05:07:19.000Z,-7.674,156.473,35,7.2,mw,126,,,,centennial,centennial19360419050719,2013-07-09T19:07:21.000Z,"Solomon Islands",earthquake
+1936-04-12T20:51:02.000Z,7.3,137.564,41.7,6.6,uk,53,,,,centennial,centennial19360412205102,2013-07-09T19:07:21.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1936-04-01T02:09:27.000Z,4.165,126.521,35,7.7,mw,59,,,,centennial,centennial19360401020927,2013-07-09T19:07:21.000Z,"Kepulauan Talaud, Indonesia",earthquake

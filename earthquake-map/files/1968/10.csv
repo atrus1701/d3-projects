@@ -1,0 +1,23 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-10-31T09:15:46.000Z,-16.373,-73.41,43.4,5.7,mb,83,,,,centennial,centennial19681031091546,2013-07-09T19:07:34.000Z,"near the coast of southern Peru",earthquake
+1968-10-31T09:06:36.000Z,1.172,126.306,27.5,6,ms,178,,,,centennial,centennial19681031090636,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-10-29T22:16:17.000Z,65.4,-150.199,7.9,6.5,ms,239,,,,centennial,centennial19681029221617,2013-07-09T19:07:34.000Z,"northern Alaska",earthquake
+1968-10-29T04:06:09.000Z,31.199,141.6,44.7,5.6,mb,166,,,,centennial,centennial19681029040609,2013-07-09T19:07:34.000Z,"Izu Islands, Japan region",earthquake
+1968-10-28T23:32:31.000Z,-12.476,166.533,67.3,5.9,mb,197,,,,centennial,centennial19681028233231,2013-07-09T19:07:34.000Z,"Santa Cruz Islands",earthquake
+1968-10-24T22:35:55.000Z,49.665,155.821,52.7,5.5,mb,146,,,,centennial,centennial19681024223555,2013-07-09T19:07:34.000Z,"Kuril Islands",earthquake
+1968-10-24T15:51:16.000Z,5.948,126.99,37.3,6.6,uk,163,,,,centennial,centennial19681024155116,2013-07-09T19:07:34.000Z,"Mindanao, Philippines",earthquake
+1968-10-23T21:04:42.000Z,-3.373,143.319,9.7,7.1,mw,234,,,,centennial,centennial19681023210442,2013-07-09T19:07:34.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1968-10-22T07:45:53.000Z,-4.537,-104.822,3.4,5.5,ms,60,,,,centennial,centennial19681022074553,2013-07-09T19:07:34.000Z,"central East Pacific Rise",earthquake
+1968-10-20T07:08:19.000Z,24.904,122.524,16,5.7,ms,108,,,,centennial,centennial19681020070819,2013-07-09T19:07:34.000Z,"Taiwan region",earthquake
+1968-10-15T02:10:37.000Z,-0.556,100.606,114.8,5.5,mb,157,,,,centennial,centennial19681015021037,2013-07-09T19:07:34.000Z,"southern Sumatra, Indonesia",earthquake
+1968-10-14T02:58:50.000Z,-31.522,116.978,5,6.8,ms,211,,,,centennial,centennial19681014025850,2014-04-07T19:47:41.665Z,"Western Australia",earthquake
+1968-10-12T19:17:40.000Z,-20.784,-178.676,602.9,5.9,ms,160,,,,centennial,centennial19681012191740,2013-07-09T19:07:34.000Z,"Fiji region",earthquake
+1968-10-09T03:38:41.000Z,-14.82,-175.137,10.1,5.6,ms,75,,,,centennial,centennial19681009033841,2013-07-09T19:07:34.000Z,"Samoa Islands region",earthquake
+1968-10-08T07:43:20.000Z,-39.775,87.688,4.5,5.8,ms,189,,,,centennial,centennial19681008074320,2013-07-09T19:07:34.000Z,"southeast Indian Ridge",earthquake
+1968-10-07T20:49:05.000Z,42.002,142.519,52.8,6.1,ms,217,,,,centennial,centennial19681007204905,2013-07-09T19:07:34.000Z,"Hokkaido, Japan region",earthquake
+1968-10-07T19:20:21.000Z,26.29,140.685,518.9,7.3,ms,270,,,,centennial,centennial19681007192021,2013-07-09T19:07:34.000Z,"Bonin Islands, Japan region",earthquake
+1968-10-06T08:47:00.000Z,-14.853,-175.346,10.3,6,ms,91,,,,centennial,centennial19681006084700,2013-07-09T19:07:34.000Z,"Samoa Islands region",earthquake
+1968-10-06T05:15:11.000Z,-15.062,-175.308,21.9,6,ms,70,,,,centennial,centennial19681006051511,2013-07-09T19:07:34.000Z,"Tonga",earthquake
+1968-10-04T07:27:16.000Z,-7.642,126.25,19.4,5.8,mb,42,,,,centennial,centennial19681004072716,2013-07-09T19:07:34.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1968-10-04T06:04:38.000Z,-56.31,-27.268,103.7,6,mb,138,,,,centennial,centennial19681004060438,2013-07-09T19:07:34.000Z,"South Sandwich Islands region",earthquake
+1968-10-03T08:04:58.000Z,-3.791,128.537,105.8,5.7,mb,112,,,,centennial,centennial19681003080458,2013-07-09T19:07:34.000Z,"Seram, Indonesia",earthquake

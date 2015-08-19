@@ -1,0 +1,25 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-03-31T14:52:22.000Z,34.25,-118.5249,8,4.8,,,,,,atlas,atlas19710331145222,2014-03-17T19:37:29.789Z,"Greater Los Angeles area, California",earthquake
+1971-03-31T09:14:07.000Z,8.957,125.707,66.8,5.5,mb,99,,,,centennial,centennial19710331091407,2013-07-09T19:07:38.000Z,"Mindanao, Philippines",earthquake
+1971-03-28T17:56:57.000Z,-9.636,124.489,30.7,5.6,mb,109,,,,centennial,centennial19710328175657,2014-03-17T19:37:13.787Z,"Timor region",earthquake
+1971-03-28T08:23:20.000Z,11.829,94.965,18.4,6.3,ms,121,,,,centennial,centennial19710328082320,2013-07-09T19:07:38.000Z,"Andaman Islands, India region",earthquake
+1971-03-27T17:09:53.000Z,52.472,-174.519,136.9,5.6,mb,213,,,,centennial,centennial19710327170953,2013-07-09T19:07:38.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1971-03-26T17:35:21.000Z,60.304,-140.984,18.1,5.7,ms,165,,,,centennial,centennial19710326173521,2013-07-09T19:07:38.000Z,"Southern Yukon Territory, Canada",earthquake
+1971-03-25T16:19:52.000Z,38.518,142.127,44.3,5.6,mb,139,,,,centennial,centennial19710325161952,2013-07-09T19:07:38.000Z,"near the east coast of Honshu, Japan",earthquake
+1971-03-24T13:54:18.000Z,35.423,98.046,3.3,6.4,ms,193,,,,centennial,centennial19710324135418,2014-03-17T19:36:55.294Z,"southern Qinghai, China",earthquake
+1971-03-24T02:26:14.000Z,-5.27,151.501,59.2,5.7,mb,184,,,,centennial,centennial19710324022614,2013-07-09T19:07:38.000Z,"New Britain region, Papua New Guinea",earthquake
+1971-03-23T20:47:16.000Z,41.419,79.191,8.9,5.8,ms,207,,,,centennial,centennial19710323204716,2014-03-17T19:36:34.222Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1971-03-23T09:52:10.000Z,41.461,79.228,7.6,5.7,mb,178,,,,centennial,centennial19710323095210,2014-03-17T19:36:17.279Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1971-03-23T09:26:27.000Z,70.963,-7.057,8,6.3,ms,218,,,,centennial,centennial19710323092627,2013-07-09T19:07:38.000Z,"Jan Mayen Island region",earthquake
+1971-03-23T06:59:56.000Z,61.287,56.466,0,5.6,,,,,,atlas,atlas19710323065956,2014-03-17T19:36:00.566Z,"Ural Mountains region, Russia",earthquake
+1971-03-23T02:15:27.000Z,-23.001,-176.132,72.9,6.1,mb,227,,,,centennial,centennial19710323021527,2013-07-09T19:07:38.000Z,"south of the Fiji Islands",earthquake
+1971-03-22T04:32:57.000Z,49.744,78.185,0,5.8,,,,,,atlas,atlas19710322043257,2014-03-17T19:35:42.554Z,"eastern Kazakhstan",earthquake
+1971-03-20T07:45:05.000Z,-1.437,-13.706,23.4,5.5,ms,85,,,,centennial,centennial19710320074505,2013-07-09T19:07:38.000Z,"north of Ascension Island",earthquake
+1971-03-17T03:14:05.000Z,-3.219,139.884,69.2,5.5,mb,77,,,,centennial,centennial19710317031405,2013-07-09T19:07:38.000Z,"Papua, Indonesia",earthquake
+1971-03-16T20:35:21.000Z,8.375,127.128,59.4,5.8,mb,228,,,,centennial,centennial19710316203521,2013-07-09T19:07:38.000Z,"Philippine Islands region",earthquake
+1971-03-16T12:32:30.000Z,-10.9,163.831,26.2,6.4,ms,129,,,,centennial,centennial19710316123230,2013-07-09T19:07:38.000Z,"Solomon Islands",earthquake
+1971-03-13T23:51:34.000Z,50.594,-130.119,17.8,6.1,ms,162,,,,centennial,centennial19710313235134,2013-07-09T19:07:38.000Z,"Vancouver Island, Canada region",earthquake
+1971-03-13T19:12:25.000Z,-5.735,145.427,110.4,6.2,mb,227,,,,centennial,centennial19710313191225,2014-03-17T19:35:21.110Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1971-03-13T15:47:58.000Z,-18.354,173.648,16.3,6,ms,96,,,,centennial,centennial19710313154758,2013-07-09T19:07:38.000Z,"Fiji region",earthquake
+1971-03-04T00:28:39.000Z,30.408,138.416,451.4,5.8,ms,257,,,,centennial,centennial19710304002839,2013-07-09T19:07:38.000Z,"Izu Islands, Japan region",earthquake
+1971-03-03T21:54:11.000Z,48.25,153.026,126,5.7,mb,255,,,,centennial,centennial19710303215411,2013-07-09T19:07:38.000Z,"Kuril Islands",earthquake

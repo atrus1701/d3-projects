@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-10-28T05:37:44.000Z,-13.75,167.5,200,6.6,uk,0,,,,centennial,centennial19451028053744,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1945-10-27T11:24:41.000Z,15,-91.25,200,6.6,uk,0,,,,centennial,centennial19451027112441,2013-07-09T19:07:23.000Z,"Guatemala",earthquake
+1945-10-16T16:02:58.000Z,-0.25,125,50,6.9,ms,0,,,,centennial,centennial19451016160258,2013-07-09T19:07:23.000Z,"Molucca Sea",earthquake
+1945-10-09T14:36:33.000Z,43.356,147.515,78.6,7,mb,0,,,,centennial,centennial19451009143633,2013-07-09T19:07:23.000Z,"Kuril Islands",earthquake
+1945-10-07T13:23:27.000Z,12.25,-89.25,0,6.6,uk,0,,,,centennial,centennial19451007132327,2013-07-09T19:07:23.000Z,"off the coast of El Salvador",earthquake

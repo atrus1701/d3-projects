@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1937-01-25T06:34:05.000Z,-10.847,162.794,35,7.1,ms,110,,,,centennial,centennial19370125063405,2013-07-09T19:07:21.000Z,"Solomon Islands",earthquake
+1937-01-23T10:55:58.000Z,-5.29,152.757,35,7,ms,49,,,,centennial,centennial19370123105558,2013-07-09T19:07:21.000Z,"New Britain region, Papua New Guinea",earthquake
+1937-01-07T13:20:41.000Z,35.404,97.667,15,7.6,mw,107,,,,centennial,centennial19370107132041,2013-07-09T19:07:21.000Z,"southern Qinghai, China",earthquake

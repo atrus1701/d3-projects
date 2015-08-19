@@ -1,0 +1,17 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-02-28T09:37:22.000Z,32.666,141.591,43.3,5.9,uk,152,,,,centennial,centennial19670228093722,2013-07-09T19:07:32.000Z,"Izu Islands, Japan region",earthquake
+1967-02-25T11:38:45.000Z,-0.113,123.889,80.4,5.7,mb,134,,,,centennial,centennial19670225113845,2013-07-09T19:07:32.000Z,"Sulawesi, Indonesia",earthquake
+1967-02-25T11:20:51.000Z,-0.126,123.861,94.1,5.7,mb,150,,,,centennial,centennial19670225112051,2013-07-09T19:07:32.000Z,"Sulawesi, Indonesia",earthquake
+1967-02-22T18:26:47.000Z,-19.538,169.145,88.2,5.6,mb,98,,,,centennial,centennial19670222182647,2013-07-09T19:07:32.000Z,"Vanuatu",earthquake
+1967-02-21T18:42:10.000Z,1.439,127.155,137.1,5.5,mb,86,,,,centennial,centennial19670221184210,2013-07-09T19:07:32.000Z,"Halmahera, Indonesia",earthquake
+1967-02-20T15:18:39.000Z,33.582,75.315,14.6,5.5,mb,149,,,,centennial,centennial19670220151839,2013-07-09T19:07:32.000Z,"eastern Kashmir",earthquake
+1967-02-19T23:28:26.000Z,-0.09,124.114,74.1,5.7,mb,156,,,,centennial,centennial19670219232826,2013-07-09T19:07:32.000Z,"Molucca Sea",earthquake
+1967-02-19T22:14:38.000Z,-9.17,112.955,97.6,5.9,mb,188,,,,centennial,centennial19670219221438,2013-07-09T19:07:32.000Z,"south of Java, Indonesia",earthquake
+1967-02-17T10:10:53.000Z,-23.794,-175.074,24.6,6.5,uk,229,,,,centennial,centennial19670217101053,2013-07-09T19:07:32.000Z,"Tonga region",earthquake
+1967-02-15T16:11:12.000Z,-9.12,-71.326,600.9,7,ms,237,,,,centennial,centennial19670215161112,2013-07-09T19:07:32.000Z,"Peru-Brazil border region",earthquake
+1967-02-14T05:02:39.000Z,-13.34,171.467,630,5.6,mb,128,,,,centennial,centennial19670214050239,2013-07-09T19:07:32.000Z,"Vanuatu region",earthquake
+1967-02-14T01:36:06.000Z,13.683,96.477,26.2,5.6,mb,200,,,,centennial,centennial19670214013606,2013-07-09T19:07:32.000Z,"Andaman Islands, India region",earthquake
+1967-02-13T23:14:23.000Z,52.786,-34.243,13.8,6.8,uk,185,,,,centennial,centennial19670213231423,2013-07-09T19:07:32.000Z,"Reykjanes Ridge",earthquake
+1967-02-09T15:24:47.000Z,2.89,-74.801,41.4,7.2,mw,262,,,,centennial,centennial19670209152447,2014-04-07T19:44:40.135Z,"Colombia",earthquake
+1967-02-07T14:53:15.000Z,56.584,-157.213,62.2,5.6,mb,155,,,,centennial,centennial19670207145315,2013-07-09T19:07:32.000Z,"Alaska Peninsula",earthquake
+1967-02-02T06:25:45.000Z,-57.993,-25.477,33.5,5.7,mb,145,,,,centennial,centennial19670202062545,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1922-08-14T11:41:04.000Z,52.069,130.539,15,6.6,uk,4,,,,centennial,centennial19220814114104,2013-07-09T19:07:18.000Z,"Amurskaya Oblast', Russia",earthquake
+1922-08-13T00:09:57.000Z,35.325,27.373,35,6.6,uk,2,,,,centennial,centennial19220813000957,2013-07-09T19:07:18.000Z,"Dodecanese Islands, Greece",earthquake

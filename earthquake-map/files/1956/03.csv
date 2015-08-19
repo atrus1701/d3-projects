@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-03-13T13:13:27.000Z,7.904,-81.829,35,6.7,ms,50,,,,centennial,centennial19560313131327,2013-07-09T19:07:26.000Z,"Panama",earthquake
+1956-03-03T00:05:33.000Z,-15.26,-173.52,35,6.5,ms,56,,,,centennial,centennial19560303000533,2013-07-09T19:07:26.000Z,"Tonga",earthquake

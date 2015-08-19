@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1913-08-13T04:25:42.000Z,-5.5,105,75,7.3,mb,0,,,,centennial,centennial19130813042542,2013-07-09T19:07:17.000Z,"Sunda Strait, Indonesia",earthquake
+1913-08-06T22:14:24.000Z,-17,-74,0,7.8,mw,0,,,,centennial,centennial19130806221424,2013-07-09T19:07:17.000Z,"off the coast of southern Peru",earthquake
+1913-08-01T17:10:57.000Z,47.5,155.5,0,7.5,uk,0,,,,centennial,centennial19130801171057,2013-07-09T19:07:17.000Z,"east of the Kuril Islands",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1952-06-22T21:41:53.000Z,46.7,153.7,0,6.8,uk,0,,,,centennial,centennial19520622214153,2013-07-09T19:07:25.000Z,"Kuril Islands",earthquake
+1952-06-11T00:31:42.000Z,-31.603,-68.52,25,6.5,ms,0,,,,centennial,centennial19520611003142,2013-07-09T19:07:25.000Z,"San Juan, Argentina",earthquake

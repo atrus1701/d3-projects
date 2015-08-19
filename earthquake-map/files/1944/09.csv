@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-09-27T16:25:02.000Z,39,73.5,40,6.8,ms,0,,,,centennial,centennial19440927162502,2013-07-09T19:07:22.000Z,"Tajikistan",earthquake
+1944-09-23T12:13:18.000Z,53.187,160.4,15,7.1,mw,0,,,,centennial,centennial19440923121318,2013-07-09T19:07:22.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1944-09-14T06:38:56.000Z,-8.5,108.5,0,6.6,uk,0,,,,centennial,centennial19440914063856,2013-07-09T19:07:22.000Z,"Java, Indonesia",earthquake
+1944-09-11T09:45:22.000Z,1.5,127,40,6.9,ms,0,,,,centennial,centennial19440911094522,2013-07-09T19:07:22.000Z,"North Pacific Ocean",earthquake
+1944-09-03T19:11:29.000Z,-57,-122,0,6.8,ms,0,,,,centennial,centennial19440903191129,2013-07-09T19:07:22.000Z,"southern East Pacific Rise",earthquake

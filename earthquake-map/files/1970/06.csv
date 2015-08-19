@@ -1,0 +1,26 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-06-28T11:09:53.000Z,-21.737,-179.37,606.8,6.4,ms,202,,,,centennial,centennial19700628110953,2013-07-09T19:07:37.000Z,"Fiji region",earthquake
+1970-06-28T01:57:57.000Z,49.8,78.2,0,5.9,,,,,,atlas,atlas19700628015757,2014-03-17T19:14:22.100Z,"eastern Kazakhstan",earthquake
+1970-06-28T01:30:18.000Z,-8.748,123.994,77.7,6.2,mb,212,,,,centennial,centennial19700628013018,2013-07-09T19:07:37.000Z,"Flores region, Indonesia",earthquake
+1970-06-27T13:13:02.000Z,4.133,126.203,96.9,5.6,mb,137,,,,centennial,centennial19700627131302,2013-07-09T19:07:37.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1970-06-25T05:13:58.000Z,-7.919,158.728,57.9,6.5,uk,212,,,,centennial,centennial19700625051358,2014-03-17T19:14:07.563Z,"Solomon Islands",earthquake
+1970-06-24T13:09:12.000Z,51.781,-130.941,20.3,6.8,mw,194,,,,centennial,centennial19700624130912,2013-07-09T19:07:37.000Z,"Haida Gwaii Region, Canada",earthquake
+1970-06-19T18:49:43.000Z,-15.193,-176.16,2.6,5.8,ms,64,,,,centennial,centennial19700619184943,2013-07-09T19:07:37.000Z,"Fiji region",earthquake
+1970-06-19T18:38:23.000Z,-15.621,-176.008,8.4,5.8,ms,52,,,,centennial,centennial19700619183823,2013-07-09T19:07:37.000Z,"Fiji region",earthquake
+1970-06-19T14:25:17.000Z,15.277,-45.915,14.7,5.8,ms,199,,,,centennial,centennial19700619142517,2013-07-09T19:07:37.000Z,"northern Mid-Atlantic Ridge",earthquake
+1970-06-19T10:56:15.000Z,-22.267,-70.501,50,6.4,uk,183,,,,centennial,centennial19700619105615,2014-03-17T19:13:51.533Z,"near the coast of Antofagasta, Chile",earthquake
+1970-06-17T21:30:15.000Z,-36.308,-97.8,20.9,5.5,ms,50,,,,centennial,centennial19700617213015,2013-07-09T19:07:37.000Z,"West Chile Rise",earthquake
+1970-06-17T04:44:23.000Z,-16.061,-71.783,109.8,5.8,mb,197,,,,centennial,centennial19700617044423,2013-07-09T19:07:37.000Z,"southern Peru",earthquake
+1970-06-15T11:14:50.000Z,-54.369,-64.11,3.7,7,ms,160,,,,centennial,centennial19700615111450,2013-07-09T19:07:37.000Z,"Tierra del Fuego, Argentina region",earthquake
+1970-06-15T09:41:40.000Z,-8.7,118.8,33,6,,,,,,atlas,atlas19700615094140,2014-03-17T19:13:36.878Z,"Sumbawa region, Indonesia",earthquake
+1970-06-14T00:00:08.000Z,-51.987,-74.331,1.7,6.5,ms,209,,,,centennial,centennial19700614000008,2013-07-09T19:07:37.000Z,"Magallanes y Antartica Chilena, Chile",earthquake
+1970-06-13T05:27:55.000Z,51.573,-178.321,45.5,5.5,mb,116,,,,centennial,centennial19700613052755,2013-07-09T19:07:37.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1970-06-12T08:06:20.000Z,-2.908,139.17,51.2,6.1,ms,152,,,,centennial,centennial19700612080620,2014-03-17T19:13:16.212Z,"near the north coast of Papua, Indonesia",earthquake
+1970-06-11T16:46:33.000Z,-59.419,159.225,15,7.3,mw,104,,,,centennial,centennial19700611164633,2013-07-09T19:07:37.000Z,"Macquarie Island region",earthquake
+1970-06-11T06:02:56.000Z,-24.486,-68.497,109.8,6.2,mb,247,,,,centennial,centennial19700611060256,2013-07-09T19:07:36.000Z,"Antofagasta, Chile",earthquake
+1970-06-10T16:17:43.000Z,44.862,149.573,5.1,5.5,uk,255,,,,centennial,centennial19700610161743,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-06-05T04:53:05.000Z,42.492,78.718,3.9,6.6,ms,252,,,,centennial,centennial19700605045305,2014-03-17T19:12:57.274Z,"Kyrgyzstan",earthquake
+1970-06-04T04:09:27.000Z,-9.892,-78.668,54.9,6.2,uk,204,,,,centennial,centennial19700604040927,2013-07-09T19:07:36.000Z,"near the coast of northern Peru",earthquake
+1970-06-02T02:59:31.000Z,61.506,-151.809,89.9,5.5,mb,222,,,,centennial,centennial19700602025931,2013-07-09T19:07:36.000Z,"Southern Alaska",earthquake
+1970-06-01T17:44:18.000Z,5.86,-82.552,23.9,5.7,ms,142,,,,centennial,centennial19700601174418,2013-07-09T19:07:36.000Z,"south of Panama",earthquake
+1970-06-01T01:36:11.000Z,-9.32,-79.048,44.9,5.5,ms,187,,,,centennial,centennial19700601013611,2013-07-09T19:07:36.000Z,"off the coast of northern Peru",earthquake

@@ -1,0 +1,17 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-02-29T09:42:42.000Z,33.468,140.9,58.9,6.2,uk,129,,,,centennial,centennial19720229094242,2013-07-09T19:07:39.000Z,"Izu Islands, Japan region",earthquake
+1972-02-29T09:23:01.000Z,33.375,140.881,58.7,7.5,mw,316,,,,centennial,centennial19720229092301,2013-07-09T19:07:39.000Z,"Izu Islands, Japan region",earthquake
+1972-02-28T18:19:24.000Z,-4.535,-105.228,10,5.6,ms,41,,,,centennial,centennial19720228181924,2013-07-09T19:07:39.000Z,"central East Pacific Rise",earthquake
+1972-02-25T01:17:13.000Z,-60.642,-25.532,20.6,6.1,ms,152,,,,centennial,centennial19720225011713,2013-07-09T19:07:39.000Z,"South Sandwich Islands region",earthquake
+1972-02-16T08:59:23.000Z,0.518,120.816,74.4,5.5,mb,63,,,,centennial,centennial19720216085923,2013-07-09T19:07:39.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1972-02-15T21:18:20.000Z,-17.603,-71.164,51.9,5.8,mb,111,,,,centennial,centennial19720215211820,2013-07-09T19:07:39.000Z,"near the coast of southern Peru",earthquake
+1972-02-14T23:29:53.000Z,-11.432,166.408,106.4,7.3,mb,201,,,,centennial,centennial19720214232953,2013-07-09T19:07:39.000Z,"Santa Cruz Islands",earthquake
+1972-02-13T21:23:19.000Z,0.908,-28.469,1.6,5.5,ms,120,,,,centennial,centennial19720213212319,2013-07-09T19:07:39.000Z,"central Mid-Atlantic Ridge",earthquake
+1972-02-13T21:05:58.000Z,-55.883,-26.888,33,5.7,ms,101,,,,centennial,centennial19720213210558,2013-07-09T19:07:39.000Z,"South Sandwich Islands region",earthquake
+1972-02-12T18:52:01.000Z,-15.433,-173.265,23.5,5.7,ms,158,,,,centennial,centennial19720212185201,2013-07-09T19:07:39.000Z,"Tonga",earthquake
+1972-02-10T05:02:57.000Z,49.986,78.886,0,5.5,,,,,,atlas,atlas19720210050257,2014-03-17T20:01:00.144Z,"eastern Kazakhstan",earthquake
+1972-02-09T20:44:33.000Z,-51.887,-74.193,9.2,5.8,ms,127,,,,centennial,centennial19720209204433,2013-07-09T19:07:39.000Z,"Magallanes y Antartica Chilena, Chile",earthquake
+1972-02-08T03:37:50.000Z,19.357,122.053,23,5.8,mb,186,,,,centennial,centennial19720208033750,2013-07-09T19:07:39.000Z,"Babuyan Islands region, Philippines",earthquake
+1972-02-07T19:14:49.000Z,8.506,-83.961,18.9,5.5,ms,134,,,,centennial,centennial19720207191449,2013-07-09T19:07:39.000Z,"Costa Rica",earthquake
+1972-02-06T22:03:30.000Z,12.605,141.945,30.9,5.5,mb,114,,,,centennial,centennial19720206220330,2013-07-09T19:07:39.000Z,"Mariana Islands region",earthquake
+1972-02-05T00:15:51.000Z,-55.42,-128.591,19.6,5.9,ms,58,,,,centennial,centennial19720205001551,2013-07-09T19:07:39.000Z,"Pacific-Antarctic Ridge",earthquake

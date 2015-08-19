@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-08-25T12:18:13.000Z,-17.7,-178.537,570.9,7.1,ms,257,,,,centennial,centennial19630825121813,2013-07-09T19:07:28.000Z,"Fiji region",earthquake
+1963-08-22T19:52:22.000Z,-9.521,158.296,4.1,6.5,ms,190,,,,centennial,centennial19630822195222,2013-07-09T19:07:28.000Z,"Solomon Islands",earthquake
+1963-08-15T17:25:08.000Z,-13.717,-69.321,549.7,7.7,ms,229,,,,centennial,centennial19630815172508,2013-07-09T19:07:28.000Z,"southern Peru",earthquake
+1963-08-03T10:21:33.000Z,7.243,-35.825,10.1,6.9,uk,202,,,,centennial,centennial19630803102133,2013-07-09T19:07:28.000Z,"central Mid-Atlantic Ridge",earthquake

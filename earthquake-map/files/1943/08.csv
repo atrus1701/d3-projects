@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1943-08-31T16:10:40.000Z,14.25,-91.5,80,6.6,uk,0,,,,centennial,centennial19430831161040,2013-07-09T19:07:22.000Z,"Guatemala",earthquake
+1943-08-02T00:46:35.000Z,-45,167,0,6.6,uk,0,,,,centennial,centennial19430802004635,2013-07-09T19:07:22.000Z,"off the west coast of the South Island of New Zealand",earthquake
+1943-08-01T16:18:41.000Z,-20,170,230,6.9,mb,0,,,,centennial,centennial19430801161841,2013-07-09T19:07:22.000Z,"Vanuatu",earthquake

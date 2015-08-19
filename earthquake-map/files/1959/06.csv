@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-06-27T19:11:30.000Z,41.797,79.954,25,6.5,ms,86,,,,centennial,centennial19590627191130,2013-07-09T19:07:27.000Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1959-06-27T19:04:40.000Z,-33.715,179.922,163.1,6.5,ms,106,,,,centennial,centennial19590627190440,2013-07-09T19:07:27.000Z,"south of the Kermadec Islands",earthquake
+1959-06-18T15:31:27.000Z,54.19,160.131,0.4,6.6,ms,143,,,,centennial,centennial19590618153127,2013-07-09T19:07:27.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1959-06-14T00:11:57.000Z,-20.275,-68.827,35,7.5,mb,194,,,,centennial,centennial19590614001157,2013-07-09T19:07:27.000Z,"Tarapaca, Chile",earthquake

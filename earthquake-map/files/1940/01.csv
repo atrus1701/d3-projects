@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-01-26T17:04:26.000Z,27.445,132.047,35,6.6,uk,43,,,,centennial,centennial19400126170426,2013-07-09T19:07:21.000Z,"west of the Bonin Islands, Japan",earthquake
+1940-01-20T09:58:00.000Z,-55,-133,0,6.6,uk,0,,,,centennial,centennial19400120095800,2013-07-09T19:07:21.000Z,"Pacific-Antarctic Ridge",earthquake
+1940-01-17T01:14:58.000Z,17.244,148.218,31.3,7.3,mb,60,,,,centennial,centennial19400117011458,2013-07-09T19:07:21.000Z,"Mariana Islands region",earthquake
+1940-01-06T14:03:29.000Z,-21.69,170.781,79.7,7.2,mb,72,,,,centennial,centennial19400106140329,2013-07-09T19:07:21.000Z,"southeast of the Loyalty Islands",earthquake

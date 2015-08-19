@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-02-24T12:00:12.000Z,-2.304,141.952,35,6.6,uk,31,,,,centennial,centennial19400224120012,2013-07-09T19:07:21.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1940-02-20T02:18:23.000Z,-13.776,167.138,190.5,7,mb,68,,,,centennial,centennial19400220021823,2013-07-09T19:07:21.000Z,"Vanuatu",earthquake
+1940-02-12T09:17:49.000Z,54.958,-161.182,35,6.6,uk,51,,,,centennial,centennial19400212091749,2013-07-09T19:07:21.000Z,"Alaska Peninsula",earthquake
+1940-02-12T08:20:56.000Z,-23.272,-177.646,164.6,6.6,uk,44,,,,centennial,centennial19400212082056,2013-07-09T19:07:21.000Z,"south of the Fiji Islands",earthquake
+1940-02-07T17:16:01.000Z,51.323,174.9,34.4,6.9,mb,88,,,,centennial,centennial19400207171601,2013-07-09T19:07:21.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake

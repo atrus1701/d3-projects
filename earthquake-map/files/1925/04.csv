@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1925-04-19T15:46:43.000Z,33.513,137.835,331.5,6.6,uk,10,,,,centennial,centennial19250419154643,2013-07-09T19:07:19.000Z,"near the south coast of Honshu, Japan",earthquake
+1925-04-16T19:52:43.000Z,21.798,121.111,35,7.1,ms,29,,,,centennial,centennial19250416195243,2013-07-09T19:07:19.000Z,"Taiwan region",earthquake
+1925-04-11T10:42:06.000Z,-34.238,58.267,15,6.8,ms,43,,,,centennial,centennial19250411104206,2013-07-09T19:07:19.000Z,"South Indian Ocean",earthquake

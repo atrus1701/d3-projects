@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1962-09-18T00:29:06.000Z,7.535,-82.333,21.9,6.6,ms,164,,,,centennial,centennial19620918002906,2013-07-09T19:07:28.000Z,"south of Panama",earthquake
+1962-09-10T15:43:59.000Z,-21.358,-178.998,630.9,6.4,ms,160,,,,centennial,centennial19620910154359,2013-07-09T19:07:28.000Z,"Fiji region",earthquake
+1962-09-01T19:20:40.000Z,35.563,49.817,19,6.9,ms,232,,,,centennial,centennial19620901192040,2014-04-07T19:42:04.192Z,"western Iran",earthquake
+1962-09-01T07:51:08.000Z,51.215,-179.792,33.6,6.5,uk,175,,,,centennial,centennial19620901075108,2013-07-09T19:07:28.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1962-09-01T03:46:08.000Z,51.246,-179.656,37.5,6.5,uk,173,,,,centennial,centennial19620901034608,2013-07-09T19:07:28.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake

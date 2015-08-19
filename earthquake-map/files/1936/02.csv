@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-02-27T10:04:14.000Z,-7.613,127.383,181.7,6.6,uk,55,,,,centennial,centennial19360227100414,2013-07-09T19:07:21.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1936-02-22T19:22:58.000Z,-48.592,163.782,25,6.6,uk,10,,,,centennial,centennial19360222192258,2013-07-09T19:07:21.000Z,"off the west coast of the South Island of New Zealand",earthquake
+1936-02-22T15:32:05.000Z,-48.945,164.225,25,6.8,ms,34,,,,centennial,centennial19360222153205,2013-07-09T19:07:21.000Z,"off the west coast of the South Island of New Zealand",earthquake
+1936-02-21T16:57:16.000Z,-5,144.5,75,6.7,uk,0,,,,centennial,centennial19360221165716,2013-07-09T19:07:21.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1936-02-15T12:47:02.000Z,-4.362,133.285,35,7.1,mw,101,,,,centennial,centennial19360215124702,2013-07-09T19:07:21.000Z,"near the south coast of Papua, Indonesia",earthquake
+1936-02-10T18:05:34.000Z,-18.528,-177.709,487.2,6.6,uk,66,,,,centennial,centennial19360210180534,2013-07-09T19:07:21.000Z,"Fiji region",earthquake
+1936-02-08T12:11:13.000Z,-5.247,145.772,50,6.6,uk,38,,,,centennial,centennial19360208121113,2013-07-09T19:07:21.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1936-02-07T08:56:30.000Z,35.633,103.265,25,6.6,uk,33,,,,centennial,centennial19360207085630,2013-07-09T19:07:21.000Z,"Gansu, China",earthquake

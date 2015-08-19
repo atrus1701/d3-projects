@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1902-03-28T14:44:00.000Z,0,133,0,6.9,ms,0,,,,centennial,centennial19020328144400,2013-07-09T19:07:15.000Z,"near the north coast of Papua, Indonesia",earthquake
+1902-03-22T22:12:00.000Z,35,-120,0,6.8,ms,0,,,,centennial,centennial19020322221200,2013-07-09T19:07:15.000Z,"Central California",earthquake
+1902-03-05T19:03:00.000Z,-20,-70,0,6.8,ms,0,,,,centennial,centennial19020305190300,2013-07-09T19:07:15.000Z,"Tarapaca, Chile",earthquake

@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1925-06-28T01:21:11.000Z,46.5,-111.473,15,6.6,uk,36,,,,centennial,centennial19250628012111,2013-07-09T19:07:19.000Z,"western Montana",earthquake
+1925-06-23T16:46:39.000Z,-0.11,-77.039,25,6.6,uk,3,,,,centennial,centennial19250623164639,2013-07-09T19:07:19.000Z,"Ecuador",earthquake
+1925-06-09T13:40:22.000Z,-4.142,143.098,35,7,ms,11,,,,centennial,centennial19250609134022,2013-07-09T19:07:19.000Z,"New Guinea, Papua New Guinea",earthquake
+1925-06-07T23:41:38.000Z,4.029,-76.079,35,6.6,uk,22,,,,centennial,centennial19250607234138,2013-07-09T19:07:19.000Z,"Colombia",earthquake
+1925-06-03T04:33:59.000Z,1.467,126.193,35,7,ms,19,,,,centennial,centennial19250603043359,2013-07-09T19:07:19.000Z,"Molucca Sea",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1941-02-27T09:44:15.000Z,4.215,127.016,35,6.6,uk,19,,,,centennial,centennial19410227094415,2013-07-09T19:07:22.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1941-02-25T05:37:54.000Z,-9.227,124.64,176.1,6.7,uk,32,,,,centennial,centennial19410225053754,2013-07-09T19:07:22.000Z,"Timor region",earthquake
+1941-02-04T14:03:19.000Z,10.078,123.998,602.4,7,mb,60,,,,centennial,centennial19410204140319,2013-07-09T19:07:22.000Z,"Negros - Cebu region, Philippines",earthquake

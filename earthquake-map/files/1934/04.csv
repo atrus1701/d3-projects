@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-04-15T22:15:19.000Z,7.526,126.857,35,7.1,mw,49,,,,centennial,centennial19340415221519,2013-07-09T19:07:20.000Z,"Mindanao, Philippines",earthquake
+1934-04-11T21:11:46.000Z,-20.463,170.56,35,6.6,uk,22,,,,centennial,centennial19340411211146,2013-07-09T19:07:20.000Z,"Vanuatu",earthquake
+1934-04-10T10:23:03.000Z,-6.976,115.779,35,6.6,uk,43,,,,centennial,centennial19340410102303,2013-07-09T19:07:20.000Z,"Bali Sea",earthquake
+1934-04-06T19:09:34.000Z,37.302,141.78,35,6.6,uk,17,,,,centennial,centennial19340406190934,2013-07-09T19:07:20.000Z,"near the east coast of Honshu, Japan",earthquake

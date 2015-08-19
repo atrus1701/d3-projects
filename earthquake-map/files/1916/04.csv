@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-04-26T02:21:30.000Z,10,-85,0,7.1,ms,0,,,,centennial,centennial19160426022130,2013-07-09T19:07:18.000Z,"Costa Rica",earthquake
+1916-04-24T08:02:12.000Z,11,-85,0,7.2,mw,0,,,,centennial,centennial19160424080212,2013-07-09T19:07:17.000Z,"Nicaragua",earthquake
+1916-04-24T04:26:42.000Z,18.5,-68,80,7,mb,0,,,,centennial,centennial19160424042642,2013-07-09T19:07:17.000Z,"Mona Passage, Dominican Republic",earthquake
+1916-04-21T11:31:48.000Z,32.5,141.8,35,7,ms,0,,,,centennial,centennial19160421113148,2013-07-09T19:07:17.000Z,"Izu Islands, Japan region",earthquake
+1916-04-18T04:01:48.000Z,53.25,-170,170,7.4,mb,0,,,,centennial,centennial19160418040148,2013-07-09T19:07:17.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1916-04-14T02:11:00.000Z,32.5,142,35,6.6,mj,0,,,,centennial,centennial19160414021100,2013-07-09T19:07:17.000Z,"Izu Islands, Japan region",earthquake
+1916-04-07T09:26:12.000Z,-30,55,0,7.2,mw,0,,,,centennial,centennial19160407092612,2013-07-09T19:07:17.000Z,"South Indian Ocean",earthquake

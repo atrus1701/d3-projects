@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-07-24T23:24:00.000Z,31,137.5,450,6.6,mj,0,,,,centennial,centennial19120724232400,2013-07-09T19:07:17.000Z,"Izu Islands, Japan region",earthquake
+1912-07-24T11:59:00.000Z,-5,-80,0,7,ms,0,,,,centennial,centennial19120724115900,2013-07-09T19:07:17.000Z,"near the coast of northern Peru",earthquake
+1912-07-09T08:18:06.000Z,3,33,0,6.6,uk,0,,,,centennial,centennial19120709081806,2013-07-09T19:07:17.000Z,"Uganda",earthquake
+1912-07-07T07:57:36.000Z,64,-147,0,7.2,mw,0,,,,centennial,centennial19120707075736,2013-07-09T19:07:17.000Z,"Central Alaska",earthquake

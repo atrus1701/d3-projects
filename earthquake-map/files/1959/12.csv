@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-12-27T15:53:00.000Z,55.978,162.878,27.9,6.6,ms,187,,,,centennial,centennial19591227155300,2013-07-09T19:07:27.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1959-12-26T22:02:39.000Z,52.218,160.241,47.1,6.5,ms,86,,,,centennial,centennial19591226220239,2013-07-09T19:07:27.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1959-12-21T11:19:19.000Z,13.923,51.623,35,6.6,ms,32,,,,centennial,centennial19591221111919,2013-07-09T19:07:27.000Z,"Gulf of Aden",earthquake
+1959-12-14T23:22:04.000Z,-59.903,-25.939,35,6.9,ms,176,,,,centennial,centennial19591214232204,2013-07-09T19:07:27.000Z,"South Sandwich Islands region",earthquake

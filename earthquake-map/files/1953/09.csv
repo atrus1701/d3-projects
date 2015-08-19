@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-09-30T23:04:11.000Z,22,-107.5,0,6.5,ms,0,,,,centennial,centennial19530930230411,2013-07-09T19:07:25.000Z,"off the coast of Nayarit, Mexico",earthquake
+1953-09-29T01:36:47.000Z,-37.506,176.879,305,7,mb,0,,,,centennial,centennial19530929013647,2013-07-09T19:07:25.000Z,"North Island of New Zealand",earthquake
+1953-09-23T02:14:38.000Z,50,156.4,64,6.6,ms,0,,,,centennial,centennial19530923021438,2013-07-09T19:07:25.000Z,"Kuril Islands",earthquake
+1953-09-17T21:11:41.000Z,-20.5,-174,100,6.5,ms,0,,,,centennial,centennial19530917211141,2013-07-09T19:07:25.000Z,"Tonga",earthquake
+1953-09-14T00:26:36.000Z,-18.3,178.2,33,6.6,uk,0,,,,centennial,centennial19530914002636,2013-07-09T19:07:25.000Z,"Fiji",earthquake
+1953-09-04T07:23:09.000Z,50.6,156.7,64,6.5,ms,0,,,,centennial,centennial19530904072309,2013-07-09T19:07:25.000Z,"Kuril Islands",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1907-04-18T23:52:24.000Z,13.5,123,0,7,ms,0,,,,centennial,centennial19070418235224,2013-07-09T19:07:16.000Z,"Luzon, Philippines",earthquake
+1907-04-18T20:59:48.000Z,14,123,0,7.1,mw,0,,,,centennial,centennial19070418205948,2013-07-09T19:07:16.000Z,"Luzon, Philippines",earthquake
+1907-04-15T06:08:06.000Z,17,-100,0,7.9,mw,0,,,,centennial,centennial19070415060806,2013-07-09T19:07:16.000Z,"Guerrero, Mexico",earthquake
+1907-04-13T17:57:18.000Z,36.5,70.5,260,6.8,mb,0,,,,centennial,centennial19070413175718,2013-07-09T19:07:16.000Z,"Hindu Kush region, Afghanistan",earthquake

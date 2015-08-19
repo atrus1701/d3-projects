@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1942-11-28T10:38:46.000Z,7.28,-35.644,15,7.1,ms,64,,,,centennial,centennial19421128103846,2013-07-09T19:07:22.000Z,"central Mid-Atlantic Ridge",earthquake
+1942-11-26T14:27:31.000Z,45.405,150.175,76,7.4,mb,55,,,,centennial,centennial19421126142731,2013-07-09T19:07:22.000Z,"Kuril Islands",earthquake
+1942-11-15T17:12:03.000Z,36.369,141.433,35,6.9,ms,31,,,,centennial,centennial19421115171203,2013-07-09T19:07:22.000Z,"near the east coast of Honshu, Japan",earthquake
+1942-11-12T04:55:32.000Z,16.592,-94.296,69.5,6.6,uk,31,,,,centennial,centennial19421112045532,2013-07-09T19:07:22.000Z,"Oaxaca, Mexico",earthquake
+1942-11-10T11:41:28.000Z,-49.726,29.947,15,8,mw,52,,,,centennial,centennial19421110114128,2013-07-09T19:07:22.000Z,"south of Africa",earthquake
+1942-11-07T07:32:10.000Z,-9.03,123.06,74.9,6.6,uk,22,,,,centennial,centennial19421107073210,2013-07-09T19:07:22.000Z,"Timor region, Indonesia",earthquake
+1942-11-06T13:31:11.000Z,-6.521,-76.768,123.6,6.6,uk,32,,,,centennial,centennial19421106133111,2013-07-09T19:07:22.000Z,"northern Peru",earthquake
+1942-11-02T23:59:36.000Z,-18.024,-175.582,35,6.7,uk,20,,,,centennial,centennial19421102235936,2013-07-09T19:07:22.000Z,"Tonga",earthquake

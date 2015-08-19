@@ -1,0 +1,15 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-12-31T19:01:59.000Z,28.545,129.132,59.1,6.3,ms,215,,,,centennial,centennial19691231190159,2013-07-09T19:07:36.000Z,"Ryukyu Islands, Japan",earthquake
+1969-12-29T00:51:50.000Z,16.133,-59.736,23.7,5.8,ms,159,,,,centennial,centennial19691229005150,2013-07-09T19:07:36.000Z,"east of Guadeloupe, Leeward Islands",earthquake
+1969-12-25T22:31:05.000Z,16.035,-59.798,15.1,5.8,mb,193,,,,centennial,centennial19691225223105,2013-07-09T19:07:36.000Z,"east of Guadeloupe, Leeward Islands",earthquake
+1969-12-25T21:32:29.000Z,15.727,-59.648,11.2,7.2,mw,261,,,,centennial,centennial19691225213229,2013-07-09T19:07:36.000Z,"east of Dominica, Leeward Islands",earthquake
+1969-12-23T13:22:53.000Z,57.344,163.148,15,5.5,ms,184,,,,centennial,centennial19691223132253,2013-07-09T19:07:36.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1969-12-18T13:32:04.000Z,46.227,142.478,327.5,6.3,ms,259,,,,centennial,centennial19691218133204,2013-07-09T19:07:36.000Z,"Sakhalin, Russia",earthquake
+1969-12-14T18:37:08.000Z,8.2,58.427,10.7,5.6,ms,182,,,,centennial,centennial19691214183708,2013-07-09T19:07:36.000Z,"Carlsberg Ridge",earthquake
+1969-12-14T02:42:13.000Z,1.982,126.898,63.1,6,mb,206,,,,centennial,centennial19691214024213,2013-07-09T19:07:36.000Z,"Molucca Sea",earthquake
+1969-12-13T03:19:56.000Z,0.876,-28.067,13.8,5.5,mb,144,,,,centennial,centennial19691213031956,2013-07-09T19:07:36.000Z,"central Mid-Atlantic Ridge",earthquake
+1969-12-10T19:54:02.000Z,-14.819,167.155,38.2,6.3,ms,87,,,,centennial,centennial19691210195402,2013-07-09T19:07:36.000Z,"Vanuatu",earthquake
+1969-12-04T08:50:24.000Z,40.752,144.616,30.1,5.6,mb,207,,,,centennial,centennial19691204085024,2013-07-09T19:07:36.000Z,"off the east coast of Honshu, Japan",earthquake
+1969-12-02T17:57:05.000Z,8.141,126.206,97.8,5.7,mb,170,,,,centennial,centennial19691202175705,2013-07-09T19:07:36.000Z,"Mindanao, Philippines",earthquake
+1969-12-01T22:13:57.000Z,16.593,-60.825,63.9,5.5,mb,166,,,,centennial,centennial19691201221357,2013-07-09T19:07:36.000Z,"Guadeloupe region, Leeward Islands",earthquake
+1969-12-01T20:35:05.000Z,-59.947,-28.478,152.3,5.6,mb,90,,,,centennial,centennial19691201203505,2013-07-09T19:07:36.000Z,"South Sandwich Islands region",earthquake

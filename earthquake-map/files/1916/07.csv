@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-07-27T11:52:42.000Z,4,96.5,100,7,mb,0,,,,centennial,centennial19160727115242,2013-07-09T19:07:18.000Z,"northern Sumatra, Indonesia",earthquake
+1916-07-16T18:16:00.000Z,39.5,144,35,6.8,mj,0,,,,centennial,centennial19160716181600,2013-07-09T19:07:18.000Z,"off the east coast of Honshu, Japan",earthquake
+1916-07-08T09:34:30.000Z,-18,180,600,7.1,mb,0,,,,centennial,centennial19160708093430,2013-07-09T19:07:18.000Z,"",earthquake

@@ -1,0 +1,40 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-05-30T19:42:23.000Z,-30.97,-177.56,16.9,6.2,ms,120,,,,centennial,centennial19680530194223,2013-07-09T19:07:34.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-05-30T09:55:31.000Z,-6.723,129.512,16,5.5,mb,67,,,,centennial,centennial19680530095531,2013-07-09T19:07:34.000Z,"Banda Sea",earthquake
+1968-05-30T05:23:47.000Z,44.618,150.299,23.6,5.8,ms,226,,,,centennial,centennial19680530052347,2013-07-09T19:07:34.000Z,"east of the Kuril Islands",earthquake
+1968-05-28T22:29:59.000Z,52.175,172.832,21.7,5.7,ms,196,,,,centennial,centennial19680528222959,2013-07-09T19:07:34.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1968-05-28T13:27:20.000Z,-2.92,139.409,63.8,7.2,mb,185,,,,centennial,centennial19680528132720,2013-07-09T19:07:34.000Z,"near the north coast of Papua, Indonesia",earthquake
+1968-05-28T09:06:31.000Z,-30.923,-177.58,37.5,5.7,ms,128,,,,centennial,centennial19680528090631,2013-07-09T19:07:34.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-05-26T14:41:55.000Z,-63.156,171.114,15,5.9,ms,51,,,,centennial,centennial19680526144155,2013-07-09T19:07:34.000Z,"Balleny Islands region",earthquake
+1968-05-24T20:57:29.000Z,-41.96,171.997,40.2,5.7,mb,62,,,,centennial,centennial19680524205729,2013-07-09T19:07:34.000Z,"South Island of New Zealand",earthquake
+1968-05-24T15:43:56.000Z,-6.853,118.907,617.9,6.2,ms,207,,,,centennial,centennial19680524154356,2013-07-09T19:07:34.000Z,"Flores Sea",earthquake
+1968-05-24T14:06:25.000Z,40.955,143.09,28.8,6.2,ms,229,,,,centennial,centennial19680524140625,2013-07-09T19:07:34.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-05-23T17:24:20.000Z,-41.743,172.123,46.8,7.2,mw,147,,,,centennial,centennial19680523172420,2013-07-09T19:07:34.000Z,"South Island of New Zealand",earthquake
+1968-05-22T19:29:28.000Z,40.285,142.321,47.6,5.5,ms,203,,,,centennial,centennial19680522192928,2013-07-09T19:07:34.000Z,"near the east coast of Honshu, Japan",earthquake
+1968-05-22T10:51:55.000Z,41.564,142.834,45.4,5.8,mb,215,,,,centennial,centennial19680522105155,2013-07-09T19:07:34.000Z,"Hokkaido, Japan region",earthquake
+1968-05-21T08:20:01.000Z,44.863,150.19,29.7,6.2,ms,246,,,,centennial,centennial19680521082001,2013-07-09T19:07:34.000Z,"east of the Kuril Islands",earthquake
+1968-05-20T21:09:45.000Z,44.796,150.357,28.1,7.1,mw,252,,,,centennial,centennial19680520210945,2013-07-09T19:07:34.000Z,"east of the Kuril Islands",earthquake
+1968-05-20T20:05:52.000Z,-30.786,-178.148,62.6,6,mb,225,,,,centennial,centennial19680520200552,2013-07-09T19:07:34.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-05-20T10:34:19.000Z,48.788,154.901,47.6,5.6,mb,200,,,,centennial,centennial19680520103419,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1968-05-20T07:13:09.000Z,-30.829,-178.136,59.7,6,mb,206,,,,centennial,centennial19680520071309,2013-07-09T19:07:33.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-05-20T03:16:22.000Z,40.125,143.935,31.1,5.5,mb,174,,,,centennial,centennial19680520031622,2013-07-09T19:07:33.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-05-17T13:02:39.000Z,41.493,142.856,45.5,5.5,mb,163,,,,centennial,centennial19680517130239,2013-07-09T19:07:33.000Z,"Hokkaido, Japan region",earthquake
+1968-05-16T23:04:52.000Z,39.881,143.221,9.2,7,uk,253,,,,centennial,centennial19680516230452,2013-07-09T19:07:33.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-05-16T20:22:16.000Z,41.482,142.684,34.2,5.6,mb,218,,,,centennial,centennial19680516202216,2013-07-09T19:07:33.000Z,"Hokkaido, Japan region",earthquake
+1968-05-16T18:43:22.000Z,40.79,142.134,56.6,5.8,mb,240,,,,centennial,centennial19680516184322,2013-07-09T19:07:33.000Z,"near the east coast of Honshu, Japan",earthquake
+1968-05-16T16:13:46.000Z,39.815,143.588,21.2,5.6,mb,215,,,,centennial,centennial19680516161346,2013-07-09T19:07:33.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-05-16T10:39:00.000Z,41.595,142.788,11.3,7.8,mw,291,,,,centennial,centennial19680516103900,2013-07-09T19:07:33.000Z,"Hokkaido, Japan region",earthquake
+1968-05-16T08:58:15.000Z,41.481,142.734,30.1,5.5,mb,200,,,,centennial,centennial19680516085815,2013-07-09T19:07:33.000Z,"Hokkaido, Japan region",earthquake
+1968-05-16T06:36:53.000Z,41.118,143.011,41.7,5.6,mb,195,,,,centennial,centennial19680516063653,2013-07-09T19:07:33.000Z,"Hokkaido, Japan region",earthquake
+1968-05-16T01:04:55.000Z,40.995,143.254,26,5.7,mb,52,,,,centennial,centennial19680516010455,2013-07-09T19:07:33.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-05-16T00:49:00.000Z,40.901,143.346,26,8.2,mw,231,,,,centennial,centennial19680516004900,2013-07-09T19:07:33.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-05-15T07:51:17.000Z,-15.92,26.099,25.5,5.7,mb,141,,,,centennial,centennial19680515075117,2013-07-09T19:07:33.000Z,"Zambia",earthquake
+1968-05-14T14:05:06.000Z,29.936,129.368,160.2,6.5,mb,250,,,,centennial,centennial19680514140506,2013-07-09T19:07:33.000Z,"Ryukyu Islands, Japan",earthquake
+1968-05-11T15:33:41.000Z,-6.419,147.3,66.3,5.6,mb,140,,,,centennial,centennial19680511153341,2013-07-09T19:07:33.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1968-05-09T12:52:24.000Z,-5.381,-81.866,19.6,5.6,mb,102,,,,centennial,centennial19680509125224,2013-07-09T19:07:33.000Z,"near the coast of northern Peru",earthquake
+1968-05-08T12:17:12.000Z,43.582,-128.046,11.9,6.1,mb,179,,,,centennial,centennial19680508121712,2013-07-09T19:07:33.000Z,"off the coast of Oregon",earthquake
+1968-05-08T11:00:05.000Z,-58.027,157.743,15,5.5,mb,109,,,,centennial,centennial19680508110005,2013-07-09T19:07:33.000Z,"Macquarie Island region",earthquake
+1968-05-07T09:00:29.000Z,6.756,-73.012,159.9,5.6,mb,163,,,,centennial,centennial19680507090029,2013-07-09T19:07:33.000Z,"northern Colombia",earthquake
+1968-05-03T05:32:47.000Z,25.199,124.626,98.1,5.7,mb,196,,,,centennial,centennial19680503053247,2013-07-09T19:07:33.000Z,"northeast of Taiwan",earthquake
+1968-05-02T23:26:05.000Z,-6.382,129.987,126.7,5.7,mb,171,,,,centennial,centennial19680502232605,2013-07-09T19:07:33.000Z,"Banda Sea",earthquake
+1968-05-02T05:29:39.000Z,18.725,-69.728,82.1,5.6,mb,164,,,,centennial,centennial19680502052939,2013-07-09T19:07:33.000Z,"Dominican Republic",earthquake

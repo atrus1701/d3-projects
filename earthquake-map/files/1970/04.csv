@@ -1,0 +1,33 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-04-30T12:51:38.000Z,14.405,-93.416,27.9,5.6,ms,117,,,,centennial,centennial19700430125138,2013-07-09T19:07:36.000Z,"off the coast of Chiapas, Mexico",earthquake
+1970-04-30T08:33:04.000Z,14.666,-93.217,44.5,6.4,ms,164,,,,centennial,centennial19700430083304,2014-03-17T19:11:51.861Z,"offshore Chiapas, Mexico",earthquake
+1970-04-29T18:01:28.000Z,-55.438,-124.298,15,5.7,mb,117,,,,centennial,centennial19700429180128,2013-07-09T19:07:36.000Z,"southern East Pacific Rise",earthquake
+1970-04-29T14:01:37.000Z,14.505,-92.644,63.5,5.8,mb,155,,,,centennial,centennial19700429140137,2013-07-09T19:07:36.000Z,"offshore Chiapas, Mexico",earthquake
+1970-04-29T14:01:21.000Z,14.458,-92.764,50,7.3,mw,127,,,,centennial,centennial19700429140121,2014-03-17T19:11:35.715Z,"offshore Chiapas, Mexico",earthquake
+1970-04-29T11:22:33.000Z,14.423,-92.774,15.7,6.3,ms,135,,,,centennial,centennial19700429112233,2014-03-17T19:11:21.516Z,"offshore Chiapas, Mexico",earthquake
+1970-04-28T01:12:19.000Z,-8.143,156.447,30.8,5.5,mb,84,,,,centennial,centennial19700428011219,2013-07-09T19:07:36.000Z,"Solomon Islands",earthquake
+1970-04-26T14:20:31.000Z,52.939,171.467,35.1,5.7,ms,241,,,,centennial,centennial19700426142031,2013-07-09T19:07:36.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1970-04-22T11:38:02.000Z,-11.362,119.92,15.2,5.6,mb,82,,,,centennial,centennial19700422113802,2013-07-09T19:07:36.000Z,"south of Sumba, Indonesia",earthquake
+1970-04-20T10:39:13.000Z,-18.805,169.374,246,7,mb,180,,,,centennial,centennial19700420103913,2014-03-17T19:11:08.724Z,"Vanuatu",earthquake
+1970-04-19T13:47:35.000Z,38.999,29.834,18.8,5.5,ms,119,,,,centennial,centennial19700419134735,2013-07-09T19:07:36.000Z,"western Turkey",earthquake
+1970-04-19T13:29:37.000Z,38.991,29.772,13.9,5.6,ms,126,,,,centennial,centennial19700419132937,2014-03-17T19:10:52.063Z,"western Turkey",earthquake
+1970-04-19T01:15:46.000Z,59.553,-142.839,7.5,6,ms,202,,,,centennial,centennial19700419011546,2013-07-09T19:07:36.000Z,"Gulf of Alaska",earthquake
+1970-04-18T23:25:35.000Z,43.094,147.199,29,5.7,ms,158,,,,centennial,centennial19700418232535,2013-07-09T19:07:36.000Z,"Kuril Islands",earthquake
+1970-04-16T10:42:18.000Z,39,30,9,5.5,,,,,,atlas,atlas19700416104218,2014-03-17T19:10:35.167Z,"western Turkey",earthquake
+1970-04-16T05:33:18.000Z,59.774,-142.547,3.5,6.8,ms,209,,,,centennial,centennial19700416053318,2013-07-09T19:07:36.000Z,"Gulf of Alaska",earthquake
+1970-04-15T13:14:25.000Z,15.129,122.68,29.5,6,ms,224,,,,centennial,centennial19700415131425,2013-07-09T19:07:36.000Z,"Philippine Islands region",earthquake
+1970-04-12T04:16:57.000Z,15.223,122.005,22.6,5.5,mb,56,,,,centennial,centennial19700412041657,2013-07-09T19:07:36.000Z,"Philippine Islands region",earthquake
+1970-04-12T04:01:44.000Z,15.086,122.01,15.6,7,ms,243,,,,centennial,centennial19700412040144,2014-03-17T19:10:16.566Z,"Philippine Islands region",earthquake
+1970-04-11T06:21:18.000Z,-19.371,-173.387,32,5.7,ms,50,,,,centennial,centennial19700411062118,2013-07-09T19:07:36.000Z,"Tonga",earthquake
+1970-04-11T04:05:43.000Z,59.642,-142.603,2.7,6.2,ms,182,,,,centennial,centennial19700411040543,2013-07-09T19:07:36.000Z,"Gulf of Alaska",earthquake
+1970-04-10T14:09:17.000Z,-27.534,-177.848,163.6,5.5,mb,142,,,,centennial,centennial19700410140917,2013-07-09T19:07:36.000Z,"Kermadec Islands region",earthquake
+1970-04-09T16:24:29.000Z,13.165,-92.319,16,5.8,uk,120,,,,centennial,centennial19700409162429,2013-07-09T19:07:36.000Z,"near the coast of Guatemala",earthquake
+1970-04-08T21:23:57.000Z,15.458,121.754,24.7,6.2,ms,202,,,,centennial,centennial19700408212357,2014-03-17T19:09:59.960Z,"Luzon, Philippines",earthquake
+1970-04-08T13:50:28.000Z,38.33,22.611,13.3,5.9,ms,153,,,,centennial,centennial19700408135028,2014-03-17T19:09:41.861Z,"Greece",earthquake
+1970-04-07T06:34:16.000Z,15.542,121.814,5.6,5.5,mb,109,,,,centennial,centennial19700407063416,2013-07-09T19:07:36.000Z,"Luzon, Philippines",earthquake
+1970-04-07T06:11:53.000Z,15.686,121.817,20,5.5,mb,111,,,,centennial,centennial19700407061153,2013-07-09T19:07:36.000Z,"Luzon, Philippines",earthquake
+1970-04-07T05:53:49.000Z,15.304,123.793,34.6,5.6,mb,42,,,,centennial,centennial19700407055349,2013-07-09T19:07:36.000Z,"Philippine Islands region",earthquake
+1970-04-07T05:34:06.000Z,15.771,121.659,29.7,7.2,mw,277,,,,centennial,centennial19700407053406,2014-03-17T19:09:22.859Z,"Luzon, Philippines",earthquake
+1970-04-03T06:52:30.000Z,-20.531,-173.975,6.9,5.8,ms,96,,,,centennial,centennial19700403065230,2013-07-09T19:07:36.000Z,"Tonga",earthquake
+1970-04-02T11:11:41.000Z,-20.401,-173.82,15,5.7,ms,120,,,,centennial,centennial19700402111141,2013-07-09T19:07:36.000Z,"Tonga",earthquake
+1970-04-01T14:23:25.000Z,39.809,141.879,69.8,5.8,mb,213,,,,centennial,centennial19700401142325,2013-07-09T19:07:36.000Z,"eastern Honshu, Japan",earthquake

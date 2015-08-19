@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-02-28T14:21:55.000Z,-5.234,149.484,35,7.1,mw,31,,,,centennial,centennial19340228142155,2013-07-09T19:07:20.000Z,"New Britain region, Papua New Guinea",earthquake
+1934-02-24T06:23:46.000Z,22.878,144.067,35,7.2,mw,47,,,,centennial,centennial19340224062346,2013-07-09T19:07:20.000Z,"Volcano Islands, Japan region",earthquake
+1934-02-14T03:59:41.000Z,17.404,119.19,35,7.5,mw,86,,,,centennial,centennial19340214035941,2013-07-09T19:07:20.000Z,"Philippine Islands region",earthquake
+1934-02-03T14:33:13.000Z,-5.851,151.264,35,6.6,uk,40,,,,centennial,centennial19340203143313,2013-07-09T19:07:20.000Z,"New Britain region, Papua New Guinea",earthquake

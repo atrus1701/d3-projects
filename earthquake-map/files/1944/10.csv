@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-10-29T00:11:32.000Z,31.5,83.5,0,6.6,uk,0,,,,centennial,centennial19441029001132,2013-07-09T19:07:23.000Z,"western Xizang",earthquake
+1944-10-23T23:40:01.000Z,0.5,-80.5,0,6.7,uk,0,,,,centennial,centennial19441023234001,2013-07-09T19:07:23.000Z,"near the coast of Ecuador",earthquake
+1944-10-17T18:36:54.000Z,31.5,83.5,0,6.6,uk,0,,,,centennial,centennial19441017183654,2013-07-09T19:07:23.000Z,"western Xizang",earthquake
+1944-10-14T20:16:08.000Z,1.5,127,0,6.6,uk,0,,,,centennial,centennial19441014201608,2013-07-09T19:07:22.000Z,"North Pacific Ocean",earthquake
+1944-10-11T09:45:15.000Z,-15,-173,80,6.6,uk,0,,,,centennial,centennial19441011094515,2013-07-09T19:07:22.000Z,"Samoa Islands region",earthquake
+1944-10-05T17:28:32.000Z,-22.037,171.621,96.6,7.3,mb,0,,,,centennial,centennial19441005172832,2013-07-09T19:07:22.000Z,"southeast of the Loyalty Islands",earthquake
+1944-10-05T16:57:02.000Z,-4.5,152.5,110,6.7,uk,0,,,,centennial,centennial19441005165702,2013-07-09T19:07:22.000Z,"New Britain region, Papua New Guinea",earthquake
+1944-10-02T20:29:51.000Z,42.5,142.5,75,6.8,mb,0,,,,centennial,centennial19441002202951,2013-07-09T19:07:22.000Z,"Hokkaido, Japan region",earthquake

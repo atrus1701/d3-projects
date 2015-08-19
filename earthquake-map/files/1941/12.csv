@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1941-12-27T18:17:26.000Z,35.822,-10.56,25,6.6,uk,25,,,,centennial,centennial19411227181726,2013-07-09T19:07:22.000Z,"Azores-Cape St. Vincent Ridge",earthquake
+1941-12-26T14:48:03.000Z,21.076,99.145,25,7,ms,21,,,,centennial,centennial19411226144803,2013-07-09T19:07:22.000Z,"Myanmar",earthquake
+1941-12-16T19:19:45.000Z,23.251,120.391,35,7.1,mw,43,,,,centennial,centennial19411216191945,2013-07-09T19:07:22.000Z,"Taiwan",earthquake
+1941-12-06T21:24:44.000Z,8.143,-84.401,35,7,ms,44,,,,centennial,centennial19411206212444,2013-07-09T19:07:22.000Z,"off the coast of Costa Rica",earthquake
+1941-12-05T20:47:04.000Z,8.752,-83.158,35,7.3,mw,73,,,,centennial,centennial19411205204704,2013-07-09T19:07:22.000Z,"Costa Rica",earthquake

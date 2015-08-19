@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1913-10-14T08:08:48.000Z,-19.5,169,230,7.6,mb,0,,,,centennial,centennial19131014080848,2013-07-09T19:07:17.000Z,"Vanuatu",earthquake
+1913-10-12T17:05:00.000Z,40,144,35,6.6,mj,0,,,,centennial,centennial19131012170500,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1913-10-11T09:10:00.000Z,40,144,35,6.9,mj,0,,,,centennial,centennial19131011091000,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1913-10-11T04:06:03.000Z,-7,148,0,7,ms,0,,,,centennial,centennial19131011040603,2013-07-09T19:07:17.000Z,"eastern New Guinea region, Papua New Guinea",earthquake

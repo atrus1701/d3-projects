@@ -1,0 +1,20 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-06-30T20:08:25.000Z,46.519,144.614,339.7,5.5,mb,143,,,,centennial,centennial19640630200825,2013-07-09T19:07:29.000Z,"Sea of Okhotsk",earthquake
+1964-06-30T15:48:41.000Z,44.888,150.272,37.1,5.5,mb,55,,,,centennial,centennial19640630154841,2013-07-09T19:07:29.000Z,"east of the Kuril Islands",earthquake
+1964-06-30T13:46:19.000Z,-0.8,122.444,10.6,5.6,mb,102,,,,centennial,centennial19640630134619,2013-07-09T19:07:29.000Z,"Sulawesi, Indonesia",earthquake
+1964-06-28T19:09:06.000Z,58.168,-150.495,24,5.6,mb,108,,,,centennial,centennial19640628190906,2013-07-09T19:07:29.000Z,"Gulf of Alaska",earthquake
+1964-06-28T17:28:01.000Z,4.2,-32.587,23.8,5.5,mb,94,,,,centennial,centennial19640628172801,2013-07-09T19:07:29.000Z,"central Mid-Atlantic Ridge",earthquake
+1964-06-28T12:51:37.000Z,-1.796,149.74,14.5,5.9,mb,114,,,,centennial,centennial19640628125137,2013-07-09T19:07:29.000Z,"New Ireland region, Papua New Guinea",earthquake
+1964-06-23T01:26:38.000Z,43.271,146.151,75,7.2,mb,203,,,,centennial,centennial19640623012638,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-06-19T10:05:36.000Z,38.857,139.425,15.6,5.5,mb,115,,,,centennial,centennial19640619100536,2013-07-09T19:07:29.000Z,"near the west coast of Honshu, Japan",earthquake
+1964-06-16T11:16:04.000Z,-2.017,141.23,10.4,5.9,mb,43,,,,centennial,centennial19640616111604,2013-07-09T19:07:29.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1964-06-16T07:15:01.000Z,38.415,139.372,39.8,5.7,mb,119,,,,centennial,centennial19640616071501,2013-07-09T19:07:29.000Z,"near the west coast of Honshu, Japan",earthquake
+1964-06-16T06:53:06.000Z,38.753,139.2,13.1,5.6,mb,140,,,,centennial,centennial19640616065306,2013-07-09T19:07:29.000Z,"near the west coast of Honshu, Japan",earthquake
+1964-06-16T04:17:40.000Z,38.677,139.181,21.1,5.5,mb,63,,,,centennial,centennial19640616041740,2013-07-09T19:07:29.000Z,"near the west coast of Honshu, Japan",earthquake
+1964-06-16T04:01:40.000Z,38.438,139.225,10.2,7.6,mw,186,,,,centennial,centennial19640616040140,2013-07-09T19:07:29.000Z,"near the west coast of Honshu, Japan",earthquake
+1964-06-14T12:15:34.000Z,38.089,38.476,11.9,5.5,mb,81,,,,centennial,centennial19640614121534,2013-07-09T19:07:29.000Z,"eastern Turkey",earthquake
+1964-06-11T10:55:23.000Z,-56.192,-27.777,172.8,5.5,mb,32,,,,centennial,centennial19640611105523,2013-07-09T19:07:29.000Z,"South Sandwich Islands region",earthquake
+1964-06-10T22:16:40.000Z,4.967,127.348,90.1,5.7,mb,134,,,,centennial,centennial19640610221640,2013-07-09T19:07:29.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1964-06-10T19:48:29.000Z,-6.225,104.78,57.2,5.7,mb,55,,,,centennial,centennial19640610194829,2013-07-09T19:07:29.000Z,"Sunda Strait, Indonesia",earthquake
+1964-06-06T19:07:50.000Z,-26.709,-114.429,16.9,5.7,mb,135,,,,centennial,centennial19640606190750,2013-07-09T19:07:29.000Z,"Easter Island region",earthquake
+1964-06-03T00:44:24.000Z,-56.215,-27.639,165,5.5,mb,21,,,,centennial,centennial19640603004424,2013-07-09T19:07:29.000Z,"South Sandwich Islands region",earthquake

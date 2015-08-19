@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-08-25T04:14:21.000Z,52.2,-179.3,0,6.6,uk,0,,,,centennial,centennial19490825041421,2013-07-09T19:07:24.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1949-08-22T04:01:19.000Z,53.688,-133.104,35,8,mw,0,,,,centennial,centennial19490822040119,2013-07-09T19:07:24.000Z,"Haida Gwaii, Canada",earthquake
+1949-08-17T18:44:13.000Z,39.5,40.6,0,6.6,uk,0,,,,centennial,centennial19490817184413,2013-07-09T19:07:24.000Z,"eastern Turkey",earthquake
+1949-08-06T00:35:38.000Z,-19.138,-174.232,65.9,7.2,mb,0,,,,centennial,centennial19490806003538,2013-07-09T19:07:24.000Z,"Tonga",earthquake
+1949-08-05T19:08:47.000Z,-1.5,-78.25,0,6.6,uk,0,,,,centennial,centennial19490805190847,2013-07-09T19:07:24.000Z,"Ecuador",earthquake

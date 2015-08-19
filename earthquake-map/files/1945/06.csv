@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-06-30T05:31:18.000Z,17,-115,0,6.6,uk,0,,,,centennial,centennial19450630053118,2013-07-09T19:07:23.000Z,"Revilla Gigedo Islands region",earthquake
+1945-06-27T13:08:20.000Z,27,-111,0,6.8,ms,0,,,,centennial,centennial19450627130820,2013-07-09T19:07:23.000Z,"Baja California Sur, Mexico",earthquake
+1945-06-22T09:18:40.000Z,44,146,120,6.9,mb,0,,,,centennial,centennial19450622091840,2013-07-09T19:07:23.000Z,"Kuril Islands",earthquake
+1945-06-03T13:05:33.000Z,8.4,-82.7,80,6.8,uk,0,,,,centennial,centennial19450603130533,2013-07-09T19:07:23.000Z,"Panama-Costa Rica border region",earthquake

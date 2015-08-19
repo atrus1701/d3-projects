@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-11-14T10:50:18.000Z,43.9,143.2,160,6.7,ms,0,,,,centennial,centennial19471114105018,2013-07-09T19:07:23.000Z,"Hokkaido, Japan region",earthquake
+1947-11-09T04:57:50.000Z,-22.5,170,50,6.5,ms,0,,,,centennial,centennial19471109045750,2013-07-09T19:07:23.000Z,"southeast of the Loyalty Islands",earthquake
+1947-11-04T00:09:12.000Z,44.173,140.932,20,7.1,ms,0,,,,centennial,centennial19471104000912,2013-07-09T19:07:23.000Z,"eastern Sea of Japan",earthquake
+1947-11-01T14:58:53.000Z,-11.727,-76.396,35,7.7,mw,0,,,,centennial,centennial19471101145853,2013-07-09T19:07:23.000Z,"central Peru",earthquake

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1935-12-28T02:35:29.000Z,-0.345,98.147,35,7.8,mw,97,,,,centennial,centennial19351228023529,2013-07-09T19:07:21.000Z,"Kepulauan Batu, Indonesia",earthquake
+1935-12-24T12:24:11.000Z,2.753,-79.293,15,6.6,uk,34,,,,centennial,centennial19351224122411,2013-07-09T19:07:21.000Z,"south of Panama",earthquake
+1935-12-17T19:17:36.000Z,22.525,125.747,25,7.1,mw,43,,,,centennial,centennial19351217191736,2013-07-09T19:07:21.000Z,"southeast of Taiwan",earthquake
+1935-12-15T07:07:54.000Z,-9.59,161.145,35,7.5,mw,74,,,,centennial,centennial19351215070754,2013-07-09T19:07:21.000Z,"Solomon Islands",earthquake
+1935-12-14T22:05:25.000Z,14.718,-92.484,35,7.2,mw,62,,,,centennial,centennial19351214220525,2013-07-09T19:07:21.000Z,"offshore Chiapas, Mexico",earthquake
+1935-12-14T01:31:15.000Z,-9.545,-70.786,629.8,6.7,uk,103,,,,centennial,centennial19351214013115,2013-07-09T19:07:21.000Z,"Peru-Brazil border region",earthquake

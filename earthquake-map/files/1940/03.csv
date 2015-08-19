@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-03-28T15:48:52.000Z,14.5,120,200,6.6,uk,0,,,,centennial,centennial19400328154852,2013-07-09T19:07:21.000Z,"Luzon, Philippines",earthquake
+1940-03-21T13:52:57.000Z,-10.185,107.848,35,6.6,uk,48,,,,centennial,centennial19400321135257,2013-07-09T19:07:21.000Z,"south of Java, Indonesia",earthquake
+1940-03-14T18:22:45.000Z,-55.601,147.382,15,6.6,uk,32,,,,centennial,centennial19400314182245,2013-07-09T19:07:21.000Z,"west of Macquarie Island",earthquake

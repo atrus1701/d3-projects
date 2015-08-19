@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-12-28T14:19:45.000Z,7.726,123.675,35,6.7,uk,21,,,,centennial,centennial19281228141945,2013-07-09T19:07:19.000Z,"Mindanao, Philippines",earthquake
+1928-12-19T11:37:17.000Z,6.977,124.856,35,7.3,mw,16,,,,centennial,centennial19281219113717,2013-07-09T19:07:19.000Z,"Mindanao, Philippines",earthquake
+1928-12-01T04:06:15.000Z,-35.086,-71.683,35,7.7,mw,39,,,,centennial,centennial19281201040615,2013-07-09T19:07:19.000Z,"Maule, Chile",earthquake

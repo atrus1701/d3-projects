@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1918-12-25T10:21:14.000Z,-7.073,152.652,458.9,6.6,uk,5,,,,centennial,centennial19181225102114,2013-07-09T19:07:18.000Z,"New Britain region, Papua New Guinea",earthquake
+1918-12-06T08:41:02.000Z,50.662,-122.964,15,6.8,ms,4,,,,centennial,centennial19181206084102,2013-07-09T19:07:18.000Z,"British Columbia, Canada",earthquake
+1918-12-04T11:47:38.000Z,-27.275,-73.464,25,7.5,mw,11,,,,centennial,centennial19181204114738,2013-07-09T19:07:18.000Z,"off the coast of Atacama, Chile",earthquake

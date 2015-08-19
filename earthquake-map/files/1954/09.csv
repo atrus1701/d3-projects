@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1954-09-17T11:03:21.000Z,-21.414,-176.545,248.4,7,mb,0,,,,centennial,centennial19540917110321,2013-07-09T19:07:25.000Z,"Fiji region",earthquake
+1954-09-15T17:56:09.000Z,-17.8,-178.6,540,6.7,ms,0,,,,centennial,centennial19540915175609,2013-07-09T19:07:25.000Z,"Fiji region",earthquake
+1954-09-13T02:10:00.000Z,-20.5,-175.8,128,6.5,ms,0,,,,centennial,centennial19540913021000,2013-07-09T19:07:25.000Z,"Tonga",earthquake
+1954-09-09T01:04:37.000Z,36.2,1.6,0,6.5,ms,0,,,,centennial,centennial19540909010437,2013-07-09T19:07:25.000Z,"northern Algeria",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1921-10-20T06:03:20.000Z,-20.06,-68.956,113.6,7.2,mb,19,,,,centennial,centennial19211020060320,2013-07-09T19:07:18.000Z,"Tarapaca, Chile",earthquake
+1921-10-15T04:58:18.000Z,-12.694,167.03,35,6.8,ms,15,,,,centennial,centennial19211015045818,2013-07-09T19:07:18.000Z,"Santa Cruz Islands",earthquake
+1921-10-12T07:52:00.000Z,45.3,148.6,100,6.6,mj,0,,,,centennial,centennial19211012075200,2013-07-09T19:07:18.000Z,"Kuril Islands",earthquake

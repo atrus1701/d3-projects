@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1926-09-16T17:59:15.000Z,-9.674,159.519,35,6.9,ms,48,,,,centennial,centennial19260916175915,2013-07-09T19:07:19.000Z,"Solomon Islands",earthquake
+1926-09-10T10:34:27.000Z,-9.152,110.701,35,7,mb,32,,,,centennial,centennial19260910103427,2013-07-09T19:07:19.000Z,"south of Java, Indonesia",earthquake
+1926-09-07T12:22:52.000Z,-3.541,146.188,35,6.6,uk,11,,,,centennial,centennial19260907122252,2013-07-09T19:07:19.000Z,"Bismarck Sea",earthquake
+1926-09-02T01:21:59.000Z,-34.02,58.227,15,6.9,ms,54,,,,centennial,centennial19260902012159,2013-07-09T19:07:19.000Z,"South Indian Ocean",earthquake

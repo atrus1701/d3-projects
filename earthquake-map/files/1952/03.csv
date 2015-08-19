@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1952-03-19T10:57:13.000Z,9.329,126.88,15,7.7,mw,0,,,,centennial,centennial19520319105713,2013-07-09T19:07:24.000Z,"Mindanao, Philippines",earthquake
+1952-03-19T09:06:00.000Z,39,125.5,0,6.5,ms,0,,,,centennial,centennial19520319090600,2013-07-09T19:07:24.000Z,"North Korea",earthquake
+1952-03-13T13:57:37.000Z,28.5,127.3,287,6.5,ms,0,,,,centennial,centennial19520313135737,2013-07-09T19:07:24.000Z,"northwest of the Ryukyu Islands, Japan",earthquake
+1952-03-09T17:03:51.000Z,41.92,143.338,46.3,7.2,mw,0,,,,centennial,centennial19520309170351,2013-07-09T19:07:24.000Z,"Hokkaido, Japan region",earthquake
+1952-03-04T19:56:21.000Z,41.7,144.9,64,6.5,ms,0,,,,centennial,centennial19520304195621,2013-07-09T19:07:24.000Z,"Hokkaido, Japan region",earthquake
+1952-03-04T19:30:29.000Z,-10.5,162.1,0,6.6,uk,0,,,,centennial,centennial19520304193029,2013-07-09T19:07:24.000Z,"Solomon Islands",earthquake
+1952-03-04T01:40:08.000Z,41.659,144.618,35,7.1,ms,0,,,,centennial,centennial19520304014008,2013-07-09T19:07:24.000Z,"Hokkaido, Japan region",earthquake
+1952-03-04T01:22:46.000Z,42.144,143.896,28.8,8.1,mw,0,,,,centennial,centennial19520304012246,2013-07-09T19:07:24.000Z,"Hokkaido, Japan region",earthquake

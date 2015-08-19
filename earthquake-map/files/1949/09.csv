@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-09-27T15:30:45.000Z,59.75,-149,50,6.7,ms,0,,,,centennial,centennial19490927153045,2013-07-09T19:07:24.000Z,"Kenai Peninsula, Alaska",earthquake
+1949-09-24T04:17:48.000Z,-6.5,155,60,6.6,uk,0,,,,centennial,centennial19490924041748,2013-07-09T19:07:24.000Z,"Bougainville region, Papua New Guinea",earthquake
+1949-09-20T11:55:27.000Z,-29.5,-177.5,80,6.7,uk,0,,,,centennial,centennial19490920115527,2013-07-09T19:07:24.000Z,"Kermadec Islands, New Zealand",earthquake
+1949-09-14T19:50:20.000Z,0.75,126,50,6.9,ms,0,,,,centennial,centennial19490914195020,2013-07-09T19:07:24.000Z,"Molucca Sea",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1927-09-23T13:54:22.000Z,42.066,84.092,35,6.6,uk,41,,,,centennial,centennial19270923135422,2013-07-09T19:07:19.000Z,"northern Xinjiang, China",earthquake
+1927-09-03T19:47:48.000Z,10.871,-43.487,15,6.7,uk,55,,,,centennial,centennial19270903194748,2013-07-09T19:07:19.000Z,"northern Mid-Atlantic Ridge",earthquake

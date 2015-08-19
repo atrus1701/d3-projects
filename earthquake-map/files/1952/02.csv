@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1952-02-26T11:31:10.000Z,-14,-70.5,260,6.9,mb,0,,,,centennial,centennial19520226113110,2013-07-09T19:07:24.000Z,"southern Peru",earthquake
+1952-02-25T01:17:03.000Z,-16.7,-173.5,0,6.7,uk,0,,,,centennial,centennial19520225011703,2013-07-09T19:07:24.000Z,"Tonga",earthquake
+1952-02-14T21:02:37.000Z,7.3,-76.5,0,6.6,uk,0,,,,centennial,centennial19520214210237,2013-07-09T19:07:24.000Z,"northern Colombia",earthquake
+1952-02-14T03:38:17.000Z,-7.766,126.618,35,7.2,mw,0,,,,centennial,centennial19520214033817,2013-07-09T19:07:24.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1952-02-11T07:01:05.000Z,-5.5,110,660,6.7,uk,0,,,,centennial,centennial19520211070105,2013-07-09T19:07:24.000Z,"Java Sea",earthquake

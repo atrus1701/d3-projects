@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-11-27T14:41:29.000Z,-3.711,150.963,35,6.6,uk,32,,,,centennial,centennial19401127144129,2013-07-09T19:07:22.000Z,"New Ireland region, Papua New Guinea",earthquake
+1940-11-19T15:01:42.000Z,39.019,142.244,50.5,6.8,ms,60,,,,centennial,centennial19401119150142,2013-07-09T19:07:22.000Z,"near the east coast of Honshu, Japan",earthquake
+1940-11-10T01:39:08.000Z,45.773,26.655,122,7.3,mb,59,,,,centennial,centennial19401110013908,2013-07-09T19:07:22.000Z,"Romania",earthquake
+1940-11-07T13:58:12.000Z,30.238,138.853,35,6.6,uk,30,,,,centennial,centennial19401107135812,2013-07-09T19:07:22.000Z,"Izu Islands, Japan region",earthquake

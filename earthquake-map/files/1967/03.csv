@@ -1,0 +1,22 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-03-30T02:08:01.000Z,-11.142,115.308,11.3,6,mb,182,,,,centennial,centennial19670330020801,2013-07-09T19:07:32.000Z,"south of Bali, Indonesia",earthquake
+1967-03-27T10:01:44.000Z,-16.387,168.19,14.7,6.2,uk,88,,,,centennial,centennial19670327100144,2013-07-09T19:07:32.000Z,"Vanuatu",earthquake
+1967-03-27T08:58:23.000Z,38.516,116.609,26.1,5.5,mb,157,,,,centennial,centennial19670327085823,2013-07-09T19:07:32.000Z,"Hebei, China",earthquake
+1967-03-25T22:47:58.000Z,45.256,151.565,29.2,5.6,mb,191,,,,centennial,centennial19670325224758,2013-07-09T19:07:32.000Z,"Kuril Islands",earthquake
+1967-03-24T09:00:20.000Z,-6.033,112.282,601.7,6.7,ms,199,,,,centennial,centennial19670324090020,2013-07-09T19:07:32.000Z,"Java, Indonesia",earthquake
+1967-03-22T21:17:41.000Z,-56.226,-27.76,65.4,5.7,mb,60,,,,centennial,centennial19670322211741,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1967-03-20T13:31:30.000Z,45.529,151.533,10.7,5.6,mb,207,,,,centennial,centennial19670320133130,2013-07-09T19:07:32.000Z,"Kuril Islands",earthquake
+1967-03-19T04:01:35.000Z,45.626,151.199,8.1,6.8,uk,266,,,,centennial,centennial19670319040135,2013-07-09T19:07:32.000Z,"Kuril Islands",earthquake
+1967-03-19T01:10:51.000Z,-6.737,129.868,97.8,5.9,mb,183,,,,centennial,centennial19670319011051,2013-07-09T19:07:32.000Z,"Banda Sea",earthquake
+1967-03-18T19:15:39.000Z,-6.004,146.419,120.3,5.6,mb,68,,,,centennial,centennial19670318191539,2013-07-09T19:07:32.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1967-03-17T11:24:43.000Z,-3.555,150.909,6.9,6.2,uk,95,,,,centennial,centennial19670317112443,2013-07-09T19:07:32.000Z,"New Ireland region, Papua New Guinea",earthquake
+1967-03-14T06:58:06.000Z,28.394,94.28,20.6,5.7,mb,151,,,,centennial,centennial19670314065806,2013-07-09T19:07:32.000Z,"Arunachal Pradesh, India",earthquake
+1967-03-13T19:22:18.000Z,19.637,38.743,15.2,5.6,mb,143,,,,centennial,centennial19670313192218,2013-07-09T19:07:32.000Z,"Red Sea",earthquake
+1967-03-13T16:06:53.000Z,-40.192,-74.84,23.6,7.3,uk,121,,,,centennial,centennial19670313160653,2013-07-09T19:07:32.000Z,"offshore Los Lagos, Chile",earthquake
+1967-03-11T14:45:02.000Z,19.123,-95.834,38.6,5.5,uk,104,,,,centennial,centennial19670311144502,2013-07-09T19:07:32.000Z,"offshore Veracruz, Mexico",earthquake
+1967-03-11T08:33:28.000Z,-10.773,166.343,47.1,6.2,uk,129,,,,centennial,centennial19670311083328,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-03-09T18:02:44.000Z,-10.743,166.501,34.1,6,uk,92,,,,centennial,centennial19670309180244,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-03-09T06:58:36.000Z,-10.557,166.398,18.5,6.5,uk,130,,,,centennial,centennial19670309065836,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1967-03-04T17:58:04.000Z,39.097,24.624,8.2,6.9,uk,176,,,,centennial,centennial19670304175804,2013-07-09T19:07:32.000Z,"Aegean Sea",earthquake
+1967-03-04T06:16:23.000Z,-18.526,-175.321,228.9,5.5,mb,150,,,,centennial,centennial19670304061623,2013-07-09T19:07:32.000Z,"Tonga",earthquake
+1967-03-02T02:47:33.000Z,-0.179,-78.577,121.6,5.8,mb,172,,,,centennial,centennial19670302024733,2013-07-09T19:07:32.000Z,"Ecuador",earthquake

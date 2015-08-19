@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1919-12-20T20:37:40.000Z,23.536,121.212,35,7,ms,13,,,,centennial,centennial19191220203740,2013-07-09T19:07:18.000Z,"Taiwan",earthquake
+1919-12-20T19:33:00.000Z,22.5,122.5,35,7.1,mj,0,,,,centennial,centennial19191220193300,2013-07-09T19:07:18.000Z,"Taiwan region",earthquake

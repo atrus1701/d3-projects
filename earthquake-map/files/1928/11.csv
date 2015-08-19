@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-11-28T10:43:17.000Z,-8.379,120.965,35,6.9,ms,24,,,,centennial,centennial19281128104317,2013-07-09T19:07:19.000Z,"Flores region, Indonesia",earthquake
+1928-11-22T08:31:06.000Z,-57.071,-3.312,15,6.7,uk,11,,,,centennial,centennial19281122083106,2013-07-09T19:07:19.000Z,"southern Mid-Atlantic Ridge",earthquake
+1928-11-20T20:35:09.000Z,-23.111,-69.931,35,6.9,ms,32,,,,centennial,centennial19281120203509,2013-07-09T19:07:19.000Z,"Antofagasta, Chile",earthquake

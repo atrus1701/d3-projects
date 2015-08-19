@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1901-05-25T00:32:00.000Z,-10,160,0,7.2,mw,0,,,,centennial,centennial19010525003200,2013-07-09T19:07:15.000Z,"Solomon Islands",earthquake
+1901-05-14T06:51:00.000Z,44.5,149,35,6.6,mj,0,,,,centennial,centennial19010514065100,2013-07-09T19:07:15.000Z,"Kuril Islands",earthquake

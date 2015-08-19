@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1908-11-06T07:09:30.000Z,45,150,0,6.9,ms,0,,,,centennial,centennial19081106070930,2013-07-09T19:07:16.000Z,"Kuril Islands",earthquake
+1908-11-02T05:16:00.000Z,-2,97,0,6.9,ms,0,,,,centennial,centennial19081102051600,2013-07-09T19:07:16.000Z,"southwest of Sumatra, Indonesia",earthquake

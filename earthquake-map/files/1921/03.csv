@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1921-03-30T15:02:18.000Z,-7.118,127.71,170,6.6,uk,15,,,,centennial,centennial19210330150218,2013-07-09T19:07:18.000Z,"Kepulauan Barat Daya, Indonesia",earthquake
+1921-03-28T07:49:33.000Z,13.356,-87.361,35,7.2,mw,13,,,,centennial,centennial19210328074933,2013-07-09T19:07:18.000Z,"Honduras",earthquake
+1921-03-03T03:02:00.000Z,37.7,141.5,35,6.9,mj,0,,,,centennial,centennial19210303030200,2013-07-09T19:07:18.000Z,"near the east coast of Honshu, Japan",earthquake

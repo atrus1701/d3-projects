@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-03-27T22:36:41.000Z,-4.117,133.334,16.5,5.5,mb,73,,,,centennial,centennial19680327223641,2013-07-09T19:07:33.000Z,"near the south coast of Papua, Indonesia",earthquake
+1968-03-26T19:40:43.000Z,8.079,126.299,84.9,5.5,mb,136,,,,centennial,centennial19680326194043,2013-07-09T19:07:33.000Z,"Mindanao, Philippines",earthquake
+1968-03-26T00:42:00.000Z,-6.652,116.121,555.3,6,ms,212,,,,centennial,centennial19680326004200,2013-07-09T19:07:33.000Z,"Bali Sea",earthquake
+1968-03-22T09:15:10.000Z,13.224,145.602,24.4,5.5,mb,117,,,,centennial,centennial19680322091510,2013-07-09T19:07:33.000Z,"Guam region",earthquake
+1968-03-17T20:14:38.000Z,3.23,128.097,103.5,5.7,mb,120,,,,centennial,centennial19680317201438,2013-07-09T19:07:33.000Z,"north of Halmahera, Indonesia",earthquake
+1968-03-11T08:26:34.000Z,-16.188,-173.867,111.3,6.3,mb,187,,,,centennial,centennial19680311082634,2013-07-09T19:07:33.000Z,"Tonga",earthquake
+1968-03-10T07:11:20.000Z,-36.27,179.578,49.4,5.7,mb,102,,,,centennial,centennial19680310071120,2013-07-09T19:07:33.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1968-03-09T03:19:24.000Z,-5.6,154.102,81.5,5.5,mb,107,,,,centennial,centennial19680309031924,2013-07-09T19:07:33.000Z,"Bougainville region, Papua New Guinea",earthquake
+1968-03-07T13:22:18.000Z,-5.821,151.063,36.1,5.5,mb,121,,,,centennial,centennial19680307132218,2013-07-09T19:07:33.000Z,"New Britain region, Papua New Guinea",earthquake
+1968-03-05T18:38:08.000Z,9.525,126.131,70.2,5.6,mb,117,,,,centennial,centennial19680305183808,2013-07-09T19:07:33.000Z,"Mindanao, Philippines",earthquake
+1968-03-03T22:55:36.000Z,1.55,122.45,422,5.5,mb,141,,,,centennial,centennial19680303225536,2013-07-09T19:07:33.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1968-03-02T22:02:22.000Z,-6.141,71.381,7.6,5.5,mb,162,,,,centennial,centennial19680302220222,2013-07-09T19:07:33.000Z,"Chagos Archipelago region",earthquake

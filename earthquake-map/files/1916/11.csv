@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-11-30T13:17:50.000Z,19,-70,0,6.6,uk,0,,,,centennial,centennial19161130131750,2013-07-09T19:07:18.000Z,"Dominican Republic",earthquake
+1916-11-24T04:04:00.000Z,39.2,142.7,35,6.6,mj,0,,,,centennial,centennial19161124040400,2013-07-09T19:07:18.000Z,"near the east coast of Honshu, Japan",earthquake

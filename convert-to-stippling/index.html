@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="./d3/d3.slider.css" />
+<style>
+
+.clearfix:before,
+.clearfix:after {
+	content:"";
+	display:table;
+	clear:both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix {
+	zoom:1;
+}
+
+body {
+	background-color:#eee;
+	margin:0; padding:0;
+	font-family:Georgia, Times, Times New Roman;
+	font-size:0.9em;
+}
+
+img, canvas, svg {
+	background-color:white;
+	border:solid 1px black;
+	//shape-rendering: crispEdges;
+}
+
+svg .point {
+	fill: black;
+}
+
+#all-settings {
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+}
+
+#image-selection {
+	background-color:#003366;
+	overflow:auto;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+}
+
+#image-selection > div {
+	max-width:99999px;
+	height:128px;
+	padding:10px;
+	white-space: nowrap;
+}
+
+#image-selection img {
+	height:128px;
+	display:inline;
+	margin-right:10px;
+}
+
+#settings {
+	background-color:#006633;
+	overflow:auto;
+	position:fixed;
+	top:163px;
+	left:0;
+	min-height:100%;
+	color:#f6f6f6;
+	text-align: center;
+	padding: 10px;
+}
+
+#settings > div {
+	padding:10px;
+	white-space: nowrap;
+}
+
+#settings > div > div {
+	display:block;
+	width:150px;
+	height:50px;
+}
+
+#settings > div > div.begin-process {
+	text-align:center;
+	vertical-align:middle;
+}
+
+#settings > div > div > select {
+	display:block;
+	width:100%;
+}
+
+#settings > div > div.begin-process > button {
+	height:2em;
+	vertical-align:middle;
+}
+
+#settings label {
+	display:block;
+	margin-bottom:5px;
+	text-align:left;
+}
+
+#settings label > span {
+	float:right;
+}
+
+#generated-images {
+	margin-top:160px;
+	margin-left:190px;
+	padding-bottom:10px;
+}
+
+#generated-images > div > div {
+	padding:10px;
+	white-space: nowrap;
+	clear:both;
+	max-width:99999px;
+}
+
+#generated-images > div > div > div {
+	display:inline-block;
+}
+
+#generated-images > div > div > div > img,
+#generated-images > div > div > div > canvas,
+#generated-images > div > div > div > svg {
+	float:left;
+	margin-right:10px;
+}
+
+#stipple-scaled-image {
+}
+
+#log {
+	text-align: center;
+	vertical-align: bottom;
+	line-height: 1.5em;
+	font-family: Arial,sanserif;
+}
+
+
+</style>
+</head>
+<body>
+
+
+
+<!-- 
+<div id="all-settings">
+ -->
+<div id="image-selection" class="clearfix"><div>
+	<img    class="selectable-image" src="./images/fade.png" />
+	<img    class="selectable-image" src="./images/joker.jpg" />
+	<img    class="selectable-image" src="./images/lena.bmp" />
+	<img    class="selectable-image" src="./images/slowpoke.gif" />
+	<img    class="selectable-image" src="./images/world-map.jpg" />
+	<img    class="selectable-image" src="./images/boltnut.png" />
+	<img    class="selectable-image" src="./images/icy_mountains.jpg" />
+	<img    class="selectable-image" src="./images/kitten.jpg" />
+	<img    class="selectable-image" src="./images/tiger-shark.png" />
+	<img    class="selectable-image" src="./images/shield-of-captain.jpg" />
+	<img    class="selectable-image" src="./images/blue_mountains_panoramic.jpg" />
+</div></div>
+
+<div id="settings" class="clearfix"><div class="clearfix">
+	<div class="greyscale-generation">
+		<label>Greyscale Generation</label>
+		<select id="greyscale-choice">
+			<option value="none">None</option>
+			<option value="lightness">Lightness</option>
+			<option value="average">Average</option>
+			<option value="luminosity" selected>Luminosity</option>
+		</select>
+	</div>
+	<div class="square-size">
+		<label>Square Size<span>10</span></label>
+		<div id="square-size-slider"></div>
+	</div>
+	<div class="pulse-size">
+		<label>Pulse Size<span>1.5</span></label>
+		<div id="pulse-size-slider"></div>
+	</div>
+	<div class="passes">
+		<label># of Passes<span>20</span></label>
+		<div id="passes-slider"></div>
+	</div>
+	<div class="regions">
+		<label># of Regions<span>20</span></label>
+		<div id="region-slider"></div>
+	</div>
+	<div class="begin-process">
+		<button id="create-image">Create Stippled Image</button>
+	</div>
+	<div><div id="log"></div></div>
+</div></div>
+<!-- 
+</div>
+ -->
+
+<div id="generated-images" class="clearfix"><div>
+
+	<div>
+		<div>Original<br/><img id="original-image" height="512" width="512" src="./images/fade.png" /></div>
+		<div>Greyscale<br/><canvas id="greyscale-image" height="512" width="512"></canvas></div>
+	</div>
+
+	<div>
+		<div>Halftone<br/><canvas id="halftone-point-image" height="512" width="512"></canvas></div>
+		<div>Stipple<br/><svg id="stipple-dot-image" height="512" width="512"></svg></div>
+	</div>
+
+	<div>
+		<div>2x Scaled Stipple<br/><svg id="stipple-scaled-dot-image" height="1024" width="1024"></svg></div>
+	</div>
+
+</div></div>
+
+
+<script src="./d3/d3.v3.min.js"></script>
+<script src="./d3/d3.slider.js"></script>
+<script>
+
+var image_data, size;
+
+var original_image;
+var greyscale_image_context, halftone_point_image_context;
+
+var pixel_data;
+var centroids, voronoi;
+
+var greyscale_type = 'luminosity';
+
+var square_size = 10;
+var max_pulse_size = 1.5;
+
+var pass_count = 0;
+var max_passes = 20;
+
+var regions = 20;
+
+var scale = { width:0, height:0 };
+
+
+
+window.onload = function()
+{
+	d3.selectAll('.selectable-image').on('click',
+		function()
+		{
+			d3.select('#original-image').attr( 'src', this.src );
+			setup_images();
+		});
+	
+	d3.select('#greyscale-choice').on('change',
+		function()
+		{
+			greyscale_type = d3.select("#greyscale-choice").node().value; 
+			setup_images();
+		});
+	
+	d3.select('#region-slider').call(
+		d3.slider().min(1).max(20).step(1).value(regions).on('slide',
+			function( event, value )
+			{
+				d3.select('#settings .regions label > span').text(value);
+				regions = value;
+				setup_images();
+			})
+	);
+
+	d3.select('#square-size-slider').call(
+		d3.slider().min(1).max(40).step(1).value(square_size).on('slide',
+			function( event, value )
+			{
+				d3.select('#settings .square-size label > span').text(value);
+				square_size = value;
+				setup_images();
+			})
+	);
+
+	d3.select('#pulse-size-slider').call(
+		d3.slider().min(1.0).max(2.0).step(0.1).value(max_pulse_size).on('slide',
+			function( event, value )
+			{
+				d3.select('#settings .pulse-size label > span').text(value.toFixed(1));
+				max_pulse_size = value.toFixed(1);
+				setup_images();
+			})
+	);
+
+	d3.select('#passes-slider').call(
+		d3.slider().min(0).max(20).step(2).value(max_passes).on('slide',
+			function( event, value )
+			{
+				d3.select('#settings .passes label > span').text(value);
+				max_passes = value;
+				setup_images();
+			})
+	);
+	
+	d3.select('#create-image').on('click',
+		function()
+		{
+			setup_images();
+			generate_stipple();
+		});
+	
+	original_image = document.getElementById('original-image');
+	greyscale_image_context = document.getElementById('greyscale-image').getContext('2d');
+	halftone_point_image_context = document.getElementById('halftone-point-image').getContext('2d');
+	
+	setup_images();
+}
+
+function setup_images()
+{
+	d3.select('#log').text('');
+
+	var src = original_image.src;
+	size = get_image_size( src );
+	
+	d3.select( '#original-image' ).attr( 'width', size.width ).attr( 'height', size.height );
+	d3.select( '#greyscale-image' ).attr( 'width', size.width ).attr( 'height', size.height );
+
+	d3.select( '#halftone-dot-image' ).attr( 'width', size.width ).attr( 'height', size.height );
+	d3.select( '#halftone-point-image' ).attr( 'width', size.width ).attr( 'height', size.height );
+
+	d3.select( '#stipple-dot-image' ).attr( 'width', size.width ).attr( 'height', size.height );
+	d3.select( '#stipple-point-image' ).attr( 'width', size.width ).attr( 'height', size.height );
+
+	d3.select( '#stipple-scaled-dot-image' ).attr( 'width', size.width*2 ).attr( 'height', size.height*2 );
+	
+	scale.width = d3.scale.linear().domain( [0, size.width] ).range( [0, size.width*2] );
+	scale.height = d3.scale.linear().domain( [0, size.height] ).range( [0, size.height*2] );
+	
+ 	voronoi = d3.geom.voronoi().clipExtent( [ [0, 0], [size.width, size.height] ] );
+
+	generate_greyscale();
+	generate_halftone();
+	
+	d3.select( '#halftone-dot-image' ).selectAll('circle').data([]).exit().remove();
+	d3.select( '#stipple-dot-image' ).selectAll('circle').data([]).exit().remove();
+	d3.select( '#stipple-scaled-dot-image' ).selectAll('circle').data([]).exit().remove();
+}
+
+
+function generate_greyscale()
+{
+	greyscale_image_context.drawImage( 
+		original_image, 
+		0, 0, size.width, size.height, 
+		0, 0, size.width, size.height
+	);
+	
+	image_data = greyscale_image_context.getImageData( 
+		0, 0, size.width, size.height 
+	);
+
+	pixel_data = []; // { value:0, region:0, pdm:0 };
+	for( var r = 0; r < size.height; r++ )
+	{
+ 		pixel_data.push( [] );
+ 		
+		for( var c = 0; c < size.width; c++ )
+		{
+			var index = ( c + (r * size.width) ) * 4;
+			var red = image_data.data[ index ];
+			var green = image_data.data[ index + 1 ];
+			var blue = image_data.data[ index + 2 ];
+			var alpha = image_data.data[ index + 3 ];
+			
+			pixel_data[r].push( { grey:0, value:0, region:0, pdm:0 } );
+			
+			var grey = 0;
+			switch( greyscale_type )
+			{
+				case 'none':
+					grey = red;
+					break;
+					
+				case 'lightness':
+					grey = ( Math.max(red, green, blue) + Math.min(red, green, blue) ) / 2;
+					break;
+					
+				case 'average':
+					grey = ( red + green + blue ) / 3;
+					break;
+					
+				case 'luminosity':
+					grey = ( 0.21 * red ) + ( 0.71 * green ) + ( 0.07 * blue );
+					break;
+			}
+ 			image_data.data[ index ] = grey;
+ 			image_data.data[ index + 1 ] = grey;
+ 			image_data.data[ index + 2 ] = grey;
+ 			image_data.data[ index + 3 ] = 255;
+ 			
+ 			pixel_data[r][c].grey = grey;
+			pixel_data[r][c].value = 1.0 - ( grey / 255.0 );
+		}
+	}
+	
+	greyscale_image_context.putImageData( image_data, 0, 0 );
+}
+
+// should only be called after generate_greyscale
+function generate_halftone()
+{
+	var current_pulse_size = 0;	
+
+	for( var r = 0; r < size.height; r ++ )
+	{
+		for( var c = 0; c < size.width; c++ )
+		{
+			pixel_data[r][c].pdm = 0;
+		}
+	}
+
+	var number_of_squares = {
+		width: Math.ceil( size.width / square_size ),
+		height: Math.ceil( size.height / square_size )
+	};
+	
+	for( var h = 0; h < number_of_squares.height; h++ )
+	{
+		for( var w = 0; w < number_of_squares.width; w++ )
+		{
+			current_pulse_size = 0;
+			var sr = h * square_size;
+			var sc = w * square_size;			
+			var row = 0, col = 0;
+			var r = 0, c = 0;
+			
+			var step = 0;
+			var value = 0;
+			while( row < square_size-1 || col < square_size-1 )
+			{
+				var update = false;
+				switch( step )
+				{
+					case( 0 ): // initial [0,0]
+						if( !within_bounds(row,col) ) { step++; break; }
+						if( !is_valid_index(sr,sc,row,col) ) { step++; break; }
+						update = true; step++;
+						break;
+					
+					case( 1 ): // down
+						r = row + 1; c = col;
+						if( !within_bounds(r,c) ) { step++; break; }
+						row = r;
+						if( !is_valid_index(sr,sc,row,col) ) { step++; break; }
+						update = true; step++
+						break;
+						
+					case( 2 ): // up-right
+						r = row - 1; c = col + 1;
+						if( !within_bounds(r,c) ) { step++; break; }
+						row = r; col = c;
+						if( !is_valid_index(sr,sc,row,col) ) { break; }
+						update = true;
+						break;
+						
+					case( 3 ): // right
+						r = row; c = col + 1;
+						if( !within_bounds(r,c) ) { step++; break; }
+						col = c;
+						if( !is_valid_index(sr,sc,row,col) ) { step+=2; break; }
+						update = true; step+=2;
+						break;
+					
+					case( 4 ): // down
+						r = row + 1; c = col;
+						if( !within_bounds(r,c) ) { step++; break; }
+						row = r;
+						if( !is_valid_index(sr,sc,row,col) ) { step++; break; }
+						update = true; step++;
+						break;
+						
+					case( 5 ): // down-left
+						r = row + 1; c = col - 1;
+						if( !within_bounds(r,c) ) { step++; break; }
+						row = r; col = c;
+						if( !is_valid_index(sr,sc,row,col) ) { break; }
+						update = true; 
+						break;
+						
+					case( 6 ): // down
+						r = row + 1; c = col;
+						if( !within_bounds(r,c) ) { step++; break; }
+						row = r;
+						if( !is_valid_index(sr,sc,row,col) ) { step=2; break; }
+						update = true; step=2;
+						break;
+						
+					case( 7 ): // right
+						r = row; c = col + 1;
+						if( !within_bounds(r,c) ) { step++; break; }
+						col = c;
+						if( !is_valid_index(sr,sc,row,col) ) { step=2; break; }
+						update = true; step=2;
+						break;
+
+					default:
+						step = 1;
+				}
+
+				if( update )
+				{
+					current_pulse_size += pixel_data[sr+row][sc+col].value;
+					if( current_pulse_size > max_pulse_size )
+					{
+						pixel_data[sr+row][sc+col].pdm = 1;
+						current_pulse_size -= max_pulse_size;
+					}
+				}
+			}
+		}
+	}	
+	
+ 	centroids = [];
+ 	for( var r = 0; r < size.height; r++ )
+ 	{
+ 		for( var c = 0; c < size.width; c++ )
+ 		{
+ 			var color = 255;
+ 			if( pixel_data[r][c].pdm > 0 ) 
+ 			{
+ 				color = 0;
+ 				centroids.push( [ c, r ] );
+ 			}
+ 			
+ 			var index = ( c + (r * size.width) ) * 4;
+ 			image_data.data[ index ] = color;
+ 			image_data.data[ index + 1 ] = color;
+ 			image_data.data[ index + 2 ] = color;
+ 			image_data.data[ index + 3 ] = 255;
+ 		}
+ 	}
+ 	
+ 	halftone_point_image_context.putImageData( image_data, 0, 0 );
+}
+
+// should only be called after generate_halftone
+function generate_stipple()
+{
+	calculate_regions();
+	
+	pass_count = 0;
+	d3.select('#log').text( 'Pass '+(pass_count + 1) );
+	window.setTimeout( calculate_voronoi, 100 );
+}
+
+
+function calculate_regions()
+{
+	var region_divider = 100.0 / regions;
+
+	for( var r = 0; r < size.height; r++ )
+	{
+		for( var c = 0; c < size.width; c++ )
+		{
+			pixel_data[r][c].region = Math.floor( (pixel_data[r][c].value * 100.0) / region_divider ) + 1;
+		}
+	}
+}
+
+
+function calculate_voronoi()
+{
+ 	if( max_passes == 0 ) { draw(); return; }
+ 	
+ 	var polygons = voronoi( centroids );
+	for( var i = 0; i < polygons.length; i++ )
+	{
+		var old_centroid = centroids[i];
+		var new_centroid = d3.geom.polygon( polygons[i] ).centroid();
+
+		var old_region = pixel_data[ Math.floor(old_centroid[1]) ][ Math.floor(old_centroid[0]) ].region;
+		var new_region = pixel_data[ Math.floor(new_centroid[1]) ][ Math.floor(new_centroid[0]) ].region;
+
+		if( old_region == 0 )
+		{
+			centroids.splice( i, 1 );
+			polygons.splice( i, 1 );
+			i--;
+			continue;
+		}
+
+		if( new_region >= old_region ) { centroids[i] = new_centroid; continue; }
+		
+		for( var j = 0; j < 4; j++ )
+		{
+			var midpoint_centroid = [
+				(new_centroid[0] + old_centroid[0]) / 2,
+				(new_centroid[1] + old_centroid[1]) / 2
+			];
+			new_region = pixel_data[ Math.floor(new_centroid[1]) ][ Math.floor(new_centroid[0]) ].region;
+			
+			if( new_region >= old_region ) { centroids[i] = midpoint_centroid; break; }
+			new_centroid = midpoint_centroid;
+		}
+	}
+	
+	pass_count++;
+	if( pass_count < max_passes )
+	{
+		d3.select('#log').text( 'Pass '+(pass_count + 1) );
+		window.setTimeout( calculate_voronoi, 100 );
+	}
+	else
+	{
+		d3.select('#log').text('Drawing...');
+		window.setTimeout( draw, 100 );
+	}
+}
+
+function draw()
+{
+	d3.select('#stipple-dot-image')
+		.selectAll('circle')
+		.data(centroids)
+		.enter()
+			.append('circle')
+				.attr( 'class', 'point' )
+				.attr( 'transform', function(d)
+					{
+						return 'translate('+d+')';
+					})
+				.attr( 'r', 0.75 );
+
+	d3.select('#stipple-scaled-dot-image')
+		.selectAll('circle')
+		.data(centroids)
+		.enter()
+			.append('circle')
+				.attr( 'class', 'point' )
+				.attr( 'transform', function(d)
+					{
+						return 'translate('+[ scale.width(d[0]), scale.height(d[1]) ]+')';
+					})
+				.attr( 'r', 1.5 );
+				
+	//alert('done');
+	d3.select('#log').text('DONE');
+}
+
+function get_image_size( src )
+{
+	var image = new Image();
+	image.src = src;
+	return { 'width': image.width, 'height': image.height };
+}
+
+function within_bounds( row, col )
+{
+	if( row < square_size && row >= 0 && col < square_size && col >= 0 )
+		return true;
+	return false;
+}
+
+function is_valid_index( sr, sc, row, col )
+{
+	if( pixel_data.length <= sr + row || pixel_data[sr+row].length <= sc + col  )
+		return false;
+	return true;
+}
+	
+</script>
+
+<div id="notes"></div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

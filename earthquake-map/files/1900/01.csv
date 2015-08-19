@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1900-01-31T19:22:00.000Z,48,146,450,7.5,mj,0,,,,centennial,centennial19000131192200,2013-07-09T19:07:15.000Z,"northwest of the Kuril Islands",earthquake
+1900-01-20T06:33:00.000Z,20,-105,0,7.3,mw,0,,,,centennial,centennial19000120063300,2013-07-09T19:07:15.000Z,"Jalisco, Mexico",earthquake
+1900-01-18T07:46:00.000Z,44.5,148.5,35,6.7,mj,0,,,,centennial,centennial19000118074600,2013-07-09T19:07:15.000Z,"Kuril Islands",earthquake
+1900-01-11T09:07:00.000Z,-5,148,0,7,ms,0,,,,centennial,centennial19000111090700,2013-07-09T19:07:15.000Z,"Bismarck Sea",earthquake
+1900-01-05T19:00:00.000Z,-3,102,0,7,ms,0,,,,centennial,centennial19000105190000,2013-07-09T19:07:15.000Z,"southern Sumatra, Indonesia",earthquake

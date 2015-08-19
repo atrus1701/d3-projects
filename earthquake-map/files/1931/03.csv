@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-03-29T17:51:49.000Z,42.918,143.866,89.7,6.6,uk,30,,,,centennial,centennial19310329175149,2013-07-09T19:07:20.000Z,"Hokkaido, Japan region",earthquake
+1931-03-28T12:38:48.000Z,-7.369,129.491,150.9,7.2,mb,67,,,,centennial,centennial19310328123848,2013-07-09T19:07:20.000Z,"Kepulauan Babar, Indonesia",earthquake
+1931-03-19T06:25:06.000Z,18.11,120.354,35,6.7,uk,55,,,,centennial,centennial19310319062506,2013-07-09T19:07:20.000Z,"Luzon, Philippines",earthquake
+1931-03-18T20:13:41.000Z,5.642,126.424,35,6.8,ms,42,,,,centennial,centennial19310318201341,2013-07-09T19:07:20.000Z,"Mindanao, Philippines",earthquake
+1931-03-18T08:02:23.000Z,-33.825,-71.546,35,7.1,ms,23,,,,centennial,centennial19310318080223,2013-07-09T19:07:20.000Z,"Region Metropolitana, Chile",earthquake
+1931-03-11T12:26:46.000Z,23.133,143.647,35,6.6,uk,23,,,,centennial,centennial19310311122646,2013-07-09T19:07:20.000Z,"Volcano Islands, Japan region",earthquake
+1931-03-09T03:48:56.000Z,40.484,142.664,35,7.7,mw,61,,,,centennial,centennial19310309034856,2013-07-09T19:07:20.000Z,"near the east coast of Honshu, Japan",earthquake
+1931-03-08T01:50:23.000Z,41.337,22.666,25,6.6,uk,32,,,,centennial,centennial19310308015023,2013-07-09T19:07:20.000Z,"Macedonia",earthquake
+1931-03-02T02:18:25.000Z,-21.828,171.147,35,7,mb,45,,,,centennial,centennial19310302021825,2013-07-09T19:07:20.000Z,"southeast of the Loyalty Islands",earthquake

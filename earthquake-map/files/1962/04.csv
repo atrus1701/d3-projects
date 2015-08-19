@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1962-04-30T16:16:48.000Z,-18.334,-175.844,7.2,6.5,uk,110,,,,centennial,centennial19620430161648,2013-07-09T19:07:27.000Z,"Tonga",earthquake
+1962-04-26T07:26:26.000Z,-17.864,-178.694,550.6,7.5,uk,94,,,,centennial,centennial19620426072626,2013-07-09T19:07:27.000Z,"Fiji region",earthquake
+1962-04-23T05:58:10.000Z,42.519,144.087,35,6.9,ms,191,,,,centennial,centennial19620423055810,2013-07-09T19:07:27.000Z,"Hokkaido, Japan region",earthquake
+1962-04-20T05:47:58.000Z,20.391,-72.085,34.3,6.5,ms,176,,,,centennial,centennial19620420054758,2013-07-09T19:07:27.000Z,"Haiti region",earthquake
+1962-04-12T00:52:42.000Z,38.076,142.74,24.5,7.2,mw,204,,,,centennial,centennial19620412005242,2013-07-09T19:07:27.000Z,"near the east coast of Honshu, Japan",earthquake

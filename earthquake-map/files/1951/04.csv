@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1951-04-16T19:52:57.000Z,31,138.5,470,6.6,uk,0,,,,centennial,centennial19510416195257,2013-07-09T19:07:24.000Z,"Izu Islands, Japan region",earthquake
+1951-04-14T00:45:29.000Z,-23.3,-66.4,223,6.8,uk,0,,,,centennial,centennial19510414004529,2013-07-09T19:07:24.000Z,"Jujuy, Argentina",earthquake
+1951-04-10T10:55:38.000Z,-15.5,-173,0,6.6,uk,0,,,,centennial,centennial19510410105538,2013-07-09T19:07:24.000Z,"Samoa Islands region",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1961-09-19T02:25:51.000Z,-20.447,-63.063,576.5,6.5,uk,145,,,,centennial,centennial19610919022551,2013-07-09T19:07:27.000Z,"Santa Cruz, Bolivia",earthquake
+1961-09-08T11:26:32.000Z,-56.254,-27.278,103.9,7.6,mb,172,,,,centennial,centennial19610908112632,2013-07-09T19:07:27.000Z,"South Sandwich Islands region",earthquake
+1961-09-01T18:50:38.000Z,13.817,-92.33,41.6,6.5,uk,124,,,,centennial,centennial19610901185038,2013-07-09T19:07:27.000Z,"offshore Guatemala",earthquake
+1961-09-01T00:09:38.000Z,-59.26,-26.582,129.6,7.2,mb,160,,,,centennial,centennial19610901000938,2013-07-09T19:07:27.000Z,"South Sandwich Islands region",earthquake

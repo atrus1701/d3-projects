@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-01-30T03:45:00.000Z,-22,170,0,7,ms,0,,,,centennial,centennial19100130034500,2013-07-09T19:07:16.000Z,"southeast of the Loyalty Islands",earthquake
+1910-01-23T18:49:42.000Z,12,-60.5,100,6.9,mb,0,,,,centennial,centennial19100123184942,2013-07-09T19:07:16.000Z,"Tobago region, Trinidad and Tobago",earthquake
+1910-01-22T08:48:30.000Z,67.5,-17,0,6.9,ms,0,,,,centennial,centennial19100122084830,2013-07-09T19:07:16.000Z,"Iceland region",earthquake
+1910-01-08T14:49:30.000Z,35,122,0,6.6,uk,0,,,,centennial,centennial19100108144930,2013-07-09T19:07:16.000Z,"Yellow Sea",earthquake
+1910-01-01T11:02:00.000Z,16.5,-84,60,7.1,mw,0,,,,centennial,centennial19100101110200,2013-07-09T19:07:16.000Z,"offshore Honduras",earthquake

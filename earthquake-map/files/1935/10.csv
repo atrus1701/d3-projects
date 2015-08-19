@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1935-10-18T11:05:27.000Z,12.322,141.705,35,6.9,ms,35,,,,centennial,centennial19351018110527,2013-07-09T19:07:21.000Z,"Mariana Islands region",earthquake
+1935-10-18T00:11:59.000Z,40.394,144.156,35,7.1,mw,34,,,,centennial,centennial19351018001159,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake
+1935-10-12T16:45:25.000Z,40.266,143.318,35,7.1,mw,44,,,,centennial,centennial19351012164525,2013-07-09T19:07:21.000Z,"off the east coast of Honshu, Japan",earthquake
+1935-10-02T05:32:58.000Z,43.202,146.83,35,6.9,mb,86,,,,centennial,centennial19351002053258,2013-07-09T19:07:21.000Z,"Kuril Islands",earthquake

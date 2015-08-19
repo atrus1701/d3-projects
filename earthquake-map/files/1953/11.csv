@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-11-26T08:14:17.000Z,34.75,141.75,33,6.6,ms,0,,,,centennial,centennial19531126081417,2013-07-09T19:07:25.000Z,"off the east coast of Honshu, Japan",earthquake
+1953-11-25T17:48:53.000Z,34.015,141.817,15,7.9,mw,0,,,,centennial,centennial19531125174853,2013-07-09T19:07:25.000Z,"off the east coast of Honshu, Japan",earthquake
+1953-11-17T13:29:54.000Z,13.395,-92.099,20,6.9,ms,0,,,,centennial,centennial19531117132954,2013-07-09T19:07:25.000Z,"offshore Guatemala",earthquake
+1953-11-13T19:15:40.000Z,-13,166.4,0,6.5,ms,0,,,,centennial,centennial19531113191540,2013-07-09T19:07:25.000Z,"Santa Cruz Islands",earthquake
+1953-11-10T23:40:24.000Z,51.116,157.499,36.2,7,mb,0,,,,centennial,centennial19531110234024,2013-07-09T19:07:25.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1953-11-04T03:49:12.000Z,-13.006,166.343,33.3,7.5,mw,0,,,,centennial,centennial19531104034912,2013-07-09T19:07:25.000Z,"Vanuatu",earthquake

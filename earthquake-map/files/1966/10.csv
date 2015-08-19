@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-10-29T02:39:28.000Z,38.877,21.176,15.1,5.7,mb,136,,,,centennial,centennial19661029023928,2013-07-09T19:07:32.000Z,"Greece",earthquake
+1966-10-27T14:21:03.000Z,22.143,145.946,8.8,6,mb,203,,,,centennial,centennial19661027142103,2013-07-09T19:07:32.000Z,"Volcano Islands, Japan region",earthquake
+1966-10-26T18:28:56.000Z,-18.273,167.655,44.2,5.5,mb,59,,,,centennial,centennial19661026182856,2013-07-09T19:07:32.000Z,"Vanuatu",earthquake
+1966-10-19T08:01:33.000Z,-1.583,-15.39,19.5,6.8,uk,219,,,,centennial,centennial19661019080133,2013-07-09T19:07:32.000Z,"north of Ascension Island",earthquake
+1966-10-17T23:46:53.000Z,-10.228,-79.663,44.4,5.5,mb,54,,,,centennial,centennial19661017234653,2013-07-09T19:07:32.000Z,"off the coast of central Peru",earthquake
+1966-10-17T21:41:57.000Z,-10.799,-78.68,34.3,8.2,mw,196,,,,centennial,centennial19661017214157,2013-07-09T19:07:32.000Z,"near the coast of central Peru",earthquake
+1966-10-16T12:55:32.000Z,-56.16,-27.317,104.7,5.7,mb,99,,,,centennial,centennial19661016125532,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1966-10-12T00:06:37.000Z,-12.007,121.676,14,5.7,mb,139,,,,centennial,centennial19661012000637,2013-07-09T19:07:32.000Z,"south of Timor",earthquake
+1966-10-11T06:25:57.000Z,-60.447,-26.501,35.9,5.8,mb,147,,,,centennial,centennial19661011062557,2013-07-09T19:07:32.000Z,"South Sandwich Islands region",earthquake
+1966-10-08T00:12:14.000Z,-16.557,-177.365,3.1,5.6,mb,66,,,,centennial,centennial19661008001214,2013-07-09T19:07:32.000Z,"Fiji region",earthquake
+1966-10-07T15:55:12.000Z,-21.622,170.626,166.5,6,mb,165,,,,centennial,centennial19661007155512,2013-07-09T19:07:32.000Z,"southeast of the Loyalty Islands",earthquake

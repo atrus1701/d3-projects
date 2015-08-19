@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1935-07-29T07:38:51.000Z,-21.537,-177.919,454.9,7.1,mb,113,,,,centennial,centennial19350729073851,2013-07-09T19:07:21.000Z,"Fiji region",earthquake
+1935-07-17T10:46:15.000Z,-59.779,-24.025,35,6.6,uk,26,,,,centennial,centennial19350717104615,2013-07-09T19:07:21.000Z,"South Sandwich Islands region",earthquake

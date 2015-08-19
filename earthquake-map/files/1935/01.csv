@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1935-01-23T07:24:08.000Z,52.517,-169.461,35,6.6,uk,97,,,,centennial,centennial19350123072408,2013-07-09T19:07:21.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1935-01-01T13:20:35.000Z,-15.719,-174.526,35,7,mb,63,,,,centennial,centennial19350101132035,2013-07-09T19:07:21.000Z,"Tonga",earthquake

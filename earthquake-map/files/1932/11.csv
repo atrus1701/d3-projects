@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-11-29T11:10:59.000Z,-32.331,-71.42,35,6.6,uk,21,,,,centennial,centennial19321129111059,2013-07-09T19:07:20.000Z,"Valparaiso, Chile",earthquake
+1932-11-26T04:23:59.000Z,42.379,142.543,45.5,6.6,uk,45,,,,centennial,centennial19321126042359,2013-07-09T19:07:20.000Z,"Hokkaido, Japan region",earthquake
+1932-11-13T04:46:28.000Z,43.841,136.881,35,7.1,mb,82,,,,centennial,centennial19321113044628,2013-07-09T19:07:20.000Z,"eastern Sea of Japan",earthquake
+1932-11-02T11:03:24.000Z,-22.977,-112.338,15,6.6,uk,38,,,,centennial,centennial19321102110324,2013-07-09T19:07:20.000Z,"Easter Island region",earthquake

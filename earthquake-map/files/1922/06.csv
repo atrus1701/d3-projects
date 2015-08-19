@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1922-06-12T04:47:34.000Z,23.198,-108.908,15,6.6,uk,9,,,,centennial,centennial19220612044734,2013-07-09T19:07:18.000Z,"Gulf of California",earthquake
+1922-06-02T20:11:51.000Z,7.404,127.299,35,6.6,uk,14,,,,centennial,centennial19220602201151,2013-07-09T19:07:18.000Z,"Philippine Islands region",earthquake

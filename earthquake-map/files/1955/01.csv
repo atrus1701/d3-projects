@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-01-13T02:03:49.000Z,52.826,-167.443,34.9,6.7,ms,0,,,,centennial,centennial19550113020349,2013-07-09T19:07:25.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1955-01-08T07:34:08.000Z,-12.384,166.529,300,6.6,ms,0,,,,centennial,centennial19550108073408,2013-07-09T19:07:25.000Z,"Santa Cruz Islands",earthquake
+1955-01-05T23:42:11.000Z,-16.08,167.402,25,6.6,ms,0,,,,centennial,centennial19550105234211,2013-07-09T19:07:25.000Z,"Vanuatu",earthquake
+1955-01-05T17:48:41.000Z,-16.291,167.361,21.3,6.7,ms,0,,,,centennial,centennial19550105174841,2013-07-09T19:07:25.000Z,"Vanuatu",earthquake
+1955-01-05T00:50:21.000Z,-49.658,163.01,35,7.1,mw,0,,,,centennial,centennial19550105005021,2013-07-09T19:07:25.000Z,"Auckland Islands, New Zealand region",earthquake

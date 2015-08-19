@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-06-30T08:33:32.000Z,51.755,176.622,47.2,5.6,uk,165,,,,centennial,centennial19650630083332,2013-07-09T19:07:30.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1965-06-30T02:53:13.000Z,-1.708,126.556,12.9,6,uk,107,,,,centennial,centennial19650630025313,2013-07-09T19:07:30.000Z,"Kepulauan Sula, Indonesia",earthquake
+1965-06-28T03:33:36.000Z,-5.089,153.13,32.6,5.8,uk,135,,,,centennial,centennial19650628033336,2013-07-09T19:07:30.000Z,"New Ireland region, Papua New Guinea",earthquake
+1965-06-27T09:45:44.000Z,-54.517,5.311,3.2,5.8,mb,68,,,,centennial,centennial19650627094544,2013-07-09T19:07:30.000Z,"Bouvet Island region",earthquake
+1965-06-24T07:45:15.000Z,6.982,126.172,51.7,5.7,mb,116,,,,centennial,centennial19650624074515,2013-07-09T19:07:30.000Z,"Mindanao, Philippines",earthquake
+1965-06-23T11:09:15.000Z,56.493,-152.834,20,6.4,uk,175,,,,centennial,centennial19650623110915,2013-07-09T19:07:30.000Z,"Kodiak Island region, Alaska",earthquake
+1965-06-22T23:48:09.000Z,7.153,123.514,63,5.9,mb,132,,,,centennial,centennial19650622234809,2013-07-09T19:07:30.000Z,"Mindanao, Philippines",earthquake
+1965-06-21T00:21:14.000Z,28.097,55.843,15.6,5.6,uk,129,,,,centennial,centennial19650621002114,2013-07-09T19:07:30.000Z,"southern Iran",earthquake
+1965-06-15T23:10:25.000Z,-20.864,173.88,8.2,6.2,uk,65,,,,centennial,centennial19650615231025,2013-07-09T19:07:30.000Z,"Vanuatu region",earthquake
+1965-06-15T09:20:31.000Z,-37.833,177.583,66.6,5.5,mb,58,,,,centennial,centennial19650615092031,2013-07-09T19:07:30.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1965-06-14T07:30:40.000Z,-39.541,46.149,1.2,5.7,mb,52,,,,centennial,centennial19650614073040,2013-07-09T19:07:30.000Z,"Southwest Indian Ridge",earthquake
+1965-06-13T07:06:15.000Z,41.757,143.597,37.4,5.8,uk,169,,,,centennial,centennial19650613070615,2013-07-09T19:07:30.000Z,"Hokkaido, Japan region",earthquake
+1965-06-12T18:50:12.000Z,-20.46,-69.11,102.6,5.7,mb,119,,,,centennial,centennial19650612185012,2013-07-09T19:07:30.000Z,"Tarapaca, Chile",earthquake
+1965-06-12T05:40:59.000Z,44.081,149.195,40.1,5.6,mb,130,,,,centennial,centennial19650612054059,2013-07-09T19:07:30.000Z,"Kuril Islands",earthquake
+1965-06-11T07:11:05.000Z,44.329,149.219,30.4,5.5,mb,125,,,,centennial,centennial19650611071105,2013-07-09T19:07:30.000Z,"Kuril Islands",earthquake
+1965-06-11T03:41:03.000Z,44.478,148.953,31.7,5.5,mb,36,,,,centennial,centennial19650611034103,2013-07-09T19:07:30.000Z,"Kuril Islands",earthquake
+1965-06-11T03:33:46.000Z,44.612,148.936,46.2,7.1,mw,231,,,,centennial,centennial19650611033346,2013-07-09T19:07:30.000Z,"Kuril Islands",earthquake
+1965-06-02T23:40:23.000Z,15.848,-46.67,21.8,5.8,uk,183,,,,centennial,centennial19650602234023,2013-07-09T19:07:30.000Z,"northern Mid-Atlantic Ridge",earthquake

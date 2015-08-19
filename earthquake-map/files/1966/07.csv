@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-07-29T11:46:11.000Z,-10.533,163.165,27.3,5.5,mb,47,,,,centennial,centennial19660729114611,2013-07-09T19:07:32.000Z,"Solomon Islands",earthquake
+1966-07-27T04:49:01.000Z,-24.111,-70.254,33.1,5.6,uk,128,,,,centennial,centennial19660727044901,2013-07-09T19:07:32.000Z,"Antofagasta, Chile",earthquake
+1966-07-22T10:17:22.000Z,51.568,-173.536,38.1,5.6,mb,205,,,,centennial,centennial19660722101722,2013-07-09T19:07:32.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1966-07-21T18:30:15.000Z,-17.873,-178.515,586,6.1,mb,118,,,,centennial,centennial19660721183015,2013-07-09T19:07:32.000Z,"Fiji region",earthquake
+1966-07-21T03:33:07.000Z,-52.833,160.421,12.5,5.6,mb,27,,,,centennial,centennial19660721033307,2013-07-09T19:07:32.000Z,"Macquarie Island region",earthquake
+1966-07-19T01:40:55.000Z,56.231,164.848,10.6,6.1,uk,187,,,,centennial,centennial19660719014055,2013-07-09T19:07:32.000Z,"Komandorskiye Ostrova, Russia region",earthquake
+1966-07-12T18:53:11.000Z,44.608,37.31,39.8,5.5,uk,132,,,,centennial,centennial19660712185311,2013-07-09T19:07:31.000Z,"Caucasus region, Russia",earthquake
+1966-07-10T16:12:43.000Z,24.316,125.217,32.1,5.8,mb,177,,,,centennial,centennial19660710161243,2013-07-09T19:07:31.000Z,"southwestern Ryukyu Islands, Japan",earthquake
+1966-07-06T19:23:36.000Z,-4.545,-105.175,18.5,6,uk,43,,,,centennial,centennial19660706192336,2013-07-09T19:07:31.000Z,"central East Pacific Rise",earthquake
+1966-07-04T18:33:38.000Z,51.823,179.875,15,7.3,mw,232,,,,centennial,centennial19660704183338,2013-07-09T19:07:31.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1966-07-04T02:55:38.000Z,51.756,176.436,32.3,5.5,mb,156,,,,centennial,centennial19660704025538,2013-07-09T19:07:31.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1966-07-01T05:50:39.000Z,24.806,122.505,110.2,6.1,mb,224,,,,centennial,centennial19660701055039,2013-07-09T19:07:31.000Z,"Taiwan region",earthquake

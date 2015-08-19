@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1915-12-17T07:04:47.000Z,42,79.5,0,6.5,ms,0,,,,centennial,centennial19151217070447,2013-07-09T19:07:17.000Z,"Kyrgyzstan",earthquake
+1915-12-06T20:58:00.000Z,41,145,35,6.5,mj,0,,,,centennial,centennial19151206205800,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1915-12-03T02:39:19.000Z,29.5,91.5,0,7,ms,0,,,,centennial,centennial19151203023919,2013-07-09T19:07:17.000Z,"eastern Xizang",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1906-06-24T11:17:49.000Z,15,92,60,7.1,uk,0,,,,centennial,centennial19060624111749,2013-07-09T19:07:16.000Z,"Bay of Bengal",earthquake
+1906-06-19T11:22:41.000Z,20,122,60,6.9,uk,0,,,,centennial,centennial19060619112241,2013-07-09T19:07:16.000Z,"Batan Islands region, Philippines",earthquake
+1906-06-01T04:30:00.000Z,0,145,0,7.1,mw,0,,,,centennial,centennial19060601043000,2013-07-09T19:07:16.000Z,"Ninigo Islands region, Papua New Guinea",earthquake

@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-02-28T04:25:35.000Z,36.168,-10.572,12.8,5.6,mb,144,,,,centennial,centennial19690228042535,2013-07-09T19:07:35.000Z,"Azores-Cape St. Vincent Ridge",earthquake
+1969-02-28T02:40:33.000Z,35.918,-10.578,21.3,7.8,mw,250,,,,centennial,centennial19690228024033,2013-07-09T19:07:35.000Z,"Azores-Cape St. Vincent Ridge",earthquake
+1969-02-24T00:08:50.000Z,-6.254,131.039,71.4,5.6,mb,137,,,,centennial,centennial19690224000850,2013-07-09T19:07:35.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1969-02-23T06:03:52.000Z,-3.495,118.911,27.6,5.6,ms,70,,,,centennial,centennial19690223060352,2013-07-09T19:07:35.000Z,"Sulawesi, Indonesia",earthquake
+1969-02-23T00:37:04.000Z,-3.191,118.794,61.5,5.9,mb,188,,,,centennial,centennial19690223003704,2013-07-09T19:07:35.000Z,"Sulawesi, Indonesia",earthquake
+1969-02-20T16:58:14.000Z,3.592,128.284,38.1,5.8,ms,88,,,,centennial,centennial19690220165814,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-02-20T10:30:20.000Z,3.502,128.331,48.3,5.8,mb,145,,,,centennial,centennial19690220103020,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-02-20T09:55:31.000Z,3.516,128.12,10.2,6.4,ms,129,,,,centennial,centennial19690220095531,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-02-17T00:43:03.000Z,3.78,128.348,36.9,6.5,ms,140,,,,centennial,centennial19690217004303,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-02-11T22:16:12.000Z,-6.788,126.685,426.8,7.2,ms,139,,,,centennial,centennial19690211221612,2013-07-09T19:07:35.000Z,"Banda Sea",earthquake
+1969-02-11T22:08:53.000Z,41.424,79.238,13.1,6.9,uk,165,,,,centennial,centennial19690211220853,2013-07-09T19:07:35.000Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1969-02-10T23:02:59.000Z,-22.904,178.74,666.1,5.8,mb,27,,,,centennial,centennial19690210230259,2013-07-09T19:07:35.000Z,"south of the Fiji Islands",earthquake
+1969-02-10T22:58:05.000Z,-22.798,178.793,659.2,7.2,ms,207,,,,centennial,centennial19690210225805,2013-07-09T19:07:35.000Z,"south of the Fiji Islands",earthquake
+1969-02-04T04:10:19.000Z,-8.111,-80.094,47.7,5.9,ms,166,,,,centennial,centennial19690204041019,2013-07-09T19:07:35.000Z,"off the coast of northern Peru",earthquake
+1969-02-04T01:38:30.000Z,-0.733,121.538,53.9,6.1,ms,135,,,,centennial,centennial19690204013830,2013-07-09T19:07:35.000Z,"Sulawesi, Indonesia",earthquake
+1969-02-03T21:41:48.000Z,4.797,127.528,73.9,6.1,mb,201,,,,centennial,centennial19690203214148,2013-07-09T19:07:35.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1969-02-03T19:01:33.000Z,4.329,128.099,45.3,5.5,ms,120,,,,centennial,centennial19690203190133,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake
+1969-02-02T01:38:48.000Z,3.87,128.24,51.4,5.8,ms,127,,,,centennial,centennial19690202013848,2013-07-09T19:07:35.000Z,"north of Halmahera, Indonesia",earthquake

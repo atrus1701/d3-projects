@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-03-22T20:04:00.000Z,35,141.5,35,6.6,mj,0,,,,centennial,centennial19090322200400,2013-07-09T19:07:16.000Z,"near the east coast of Honshu, Japan",earthquake
+1909-03-17T22:53:00.000Z,-2,121,0,6.9,ms,0,,,,centennial,centennial19090317225300,2013-07-09T19:07:16.000Z,"Sulawesi, Indonesia",earthquake
+1909-03-17T22:26:00.000Z,30.5,137.5,450,6.7,mj,0,,,,centennial,centennial19090317222600,2013-07-09T19:07:16.000Z,"Izu Islands, Japan region",earthquake
+1909-03-13T14:29:00.000Z,34.5,141.5,35,7.6,mb,0,,,,centennial,centennial19090313142900,2013-07-09T19:07:16.000Z,"off the east coast of Honshu, Japan",earthquake
+1909-03-12T23:19:00.000Z,34.5,141.5,35,6.9,uk,0,,,,centennial,centennial19090312231900,2013-07-09T19:07:16.000Z,"off the east coast of Honshu, Japan",earthquake
+1909-03-10T23:55:00.000Z,30.5,130.5,100,6.5,mj,0,,,,centennial,centennial19090310235500,2013-07-09T19:07:16.000Z,"Kyushu, Japan",earthquake

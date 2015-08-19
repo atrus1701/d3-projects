@@ -1,0 +1,34 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-10-31T12:10:22.000Z,-38.772,176.493,88.8,5.6,mb,46,,,,centennial,centennial19711031121022,2013-07-09T19:07:39.000Z,"North Island of New Zealand",earthquake
+1971-10-30T20:48:50.000Z,22.987,121.359,43.4,5.5,ms,147,,,,centennial,centennial19711030204850,2013-07-09T19:07:39.000Z,"Taiwan region",earthquake
+1971-10-30T14:16:24.000Z,32.071,137.727,387.3,5.5,mb,253,,,,centennial,centennial19711030141624,2013-07-09T19:07:39.000Z,"Izu Islands, Japan region",earthquake
+1971-10-29T14:06:31.000Z,49.856,154.854,120,5.6,mb,223,,,,centennial,centennial19711029140631,2013-07-09T19:07:39.000Z,"Kuril Islands",earthquake
+1971-10-28T18:00:03.000Z,-13.431,166.483,49.8,6.7,ms,153,,,,centennial,centennial19711028180003,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1971-10-28T15:13:39.000Z,-5.466,153.847,120.2,5.8,mb,122,,,,centennial,centennial19711028151339,2013-07-09T19:07:39.000Z,"New Ireland region, Papua New Guinea",earthquake
+1971-10-27T17:58:40.000Z,-15.582,167.319,61.6,6.3,mb,202,,,,centennial,centennial19711027175840,2014-03-17T19:56:06.861Z,"Vanuatu",earthquake
+1971-10-25T03:46:40.000Z,-13.12,166.509,57.1,6.2,ms,149,,,,centennial,centennial19711025034640,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1971-10-24T14:21:07.000Z,-15.252,-173.743,101.9,5.5,mb,63,,,,centennial,centennial19711024142107,2013-07-09T19:07:39.000Z,"Tonga",earthquake
+1971-10-24T02:21:04.000Z,11.879,142.369,32.2,6,ms,167,,,,centennial,centennial19711024022104,2013-07-09T19:07:39.000Z,"south of the Mariana Islands",earthquake
+1971-10-24T01:37:32.000Z,11.901,142.438,35.6,6.4,ms,178,,,,centennial,centennial19711024013732,2013-07-09T19:07:39.000Z,"south of the Mariana Islands",earthquake
+1971-10-23T23:01:22.000Z,-57.311,-25.539,50.5,5.5,mb,95,,,,centennial,centennial19711023230122,2013-07-09T19:07:39.000Z,"South Sandwich Islands region",earthquake
+1971-10-23T22:33:31.000Z,11.859,142.539,18,6.3,ms,166,,,,centennial,centennial19711023223331,2013-07-09T19:07:39.000Z,"south of the Mariana Islands",earthquake
+1971-10-23T01:41:11.000Z,-54.765,146.514,12.4,6.2,ms,84,,,,centennial,centennial19711023014111,2013-07-09T19:07:39.000Z,"west of Macquarie Island",earthquake
+1971-10-22T05:00:00.000Z,51.575,54.536,6,5.3,,,,,,atlas,atlas19711022050000,2014-03-17T19:55:52.147Z,"Russia-Kazakhstan border region",earthquake
+1971-10-21T06:02:57.000Z,49.993,77.648,0,5.6,,,,,,atlas,atlas19711021060257,2014-03-17T19:55:37.187Z,"eastern Kazakhstan",earthquake
+1971-10-19T11:02:40.000Z,52.611,-166.943,32.1,5.6,mb,190,,,,centennial,centennial19711019110240,2013-07-09T19:07:39.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1971-10-18T12:55:39.000Z,-22.627,171.205,67.2,5.7,mb,114,,,,centennial,centennial19711018125539,2013-07-09T19:07:39.000Z,"southeast of the Loyalty Islands",earthquake
+1971-10-16T21:54:29.000Z,-3.445,127.17,66.4,5.5,mb,82,,,,centennial,centennial19711016215429,2013-07-09T19:07:39.000Z,"Seram, Indonesia",earthquake
+1971-10-16T05:15:26.000Z,-5.966,154.372,77.4,5.6,mb,141,,,,centennial,centennial19711016051526,2013-07-09T19:07:39.000Z,"Bougainville region, Papua New Guinea",earthquake
+1971-10-15T10:33:50.000Z,-14.183,-73.399,80,5.7,mb,90,,,,centennial,centennial19711015103350,2013-07-09T19:07:39.000Z,"central Peru",earthquake
+1971-10-14T22:36:33.000Z,-54.184,2.205,9.5,6.3,ms,66,,,,centennial,centennial19711014223633,2013-07-09T19:07:39.000Z,"Bouvet Island region",earthquake
+1971-10-14T13:08:05.000Z,-4.287,152.4949,25,5.5,,,,,,atlas,atlas19711014130805,2014-03-17T19:55:24.426Z,"New Britain region, Papua New Guinea",earthquake
+1971-10-13T22:36:05.000Z,-21.831,-68.293,118,5.6,mb,128,,,,centennial,centennial19711013223605,2013-07-09T19:07:39.000Z,"Antofagasta, Chile",earthquake
+1971-10-13T11:50:34.000Z,2.833,132.76,20.5,5.5,mb,70,,,,centennial,centennial19711013115034,2013-07-09T19:07:39.000Z,"Palau region",earthquake
+1971-10-12T09:45:00.000Z,15.797,-91.137,35.5,5.7,ms,185,,,,centennial,centennial19711012094500,2014-03-17T19:55:07.466Z,"Guatemala",earthquake
+1971-10-09T13:15:39.000Z,24.885,122.014,95.8,5.7,mb,215,,,,centennial,centennial19711009131539,2013-07-09T19:07:39.000Z,"Taiwan region",earthquake
+1971-10-09T06:02:57.000Z,50,77.697,0,5.4,,,,,,atlas,atlas19711009060257,2014-03-17T19:54:52.594Z,"eastern Kazakhstan",earthquake
+1971-10-08T16:04:45.000Z,-18.098,-178.219,539.3,5.6,mb,186,,,,centennial,centennial19711008160445,2013-07-09T19:07:39.000Z,"Fiji region",earthquake
+1971-10-08T14:15:38.000Z,-6.856,144.305,21.8,5.6,mb,82,,,,centennial,centennial19711008141538,2013-07-09T19:07:38.000Z,"New Guinea, Papua New Guinea",earthquake
+1971-10-04T01:30:33.000Z,-5.835,154.194,48.6,6.6,uk,206,,,,centennial,centennial19711004013033,2014-03-17T19:54:40.008Z,"Bougainville region, Papua New Guinea",earthquake
+1971-10-03T13:24:38.000Z,-14.555,171.75,3.6,6.4,ms,114,,,,centennial,centennial19711003132438,2013-07-09T19:07:38.000Z,"Vanuatu region",earthquake
+1971-10-03T08:36:06.000Z,-6.553,154.974,60.7,5.9,mb,183,,,,centennial,centennial19711003083606,2013-07-09T19:07:38.000Z,"Bougainville region, Papua New Guinea",earthquake

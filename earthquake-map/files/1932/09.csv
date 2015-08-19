@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-09-26T19:20:48.000Z,40.333,23.732,35,6.7,uk,37,,,,centennial,centennial19320926192048,2013-07-09T19:07:20.000Z,"Greece",earthquake
+1932-09-23T14:22:15.000Z,44.486,138.722,350,7,mb,7,,,,centennial,centennial19320923142215,2013-07-09T19:07:20.000Z,"eastern Sea of Japan",earthquake
+1932-09-15T13:54:57.000Z,-38.956,177.455,35,6.6,uk,23,,,,centennial,centennial19320915135457,2013-07-09T19:07:20.000Z,"North Island of New Zealand",earthquake
+1932-09-03T11:58:55.000Z,40.939,143.456,35,6.6,uk,46,,,,centennial,centennial19320903115855,2013-07-09T19:07:20.000Z,"off the east coast of Honshu, Japan",earthquake

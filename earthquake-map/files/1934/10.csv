@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-10-26T17:11:13.000Z,29.373,131.392,35,6.6,uk,55,,,,centennial,centennial19341026171113,2013-07-09T19:07:20.000Z,"southeast of the Ryukyu Islands, Japan",earthquake
+1934-10-26T14:44:33.000Z,-6.626,124.035,643.9,6.6,uk,55,,,,centennial,centennial19341026144433,2013-07-09T19:07:20.000Z,"Banda Sea",earthquake
+1934-10-10T15:42:09.000Z,-23.748,179.782,529.8,7.2,mb,95,,,,centennial,centennial19341010154209,2013-07-09T19:07:20.000Z,"south of the Fiji Islands",earthquake

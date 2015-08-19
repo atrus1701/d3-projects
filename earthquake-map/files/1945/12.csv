@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1945-12-28T17:48:53.000Z,-6.003,150.618,35,7.6,mw,0,,,,centennial,centennial19451228174853,2013-07-09T19:07:23.000Z,"New Britain region, Papua New Guinea",earthquake
+1945-12-27T04:41:05.000Z,-6,151,40,6.9,ms,0,,,,centennial,centennial19451227044105,2013-07-09T19:07:23.000Z,"New Britain region, Papua New Guinea",earthquake
+1945-12-08T01:04:07.000Z,-5.74,150.374,35,7.1,ms,0,,,,centennial,centennial19451208010407,2013-07-09T19:07:23.000Z,"New Britain region, Papua New Guinea",earthquake

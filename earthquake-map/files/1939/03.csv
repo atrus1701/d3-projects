@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1939-03-21T01:11:13.000Z,-1.285,89.401,15,7,ms,65,,,,centennial,centennial19390321011113,2013-07-09T19:07:21.000Z,"South Indian Ocean",earthquake
+1939-03-08T21:58:19.000Z,-6.756,155.34,35,6.6,uk,40,,,,centennial,centennial19390308215819,2013-07-09T19:07:21.000Z,"Bougainville region, Papua New Guinea",earthquake
+1939-03-02T07:00:20.000Z,-4.383,143.155,35,7,mb,29,,,,centennial,centennial19390302070020,2013-07-09T19:07:21.000Z,"New Guinea, Papua New Guinea",earthquake

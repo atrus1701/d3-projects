@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-07-26T07:36:58.000Z,-24.204,-70.632,35,6.6,uk,43,,,,centennial,centennial19360726073658,2013-07-09T19:07:21.000Z,"near the coast of Antofagasta, Chile",earthquake
+1936-07-13T11:12:17.000Z,-24.715,-70.023,35,7.1,mw,68,,,,centennial,centennial19360713111217,2013-07-09T19:07:21.000Z,"Antofagasta, Chile",earthquake
+1936-07-05T18:55:14.000Z,5.856,127.024,35,7.3,mb,57,,,,centennial,centennial19360705185514,2013-07-09T19:07:21.000Z,"Philippine Islands region",earthquake

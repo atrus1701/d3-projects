@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1908-10-24T21:16:36.000Z,36.5,70.5,220,7,mb,0,,,,centennial,centennial19081024211636,2013-07-09T19:07:16.000Z,"Hindu Kush region, Afghanistan",earthquake
+1908-10-23T20:14:06.000Z,36.5,70.5,220,6.9,mb,0,,,,centennial,centennial19081023201406,2013-07-09T19:07:16.000Z,"Hindu Kush region, Afghanistan",earthquake
+1908-10-13T05:06:00.000Z,18,-102,0,6.9,ms,0,,,,centennial,centennial19081013050600,2013-07-09T19:07:16.000Z,"Guerrero, Mexico",earthquake
+1908-10-06T21:39:48.000Z,45.5,26.5,150,6.6,uk,0,,,,centennial,centennial19081006213948,2013-07-09T19:07:16.000Z,"Romania",earthquake

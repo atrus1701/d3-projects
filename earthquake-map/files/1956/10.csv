@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1956-10-31T14:03:49.000Z,27.299,54.407,35,6.6,ms,99,,,,centennial,centennial19561031140349,2013-07-09T19:07:26.000Z,"southern Iran",earthquake
+1956-10-28T03:28:45.000Z,-33.389,-178.683,49.4,6.6,ms,102,,,,centennial,centennial19561028032845,2013-07-09T19:07:26.000Z,"south of the Kermadec Islands",earthquake
+1956-10-24T14:42:16.000Z,11.619,-86.436,35,7.2,mw,101,,,,centennial,centennial19561024144216,2013-07-09T19:07:26.000Z,"near the coast of Nicaragua",earthquake
+1956-10-23T08:41:28.000Z,13.59,120.58,115,6.5,ms,0,,,,centennial,centennial19561023084128,2013-07-09T19:07:26.000Z,"Mindoro, Philippines",earthquake
+1956-10-11T02:24:37.000Z,45.904,150.607,101.4,7.3,mb,181,,,,centennial,centennial19561011022437,2013-07-09T19:07:26.000Z,"Kuril Islands",earthquake

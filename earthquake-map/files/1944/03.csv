@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-03-31T02:51:43.000Z,-5.511,131.456,35,7,ms,0,,,,centennial,centennial19440331025143,2013-07-09T19:07:22.000Z,"Banda Sea",earthquake
+1944-03-22T00:43:13.000Z,-8.172,123.594,157.4,7.2,mb,0,,,,centennial,centennial19440322004313,2013-07-09T19:07:22.000Z,"Flores region, Indonesia",earthquake
+1944-03-09T22:13:00.000Z,43.223,84.031,35,7.1,ms,0,,,,centennial,centennial19440309221300,2013-07-09T19:07:22.000Z,"northern Xinjiang, China",earthquake

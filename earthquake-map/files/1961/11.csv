@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1961-11-19T23:22:00.000Z,0.617,124.172,189.5,6.6,ms,97,,,,centennial,centennial19611119232200,2013-07-09T19:07:27.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1961-11-15T07:17:13.000Z,42.699,145.382,47.5,6.8,ms,188,,,,centennial,centennial19611115071713,2013-07-09T19:07:27.000Z,"Hokkaido, Japan region",earthquake

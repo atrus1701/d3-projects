@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-11-23T06:29:30.000Z,50.7,157.2,33,6.8,ms,0,,,,centennial,centennial19551123062930,2013-07-09T19:07:26.000Z,"Kuril Islands",earthquake
+1955-11-22T03:24:04.000Z,-24.4,-122.6,0,6.6,uk,0,,,,centennial,centennial19551122032404,2013-07-09T19:07:26.000Z,"southern East Pacific Rise",earthquake
+1955-11-17T06:53:34.000Z,-26.2,-70.2,64,6.5,ms,0,,,,centennial,centennial19551117065334,2013-07-09T19:07:26.000Z,"Atacama, Chile",earthquake
+1955-11-10T01:44:05.000Z,-15.547,-173.637,66.4,7,ms,0,,,,centennial,centennial19551110014405,2013-07-09T19:07:26.000Z,"Tonga",earthquake
+1955-11-04T22:44:05.000Z,-34.4,-70.1,128,6.5,ms,0,,,,centennial,centennial19551104224405,2013-07-09T19:07:26.000Z,"Libertador General Bernardo O'Higgins, Chile",earthquake

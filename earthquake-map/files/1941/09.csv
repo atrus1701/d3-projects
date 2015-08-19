@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1941-09-24T01:01:17.000Z,49.551,158.344,33.8,6.8,mb,61,,,,centennial,centennial19410924010117,2013-07-09T19:07:22.000Z,"east of the Kuril Islands",earthquake
+1941-09-18T13:14:09.000Z,-13.928,-72.294,61,7,mb,57,,,,centennial,centennial19410918131409,2013-07-09T19:07:22.000Z,"central Peru",earthquake
+1941-09-17T06:48:03.000Z,-0.078,122.013,193.3,6.9,mb,23,,,,centennial,centennial19410917064803,2013-07-09T19:07:22.000Z,"Sulawesi, Indonesia",earthquake
+1941-09-16T21:39:08.000Z,-29.484,-177.398,35,6.9,ms,51,,,,centennial,centennial19410916213908,2013-07-09T19:07:22.000Z,"Kermadec Islands, New Zealand",earthquake
+1941-09-12T07:02:04.000Z,-0.719,132.522,35,6.9,ms,33,,,,centennial,centennial19410912070204,2013-07-09T19:07:22.000Z,"near the north coast of Papua, Indonesia",earthquake
+1941-09-04T10:21:40.000Z,-5.073,153.686,35,7.1,mb,56,,,,centennial,centennial19410904102140,2013-07-09T19:07:22.000Z,"New Ireland region, Papua New Guinea",earthquake

@@ -1,0 +1,28 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-09-29T05:12:20.000Z,3.122,127.839,112.8,5.5,mb,40,,,,centennial,centennial19680929051220,2013-07-09T19:07:34.000Z,"Kepulauan Talaud, Indonesia",earthquake
+1968-09-28T13:53:36.000Z,-13.168,-76.36,70.4,5.9,mb,153,,,,centennial,centennial19680928135336,2013-07-09T19:07:34.000Z,"near the coast of central Peru",earthquake
+1968-09-27T19:06:43.000Z,-3.664,143.37,4.8,6.5,ms,110,,,,centennial,centennial19680927190643,2013-07-09T19:07:34.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1968-09-27T16:56:04.000Z,-3.507,143.286,5,5.6,ms,10,,,,centennial,centennial19680927165604,2013-07-09T19:07:34.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1968-09-27T16:41:09.000Z,-30.79,-177.624,30.8,5.5,mb,114,,,,centennial,centennial19680927164109,2013-07-09T19:07:34.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-09-27T03:59:00.000Z,-6.971,129.212,160.6,5.9,mb,140,,,,centennial,centennial19680927035900,2013-07-09T19:07:34.000Z,"Banda Sea",earthquake
+1968-09-26T18:02:53.000Z,-30.577,-177.948,49.2,6.8,ms,197,,,,centennial,centennial19680926180253,2013-07-09T19:07:34.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-09-26T14:37:47.000Z,-20.959,-176.849,249.9,6,mb,136,,,,centennial,centennial19680926143747,2013-07-09T19:07:34.000Z,"Fiji region",earthquake
+1968-09-25T10:38:38.000Z,15.545,-92.664,121.9,5.8,mb,153,,,,centennial,centennial19680925103838,2013-07-09T19:07:34.000Z,"Chiapas, Mexico",earthquake
+1968-09-25T07:02:50.000Z,-46.615,166.333,10,6.3,ms,58,,,,centennial,centennial19680925070250,2013-07-09T19:07:34.000Z,"off the west coast of the South Island of New Zealand",earthquake
+1968-09-22T21:52:58.000Z,-24.189,-66.985,181.6,5.5,mb,77,,,,centennial,centennial19680922215258,2013-07-09T19:07:34.000Z,"Salta, Argentina",earthquake
+1968-09-21T13:06:02.000Z,42.115,142.62,57.4,6.2,uk,221,,,,centennial,centennial19680921130602,2013-07-09T19:07:34.000Z,"Hokkaido, Japan region",earthquake
+1968-09-20T06:00:04.000Z,10.734,-62.718,102.7,6.2,mb,254,,,,centennial,centennial19680920060004,2013-07-09T19:07:34.000Z,"Sucre, Venezuela",earthquake
+1968-09-18T11:43:43.000Z,-18.234,167.272,7.7,5.8,mb,95,,,,centennial,centennial19680918114343,2013-07-09T19:07:34.000Z,"Vanuatu",earthquake
+1968-09-17T17:49:46.000Z,-15.074,-175.533,5.5,5.6,ms,51,,,,centennial,centennial19680917174946,2013-07-09T19:07:34.000Z,"Tonga",earthquake
+1968-09-16T13:55:36.000Z,-6.032,148.742,43.3,6.8,uk,154,,,,centennial,centennial19680916135536,2013-07-09T19:07:34.000Z,"New Britain region, Papua New Guinea",earthquake
+1968-09-14T13:48:28.000Z,28.334,53.178,6.3,5.6,ms,154,,,,centennial,centennial19680914134828,2013-07-09T19:07:34.000Z,"southern Iran",earthquake
+1968-09-12T22:44:07.000Z,-21.579,-179.221,635.5,6.1,ms,209,,,,centennial,centennial19680912224407,2013-07-09T19:07:34.000Z,"Fiji region",earthquake
+1968-09-11T18:26:37.000Z,-43.017,-75.405,22,5.5,ms,141,,,,centennial,centennial19680911182637,2013-07-09T19:07:34.000Z,"offshore Los Lagos, Chile",earthquake
+1968-09-09T00:37:47.000Z,-8.676,-74.477,141.9,5.9,mb,86,,,,centennial,centennial19680909003747,2013-07-09T19:07:34.000Z,"central Peru",earthquake
+1968-09-08T15:12:27.000Z,-3.732,143.07,43.8,6.1,ms,164,,,,centennial,centennial19680908151227,2013-07-09T19:07:34.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1968-09-06T19:22:49.000Z,31.023,131.821,37.7,5.7,mb,180,,,,centennial,centennial19680906192249,2013-07-09T19:07:34.000Z,"Kyushu, Japan",earthquake
+1968-09-05T17:02:48.000Z,-6.169,142.767,8.5,5.6,mb,49,,,,centennial,centennial19680905170248,2013-07-09T19:07:34.000Z,"New Guinea, Papua New Guinea",earthquake
+1968-09-03T15:36:59.000Z,20.616,-62.289,13.3,5.9,ms,136,,,,centennial,centennial19680903153659,2013-07-09T19:07:34.000Z,"north of Anguilla, Leeward Islands",earthquake
+1968-09-03T08:19:53.000Z,41.772,32.451,3.5,5.7,mb,135,,,,centennial,centennial19680903081953,2013-07-09T19:07:34.000Z,"central Turkey",earthquake
+1968-09-01T07:27:31.000Z,34.073,58.206,8.4,6.3,ms,178,,,,centennial,centennial19680901072731,2013-07-09T19:07:34.000Z,"northeastern Iran",earthquake
+1968-09-01T04:48:52.000Z,-1.125,-24.6,23.6,5.6,ms,77,,,,centennial,centennial19680901044852,2013-07-09T19:07:34.000Z,"central Mid-Atlantic Ridge",earthquake

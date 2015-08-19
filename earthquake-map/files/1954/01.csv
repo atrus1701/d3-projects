@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1954-01-13T00:13:09.000Z,-49,165.8,0,6.7,ms,0,,,,centennial,centennial19540113001309,2013-07-09T19:07:25.000Z,"off the west coast of the South Island of New Zealand",earthquake
+1954-01-12T14:20:30.000Z,-48.2,164.2,0,6.5,ms,0,,,,centennial,centennial19540112142030,2013-07-09T19:07:25.000Z,"off the west coast of the South Island of New Zealand",earthquake
+1954-01-12T14:16:25.000Z,-48.2,164.2,0,6.5,ms,0,,,,centennial,centennial19540112141625,2013-07-09T19:07:25.000Z,"off the west coast of the South Island of New Zealand",earthquake

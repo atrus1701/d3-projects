@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1910-02-18T05:09:18.000Z,36,24.5,150,6.9,mb,0,,,,centennial,centennial19100218050918,2013-07-09T19:07:16.000Z,"southern Greece",earthquake
+1910-02-12T18:10:06.000Z,33,138,350,7.2,mb,0,,,,centennial,centennial19100212181006,2013-07-09T19:07:16.000Z,"near the south coast of Honshu, Japan",earthquake
+1910-02-04T14:00:00.000Z,-17,168,0,7,ms,0,,,,centennial,centennial19100204140000,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake
+1910-02-03T16:34:00.000Z,-17,168,0,6.8,ms,0,,,,centennial,centennial19100203163400,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake

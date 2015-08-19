@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1902-04-19T02:23:00.000Z,14,-91,0,7.5,mw,0,,,,centennial,centennial19020419022300,2013-07-09T19:07:15.000Z,"Guatemala",earthquake
+1902-04-11T23:43:00.000Z,51.6,104.5,16,6.6,ms,0,,,,centennial,centennial19020411234300,2013-07-09T19:07:15.000Z,"Lake Baykal region, Russia",earthquake

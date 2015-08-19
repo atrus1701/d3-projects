@@ -1,0 +1,31 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1972-01-29T20:34:15.000Z,-5.456,131.381,74.5,5.5,mb,59,,,,centennial,centennial19720129203415,2013-07-09T19:07:39.000Z,"Banda Sea",earthquake
+1972-01-28T10:26:53.000Z,26.64,66.317,33,5.9,,,,,,atlas,atlas19720128102653,2014-03-17T20:00:43.165Z,"Pakistan",earthquake
+1972-01-28T01:16:22.000Z,-19.373,169.21,125.8,6.1,mb,191,,,,centennial,centennial19720128011622,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1972-01-26T23:00:23.000Z,-20.204,-178.859,643.1,6.5,ms,233,,,,centennial,centennial19720126230023,2013-07-09T19:07:39.000Z,"Fiji region",earthquake
+1972-01-25T03:41:22.000Z,23.037,122.117,12.2,7,ms,226,,,,centennial,centennial19720125034122,2014-03-17T20:00:30.097Z,"Taiwan region",earthquake
+1972-01-25T02:06:21.000Z,22.55,122.325,10,7.5,mw,292,,,,centennial,centennial19720125020621,2014-03-17T20:00:17.652Z,"Taiwan region",earthquake
+1972-01-24T19:38:08.000Z,-26.161,-177.219,97.8,5.5,mb,111,,,,centennial,centennial19720124193808,2013-07-09T19:07:39.000Z,"south of the Fiji Islands",earthquake
+1972-01-24T03:55:46.000Z,-13.104,166.458,45.8,6.2,ms,120,,,,centennial,centennial19720124035546,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1972-01-23T21:17:55.000Z,-13.231,166.371,51.5,7.1,ms,182,,,,centennial,centennial19720123211755,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1972-01-23T18:04:03.000Z,-13.194,166.549,41.1,5.7,ms,72,,,,centennial,centennial19720123180403,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1972-01-23T17:18:41.000Z,-13.174,166.474,42.5,5.6,ms,74,,,,centennial,centennial19720123171841,2013-07-09T19:07:39.000Z,"Vanuatu",earthquake
+1972-01-22T21:50:37.000Z,-20.405,172.939,6.5,6.3,ms,87,,,,centennial,centennial19720122215037,2013-07-09T19:07:39.000Z,"Vanuatu region",earthquake
+1972-01-22T13:08:48.000Z,14.007,-91.035,69.8,5.5,mb,185,,,,centennial,centennial19720122130848,2013-07-09T19:07:39.000Z,"Guatemala",earthquake
+1972-01-21T19:18:58.000Z,-6.695,-71.799,565,6,ms,199,,,,centennial,centennial19720121191858,2013-07-09T19:07:39.000Z,"Amazonas, Brazil",earthquake
+1972-01-20T11:36:29.000Z,36.362,70.732,213.9,5.8,mb,226,,,,centennial,centennial19720120113629,2013-07-09T19:07:39.000Z,"Hindu Kush region, Afghanistan",earthquake
+1972-01-19T15:00:53.000Z,-4.675,144.965,12,6.4,ms,133,,,,centennial,centennial19720119150053,2014-03-17T20:00:01.306Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1972-01-18T22:08:14.000Z,-4.725,145.037,29.6,6.4,uk,66,,,,centennial,centennial19720118220814,2014-03-17T19:59:44.652Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1972-01-18T21:55:16.000Z,-4.818,145.081,26.2,6.6,ms,134,,,,centennial,centennial19720118215516,2014-03-17T19:59:25.922Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1972-01-15T20:21:48.000Z,40.224,78.97,10.5,5.9,ms,163,,,,centennial,centennial19720115202148,2014-03-17T19:59:11.171Z,"southern Xinjiang, China",earthquake
+1972-01-15T03:39:18.000Z,-18.27,-174.558,131.9,5.6,mb,128,,,,centennial,centennial19720115033918,2013-07-09T19:07:39.000Z,"Tonga",earthquake
+1972-01-12T09:59:10.000Z,-6.855,-71.76,570.2,6.4,ms,223,,,,centennial,centennial19720112095910,2014-03-17T19:58:50.151Z,"Amazonas, Brazil",earthquake
+1972-01-08T11:34:50.000Z,-55.785,-28.809,57.7,6.2,mb,110,,,,centennial,centennial19720108113450,2013-07-09T19:07:39.000Z,"South Sandwich Islands region",earthquake
+1972-01-08T05:27:55.000Z,20.97,120.28,39,6.3,ms,277,,,,centennial,centennial19720108052755,2013-07-09T19:07:39.000Z,"Philippine Islands region",earthquake
+1972-01-07T06:25:49.000Z,-2.061,139.008,23.3,5.9,ms,159,,,,centennial,centennial19720107062549,2014-03-17T19:58:34.080Z,"near the north coast of Papua, Indonesia",earthquake
+1972-01-06T12:13:43.000Z,-16.751,175.89,48.3,5.7,ms,51,,,,centennial,centennial19720106121343,2013-07-09T19:07:39.000Z,"Fiji region",earthquake
+1972-01-06T00:30:18.000Z,-4.602,151.83,162.2,5.9,mb,211,,,,centennial,centennial19720106003018,2013-07-09T19:07:39.000Z,"New Britain region, Papua New Guinea",earthquake
+1972-01-04T18:09:51.000Z,-0.133,124.917,66.5,5.5,mb,81,,,,centennial,centennial19720104180951,2013-07-09T19:07:39.000Z,"Molucca Sea",earthquake
+1972-01-04T03:16:55.000Z,22.533,122.019,27.3,6.9,ms,260,,,,centennial,centennial19720104031655,2014-03-17T19:58:20.539Z,"Taiwan region",earthquake
+1972-01-02T21:57:01.000Z,16.044,-98.28,15,5.5,mb,95,,,,centennial,centennial19720102215701,2013-07-09T19:07:39.000Z,"offshore Oaxaca, Mexico",earthquake
+1972-01-01T22:05:53.000Z,-16.853,174.943,1.3,6.4,uk,130,,,,centennial,centennial19720101220553,2013-07-09T19:07:39.000Z,"Fiji region",earthquake

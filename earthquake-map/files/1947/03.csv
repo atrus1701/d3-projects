@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-03-25T20:32:36.000Z,-38.447,176.816,160,7,ms,0,,,,centennial,centennial19470325203236,2013-07-09T19:07:23.000Z,"North Island of New Zealand",earthquake
+1947-03-17T08:19:38.000Z,33.274,99.695,35,7.5,mw,0,,,,centennial,centennial19470317081938,2013-07-09T19:07:23.000Z,"Qinghai-Sichuan border region, China",earthquake
+1947-03-02T19:09:26.000Z,-5,144.5,50,6.8,ms,0,,,,centennial,centennial19470302190926,2013-07-09T19:07:23.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1938-02-05T02:23:40.000Z,4.555,-75.919,155.7,6.9,mb,74,,,,centennial,centennial19380205022340,2013-07-09T19:07:21.000Z,"Colombia",earthquake
+1938-02-01T19:04:21.000Z,-5.05,131.62,35,8.6,mw,60,,,,centennial,centennial19380201190421,2013-07-09T19:07:21.000Z,"Banda Sea",earthquake

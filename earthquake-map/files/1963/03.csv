@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-03-28T00:15:50.000Z,66.283,-19.882,15,6.8,ms,149,,,,centennial,centennial19630328001550,2013-07-09T19:07:28.000Z,"Iceland region",earthquake
+1963-03-26T13:25:02.000Z,-30.045,-177.705,35,6.8,ms,147,,,,centennial,centennial19630326132502,2013-07-09T19:07:28.000Z,"Kermadec Islands, New Zealand",earthquake
+1963-03-26T09:48:20.000Z,-30.113,-177.535,35,7.4,mw,217,,,,centennial,centennial19630326094820,2013-07-09T19:07:28.000Z,"Kermadec Islands, New Zealand",earthquake
+1963-03-16T08:44:52.000Z,46.617,154.893,35,7.2,mw,224,,,,centennial,centennial19630316084452,2013-07-09T19:07:28.000Z,"east of the Kuril Islands",earthquake

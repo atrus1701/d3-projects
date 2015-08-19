@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-07-23T14:20:59.000Z,-6.653,155.446,400,6.6,uk,28,,,,centennial,centennial19310723142059,2013-07-09T19:07:20.000Z,"Bougainville region, Papua New Guinea",earthquake
+1931-07-21T03:36:13.000Z,-20.922,170.187,35,6.9,mb,55,,,,centennial,centennial19310721033613,2013-07-09T19:07:20.000Z,"Vanuatu",earthquake
+1931-07-18T11:23:51.000Z,54.277,160.998,42.3,6.6,uk,87,,,,centennial,centennial19310718112351,2013-07-09T19:07:20.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1931-07-18T05:27:04.000Z,-20.824,-68.394,35,6.6,uk,16,,,,centennial,centennial19310718052704,2013-07-09T19:07:20.000Z,"Potosi, Bolivia",earthquake

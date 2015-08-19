@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1958-11-12T20:23:32.000Z,44.047,148.818,35,7,mw,188,,,,centennial,centennial19581112202332,2013-07-09T19:07:26.000Z,"Kuril Islands",earthquake
+1958-11-08T09:22:55.000Z,51.811,159.769,9,6.6,ms,151,,,,centennial,centennial19581108092255,2013-07-09T19:07:26.000Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+1958-11-06T22:58:09.000Z,44.311,148.65,35,8.4,mw,220,,,,centennial,centennial19581106225809,2013-07-09T19:07:26.000Z,"Kuril Islands",earthquake

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+
+body {
+	background-color:#eee;
+}
+
+#map svg{
+	border:solid 1px #ccc;
+	display:block;
+	width:960px;
+	margin:10px auto;
+	background-color:#fff;
+}
+
+#map .background {
+	fill: none;
+	pointer-events: all;
+}
+
+#map .states {
+	fill: #aaa;
+}
+
+#map .state-borders {
+	fill: none;
+	stroke: #fff;
+	stroke-width: 1.5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	pointer-events: none;
+}
+
+#map .counties {
+}
+
+#map .points {
+	stroke: black;
+	stroke: rgba( 0, 0, 0, 0.8 );
+	stroke-width: 0.5px;
+	fill: #646464;
+	fill: rgba( 100, 100, 100, 0.3 );
+}
+
+#map .counties {
+  fill: none;
+}
+
+
+</style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="./d3/d3.v3.min.js"></script>
+<script src="./d3/queue.v1.min.js"></script>
+<script src="./d3/topojson.v1.min.js"></script>
+<script>
+
+var width = 960,
+    height = 500;
+
+var projection = d3.geo.albersUsa()
+    .scale( 1070 )
+    .translate( [width / 2, height / 2] );
+
+var path = d3.geo.path()
+    .projection( projection );
+
+var zoom = d3.behavior.zoom()
+    .translate( projection.translate() )
+    .scale( projection.scale() )
+    .scaleExtent( [height, 16 * height] )
+    .on( 'zoom', zoomed );
+
+var population_by_id = d3.map();
+
+var max_population = 500000;
+var mp3 = max_population / 3;
+var color_scale = d3.scale.linear().domain( [0, mp3, mp3*2, max_population] ).range( ['#04b404', '#aeb404', '#b45f04', '#b40404'] );
+
+var svg = d3.select( '#map' )
+	.append( 'svg' )
+    	.attr( 'width', width )
+    	.attr( 'height', height );
+
+var g = svg.append( 'g' )
+    .call( zoom );
+
+g.append( 'rect' )
+    .attr( 'class', 'background' )
+    .attr( 'width', width )
+    .attr( 'height', height );
+
+queue()
+    .defer( d3.json, 'us.json' )
+    .defer( d3.csv, 'farmers-market.csv' )
+    .defer( d3.csv, 'CO-EST2012-Alldata.csv', function( d ) 
+    	{
+    		var id = (parseInt(d['STATE']) * 1000 + parseInt(d['COUNTY']))+'';
+    		population_by_id.set( id, +d['POPESTIMATE2012']); 
+    	})
+    .await( ready );
+
+
+var farmers_markets_data = null;
+var farmers_markets_g = null;
+
+function ready( error, us, farmers_markets )
+{
+    if( error )
+    {
+        console.log( error );
+        jQuery( '#notes' )
+        	.append( error );
+        return;
+    }
+    
+    farmers_markets_data = farmers_markets;
+
+	// Draw the states.
+// 	g.append('g')
+//     	.attr('class', 'states')
+//     	.selectAll('path')
+//     		.data(topojson.feature(us, us.objects.states).features)
+// 			.enter()
+// 			.append('path')
+//     			.attr('d', path)
+//     			.on('click', clicked);
+
+	// Draw the counties, coloring by population scale.
+	g.append( 'g' )
+		.attr( 'class', 'counties' )
+		.selectAll( 'path' )
+			.data( topojson.feature(us, us.objects.counties).features )
+			.enter()
+			.append( 'path' )
+				.attr( 'fill', function(d) { return color_scale(population_by_id.get(d.id)); } )
+				.attr( 'd', path )
+				.on( 'click', clicked );
+
+	// Draw the state's borders.
+	g.append( 'g' )
+		.attr( 'class', 'state-borders' )
+		.append( 'path' )
+    		.datum( topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }) )
+    		.attr( 'class', 'border' )
+    		.attr( 'd', path );
+	
+	// Draw farmer market's points.
+	farmers_markets_g = g.append( 'g' )
+		.attr( 'class','farmers-markets' );
+	
+	addPoints();
+}
+
+
+function addPoints()
+{
+	if( farmers_markets_g === null )
+		return;
+		
+	farmers_markets_g
+		.selectAll( 'circle' )
+			.data( farmers_markets_data )
+			.enter()
+			.append( 'circle' )
+				.attr( 'd', path )
+				.attr( 'transform', function(d)
+					{ 
+						return 'translate(' + projection([parseFloat(d['Longitude']), parseFloat(d['Latitude'])]) + ')';
+					})
+				.attr( 'r', 1 )
+				.attr( 'class', 'market' );
+}
+
+function removePoints()
+{
+	if( farmers_markets_g === null )
+		return;
+		
+	farmers_markets_g.selectAll('circle').data([]).exit().remove();
+}
+
+
+function clicked( d )
+{
+	var centroid = path.centroid( d ),
+    	translate = projection.translate();
+
+	projection.translate([
+		translate[0] - centroid[0] + width / 2,
+		translate[1] - centroid[1] + height / 2
+	]);
+
+	zoom.translate( projection.translate() );
+
+	removePoints();
+	
+	var transition = g.selectAll( 'path' ).transition()
+		.duration( 700 )
+		.attr( 'd', path );
+	
+	transition.call(function()
+	{
+		addPoints();
+	});
+}
+
+function zoomed()
+{
+	removePoints();
+	projection.translate( d3.event.translate ).scale( d3.event.scale );
+	g.selectAll( 'path' ).attr( 'd', path );
+	addPoints();
+}
+
+</script>
+
+
+</body>
+</html>

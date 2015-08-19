@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1962-11-16T21:10:03.000Z,13.306,93.014,29.7,6.5,ms,173,,,,centennial,centennial19621116211003,2013-07-09T19:07:28.000Z,"Andaman Islands, India region",earthquake
+1962-11-11T22:14:20.000Z,-43.219,-76.098,35,6.6,uk,136,,,,centennial,centennial19621111221420,2013-07-09T19:07:28.000Z,"off the coast of Los Lagos, Chile",earthquake
+1962-11-10T01:33:20.000Z,43.35,147.421,71.3,6.5,ms,166,,,,centennial,centennial19621110013320,2013-07-09T19:07:28.000Z,"Kuril Islands",earthquake

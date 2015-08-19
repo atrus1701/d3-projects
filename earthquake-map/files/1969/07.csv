@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-07-28T13:03:20.000Z,30.714,132.513,34.7,5.5,mb,132,,,,centennial,centennial19690728130320,2013-07-09T19:07:35.000Z,"southeast of Shikoku, Japan",earthquake
+1969-07-28T06:29:56.000Z,57.356,-153.904,34.4,5.5,uk,80,,,,centennial,centennial19690728062956,2013-07-09T19:07:35.000Z,"Kodiak Island region, Alaska",earthquake
+1969-07-25T22:49:38.000Z,21.611,111.803,3.7,5.9,ms,132,,,,centennial,centennial19690725224938,2014-04-07T19:48:18.971Z,"Guangdong, China",earthquake
+1969-07-24T12:41:37.000Z,-45.653,35.031,10.6,5.9,ms,50,,,,centennial,centennial19690724124137,2013-07-09T19:07:35.000Z,"Prince Edward Islands region",earthquake
+1969-07-24T02:59:22.000Z,-11.863,-75.085,1.9,5.7,ms,149,,,,centennial,centennial19690724025922,2013-07-09T19:07:35.000Z,"central Peru",earthquake
+1969-07-19T04:54:55.000Z,-17.27,-72.364,55,5.7,uk,177,,,,centennial,centennial19690719045455,2013-07-09T19:07:35.000Z,"near the coast of southern Peru",earthquake
+1969-07-18T23:17:11.000Z,-18.346,-63.379,18.3,5.5,mb,97,,,,centennial,centennial19690718231711,2013-07-09T19:07:35.000Z,"Santa Cruz, Bolivia",earthquake
+1969-07-18T05:24:46.000Z,38.418,119.452,10.9,7.2,mw,269,,,,centennial,centennial19690718052446,2013-07-09T19:07:35.000Z,"Bo Hai, China",earthquake
+1969-07-16T08:16:53.000Z,52.202,158.899,58.1,6.5,uk,256,,,,centennial,centennial19690716081653,2013-07-09T19:07:35.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1969-07-12T19:16:31.000Z,39.825,143.622,20.4,5.6,ms,152,,,,centennial,centennial19690712191631,2013-07-09T19:07:35.000Z,"off the east coast of Honshu, Japan",earthquake
+1969-07-08T08:09:18.000Z,37.564,20.331,22.8,5.5,mb,104,,,,centennial,centennial19690708080918,2013-07-09T19:07:35.000Z,"Ionian Sea",earthquake
+1969-07-07T04:43:17.000Z,16.435,147.407,41.7,5.5,ms,147,,,,centennial,centennial19690707044317,2013-07-09T19:07:35.000Z,"Mariana Islands region",earthquake

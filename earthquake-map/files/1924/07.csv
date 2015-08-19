@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-07-29T05:18:41.000Z,-3.386,121.196,35,6.6,uk,5,,,,centennial,centennial19240729051841,2013-07-09T19:07:19.000Z,"Sulawesi, Indonesia",earthquake
+1924-07-24T04:55:22.000Z,-49.862,159.824,35,7,ms,25,,,,centennial,centennial19240724045522,2013-07-09T19:07:19.000Z,"north of Macquarie Island",earthquake
+1924-07-22T14:23:00.000Z,23.7,122,35,6.8,mj,0,,,,centennial,centennial19240722142300,2013-07-09T19:07:19.000Z,"Taiwan region",earthquake
+1924-07-12T15:12:39.000Z,40.565,73.397,25,6.6,uk,28,,,,centennial,centennial19240712151239,2013-07-09T19:07:19.000Z,"Kyrgyzstan",earthquake
+1924-07-11T19:44:45.000Z,36.791,83.958,35,7.1,mw,32,,,,centennial,centennial19240711194445,2013-07-09T19:07:19.000Z,"southern Xinjiang, China",earthquake
+1924-07-06T14:18:48.000Z,7.051,-78.455,35,6.6,uk,29,,,,centennial,centennial19240706141848,2013-07-09T19:07:19.000Z,"Panama",earthquake
+1924-07-03T04:40:14.000Z,36.632,83.903,35,7.1,mw,40,,,,centennial,centennial19240703044014,2013-07-09T19:07:19.000Z,"southern Xinjiang, China",earthquake

@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1906-08-31T14:57:30.000Z,27,97,100,6.7,mb,0,,,,centennial,centennial19060831145730,2013-07-09T19:07:16.000Z,"Myanmar-India border region",earthquake
+1906-08-30T02:38:00.000Z,-21,-70,0,7.1,mw,0,,,,centennial,centennial19060830023800,2013-07-09T19:07:16.000Z,"Tarapaca, Chile",earthquake
+1906-08-26T05:59:00.000Z,-4,149,0,7,ms,0,,,,centennial,centennial19060826055900,2013-07-09T19:07:16.000Z,"Bismarck Sea",earthquake
+1906-08-25T13:47:36.000Z,9,39,0,6.8,ms,0,,,,centennial,centennial19060825134736,2013-07-09T19:07:16.000Z,"Ethiopia",earthquake
+1906-08-19T09:27:00.000Z,-33,-72,0,6.9,ms,0,,,,centennial,centennial19060819092700,2013-07-09T19:07:16.000Z,"offshore Valparaiso, Chile",earthquake
+1906-08-17T00:40:00.000Z,-32.4,-71.4,0,8.2,mw,0,,,,centennial,centennial19060817004000,2013-07-09T19:07:16.000Z,"Valparaiso, Chile",earthquake
+1906-08-17T00:11:00.000Z,50.6,178.36,0,8.4,mw,0,,,,centennial,centennial19060817001100,2013-07-09T19:07:16.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake

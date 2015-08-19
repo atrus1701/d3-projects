@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-11-30T01:45:53.000Z,-23,-179,180,6.6,uk,0,,,,centennial,centennial19441130014553,2013-07-09T19:07:23.000Z,"south of the Fiji Islands",earthquake
+1944-11-29T18:51:22.000Z,-19.091,169.072,145,7.1,mb,0,,,,centennial,centennial19441129185122,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1944-11-24T04:49:06.000Z,-18.96,169.224,159.5,7.4,mb,0,,,,centennial,centennial19441124044906,2013-07-09T19:07:23.000Z,"Vanuatu",earthquake
+1944-11-16T12:11:00.000Z,-11.863,166.372,35,7.2,mw,0,,,,centennial,centennial19441116121100,2013-07-09T19:07:23.000Z,"Santa Cruz Islands",earthquake
+1944-11-15T20:47:01.000Z,4.796,127.54,50,7,ms,0,,,,centennial,centennial19441115204701,2013-07-09T19:07:23.000Z,"Kepulauan Talaud, Indonesia",earthquake

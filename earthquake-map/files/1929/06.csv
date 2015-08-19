@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1929-06-27T12:47:14.000Z,-54.714,-29.549,35,8,mw,49,,,,centennial,centennial19290627124714,2013-07-09T19:07:20.000Z,"South Sandwich Islands region",earthquake
+1929-06-16T22:47:32.000Z,-41.831,172.292,35,7.5,mw,33,,,,centennial,centennial19290616224732,2013-07-09T19:07:20.000Z,"South Island of New Zealand",earthquake
+1929-06-13T09:24:38.000Z,7.945,126.806,35,7.1,mw,34,,,,centennial,centennial19290613092438,2013-07-09T19:07:20.000Z,"Mindanao, Philippines",earthquake
+1929-06-12T11:42:58.000Z,-4.233,143.644,35,6.6,uk,26,,,,centennial,centennial19290612114258,2013-07-09T19:07:20.000Z,"New Guinea, Papua New Guinea",earthquake
+1929-06-04T15:15:24.000Z,6.021,125.639,35,7.1,mb,14,,,,centennial,centennial19290604151524,2013-07-09T19:07:20.000Z,"Mindanao, Philippines",earthquake
+1929-06-02T21:38:36.000Z,34.045,137.08,348.4,6.9,mb,53,,,,centennial,centennial19290602213836,2013-07-09T19:07:20.000Z,"near the south coast of Honshu, Japan",earthquake

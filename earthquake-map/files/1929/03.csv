@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1929-03-10T14:34:34.000Z,18.761,145.686,35,6.6,uk,13,,,,centennial,centennial19290310143434,2013-07-09T19:07:19.000Z,"Pagan region, Northern Mariana Islands",earthquake
+1929-03-09T10:50:33.000Z,-43.227,173.002,15.2,6.7,uk,12,,,,centennial,centennial19290309105033,2013-07-09T19:07:19.000Z,"off the east coast of the South Island of New Zealand",earthquake
+1929-03-07T01:34:42.000Z,50.786,-169.524,25,7.8,mw,109,,,,centennial,centennial19290307013442,2013-07-09T19:07:19.000Z,"south of the Aleutian Islands",earthquake

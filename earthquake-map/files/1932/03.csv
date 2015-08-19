@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-03-26T09:52:26.000Z,-4.392,128.491,35,6.6,uk,39,,,,centennial,centennial19320326095226,2013-07-09T19:07:20.000Z,"Banda Sea",earthquake
+1932-03-25T23:58:39.000Z,62.355,-153.451,35,6.7,uk,84,,,,centennial,centennial19320325235839,2013-07-09T19:07:20.000Z,"Central Alaska",earthquake
+1932-03-19T10:59:43.000Z,15.733,147.46,35,6.6,uk,32,,,,centennial,centennial19320319105943,2013-07-09T19:07:20.000Z,"Mariana Islands region",earthquake
+1932-03-14T22:42:57.000Z,8.149,-71.974,35,6.6,uk,65,,,,centennial,centennial19320314224257,2013-07-09T19:07:20.000Z,"Tachira, Venezuela",earthquake

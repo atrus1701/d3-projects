@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1944-07-27T00:04:27.000Z,54.276,-165.249,64.6,7.1,mb,0,,,,centennial,centennial19440727000427,2013-07-09T19:07:22.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1944-07-10T13:24:59.000Z,-14.5,-175.5,180,6.6,uk,0,,,,centennial,centennial19440710132459,2013-07-09T19:07:22.000Z,"Samoa Islands region",earthquake

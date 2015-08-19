@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1960-01-23T17:56:33.000Z,-4.16,127.48,0,6.6,uk,0,,,,centennial,centennial19600123175633,2013-07-09T19:07:27.000Z,"Banda Sea",earthquake
+1960-01-15T09:30:16.000Z,-15.082,-75.383,35,6.9,mb,134,,,,centennial,centennial19600115093016,2013-07-09T19:07:27.000Z,"near the coast of central Peru",earthquake
+1960-01-13T15:40:22.000Z,-15.877,-73.059,35,7.5,mb,164,,,,centennial,centennial19600113154022,2013-07-09T19:07:27.000Z,"southern Peru",earthquake
+1960-01-09T07:24:04.000Z,36.475,70.14,222.5,6.6,ms,123,,,,centennial,centennial19600109072404,2013-07-09T19:07:27.000Z,"Hindu Kush region, Afghanistan",earthquake

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1959-08-26T08:25:35.000Z,18.16,-94.41,23.8,6.7,ms,152,,,,centennial,centennial19590826082535,2013-07-09T19:07:27.000Z,"offshore Veracruz, Mexico",earthquake
+1959-08-24T21:30:55.000Z,-10.506,161.336,35,6.7,ms,134,,,,centennial,centennial19590824213055,2013-07-09T19:07:27.000Z,"Solomon Islands",earthquake
+1959-08-18T06:37:19.000Z,44.566,-110.655,15,7.3,mw,193,,,,centennial,centennial19590818063719,2013-07-09T19:07:27.000Z,"Yellowstone National Park, Wyoming",earthquake
+1959-08-18T00:34:03.000Z,21.987,121.533,174.5,6.6,ms,86,,,,centennial,centennial19590818003403,2013-07-09T19:07:27.000Z,"Taiwan region",earthquake
+1959-08-17T21:04:49.000Z,-7.893,156.341,35,7.1,mw,214,,,,centennial,centennial19590817210449,2013-07-09T19:07:27.000Z,"Solomon Islands",earthquake
+1959-08-15T08:57:05.000Z,21.978,120.95,26.8,7.2,mw,163,,,,centennial,centennial19590815085705,2013-07-09T19:07:27.000Z,"Taiwan region",earthquake

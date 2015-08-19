@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1906-12-26T05:54:00.000Z,-20,-73,0,7,ms,0,,,,centennial,centennial19061226055400,2013-07-09T19:07:16.000Z,"off the coast of Tarapaca, Chile",earthquake
+1906-12-23T17:22:00.000Z,56.85,-153.9,0,7.2,mw,0,,,,centennial,centennial19061223172200,2013-07-09T19:07:16.000Z,"Kodiak Island region, Alaska",earthquake
+1906-12-22T18:21:00.000Z,43.5,85,0,7.2,mw,0,,,,centennial,centennial19061222182100,2013-07-09T19:07:16.000Z,"northern Xinjiang, China",earthquake
+1906-12-19T01:14:00.000Z,-19,-172,0,7.2,mw,0,,,,centennial,centennial19061219011400,2013-07-09T19:07:16.000Z,"Tonga region",earthquake
+1906-12-18T20:58:00.000Z,-19,-172,0,6.8,ms,0,,,,centennial,centennial19061218205800,2013-07-09T19:07:16.000Z,"Tonga region",earthquake
+1906-12-03T22:59:24.000Z,15,-61,100,7.2,mb,0,,,,centennial,centennial19061203225924,2013-07-09T19:07:16.000Z,"Martinique region, Windward Islands",earthquake

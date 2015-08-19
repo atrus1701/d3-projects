@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-12-30T13:19:50.000Z,-62.508,166.001,33.2,5.6,mb,13,,,,centennial,centennial19641230131950,2013-07-09T19:07:29.000Z,"Balleny Islands region",earthquake
+1964-12-28T17:04:57.000Z,86.753,68.148,15.5,5.5,mb,78,,,,centennial,centennial19641228170457,2013-07-09T19:07:29.000Z,"north of Franz Josef Land",earthquake
+1964-12-28T16:16:10.000Z,-22.202,-179.574,591.9,6.7,ms,144,,,,centennial,centennial19641228161610,2013-07-09T19:07:29.000Z,"south of the Fiji Islands",earthquake
+1964-12-27T17:43:20.000Z,12.933,125.339,12.5,5.7,mb,108,,,,centennial,centennial19641227174320,2013-07-09T19:07:29.000Z,"Samar, Philippines",earthquake
+1964-12-26T14:30:31.000Z,51.882,156.743,141,5.7,mb,186,,,,centennial,centennial19641226143031,2013-07-09T19:07:29.000Z,"Kamchatka Peninsula, Russia",earthquake
+1964-12-24T18:45:45.000Z,-4.445,153.101,73.4,5.6,mb,109,,,,centennial,centennial19641224184545,2013-07-09T19:07:29.000Z,"New Ireland region, Papua New Guinea",earthquake
+1964-12-23T07:36:10.000Z,-7.246,129.301,154.7,5.6,mb,38,,,,centennial,centennial19641223073610,2013-07-09T19:07:29.000Z,"Kepulauan Babar, Indonesia",earthquake
+1964-12-22T20:54:35.000Z,31.92,-117.087,1.3,5.6,uk,39,,,,centennial,centennial19641222205435,2013-07-09T19:07:29.000Z,"offshore Baja California, Mexico",earthquake
+1964-12-22T04:36:35.000Z,28.168,56.893,22.6,5.7,mb,114,,,,centennial,centennial19641222043635,2013-07-09T19:07:29.000Z,"southern Iran",earthquake
+1964-12-14T01:59:02.000Z,-54.069,-1.93,10,5.7,mb,51,,,,centennial,centennial19641214015902,2013-07-09T19:07:29.000Z,"Bouvet Island region",earthquake
+1964-12-13T00:33:26.000Z,64.832,-165.602,15.3,6,uk,112,,,,centennial,centennial19641213003326,2013-07-09T19:07:29.000Z,"northern Alaska",earthquake
+1964-12-12T07:20:02.000Z,-6.942,150.617,34.7,5.7,mb,86,,,,centennial,centennial19641212072002,2013-07-09T19:07:29.000Z,"New Britain region, Papua New Guinea",earthquake
+1964-12-10T15:11:07.000Z,40.47,139.057,35.6,5.8,mb,183,,,,centennial,centennial19641210151107,2013-07-09T19:07:29.000Z,"near the west coast of Honshu, Japan",earthquake
+1964-12-09T13:35:43.000Z,-27.488,-63.247,582.2,6.3,ms,126,,,,centennial,centennial19641209133543,2013-07-09T19:07:29.000Z,"Santiago Del Estero, Argentina",earthquake
+1964-12-07T18:52:46.000Z,6.704,-82.434,5.7,5.5,mb,61,,,,centennial,centennial19641207185246,2013-07-09T19:07:29.000Z,"south of Panama",earthquake
+1964-12-07T08:58:47.000Z,-5.387,151.291,77.9,5.7,mb,133,,,,centennial,centennial19641207085847,2013-07-09T19:07:29.000Z,"New Britain region, Papua New Guinea",earthquake
+1964-12-03T03:50:00.000Z,-14.911,66.722,26.1,5.8,mb,130,,,,centennial,centennial19641203035000,2013-07-09T19:07:29.000Z,"Mid-Indian Ridge",earthquake
+1964-12-02T13:18:33.000Z,53.668,-165.448,49.5,5.5,mb,92,,,,centennial,centennial19641202131833,2013-07-09T19:07:29.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

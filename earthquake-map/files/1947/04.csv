@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-04-24T19:35:14.000Z,8.5,-39,50,6.6,ms,0,,,,centennial,centennial19470424193514,2013-07-09T19:07:23.000Z,"central Mid-Atlantic Ridge",earthquake
+1947-04-14T07:15:33.000Z,43.847,148.837,15,7.1,ms,0,,,,centennial,centennial19470414071533,2013-07-09T19:07:23.000Z,"east of the Kuril Islands",earthquake
+1947-04-02T05:39:17.000Z,-0.978,137.996,35,7.2,mw,0,,,,centennial,centennial19470402053917,2013-07-09T19:07:23.000Z,"Papua region, Indonesia",earthquake

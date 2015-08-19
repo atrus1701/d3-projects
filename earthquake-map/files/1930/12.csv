@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1930-12-21T14:51:12.000Z,19.986,121.585,35,7,mb,37,,,,centennial,centennial19301221145112,2013-07-09T19:07:20.000Z,"Babuyan Islands region, Philippines",earthquake
+1930-12-03T18:51:49.000Z,17.972,96.422,35,7.3,mw,43,,,,centennial,centennial19301203185149,2013-07-09T19:07:20.000Z,"Myanmar",earthquake

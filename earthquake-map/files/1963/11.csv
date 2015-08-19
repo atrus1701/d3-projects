@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-11-10T01:00:39.000Z,-9.035,-71.362,594.6,6.8,uk,144,,,,centennial,centennial19631110010039,2013-07-09T19:07:28.000Z,"Peru-Brazil border region",earthquake
+1963-11-09T21:15:30.000Z,-8.983,-71.539,577.1,7.7,ms,166,,,,centennial,centennial19631109211530,2013-07-09T19:07:28.000Z,"Acre, Brazil",earthquake
+1963-11-06T02:13:19.000Z,-2.746,138.261,35,6.5,ms,112,,,,centennial,centennial19631106021319,2013-07-09T19:07:28.000Z,"Papua, Indonesia",earthquake
+1963-11-04T01:17:05.000Z,-6.735,129.685,35,7.8,mb,101,,,,centennial,centennial19631104011705,2013-07-09T19:07:28.000Z,"Banda Sea",earthquake

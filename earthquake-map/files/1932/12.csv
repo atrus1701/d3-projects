@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1932-12-31T06:30:55.000Z,-29.084,32.957,15,6.6,uk,29,,,,centennial,centennial19321231063055,2013-07-09T19:07:20.000Z,"off the coast of South Africa",earthquake
+1932-12-25T02:04:31.000Z,39.771,96.69,25,7.6,mw,99,,,,centennial,centennial19321225020431,2013-07-09T19:07:20.000Z,"Gansu, China",earthquake
+1932-12-21T06:10:09.000Z,38.51,-118.084,15,7.1,mw,35,,,,centennial,centennial19321221061009,2013-07-09T19:07:20.000Z,"Nevada",earthquake
+1932-12-04T08:11:20.000Z,2.387,121.019,45.8,7.1,ms,53,,,,centennial,centennial19321204081120,2013-07-09T19:07:20.000Z,"Celebes Sea",earthquake

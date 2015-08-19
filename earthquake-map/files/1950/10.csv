@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1950-10-23T16:13:27.000Z,14.358,-92.063,64.6,7.5,mw,0,,,,centennial,centennial19501023161327,2013-07-09T19:07:24.000Z,"offshore Guatemala",earthquake
+1950-10-21T09:42:58.000Z,17.8,-105.5,0,6.6,uk,0,,,,centennial,centennial19501021094258,2013-07-09T19:07:24.000Z,"off the coast of Jalisco, Mexico",earthquake
+1950-10-08T03:23:13.000Z,-4.41,128.281,35,7.5,mw,0,,,,centennial,centennial19501008032313,2013-07-09T19:07:24.000Z,"Banda Sea",earthquake
+1950-10-05T16:09:40.000Z,10.438,-85.126,97.2,7.8,mw,0,,,,centennial,centennial19501005160940,2013-07-09T19:07:24.000Z,"Costa Rica",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1901-12-31T09:02:00.000Z,52,-177,0,7.1,mw,0,,,,centennial,centennial19011231090200,2013-07-09T19:07:15.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1901-12-14T22:57:00.000Z,14,122,0,7,ms,0,,,,centennial,centennial19011214225700,2013-07-09T19:07:15.000Z,"Luzon, Philippines",earthquake
+1901-12-09T02:17:00.000Z,26,-110,0,7.1,mw,0,,,,centennial,centennial19011209021700,2013-07-09T19:07:15.000Z,"Sonora-Sinaloa border region, Mexico",earthquake

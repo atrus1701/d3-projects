@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-12-31T22:15:16.000Z,-12.334,166.683,23.8,7.2,mw,77,,,,centennial,centennial19661231221516,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1966-12-31T18:23:11.000Z,-11.892,166.443,82.7,7.3,mb,139,,,,centennial,centennial19661231182311,2013-07-09T19:07:32.000Z,"Santa Cruz Islands",earthquake
+1966-12-28T08:18:07.000Z,-25.502,-70.656,30,7.7,mw,186,,,,centennial,centennial19661228081807,2013-07-09T19:07:32.000Z,"near the coast of Antofagasta, Chile",earthquake
+1966-12-27T01:22:18.000Z,37.127,141.092,55.8,5.5,mb,139,,,,centennial,centennial19661227012218,2013-07-09T19:07:32.000Z,"near the east coast of Honshu, Japan",earthquake
+1966-12-23T15:50:24.000Z,-7.159,148.365,65.9,6.1,mb,206,,,,centennial,centennial19661223155024,2013-07-09T19:07:32.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1966-12-21T08:52:00.000Z,-19.977,169.841,241.3,5.7,mb,150,,,,centennial,centennial19661221085200,2013-07-09T19:07:32.000Z,"Vanuatu",earthquake
+1966-12-20T12:26:55.000Z,-26.138,-63.16,581.2,6.3,ms,183,,,,centennial,centennial19661220122655,2013-07-09T19:07:32.000Z,"Santiago Del Estero, Argentina",earthquake
+1966-12-16T20:52:16.000Z,29.618,80.82,9.8,5.7,mb,164,,,,centennial,centennial19661216205216,2013-07-09T19:07:32.000Z,"Nepal-India border region",earthquake
+1966-12-15T02:08:05.000Z,21.506,94.424,88.6,5.5,mb,124,,,,centennial,centennial19661215020805,2013-07-09T19:07:32.000Z,"Myanmar",earthquake
+1966-12-14T21:07:55.000Z,-4.942,144.078,88.8,5.9,mb,169,,,,centennial,centennial19661214210755,2013-07-09T19:07:32.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1966-12-10T18:08:12.000Z,-3.501,145.523,6.1,5.5,mb,77,,,,centennial,centennial19661210180812,2013-07-09T19:07:32.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1966-12-10T13:06:33.000Z,14.269,-92.059,67.8,5.5,mb,155,,,,centennial,centennial19661210130633,2013-07-09T19:07:32.000Z,"offshore Guatemala",earthquake
+1966-12-07T17:17:46.000Z,44.466,151.763,34.6,5.7,mb,187,,,,centennial,centennial19661207171746,2013-07-09T19:07:32.000Z,"east of the Kuril Islands",earthquake
+1966-12-02T09:31:19.000Z,3.25,128.103,82.6,5.6,mb,96,,,,centennial,centennial19661202093119,2013-07-09T19:07:32.000Z,"north of Halmahera, Indonesia",earthquake
+1966-12-01T04:56:59.000Z,-14.041,167.151,131.4,6,mb,187,,,,centennial,centennial19661201045659,2013-07-09T19:07:32.000Z,"Vanuatu",earthquake

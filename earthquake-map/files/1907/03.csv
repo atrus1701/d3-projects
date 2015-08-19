@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1907-03-31T22:00:36.000Z,-18,-177,400,7.2,mb,0,,,,centennial,centennial19070331220036,2013-07-09T19:07:16.000Z,"Fiji region",earthquake
+1907-03-29T20:46:30.000Z,3,122,500,7.2,mb,0,,,,centennial,centennial19070329204630,2013-07-09T19:07:16.000Z,"Celebes Sea",earthquake
+1907-03-26T11:21:22.000Z,38,135,350,6.6,uk,0,,,,centennial,centennial19070326112122,2013-07-09T19:07:16.000Z,"Sea of Japan",earthquake

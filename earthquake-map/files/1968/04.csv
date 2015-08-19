@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-04-28T04:18:13.000Z,44.769,174.523,14,5.5,mb,140,,,,centennial,centennial19680428041813,2013-07-09T19:07:33.000Z,"North Pacific Ocean",earthquake
+1968-04-26T17:48:02.000Z,18.746,-103.316,43.1,5.5,mb,120,,,,centennial,centennial19680426174802,2013-07-09T19:07:33.000Z,"Michoacan, Mexico",earthquake
+1968-04-26T00:42:33.000Z,-15.393,-173.049,14.8,5.5,mb,113,,,,centennial,centennial19680426004233,2013-07-09T19:07:33.000Z,"Tonga",earthquake
+1968-04-23T20:29:15.000Z,58.652,-149.981,19.9,6.2,mb,244,,,,centennial,centennial19680423202915,2013-07-09T19:07:33.000Z,"Gulf of Alaska",earthquake
+1968-04-21T16:43:18.000Z,-56.417,157.916,23,5.6,mb,33,,,,centennial,centennial19680421164318,2013-07-09T19:07:33.000Z,"Macquarie Island region",earthquake
+1968-04-20T12:25:13.000Z,-15.678,-172.555,42.2,5.7,mb,152,,,,centennial,centennial19680420122513,2013-07-09T19:07:33.000Z,"Samoa Islands region",earthquake
+1968-04-19T09:04:24.000Z,-42.658,-16.088,1.1,5.5,mb,76,,,,centennial,centennial19680419090424,2013-07-09T19:07:33.000Z,"southern Mid-Atlantic Ridge",earthquake
+1968-04-09T02:29:01.000Z,33.157,-116.194,15,7,ms,194,,,,centennial,centennial19680409022901,2014-04-07T19:46:30.298Z,"Southern California",earthquake
+1968-04-01T07:13:19.000Z,32.265,132.119,33.1,5.9,mb,206,,,,centennial,centennial19680401071319,2013-07-09T19:07:33.000Z,"Shikoku, Japan",earthquake
+1968-04-01T00:42:04.000Z,32.484,132.193,29.4,7.5,mw,228,,,,centennial,centennial19680401004204,2013-07-09T19:07:33.000Z,"Shikoku, Japan",earthquake

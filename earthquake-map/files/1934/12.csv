@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-12-31T18:45:56.000Z,32.685,-115.761,15,7.1,ms,29,,,,centennial,centennial19341231184556,2013-07-09T19:07:21.000Z,"Southern California",earthquake
+1934-12-15T19:14:28.000Z,-23.568,-179.689,496.9,6.7,uk,46,,,,centennial,centennial19341215191428,2013-07-09T19:07:21.000Z,"south of the Fiji Islands",earthquake
+1934-12-15T01:57:43.000Z,31.013,89.08,35,7.1,ms,66,,,,centennial,centennial19341215015743,2013-07-09T19:07:21.000Z,"western Xizang",earthquake
+1934-12-04T17:24:34.000Z,-19.298,-69.752,35,6.7,uk,31,,,,centennial,centennial19341204172434,2013-07-09T19:07:20.000Z,"Tarapaca, Chile",earthquake

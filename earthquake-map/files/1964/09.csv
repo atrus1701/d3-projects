@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-09-28T05:04:53.000Z,-1.273,-24.011,15.5,5.5,mb,126,,,,centennial,centennial19640928050453,2013-07-09T19:07:29.000Z,"central Mid-Atlantic Ridge",earthquake
+1964-09-26T00:46:00.000Z,29.888,80.48,20.8,5.9,mb,114,,,,centennial,centennial19640926004600,2013-07-09T19:07:29.000Z,"Nepal-India border region",earthquake
+1964-09-17T15:01:59.000Z,44.49,-31.337,4.5,5.5,mb,135,,,,centennial,centennial19640917150159,2013-07-09T19:07:29.000Z,"northern Mid-Atlantic Ridge",earthquake
+1964-09-16T22:23:37.000Z,22.739,-45.095,26.5,5.6,mb,138,,,,centennial,centennial19640916222337,2013-07-09T19:07:29.000Z,"northern Mid-Atlantic Ridge",earthquake
+1964-09-16T01:50:34.000Z,59.978,-146.967,14.8,5.5,mb,126,,,,centennial,centennial19640916015034,2013-07-09T19:07:29.000Z,"Gulf of Alaska",earthquake
+1964-09-16T01:26:28.000Z,10.614,92.775,43.8,5.7,mb,116,,,,centennial,centennial19640916012628,2013-07-09T19:07:29.000Z,"Andaman Islands, India region",earthquake
+1964-09-15T15:29:39.000Z,8.849,93.006,79.5,6.3,mb,196,,,,centennial,centennial19640915152939,2013-07-09T19:07:29.000Z,"Nicobar Islands, India region",earthquake
+1964-09-15T08:58:04.000Z,-56.117,-26.84,94.5,5.5,mb,25,,,,centennial,centennial19640915085804,2013-07-09T19:07:29.000Z,"South Sandwich Islands region",earthquake
+1964-09-15T05:37:49.000Z,-0.112,124.562,54.1,5.6,mb,76,,,,centennial,centennial19640915053749,2013-07-09T19:07:29.000Z,"Molucca Sea",earthquake
+1964-09-12T22:07:03.000Z,-49.075,164.395,27.2,6.9,ms,146,,,,centennial,centennial19640912220703,2013-07-09T19:07:29.000Z,"Auckland Islands, New Zealand region",earthquake
+1964-09-12T12:43:19.000Z,-4.429,144.12,108.4,6,mb,109,,,,centennial,centennial19640912124319,2013-07-09T19:07:29.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1964-09-05T02:53:50.000Z,-5.783,154.155,48.9,5.7,mb,138,,,,centennial,centennial19640905025350,2013-07-09T19:07:29.000Z,"Bougainville region, Papua New Guinea",earthquake
+1964-09-04T10:34:14.000Z,-3.948,131.418,33.5,5.8,mb,113,,,,centennial,centennial19640904103414,2013-07-09T19:07:29.000Z,"Ceram Sea, Indonesia",earthquake
+1964-09-01T17:16:41.000Z,50.988,-170.624,23.8,5.5,mb,130,,,,centennial,centennial19640901171641,2013-07-09T19:07:29.000Z,"south of the Aleutian Islands",earthquake
+1964-09-01T13:22:36.000Z,27.059,92.252,14.1,5.6,mb,105,,,,centennial,centennial19640901132236,2013-07-09T19:07:29.000Z,"Arunachal Pradesh, India",earthquake

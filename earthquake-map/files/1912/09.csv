@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1912-09-29T20:51:30.000Z,7,138,50,7.5,mw,0,,,,centennial,centennial19120929205130,2013-07-09T19:07:17.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1912-09-01T04:10:00.000Z,-4.5,155,430,7,mb,0,,,,centennial,centennial19120901041000,2013-07-09T19:07:17.000Z,"Bougainville region, Papua New Guinea",earthquake

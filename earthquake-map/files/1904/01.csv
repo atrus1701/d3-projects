@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1904-01-20T14:52:06.000Z,7,-79,0,7.2,mw,0,,,,centennial,centennial19040120145206,2013-07-09T19:07:15.000Z,"Panama",earthquake
+1904-01-07T14:50:00.000Z,-50,165,0,6.9,ms,0,,,,centennial,centennial19040107145000,2013-07-09T19:07:15.000Z,"Auckland Islands, New Zealand region",earthquake

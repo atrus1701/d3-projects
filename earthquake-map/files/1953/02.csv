@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1953-02-26T11:42:33.000Z,-10.944,164.091,35,7.1,mw,0,,,,centennial,centennial19530226114233,2013-07-09T19:07:25.000Z,"Santa Cruz Islands region",earthquake
+1953-02-25T21:16:12.000Z,56,-156.2,0,6.6,ms,0,,,,centennial,centennial19530225211612,2013-07-09T19:07:25.000Z,"Alaska Peninsula",earthquake
+1953-02-14T21:48:16.000Z,18.5,146,64,6.5,ms,0,,,,centennial,centennial19530214214816,2013-07-09T19:07:25.000Z,"Pagan region, Northern Mariana Islands",earthquake

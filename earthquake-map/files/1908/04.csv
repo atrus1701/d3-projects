@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1908-04-22T23:45:00.000Z,-38,48,0,7,ms,0,,,,centennial,centennial19080422234500,2013-07-09T19:07:16.000Z,"Southwest Indian Ridge",earthquake
+1908-04-19T07:58:48.000Z,42,134,450,6.7,uk,0,,,,centennial,centennial19080419075848,2013-07-09T19:07:16.000Z,"Sea of Japan",earthquake
+1908-04-16T17:38:48.000Z,36.5,70.5,220,6.6,uk,0,,,,centennial,centennial19080416173848,2013-07-09T19:07:16.000Z,"Hindu Kush region, Afghanistan",earthquake

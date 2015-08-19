@@ -1,0 +1,21 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-04-29T19:56:14.000Z,12.668,122.259,11.3,5.7,ms,198,,,,centennial,centennial19710429195614,2014-03-17T19:39:30.162Z,"Sibuyan Sea, Philippines",earthquake
+1971-04-28T15:32:02.000Z,22.952,100.993,8.5,6.3,ms,202,,,,centennial,centennial19710428153202,2014-03-17T19:39:07.393Z,"Yunnan, China",earthquake
+1971-04-25T03:32:58.000Z,49.823,78.092,0,5.9,,,,,,atlas,atlas19710425033258,2014-03-17T19:38:50.595Z,"eastern Kazakhstan",earthquake
+1971-04-20T14:12:48.000Z,-21.805,-68.982,94.5,5.6,mb,190,,,,centennial,centennial19710420141248,2013-07-09T19:07:38.000Z,"Antofagasta, Chile",earthquake
+1971-04-18T17:41:28.000Z,-0.311,-91.671,21.4,5.5,ms,73,,,,centennial,centennial19710418174128,2013-07-09T19:07:38.000Z,"Galapagos Islands, Ecuador",earthquake
+1971-04-17T01:41:22.000Z,-6.292,154.774,82.3,5.5,mb,122,,,,centennial,centennial19710417014122,2013-07-09T19:07:38.000Z,"Bougainville region, Papua New Guinea",earthquake
+1971-04-15T00:37:29.000Z,-36.857,177.322,243.7,5.5,mb,32,,,,centennial,centennial19710415003729,2013-07-09T19:07:38.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1971-04-12T19:03:21.000Z,28.261,55.608,3.2,5.9,ms,206,,,,centennial,centennial19710412190321,2014-03-17T19:38:31.832Z,"southern Iran",earthquake
+1971-04-10T01:22:17.000Z,-21.265,-178.732,541.9,5.6,mb,186,,,,centennial,centennial19710410012217,2013-07-09T19:07:38.000Z,"Fiji region",earthquake
+1971-04-08T07:45:59.000Z,-4.47,102.264,80,6.3,mb,258,,,,centennial,centennial19710408074559,2014-03-17T19:38:17.456Z,"southern Sumatra, Indonesia",earthquake
+1971-04-07T15:10:38.000Z,-32.584,-69.216,116.3,5.5,mb,94,,,,centennial,centennial19710407151038,2013-07-09T19:07:38.000Z,"Mendoza, Argentina",earthquake
+1971-04-07T04:59:39.000Z,2.427,129.115,35.7,6.6,ms,234,,,,centennial,centennial19710407045939,2014-03-17T19:38:03.075Z,"Halmahera, Indonesia",earthquake
+1971-04-06T11:06:30.000Z,-22.218,-179.47,586.1,6,ms,197,,,,centennial,centennial19710406110630,2013-07-09T19:07:38.000Z,"south of the Fiji Islands",earthquake
+1971-04-05T09:04:43.000Z,53.202,-170.539,145.9,5.8,mb,261,,,,centennial,centennial19710405090443,2013-07-09T19:07:38.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1971-04-05T05:02:15.000Z,-0.362,124.668,53.1,6,mb,175,,,,centennial,centennial19710405050215,2013-07-09T19:07:38.000Z,"Molucca Sea",earthquake
+1971-04-04T18:39:40.000Z,38.414,142.179,44.4,5.8,mb,250,,,,centennial,centennial19710404183940,2013-07-09T19:07:38.000Z,"near the east coast of Honshu, Japan",earthquake
+1971-04-04T10:15:34.000Z,-56.115,-122.548,5.2,6.6,ms,149,,,,centennial,centennial19710404101534,2013-07-09T19:07:38.000Z,"southern East Pacific Rise",earthquake
+1971-04-04T05:00:53.000Z,51.75,11.517,0,4.6,,,,,,atlas,atlas19710404050053,2014-03-17T19:37:46.115Z,"Germany",earthquake
+1971-04-03T04:50:45.000Z,32.072,95.169,15,5.6,mb,51,,,,centennial,centennial19710403045045,2013-07-09T19:07:38.000Z,"southern Qinghai, China",earthquake
+1971-04-03T04:49:03.000Z,32.176,95.028,15,5.6,mb,190,,,,centennial,centennial19710403044903,2013-07-09T19:07:38.000Z,"southern Qinghai, China",earthquake

@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1934-07-28T21:37:03.000Z,55.587,-156.677,25,6.6,uk,94,,,,centennial,centennial19340728213703,2013-07-09T19:07:20.000Z,"south of Alaska",earthquake
+1934-07-22T19:56:36.000Z,35.712,70.683,35,6.6,uk,40,,,,centennial,centennial19340722195636,2013-07-09T19:07:20.000Z,"Hindu Kush region, Afghanistan",earthquake
+1934-07-21T10:39:13.000Z,8.189,-82.786,25,6.6,uk,64,,,,centennial,centennial19340721103913,2013-07-09T19:07:20.000Z,"Panama-Costa Rica border region",earthquake
+1934-07-21T06:18:23.000Z,-11.139,165.503,35,7.1,mw,68,,,,centennial,centennial19340721061823,2013-07-09T19:07:20.000Z,"Santa Cruz Islands",earthquake
+1934-07-19T07:37:00.000Z,-13.254,166.262,35,6.7,uk,50,,,,centennial,centennial19340719073700,2013-07-09T19:07:20.000Z,"Vanuatu",earthquake
+1934-07-19T01:27:32.000Z,-0.793,133.354,35,7,ms,39,,,,centennial,centennial19340719012732,2013-07-09T19:07:20.000Z,"near the north coast of Papua, Indonesia",earthquake
+1934-07-19T00:06:49.000Z,-12.561,165.949,15.8,6.6,uk,53,,,,centennial,centennial19340719000649,2013-07-09T19:07:20.000Z,"Santa Cruz Islands",earthquake
+1934-07-18T19:40:23.000Z,-11.907,166.731,35,7.8,mw,74,,,,centennial,centennial19340718194023,2013-07-09T19:07:20.000Z,"Santa Cruz Islands",earthquake
+1934-07-18T16:59:41.000Z,7.601,-82.298,15,6.9,ms,76,,,,centennial,centennial19340718165941,2013-07-09T19:07:20.000Z,"south of Panama",earthquake
+1934-07-18T01:36:28.000Z,8.045,-82.48,25,7.6,mw,86,,,,centennial,centennial19340718013628,2013-07-09T19:07:20.000Z,"Panama-Costa Rica border region",earthquake

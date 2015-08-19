@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1925-10-13T17:40:37.000Z,10.604,-42.129,15,7,ms,59,,,,centennial,centennial19251013174037,2013-07-09T19:07:19.000Z,"northern Mid-Atlantic Ridge",earthquake
+1925-10-05T04:08:59.000Z,12.216,-85.871,35,6.6,uk,33,,,,centennial,centennial19251005040859,2013-07-09T19:07:19.000Z,"Nicaragua",earthquake

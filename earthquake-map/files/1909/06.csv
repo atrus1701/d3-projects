@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1909-06-27T07:15:00.000Z,-10,162,0,6.8,ms,0,,,,centennial,centennial19090627071500,2013-07-09T19:07:16.000Z,"Solomon Islands",earthquake
+1909-06-12T20:20:00.000Z,-19,170,0,6.9,ms,0,,,,centennial,centennial19090612202000,2013-07-09T19:07:16.000Z,"Vanuatu",earthquake
+1909-06-08T05:46:30.000Z,-26.5,-70.5,0,7.2,mw,0,,,,centennial,centennial19090608054630,2013-07-09T19:07:16.000Z,"Atacama, Chile",earthquake
+1909-06-03T18:40:48.000Z,-2,101,0,7.2,mw,0,,,,centennial,centennial19090603184048,2013-07-09T19:07:16.000Z,"Kepulauan Mentawai region, Indonesia",earthquake

@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1967-04-30T16:59:03.000Z,-1.812,138.801,40.4,5.5,mb,64,,,,centennial,centennial19670430165903,2013-07-09T19:07:32.000Z,"near the north coast of Papua, Indonesia",earthquake
+1967-04-29T12:25:34.000Z,51.391,-178.258,50.9,5.6,mb,65,,,,centennial,centennial19670429122534,2013-07-09T19:07:32.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1967-04-29T03:55:20.000Z,51.387,-178.332,32.4,6,mb,201,,,,centennial,centennial19670429035520,2013-07-09T19:07:32.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1967-04-25T10:36:14.000Z,-32.828,-69.103,26.6,5.5,mb,39,,,,centennial,centennial19670425103614,2013-07-09T19:07:32.000Z,"Mendoza, Argentina",earthquake
+1967-04-23T17:52:47.000Z,13.531,146.272,16.1,5.6,mb,107,,,,centennial,centennial19670423175247,2013-07-09T19:07:32.000Z,"Mariana Islands region",earthquake
+1967-04-21T08:14:22.000Z,-5.56,126.684,6.9,6.2,uk,124,,,,centennial,centennial19670421081422,2013-07-09T19:07:32.000Z,"Banda Sea",earthquake
+1967-04-13T19:59:51.000Z,18.379,-100.229,74.5,5.6,mb,109,,,,centennial,centennial19670413195951,2013-07-09T19:07:32.000Z,"Guerrero, Mexico",earthquake
+1967-04-13T19:53:46.000Z,27.34,128.595,55.1,5.9,mb,151,,,,centennial,centennial19670413195346,2013-07-09T19:07:32.000Z,"Ryukyu Islands, Japan",earthquake
+1967-04-12T04:51:37.000Z,5.084,96.233,17.3,6.1,mb,284,,,,centennial,centennial19670412045137,2013-07-09T19:07:32.000Z,"northern Sumatra, Indonesia",earthquake
+1967-04-10T16:47:47.000Z,-63.634,-167.436,3.2,5.5,mb,41,,,,centennial,centennial19670410164747,2013-07-09T19:07:32.000Z,"Pacific-Antarctic Ridge",earthquake
+1967-04-10T15:02:45.000Z,-7.256,155.856,38.8,6.2,uk,153,,,,centennial,centennial19670410150245,2013-07-09T19:07:32.000Z,"Solomon Islands",earthquake
+1967-04-05T02:47:58.000Z,19.984,147.29,56,5.6,mb,142,,,,centennial,centennial19670405024758,2013-07-09T19:07:32.000Z,"Mariana Islands region",earthquake
+1967-04-05T02:34:10.000Z,19.993,147.314,28.4,5.7,uk,167,,,,centennial,centennial19670405023410,2013-07-09T19:07:32.000Z,"Mariana Islands region",earthquake
+1967-04-03T08:04:18.000Z,-6.015,151.491,22.6,5.9,uk,92,,,,centennial,centennial19670403080418,2013-07-09T19:07:32.000Z,"New Britain region, Papua New Guinea",earthquake
+1967-04-01T12:23:35.000Z,45.666,151.666,30.6,5.8,mb,240,,,,centennial,centennial19670401122335,2013-07-09T19:07:32.000Z,"Kuril Islands",earthquake
+1967-04-01T05:57:08.000Z,45.622,151.823,44,5.6,mb,72,,,,centennial,centennial19670401055708,2013-07-09T19:07:32.000Z,"Kuril Islands",earthquake
+1967-04-01T05:54:19.000Z,45.718,151.79,33.3,5.8,uk,230,,,,centennial,centennial19670401055419,2013-07-09T19:07:32.000Z,"Kuril Islands",earthquake

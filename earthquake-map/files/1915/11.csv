@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1915-11-21T00:13:42.000Z,32,-115,0,7.1,ms,0,,,,centennial,centennial19151121001342,2013-07-09T19:07:17.000Z,"Sonora, Mexico",earthquake
+1915-11-18T04:04:00.000Z,37.7,143.1,35,7,mj,0,,,,centennial,centennial19151118040400,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1915-11-01T09:01:00.000Z,38,143,35,7,mj,0,,,,centennial,centennial19151101090100,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1915-11-01T07:50:00.000Z,38,143,35,6.7,mj,0,,,,centennial,centennial19151101075000,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1915-11-01T07:24:00.000Z,38.3,142.9,35,7.5,mw,0,,,,centennial,centennial19151101072400,2013-07-09T19:07:17.000Z,"near the east coast of Honshu, Japan",earthquake

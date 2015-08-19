@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-02-28T12:08:02.000Z,32.93,137.772,346.6,6.2,ms,252,,,,centennial,centennial19680228120802,2013-07-09T19:07:33.000Z,"Izu Islands, Japan region",earthquake
+1968-02-27T10:54:45.000Z,12.225,140.749,75.2,5.5,mb,124,,,,centennial,centennial19680227105445,2013-07-09T19:07:33.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1968-02-27T05:19:04.000Z,12.223,140.744,40,5.6,mb,123,,,,centennial,centennial19680227051904,2013-07-09T19:07:33.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1968-02-26T10:50:17.000Z,22.762,121.414,16.5,7.2,mw,240,,,,centennial,centennial19680226105017,2013-07-09T19:07:33.000Z,"Taiwan region",earthquake
+1968-02-22T02:01:43.000Z,-44.507,167.856,15,5.7,mb,36,,,,centennial,centennial19680222020143,2013-07-09T19:07:33.000Z,"South Island of New Zealand",earthquake
+1968-02-20T02:19:51.000Z,12.32,-46.924,18.2,5.5,mb,146,,,,centennial,centennial19680220021951,2013-07-09T19:07:33.000Z,"northern Mid-Atlantic Ridge",earthquake
+1968-02-19T22:45:43.000Z,39.371,24.942,8.9,7.2,mw,185,,,,centennial,centennial19680219224543,2013-07-09T19:07:33.000Z,"Aegean Sea",earthquake
+1968-02-12T05:44:43.000Z,-5.503,153.401,23.4,7.4,mw,206,,,,centennial,centennial19680212054443,2013-07-09T19:07:33.000Z,"New Ireland region, Papua New Guinea",earthquake
+1968-02-10T10:00:05.000Z,45.995,152.192,66.9,5.7,mb,196,,,,centennial,centennial19680210100005,2013-07-09T19:07:33.000Z,"east of the Kuril Islands",earthquake
+1968-02-06T11:19:27.000Z,-28.547,-71.021,42.8,5.5,mb,113,,,,centennial,centennial19680206111927,2013-07-09T19:07:33.000Z,"Atacama, Chile",earthquake
+1968-02-04T11:00:51.000Z,43.074,147.163,24.3,5.5,mb,209,,,,centennial,centennial19680204110051,2013-07-09T19:07:33.000Z,"Kuril Islands",earthquake
+1968-02-03T05:36:18.000Z,16.588,-99.425,21.5,5.6,mb,124,,,,centennial,centennial19680203053618,2013-07-09T19:07:33.000Z,"offshore Guerrero, Mexico",earthquake

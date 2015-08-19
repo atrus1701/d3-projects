@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-07-31T17:08:06.000Z,-1.486,-72.556,644.8,7.5,mb,256,,,,centennial,centennial19700731170806,2013-07-09T19:07:37.000Z,"Colombia",earthquake
+1970-07-31T15:16:18.000Z,-27.046,-113.249,18.1,5.6,ms,88,,,,centennial,centennial19700731151618,2013-07-09T19:07:37.000Z,"Easter Island region",earthquake
+1970-07-31T13:10:47.000Z,28.6,103.5,25,5.5,,,,,,atlas,atlas19700731131047,2014-03-17T19:17:20.241Z,"eastern Sichuan, China",earthquake
+1970-07-30T04:58:44.000Z,14.252,51.83,24.1,6.5,ms,180,,,,centennial,centennial19700730045844,2013-07-09T19:07:37.000Z,"Gulf of Aden",earthquake
+1970-07-30T00:52:20.000Z,37.836,55.886,9.7,6.6,ms,187,,,,centennial,centennial19700730005220,2014-03-17T19:17:01.682Z,"Turkmenistan-Iran border region",earthquake
+1970-07-29T10:16:23.000Z,25.991,95.35,79.4,6.4,mb,279,,,,centennial,centennial19700729101623,2014-03-17T19:16:40.198Z,"Myanmar",earthquake
+1970-07-29T05:50:58.000Z,39.898,77.771,15.9,5.5,ms,129,,,,centennial,centennial19700729055058,2014-03-17T19:16:25.503Z,"southern Xinjiang, China",earthquake
+1970-07-27T12:31:20.000Z,-37.777,177.743,91.3,5.8,mb,55,,,,centennial,centennial19700727123120,2013-07-09T19:07:37.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1970-07-26T07:10:38.000Z,32.241,131.74,43,5.9,ms,228,,,,centennial,centennial19700726071038,2014-03-17T19:16:08.826Z,"Kyushu, Japan",earthquake
+1970-07-25T22:41:13.000Z,32.245,131.679,45.1,7,mw,265,,,,centennial,centennial19700725224113,2014-03-17T19:15:45.095Z,"Kyushu, Japan",earthquake
+1970-07-24T03:56:57.000Z,49.8,78.2,0,5.3,,,,,,atlas,atlas19700724035657,2014-03-17T19:15:26.135Z,"eastern Kazakhstan",earthquake
+1970-07-21T03:02:57.000Z,50,77.8,0,5.4,,,,,,atlas,atlas19700721030257,2014-03-17T19:15:07.850Z,"eastern Kazakhstan",earthquake
+1970-07-19T09:22:42.000Z,-3.934,152.318,14.5,6,ms,83,,,,centennial,centennial19700719092242,2014-03-17T19:14:53.538Z,"New Ireland region, Papua New Guinea",earthquake
+1970-07-18T01:48:39.000Z,51.349,-178.548,32.4,5.9,ms,242,,,,centennial,centennial19700718014839,2013-07-09T19:07:37.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1970-07-17T20:04:45.000Z,-21.931,-174.634,11.6,6.2,ms,192,,,,centennial,centennial19700717200445,2013-07-09T19:07:37.000Z,"Tonga",earthquake
+1970-07-16T21:17:43.000Z,-19.205,-173.297,15,6,ms,155,,,,centennial,centennial19700716211743,2013-07-09T19:07:37.000Z,"Tonga",earthquake
+1970-07-12T09:18:06.000Z,10.841,125.412,82.3,5.5,mb,208,,,,centennial,centennial19700712091806,2013-07-09T19:07:37.000Z,"Leyte, Philippines",earthquake
+1970-07-10T21:06:40.000Z,13.908,120.376,86.2,5.5,mb,178,,,,centennial,centennial19700710210640,2013-07-09T19:07:37.000Z,"Mindoro, Philippines",earthquake
+1970-07-09T12:11:58.000Z,43.852,148.356,29.6,5.7,ms,205,,,,centennial,centennial19700709121158,2013-07-09T19:07:37.000Z,"east of the Kuril Islands",earthquake
+1970-07-08T04:49:11.000Z,17.922,-64.697,143.9,5.8,mb,265,,,,centennial,centennial19700708044911,2013-07-09T19:07:37.000Z,"Virgin Islands region",earthquake
+1970-07-05T14:12:17.000Z,7.405,126.776,54.7,5.5,mb,144,,,,centennial,centennial19700705141217,2013-07-09T19:07:37.000Z,"Mindanao, Philippines",earthquake
+1970-07-02T19:14:01.000Z,4.7,97.7,33,5.8,,,,,,atlas,atlas19700702191401,2014-03-17T19:14:38.541Z,"northern Sumatra, Indonesia",earthquake
+1970-07-02T00:56:12.000Z,-51.074,139.3,3.1,6,ms,45,,,,centennial,centennial19700702005612,2013-07-09T19:07:37.000Z,"western Indian-Antarctic Ridge",earthquake

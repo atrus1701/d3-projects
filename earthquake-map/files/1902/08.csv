@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1902-08-30T21:48:00.000Z,40,77,0,6.8,ms,0,,,,centennial,centennial19020830214800,2013-07-09T19:07:15.000Z,"Kyrgyzstan-Xinjiang border region",earthquake
+1902-08-22T03:00:00.000Z,40,77,0,7.7,mw,0,,,,centennial,centennial19020822030000,2013-07-09T19:07:15.000Z,"Kyrgyzstan-Xinjiang border region",earthquake

@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1969-05-30T16:22:45.000Z,-32.203,-177.938,10.7,6.2,uk,121,,,,centennial,centennial19690530162245,2013-07-09T19:07:35.000Z,"south of the Kermadec Islands",earthquake
+1969-05-30T15:55:41.000Z,-32.145,-178.088,57,5.9,ms,109,,,,centennial,centennial19690530155541,2013-07-09T19:07:35.000Z,"south of the Kermadec Islands",earthquake
+1969-05-25T20:18:31.000Z,-31.968,-178.756,70.1,5.5,mb,91,,,,centennial,centennial19690525201831,2013-07-09T19:07:35.000Z,"Kermadec Islands region",earthquake
+1969-05-23T14:29:44.000Z,-39.759,175.811,73.8,5.6,mb,13,,,,centennial,centennial19690523142944,2013-07-09T19:07:35.000Z,"North Island of New Zealand",earthquake
+1969-05-15T20:43:33.000Z,16.779,-61.305,30.9,5.6,ms,192,,,,centennial,centennial19690515204333,2013-07-09T19:07:35.000Z,"Guadeloupe region, Leeward Islands",earthquake
+1969-05-14T19:32:55.000Z,51.279,-179.855,17,7,ms,294,,,,centennial,centennial19690514193255,2013-07-09T19:07:35.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1969-05-13T14:30:22.000Z,-7.269,120.851,631,6.4,ms,162,,,,centennial,centennial19690513143022,2013-07-09T19:07:35.000Z,"Flores Sea",earthquake
+1969-05-13T14:16:55.000Z,11.514,-86.299,86.1,5.5,mb,163,,,,centennial,centennial19690513141655,2013-07-09T19:07:35.000Z,"near the coast of Nicaragua",earthquake
+1969-05-05T13:52:40.000Z,-30.714,-71.771,33,5.5,ms,86,,,,centennial,centennial19690505135240,2013-07-09T19:07:35.000Z,"offshore Coquimbo, Chile",earthquake
+1969-05-04T12:36:37.000Z,-17.439,168.852,15,5.6,ms,101,,,,centennial,centennial19690504123637,2013-07-09T19:07:35.000Z,"Vanuatu",earthquake
+1969-05-01T19:05:26.000Z,-16.734,-174.61,205.7,5.9,mb,190,,,,centennial,centennial19690501190526,2013-07-09T19:07:35.000Z,"Tonga",earthquake

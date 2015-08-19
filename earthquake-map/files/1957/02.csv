@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-02-23T20:26:17.000Z,23.866,121.493,50.4,7.2,mw,122,,,,centennial,centennial19570223202617,2013-07-09T19:07:26.000Z,"Taiwan",earthquake
+1957-02-10T22:51:00.000Z,10.004,125.974,49.7,6.6,ms,62,,,,centennial,centennial19570210225100,2013-07-09T19:07:26.000Z,"Leyte, Philippines",earthquake
+1957-02-10T22:32:23.000Z,10.263,126.134,37.3,6.5,ms,108,,,,centennial,centennial19570210223223,2013-07-09T19:07:26.000Z,"Philippine Islands region",earthquake

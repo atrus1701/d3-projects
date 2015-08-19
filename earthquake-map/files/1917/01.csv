@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1917-01-30T02:45:36.000Z,56.5,163,0,7.7,mw,0,,,,centennial,centennial19170130024536,2013-07-09T19:07:18.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1917-01-24T00:48:12.000Z,31,114,0,6.5,ms,0,,,,centennial,centennial19170124004812,2013-07-09T19:07:18.000Z,"Hubei, China",earthquake
+1917-01-06T18:08:50.000Z,22,121,0,6.5,ms,0,,,,centennial,centennial19170106180850,2013-07-09T19:07:18.000Z,"Taiwan",earthquake
+1917-01-04T16:55:00.000Z,21.9,120.9,0,6.5,ms,0,,,,centennial,centennial19170104165500,2013-07-09T19:07:18.000Z,"Taiwan region",earthquake

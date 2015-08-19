@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1928-01-06T19:31:56.000Z,0.155,35.748,15,6.9,ms,57,,,,centennial,centennial19280106193156,2013-07-09T19:07:19.000Z,"Kenya",earthquake
+1928-01-05T21:46:13.000Z,-19.092,-63.79,561.2,6.6,uk,12,,,,centennial,centennial19280105214613,2013-07-09T19:07:19.000Z,"Chuquisaca, Bolivia",earthquake

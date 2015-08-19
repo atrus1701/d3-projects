@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1941-08-30T13:06:58.000Z,18.357,147.235,35,6.6,uk,34,,,,centennial,centennial19410830130658,2013-07-09T19:07:22.000Z,"Mariana Islands region",earthquake
+1941-08-15T06:09:28.000Z,19.302,-26.355,27.9,6.6,uk,73,,,,centennial,centennial19410815060928,2013-07-09T19:07:22.000Z,"North Atlantic Ocean",earthquake
+1941-08-06T06:15:03.000Z,55.515,-163.106,108.3,6.6,uk,62,,,,centennial,centennial19410806061503,2013-07-09T19:07:22.000Z,"Unimak Island region, Alaska",earthquake
+1941-08-04T10:53:10.000Z,51.601,178.602,43.9,6.6,uk,57,,,,centennial,centennial19410804105310,2013-07-09T19:07:22.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1941-08-02T11:41:29.000Z,-29.767,-177.606,35,7.1,ms,69,,,,centennial,centennial19410802114129,2013-07-09T19:07:22.000Z,"Kermadec Islands, New Zealand",earthquake

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1933-07-24T18:55:38.000Z,-16.282,-173.094,35,6.6,uk,28,,,,centennial,centennial19330724185538,2013-07-09T19:07:20.000Z,"Tonga",earthquake
+1933-07-22T20:55:19.000Z,52.592,-168.935,35,6.6,uk,88,,,,centennial,centennial19330722205519,2013-07-09T19:07:20.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1933-07-20T23:14:00.000Z,38.692,144.861,35,6.6,uk,27,,,,centennial,centennial19330720231400,2013-07-09T19:07:20.000Z,"off the east coast of Honshu, Japan",earthquake
+1933-07-09T12:30:42.000Z,44.546,150.246,35,6.6,uk,68,,,,centennial,centennial19330709123042,2013-07-09T19:07:20.000Z,"east of the Kuril Islands",earthquake

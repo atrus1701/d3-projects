@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1914-02-26T04:58:12.000Z,-18,-67,130,7.2,mb,0,,,,centennial,centennial19140226045812,2013-07-09T19:07:17.000Z,"Oruro, Bolivia",earthquake
+1914-02-07T06:50:00.000Z,41,143,35,6.8,mj,0,,,,centennial,centennial19140207065000,2013-07-09T19:07:17.000Z,"off the east coast of Honshu, Japan",earthquake
+1914-02-06T11:42:18.000Z,29.5,65,100,6.8,mb,0,,,,centennial,centennial19140206114218,2013-07-09T19:07:17.000Z,"Afghanistan-Pakistan border region",earthquake

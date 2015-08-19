@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1904-08-30T11:42:00.000Z,30,101,0,6.8,ms,0,,,,centennial,centennial19040830114200,2013-07-09T19:07:15.000Z,"western Sichuan, China",earthquake
+1904-08-27T21:56:06.000Z,64,-151,0,7.2,mw,0,,,,centennial,centennial19040827215606,2013-07-09T19:07:15.000Z,"Central Alaska",earthquake
+1904-08-24T20:59:54.000Z,30,131,35,7.1,mw,0,,,,centennial,centennial19040824205954,2013-07-09T19:07:15.000Z,"Kyushu, Japan",earthquake
+1904-08-08T22:49:00.000Z,-42,179,0,6.9,ms,0,,,,centennial,centennial19040808224900,2013-07-09T19:07:15.000Z,"off the east coast of the North Island of New Zealand",earthquake

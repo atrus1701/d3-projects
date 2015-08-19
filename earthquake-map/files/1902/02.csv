@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1902-02-20T15:38:00.000Z,41.4,141.8,35,6.7,mj,0,,,,centennial,centennial19020220153800,2013-07-09T19:07:15.000Z,"Hokkaido, Japan region",earthquake
+1902-02-17T00:31:00.000Z,20,-70,0,6.9,ms,0,,,,centennial,centennial19020217003100,2013-07-09T19:07:15.000Z,"Dominican Republic region",earthquake
+1902-02-09T10:12:00.000Z,-43,-171,0,6.9,ms,0,,,,centennial,centennial19020209101200,2013-07-09T19:07:15.000Z,"Chatham Islands, New Zealand region",earthquake
+1902-02-09T07:35:00.000Z,-20,-174,0,6.9,ms,0,,,,centennial,centennial19020209073500,2013-07-09T19:07:15.000Z,"Tonga",earthquake

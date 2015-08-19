@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1921-09-27T16:20:00.000Z,40.5,139,5,6.5,mj,0,,,,centennial,centennial19210927162000,2013-07-09T19:07:18.000Z,"near the west coast of Honshu, Japan",earthquake
+1921-09-13T02:36:56.000Z,-56.259,-28.622,35,7,ms,7,,,,centennial,centennial19210913023656,2013-07-09T19:07:18.000Z,"South Sandwich Islands region",earthquake
+1921-09-11T04:01:25.000Z,-13.095,110.177,25,7.3,mw,12,,,,centennial,centennial19210911040125,2013-07-09T19:07:18.000Z,"northwest of Australia",earthquake

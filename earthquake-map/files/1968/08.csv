@@ -1,0 +1,36 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1968-08-31T10:47:40.000Z,34.037,58.962,11.8,7.2,mw,146,,,,centennial,centennial19680831104740,2014-04-07T19:47:04.282Z,"northeastern Iran",earthquake
+1968-08-28T20:42:18.000Z,15.6,121.957,14.4,6.1,ms,221,,,,centennial,centennial19680828204218,2013-07-09T19:07:34.000Z,"Luzon, Philippines",earthquake
+1968-08-28T11:50:31.000Z,-20.004,176.472,33.1,5.6,ms,116,,,,centennial,centennial19680828115031,2013-07-09T19:07:34.000Z,"south of the Fiji Islands",earthquake
+1968-08-25T11:15:48.000Z,-20.082,-175.059,98.8,5.5,mb,104,,,,centennial,centennial19680825111548,2013-07-09T19:07:34.000Z,"Tonga",earthquake
+1968-08-25T09:07:32.000Z,40.123,143.344,20.5,5.5,ms,178,,,,centennial,centennial19680825090732,2013-07-09T19:07:34.000Z,"off the east coast of Honshu, Japan",earthquake
+1968-08-23T22:36:52.000Z,-21.979,-63.646,533.5,6.3,ms,187,,,,centennial,centennial19680823223652,2013-07-09T19:07:34.000Z,"Tarija, Bolivia",earthquake
+1968-08-22T14:00:08.000Z,52.942,171.128,28.6,6,ms,205,,,,centennial,centennial19680822140008,2013-07-09T19:07:34.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1968-08-21T17:56:47.000Z,-30.666,-178.812,15,6.4,ms,118,,,,centennial,centennial19680821175647,2013-07-09T19:07:34.000Z,"Kermadec Islands, New Zealand",earthquake
+1968-08-20T11:16:57.000Z,5.473,147.102,9.9,5.6,mb,141,,,,centennial,centennial19680820111657,2013-07-09T19:07:34.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1968-08-18T18:56:45.000Z,1.214,126.144,4.3,5.8,mb,68,,,,centennial,centennial19680818185645,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-18T18:38:31.000Z,-10.205,159.956,542.9,7.3,ms,203,,,,centennial,centennial19680818183831,2013-07-09T19:07:34.000Z,"Solomon Islands",earthquake
+1968-08-17T04:00:39.000Z,1.327,126.281,42.7,5.9,ms,175,,,,centennial,centennial19680817040039,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-15T17:41:33.000Z,-12.684,166.263,29.4,5.5,ms,90,,,,centennial,centennial19680815174133,2013-07-09T19:07:34.000Z,"Santa Cruz Islands",earthquake
+1968-08-14T22:14:20.000Z,0.064,119.69,17.3,7.3,mw,201,,,,centennial,centennial19680814221420,2013-07-09T19:07:34.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1968-08-14T08:38:47.000Z,18.348,-102.994,54.6,5.7,mb,142,,,,centennial,centennial19680814083847,2013-07-09T19:07:34.000Z,"Michoacan, Mexico",earthquake
+1968-08-14T07:56:38.000Z,15.076,122.464,19.6,5.5,mb,124,,,,centennial,centennial19680814075638,2013-07-09T19:07:34.000Z,"Philippine Islands region",earthquake
+1968-08-13T02:52:52.000Z,1.644,126.361,34.9,5.7,mb,149,,,,centennial,centennial19680813025252,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-11T20:00:42.000Z,1.548,126.39,18,6,ms,172,,,,centennial,centennial19680811200042,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-11T12:37:30.000Z,52.1,-179.904,164,5.6,mb,207,,,,centennial,centennial19680811123730,2013-07-09T19:07:34.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1968-08-11T02:41:54.000Z,-15.174,-73.892,90.6,5.6,mb,128,,,,centennial,centennial19680811024154,2013-07-09T19:07:34.000Z,"southern Peru",earthquake
+1968-08-10T08:10:17.000Z,1.571,126.341,32.4,5.6,mb,140,,,,centennial,centennial19680810081017,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-10T05:51:49.000Z,1.403,126.179,39.2,6.6,ms,198,,,,centennial,centennial19680810055149,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-10T04:05:51.000Z,1.305,126.474,28.3,5.7,mb,164,,,,centennial,centennial19680810040551,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-10T02:07:04.000Z,1.422,126.259,19.3,7.6,mw,196,,,,centennial,centennial19680810020704,2013-07-09T19:07:34.000Z,"Molucca Sea",earthquake
+1968-08-09T03:08:03.000Z,-22.42,-113.152,15,5.8,ms,144,,,,centennial,centennial19680809030803,2013-07-09T19:07:34.000Z,"Easter Island region",earthquake
+1968-08-08T04:55:11.000Z,36.364,141.478,36.5,5.5,mb,181,,,,centennial,centennial19680808045511,2013-07-09T19:07:34.000Z,"near the east coast of Honshu, Japan",earthquake
+1968-08-07T08:00:15.000Z,43.074,144.776,58.6,5.5,mb,202,,,,centennial,centennial19680807080015,2013-07-09T19:07:34.000Z,"Hokkaido, Japan region",earthquake
+1968-08-05T16:17:06.000Z,33.327,132.224,44.9,6.2,mb,268,,,,centennial,centennial19680805161706,2013-07-09T19:07:34.000Z,"Shikoku, Japan",earthquake
+1968-08-04T11:41:25.000Z,6.572,126.726,102.2,5.9,mb,216,,,,centennial,centennial19680804114125,2013-07-09T19:07:34.000Z,"Mindanao, Philippines",earthquake
+1968-08-03T06:25:08.000Z,16.462,122.232,50.7,5.9,ms,208,,,,centennial,centennial19680803062508,2013-07-09T19:07:34.000Z,"Luzon, Philippines",earthquake
+1968-08-03T04:54:35.000Z,25.649,128.469,29.2,7.1,mw,272,,,,centennial,centennial19680803045435,2013-07-09T19:07:34.000Z,"Ryukyu Islands, Japan",earthquake
+1968-08-02T14:06:46.000Z,16.492,-97.77,49.2,7.3,mw,215,,,,centennial,centennial19680802140646,2013-07-09T19:07:34.000Z,"Oaxaca, Mexico",earthquake
+1968-08-02T13:30:25.000Z,27.554,60.895,66.7,5.7,mb,136,,,,centennial,centennial19680802133025,2013-07-09T19:07:34.000Z,"southeastern Iran",earthquake
+1968-08-01T20:19:24.000Z,16.383,122.078,52.1,7.7,mw,238,,,,centennial,centennial19680801201924,2013-07-09T19:07:34.000Z,"Luzon, Philippines",earthquake
+1968-08-01T00:14:17.000Z,-26.731,-177.198,124,5.6,mb,163,,,,centennial,centennial19680801001417,2013-07-09T19:07:34.000Z,"south of the Fiji Islands",earthquake

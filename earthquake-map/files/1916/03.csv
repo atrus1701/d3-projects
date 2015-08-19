@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1916-03-25T23:52:17.000Z,24,124,0,6.5,mj,0,,,,centennial,centennial19160325235217,2013-07-09T19:07:17.000Z,"southwestern Ryukyu Islands, Japan",earthquake
+1916-03-18T00:58:00.000Z,41.5,144.5,35,6.6,mj,0,,,,centennial,centennial19160318005800,2013-07-09T19:07:17.000Z,"Hokkaido, Japan region",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1925-02-20T01:02:00.000Z,45.5,150.5,35,7,mj,0,,,,centennial,centennial19250220010200,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake
+1925-02-16T17:39:20.000Z,-58.005,-6.932,15,6.6,uk,8,,,,centennial,centennial19250216173920,2013-07-09T19:07:19.000Z,"southern Mid-Atlantic Ridge",earthquake
+1925-02-02T19:48:00.000Z,43,148,35,6.8,mj,0,,,,centennial,centennial19250202194800,2013-07-09T19:07:19.000Z,"Kuril Islands",earthquake

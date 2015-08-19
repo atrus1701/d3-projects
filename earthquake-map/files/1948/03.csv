@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1948-03-13T20:02:35.000Z,1.5,126.5,60,6.6,ms,0,,,,centennial,centennial19480313200235,2013-07-09T19:07:23.000Z,"Molucca Sea",earthquake
+1948-03-03T09:09:58.000Z,18.755,119.026,35,7,ms,0,,,,centennial,centennial19480303090958,2013-07-09T19:07:23.000Z,"Philippine Islands region",earthquake
+1948-03-01T01:12:28.000Z,-3.459,127.01,35,7.1,ms,0,,,,centennial,centennial19480301011228,2013-07-09T19:07:23.000Z,"Seram, Indonesia",earthquake

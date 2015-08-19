@@ -1,0 +1,42 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-01-31T05:42:22.000Z,-2.847,139.2629,33,5.8,,,,,,atlas,atlas19710131054222,2014-03-17T19:32:55.614Z,"near the north coast of Papua, Indonesia",earthquake
+1971-01-29T21:58:05.000Z,51.635,150.965,539.9,6.9,ms,322,,,,centennial,centennial19710129215805,2013-07-09T19:07:37.000Z,"Sea of Okhotsk",earthquake
+1971-01-27T20:53:02.000Z,-26.015,27.944,13,5.3,,,,,,atlas,atlas19710127205302,2014-03-17T19:32:38.512Z,"South Africa",earthquake
+1971-01-26T19:32:07.000Z,51.606,-174.923,47.2,5.5,ms,141,,,,centennial,centennial19710126193207,2013-07-09T19:07:37.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1971-01-25T16:08:17.000Z,51.459,-177.717,47.4,6.3,ms,261,,,,centennial,centennial19710125160817,2013-07-09T19:07:37.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1971-01-25T00:18:25.000Z,-9.636,151.422,24.4,6.3,ms,154,,,,centennial,centennial19710125001825,2014-03-17T19:32:24.077Z,"D'Entrecasteaux Islands region",earthquake
+1971-01-22T23:03:04.000Z,-3.354,139.4509,33,5.5,,,,,,atlas,atlas19710122230304,2014-03-17T19:32:04.908Z,"Papua, Indonesia",earthquake
+1971-01-21T06:17:31.000Z,-6.824,147.603,47.4,5.6,mb,106,,,,centennial,centennial19710121061731,2013-07-09T19:07:37.000Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1971-01-20T04:44:59.000Z,8.785,-79.166,15.6,5.6,ms,171,,,,centennial,centennial19710120044459,2013-07-09T19:07:37.000Z,"Panama",earthquake
+1971-01-19T03:16:50.000Z,23.72,-108.692,4.4,5.9,ms,100,,,,centennial,centennial19710119031650,2013-07-09T19:07:37.000Z,"Gulf of California",earthquake
+1971-01-18T11:24:56.000Z,-2.774,139.3419,33,5.5,,,,,,atlas,atlas19710118112456,2014-03-17T19:31:46.321Z,"near the north coast of Papua, Indonesia",earthquake
+1971-01-16T18:46:43.000Z,-3.188,139.5309,33,5.8,,,,,,atlas,atlas19710116184643,2014-03-17T19:31:25.094Z,"Papua, Indonesia",earthquake
+1971-01-16T15:16:24.000Z,-3.412,139.4609,33,5.9,,,,,,atlas,atlas19710116151624,2014-03-17T19:31:03.075Z,"Papua, Indonesia",earthquake
+1971-01-16T12:39:51.000Z,-56.01,-27.672,71.6,5.7,mb,108,,,,centennial,centennial19710116123951,2013-07-09T19:07:37.000Z,"South Sandwich Islands region",earthquake
+1971-01-16T09:00:20.000Z,-1.404,28.61,18,5,,,,,,atlas,atlas19710116090020,2014-03-17T19:30:44.342Z,"Lac Kivu region, Democratic Republic of the Congo",earthquake
+1971-01-15T07:28:38.000Z,-3.03,139.4699,33,6,,,,,,atlas,atlas19710115072838,2014-03-17T19:30:22.634Z,"Papua, Indonesia",earthquake
+1971-01-14T18:07:24.000Z,-3.005,139.753,37,5.6,ms,60,,,,centennial,centennial19710114180724,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-13T10:22:51.000Z,-3.07,139.606,52.2,5.6,mb,78,,,,centennial,centennial19710113102251,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-12T14:57:12.000Z,-3.397,139.937,31.3,5.6,ms,92,,,,centennial,centennial19710112145712,2014-03-17T19:30:01.207Z,"Papua, Indonesia",earthquake
+1971-01-10T23:24:46.000Z,-3.294,139.8429,33,5.6,,,,,,atlas,atlas19710110232446,2014-03-17T19:29:42.874Z,"Papua, Indonesia",earthquake
+1971-01-10T22:14:39.000Z,-3.336,139.942,33.6,5.8,ms,111,,,,centennial,centennial19710110221439,2014-03-17T19:29:22.007Z,"Papua, Indonesia",earthquake
+1971-01-10T19:34:28.000Z,-3.178,139.809,82.9,5.5,mb,83,,,,centennial,centennial19710110193428,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-10T19:13:42.000Z,-3.253,139.837,70.1,5.8,mb,101,,,,centennial,centennial19710110191342,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-10T16:38:39.000Z,-3.5,140.118,45.4,6,ms,81,,,,centennial,centennial19710110163839,2014-03-17T19:29:03.063Z,"Papua, Indonesia",earthquake
+1971-01-10T16:24:23.000Z,-3.186,139.909,66.4,5.6,mb,52,,,,centennial,centennial19710110162423,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-10T16:07:50.000Z,-3.189,139.851,54.5,5.7,ms,85,,,,centennial,centennial19710110160750,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-10T14:29:59.000Z,-3.318,139.785,39.6,5.9,ms,96,,,,centennial,centennial19710110142959,2014-03-17T19:28:44.038Z,"Papua, Indonesia",earthquake
+1971-01-10T10:45:10.000Z,-3.075,139.646,52.9,6.2,mb,109,,,,centennial,centennial19710110104510,2014-03-17T19:28:25.364Z,"Papua, Indonesia",earthquake
+1971-01-10T10:04:11.000Z,-3.389,140.088,64.7,5.6,mb,44,,,,centennial,centennial19710110100411,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-10T09:07:05.000Z,-3.229,139.9309,23,5.5,,,,,,atlas,atlas19710110090705,2014-03-17T19:28:06.712Z,"Papua, Indonesia",earthquake
+1971-01-10T08:44:39.000Z,-3.245,139.829,62.1,5.5,mb,52,,,,centennial,centennial19710110084439,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-10T07:53:56.000Z,-3.012,139.662,52.9,5.6,mb,34,,,,centennial,centennial19710110075356,2013-07-09T19:07:37.000Z,"Papua, Indonesia",earthquake
+1971-01-10T07:43:49.000Z,-3.025,139.655,40.9,5.9,mb,62,,,,centennial,centennial19710110074349,2014-03-17T19:27:45.302Z,"Papua, Indonesia",earthquake
+1971-01-10T07:17:07.000Z,-3.233,139.743,55.2,7.7,mw,211,,,,centennial,centennial19710110071707,2014-03-17T19:27:18.032Z,"Papua, Indonesia",earthquake
+1971-01-08T14:45:30.000Z,47.357,154.215,25.4,5.8,ms,200,,,,centennial,centennial19710108144530,2013-07-09T19:07:37.000Z,"Kuril Islands",earthquake
+1971-01-07T02:49:58.000Z,52.27,-173.252,85.6,5.7,mb,173,,,,centennial,centennial19710107024958,2013-07-09T19:07:37.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1971-01-04T21:08:55.000Z,34.547,137.105,41.2,5.7,ms,197,,,,centennial,centennial19710104210855,2014-03-17T19:27:01.873Z,"near the south coast of Honshu, Japan",earthquake
+1971-01-04T07:39:06.000Z,35.022,-106.6909,9,4.7,,,,,,atlas,atlas19710104073906,2014-03-17T19:26:45.350Z,"Albuquerque urban area, New Mexico",earthquake
+1971-01-04T03:59:11.000Z,-29.577,-111.874,10.1,5.5,ms,60,,,,centennial,centennial19710104035911,2013-07-09T19:07:37.000Z,"Easter Island region",earthquake
+1971-01-03T17:35:41.000Z,-55.639,-2.466,27,7.1,ms,89,,,,centennial,centennial19710103173541,2013-07-09T19:07:37.000Z,"southern Mid-Atlantic Ridge",earthquake
+1971-01-01T07:58:03.000Z,-4.106,141.252,33.9,5.8,ms,114,,,,centennial,centennial19710101075803,2014-03-17T19:26:24.257Z,"New Guinea, Papua New Guinea",earthquake

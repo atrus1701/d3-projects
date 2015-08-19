@@ -1,0 +1,23 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-02-28T21:38:54.000Z,-25.948,-70.452,65.3,5.6,mb,87,,,,centennial,centennial19660228213854,2013-07-09T19:07:31.000Z,"Antofagasta, Chile",earthquake
+1966-02-28T13:35:42.000Z,29.203,130.244,47.5,5.6,mb,122,,,,centennial,centennial19660228133542,2013-07-09T19:07:31.000Z,"Ryukyu Islands, Japan",earthquake
+1966-02-28T02:02:14.000Z,43.675,139.643,217.2,5.5,mb,177,,,,centennial,centennial19660228020214,2013-07-09T19:07:31.000Z,"eastern Sea of Japan",earthquake
+1966-02-25T22:50:47.000Z,-15.26,-172.922,23,5.7,uk,77,,,,centennial,centennial19660225225047,2013-07-09T19:07:31.000Z,"Samoa Islands region",earthquake
+1966-02-22T05:02:42.000Z,-5.43,151.608,64.6,6.1,mb,208,,,,centennial,centennial19660222050242,2013-07-09T19:07:31.000Z,"New Britain region, Papua New Guinea",earthquake
+1966-02-21T00:22:26.000Z,-55.711,-27.011,2.2,5.9,uk,89,,,,centennial,centennial19660221002226,2013-07-09T19:07:31.000Z,"South Sandwich Islands region",earthquake
+1966-02-17T12:43:02.000Z,-32.174,78.968,29.1,5.6,mb,89,,,,centennial,centennial19660217124302,2013-07-09T19:07:31.000Z,"Mid-Indian Ridge",earthquake
+1966-02-17T11:48:00.000Z,-32.234,78.817,16.1,6.2,uk,183,,,,centennial,centennial19660217114800,2013-07-09T19:07:31.000Z,"Mid-Indian Ridge",earthquake
+1966-02-16T03:18:29.000Z,-17.676,168.073,35.3,6.5,uk,165,,,,centennial,centennial19660216031829,2013-07-09T19:07:31.000Z,"Vanuatu",earthquake
+1966-02-13T10:44:38.000Z,26.172,103.25,2.5,5.9,uk,142,,,,centennial,centennial19660213104438,2013-07-09T19:07:31.000Z,"Yunnan, China",earthquake
+1966-02-13T06:36:02.000Z,-6.633,132.628,49.9,5.9,uk,98,,,,centennial,centennial19660213063602,2013-07-09T19:07:31.000Z,"Kepulauan Tanimbar, Indonesia",earthquake
+1966-02-10T14:21:12.000Z,20.767,146.31,41,6.5,uk,185,,,,centennial,centennial19660210142112,2013-07-09T19:07:31.000Z,"Mariana Islands region",earthquake
+1966-02-09T15:13:30.000Z,-15.348,-75.28,41.4,5.6,uk,78,,,,centennial,centennial19660209151330,2013-07-09T19:07:31.000Z,"near the coast of central Peru",earthquake
+1966-02-09T07:18:45.000Z,-9.8,116.304,11.9,5.7,mb,114,,,,centennial,centennial19660209071845,2013-07-09T19:07:31.000Z,"Lombok region, Indonesia",earthquake
+1966-02-09T04:40:31.000Z,-56.698,-25.612,36.3,6.4,uk,111,,,,centennial,centennial19660209044031,2013-07-09T19:07:31.000Z,"South Sandwich Islands region",earthquake
+1966-02-07T23:06:37.000Z,30.214,69.841,17.1,6.4,uk,155,,,,centennial,centennial19660207230637,2013-07-09T19:07:31.000Z,"Pakistan",earthquake
+1966-02-07T04:26:13.000Z,29.925,69.605,15.5,5.8,mb,158,,,,centennial,centennial19660207042613,2013-07-09T19:07:31.000Z,"Pakistan",earthquake
+1966-02-05T16:16:05.000Z,50.033,155.324,118.5,5.7,mb,211,,,,centennial,centennial19660205161605,2013-07-09T19:07:31.000Z,"Kuril Islands",earthquake
+1966-02-05T15:12:31.000Z,26.159,103.17,8.6,5.6,mb,159,,,,centennial,centennial19660205151231,2013-07-09T19:07:31.000Z,"Yunnan, China",earthquake
+1966-02-05T02:01:47.000Z,39.045,21.757,20.3,6.2,uk,142,,,,centennial,centennial19660205020147,2013-07-09T19:07:31.000Z,"Greece",earthquake
+1966-02-04T10:39:12.000Z,-15.926,167.994,181.8,6.5,mb,126,,,,centennial,centennial19660204103912,2013-07-09T19:07:31.000Z,"Vanuatu",earthquake
+1966-02-03T05:48:11.000Z,0.077,123.408,158.6,5.6,mb,158,,,,centennial,centennial19660203054811,2013-07-09T19:07:31.000Z,"Minahasa, Sulawesi, Indonesia",earthquake

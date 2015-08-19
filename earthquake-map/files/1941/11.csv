@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1941-11-27T08:37:41.000Z,-7.347,121.233,524.1,6.6,uk,36,,,,centennial,centennial19411127083741,2013-07-09T19:07:22.000Z,"Flores Sea",earthquake
+1941-11-25T18:03:58.000Z,37.171,-18.96,25,8.1,mw,62,,,,centennial,centennial19411125180358,2013-07-09T19:07:22.000Z,"Azores-Cape St. Vincent Ridge",earthquake
+1941-11-24T21:46:21.000Z,-28.276,-177.611,35,7,mb,54,,,,centennial,centennial19411124214621,2013-07-09T19:07:22.000Z,"Kermadec Islands region",earthquake
+1941-11-18T16:46:00.000Z,32,132,0,7.7,mw,0,,,,centennial,centennial19411118164600,2013-07-09T19:07:22.000Z,"Kyushu, Japan",earthquake
+1941-11-18T10:14:41.000Z,-60.757,-55.375,35,7.1,ms,16,,,,centennial,centennial19411118101441,2013-07-09T19:07:22.000Z,"South Shetland Islands",earthquake
+1941-11-15T04:19:57.000Z,-59.802,-26.993,35,7.1,mb,16,,,,centennial,centennial19411115041957,2013-07-09T19:07:22.000Z,"South Sandwich Islands region",earthquake
+1941-11-08T23:37:28.000Z,0.724,122.857,35,7.2,mw,49,,,,centennial,centennial19411108233728,2013-07-09T19:07:22.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1941-11-05T17:38:52.000Z,12.834,123.481,35,6.7,uk,36,,,,centennial,centennial19411105173852,2013-07-09T19:07:22.000Z,"Masbate region, Philippines",earthquake

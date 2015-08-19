@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-10-13T09:26:56.000Z,-10.054,160.797,100,7.1,mb,0,,,,centennial,centennial19551013092656,2013-07-09T19:07:26.000Z,"Solomon Islands",earthquake
+1955-10-10T08:57:50.000Z,-5.04,152.711,25,7.3,mw,0,,,,centennial,centennial19551010085750,2013-07-09T19:07:25.000Z,"New Britain region, Papua New Guinea",earthquake

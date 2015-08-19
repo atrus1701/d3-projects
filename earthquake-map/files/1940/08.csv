@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1940-08-22T03:27:18.000Z,53,-165.5,60,7,ms,0,,,,centennial,centennial19400822032718,2013-07-09T19:07:22.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1940-08-13T15:36:40.000Z,36,132,0,6.6,uk,0,,,,centennial,centennial19400813153640,2013-07-09T19:07:22.000Z,"Sea of Japan",earthquake
+1940-08-01T15:08:26.000Z,44.508,139.829,35,7.5,mw,86,,,,centennial,centennial19400801150826,2013-07-09T19:07:22.000Z,"eastern Sea of Japan",earthquake
+1940-08-01T12:38:40.000Z,-26.471,179.848,536.9,6.6,uk,44,,,,centennial,centennial19400801123840,2013-07-09T19:07:22.000Z,"south of the Fiji Islands",earthquake

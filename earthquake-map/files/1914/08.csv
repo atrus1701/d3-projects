@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1914-08-22T05:28:18.000Z,44,-129,0,6.6,uk,0,,,,centennial,centennial19140822052818,2013-07-09T19:07:17.000Z,"off the coast of Oregon",earthquake
+1914-08-06T04:10:42.000Z,-6,123,600,6.7,mb,0,,,,centennial,centennial19140806041042,2013-07-09T19:07:17.000Z,"Flores Sea",earthquake
+1914-08-04T22:41:36.000Z,43.5,91.5,0,7.2,ms,0,,,,centennial,centennial19140804224136,2013-07-09T19:07:17.000Z,"northern Xinjiang, China",earthquake

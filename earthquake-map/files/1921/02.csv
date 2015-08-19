@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1921-02-27T18:23:39.000Z,-18.647,-173.185,35,7.1,mw,31,,,,centennial,centennial19210227182339,2013-07-09T19:07:18.000Z,"Tonga",earthquake
+1921-02-19T18:14:41.000Z,-2.047,139.624,35,6.6,uk,10,,,,centennial,centennial19210219181441,2013-07-09T19:07:18.000Z,"near the north coast of Papua, Indonesia",earthquake
+1921-02-04T08:22:43.000Z,15.411,-90.78,35,7.4,mb,17,,,,centennial,centennial19210204082243,2013-07-09T19:07:18.000Z,"Guatemala",earthquake

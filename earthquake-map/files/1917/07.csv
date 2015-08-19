@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1917-07-31T03:23:10.000Z,42,131,500,7.4,mb,0,,,,centennial,centennial19170731032310,2013-07-09T19:07:18.000Z,"Sea of Japan",earthquake
+1917-07-30T23:54:05.000Z,29,104,0,7.3,mw,0,,,,centennial,centennial19170730235405,2013-07-09T19:07:18.000Z,"eastern Sichuan, China",earthquake
+1917-07-29T21:52:24.000Z,-3.5,141,0,7.6,mw,0,,,,centennial,centennial19170729215224,2013-07-09T19:07:18.000Z,"New Guinea, Papua New Guinea",earthquake
+1917-07-29T14:32:15.000Z,41,144,0,7,ms,0,,,,centennial,centennial19170729143215,2013-07-09T19:07:18.000Z,"off the east coast of Honshu, Japan",earthquake
+1917-07-27T02:51:48.000Z,-31,-70,60,6.9,ms,0,,,,centennial,centennial19170727025148,2013-07-09T19:07:18.000Z,"San Juan, Argentina",earthquake
+1917-07-27T01:01:18.000Z,19,-67.5,50,7,ms,0,,,,centennial,centennial19170727010118,2013-07-09T19:07:18.000Z,"Puerto Rico region",earthquake
+1917-07-04T05:36:30.000Z,25,123,0,7,uk,0,,,,centennial,centennial19170704053630,2013-07-09T19:07:18.000Z,"Taiwan region",earthquake
+1917-07-04T00:38:20.000Z,25,123,0,7.2,mw,0,,,,centennial,centennial19170704003820,2013-07-09T19:07:18.000Z,"Taiwan region",earthquake

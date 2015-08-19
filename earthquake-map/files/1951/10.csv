@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1951-10-28T06:47:42.000Z,-58,158,0,6.6,uk,0,,,,centennial,centennial19511028064742,2013-07-09T19:07:24.000Z,"Macquarie Island region",earthquake
+1951-10-25T12:19:42.000Z,23,121.3,40,6.5,ms,0,,,,centennial,centennial19511025121942,2013-07-09T19:07:24.000Z,"Taiwan",earthquake
+1951-10-22T15:29:47.000Z,23.9,121.7,0,6.5,ms,0,,,,centennial,centennial19511022152947,2013-07-09T19:07:24.000Z,"Taiwan",earthquake
+1951-10-22T05:43:06.000Z,23.578,121.316,25,7.1,mw,0,,,,centennial,centennial19511022054306,2013-07-09T19:07:24.000Z,"Taiwan",earthquake
+1951-10-22T05:17:44.000Z,23.9,121.7,0,6.6,ms,0,,,,centennial,centennial19511022051744,2013-07-09T19:07:24.000Z,"Taiwan",earthquake
+1951-10-22T04:28:09.000Z,23.688,120.909,25,7,ms,0,,,,centennial,centennial19511022042809,2013-07-09T19:07:24.000Z,"Taiwan",earthquake
+1951-10-22T03:29:32.000Z,23.688,121.192,25,7.2,mw,0,,,,centennial,centennial19511022032932,2013-07-09T19:07:24.000Z,"Taiwan",earthquake
+1951-10-21T21:34:19.000Z,23.2,120.909,25,7.5,mw,0,,,,centennial,centennial19511021213419,2013-07-09T19:07:24.000Z,"Taiwan",earthquake
+1951-10-18T08:26:24.000Z,41.6,142,33,6.5,ms,0,,,,centennial,centennial19511018082624,2013-07-09T19:07:24.000Z,"Hokkaido, Japan region",earthquake
+1951-10-11T01:37:35.000Z,-5.5,152,60,6.7,uk,0,,,,centennial,centennial19511011013735,2013-07-09T19:07:24.000Z,"New Britain region, Papua New Guinea",earthquake

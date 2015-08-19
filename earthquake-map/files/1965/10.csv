@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-10-30T06:57:37.000Z,-16.485,-173.124,7.6,5.5,uk,40,,,,centennial,centennial19651030065737,2013-07-09T19:07:31.000Z,"Tonga",earthquake
+1965-10-25T22:34:24.000Z,44.199,145.38,163.6,6.1,mb,254,,,,centennial,centennial19651025223424,2013-07-09T19:07:31.000Z,"Hokkaido, Japan region",earthquake
+1965-10-24T18:15:10.000Z,49.659,156.169,60.3,5.5,mb,163,,,,centennial,centennial19651024181510,2013-07-09T19:07:31.000Z,"Kuril Islands",earthquake
+1965-10-24T14:32:11.000Z,4.161,125.714,145.2,5.5,mb,98,,,,centennial,centennial19651024143211,2013-07-09T19:07:31.000Z,"Kepulauan Sangihe, Indonesia",earthquake
+1965-10-23T08:15:00.000Z,-54.915,146.462,3.5,5.5,mb,26,,,,centennial,centennial19651023081500,2013-07-09T19:07:31.000Z,"west of Macquarie Island",earthquake
+1965-10-20T23:54:33.000Z,12.442,-87.372,84.7,5.5,mb,33,,,,centennial,centennial19651020235433,2013-07-09T19:07:31.000Z,"near the coast of Nicaragua",earthquake
+1965-10-18T21:50:07.000Z,-1.361,127.644,33.2,6.8,uk,114,,,,centennial,centennial19651018215007,2013-07-09T19:07:31.000Z,"Kepulauan Obi, Indonesia",earthquake
+1965-10-17T01:53:34.000Z,-8.012,156.333,9.6,5.6,mb,109,,,,centennial,centennial19651017015334,2013-07-09T19:07:31.000Z,"Solomon Islands",earthquake
+1965-10-13T14:46:28.000Z,-22.745,171.179,37.5,5.6,uk,56,,,,centennial,centennial19651013144628,2013-07-09T19:07:31.000Z,"southeast of the Loyalty Islands",earthquake
+1965-10-10T17:25:43.000Z,-59.23,-25.12,28,5.8,uk,89,,,,centennial,centennial19651010172543,2013-07-09T19:07:31.000Z,"South Sandwich Islands region",earthquake
+1965-10-10T00:35:59.000Z,51.693,-175.376,39.4,5.8,uk,54,,,,centennial,centennial19651010003559,2013-07-09T19:07:31.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1965-10-07T03:36:02.000Z,12.43,114.397,24.6,5.8,mb,152,,,,centennial,centennial19651007033602,2013-07-09T19:07:31.000Z,"South China Sea",earthquake
+1965-10-05T00:52:53.000Z,-5.762,130.551,105.3,5.5,mb,63,,,,centennial,centennial19651005005253,2013-07-09T19:07:31.000Z,"Banda Sea",earthquake
+1965-10-03T16:14:56.000Z,-42.964,-75.382,20.1,6.5,uk,148,,,,centennial,centennial19651003161456,2013-07-09T19:07:31.000Z,"offshore Los Lagos, Chile",earthquake
+1965-10-03T14:45:32.000Z,49.465,156.563,63.2,5.9,mb,217,,,,centennial,centennial19651003144532,2013-07-09T19:07:31.000Z,"Kuril Islands",earthquake
+1965-10-01T22:34:23.000Z,-60.573,-24.884,10,5.7,mb,70,,,,centennial,centennial19651001223423,2013-07-09T19:07:31.000Z,"South Sandwich Islands region",earthquake
+1965-10-01T13:22:29.000Z,-19.913,174.54,552.2,6.2,ms,112,,,,centennial,centennial19651001132229,2013-07-09T19:07:31.000Z,"Vanuatu region",earthquake
+1965-10-01T08:52:04.000Z,50.014,178.284,14.6,6.5,uk,236,,,,centennial,centennial19651001085204,2013-07-09T19:07:31.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake

@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1949-11-27T08:42:18.000Z,-18,-173,60,6.6,ms,0,,,,centennial,centennial19491127084218,2013-07-09T19:07:24.000Z,"Tonga region",earthquake
+1949-11-22T00:51:53.000Z,-29.189,-178.046,190,7.1,mb,0,,,,centennial,centennial19491122005153,2013-07-09T19:07:24.000Z,"Kermadec Islands, New Zealand",earthquake
+1949-11-20T07:09:43.000Z,28.1,-112.6,0,6.6,uk,0,,,,centennial,centennial19491120070943,2013-07-09T19:07:24.000Z,"Gulf of California",earthquake
+1949-11-07T05:59:49.000Z,-14,167,96,6.6,uk,0,,,,centennial,centennial19491107055949,2013-07-09T19:07:24.000Z,"Vanuatu",earthquake
+1949-11-03T01:12:36.000Z,48.5,154,160,6.6,uk,0,,,,centennial,centennial19491103011236,2013-07-09T19:07:24.000Z,"Kuril Islands",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1963-10-20T00:53:10.000Z,44.764,150.567,27,7.9,mw,166,,,,centennial,centennial19631020005310,2013-07-09T19:07:28.000Z,"east of the Kuril Islands",earthquake
+1963-10-13T05:17:55.000Z,44.763,149.801,26,8.6,mw,192,,,,centennial,centennial19631013051755,2013-07-09T19:07:28.000Z,"Kuril Islands",earthquake
+1963-10-12T11:27:00.000Z,44.429,149.273,48.2,7.1,mw,210,,,,centennial,centennial19631012112700,2013-07-09T19:07:28.000Z,"Kuril Islands",earthquake

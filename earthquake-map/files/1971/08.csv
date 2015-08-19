@@ -1,0 +1,30 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1971-08-28T15:57:47.000Z,28.271,130.752,24.6,5.5,mb,175,,,,centennial,centennial19710828155747,2013-07-09T19:07:38.000Z,"Ryukyu Islands, Japan",earthquake
+1971-08-28T04:09:08.000Z,-18.839,-174.608,147.6,5.5,mb,135,,,,centennial,centennial19710828040908,2013-07-09T19:07:38.000Z,"Tonga",earthquake
+1971-08-26T10:50:42.000Z,-55.771,-26.104,35.5,5.5,ms,104,,,,centennial,centennial19710826105042,2013-07-09T19:07:38.000Z,"South Sandwich Islands region",earthquake
+1971-08-23T21:55:20.000Z,45.609,150.924,42.7,5.6,ms,241,,,,centennial,centennial19710823215520,2013-07-09T19:07:38.000Z,"Kuril Islands",earthquake
+1971-08-23T04:08:01.000Z,-3.998,145.908,15,6.3,ms,126,,,,centennial,centennial19710823040801,2013-07-09T19:07:38.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1971-08-21T12:47:49.000Z,-21.841,-70.307,37.5,5.5,mb,79,,,,centennial,centennial19710821124749,2013-07-09T19:07:38.000Z,"near the coast of Antofagasta, Chile",earthquake
+1971-08-20T21:36:10.000Z,13.276,-92.447,31.3,5.6,ms,197,,,,centennial,centennial19710820213610,2013-07-09T19:07:38.000Z,"near the coast of Guatemala",earthquake
+1971-08-19T22:15:40.000Z,49.285,155.481,40.1,6.1,ms,271,,,,centennial,centennial19710819221540,2013-07-09T19:07:38.000Z,"Kuril Islands",earthquake
+1971-08-19T08:28:56.000Z,24.019,121.957,30.1,5.6,ms,137,,,,centennial,centennial19710819082856,2013-07-09T19:07:38.000Z,"Taiwan",earthquake
+1971-08-16T18:53:54.000Z,28.883,103.74,33,5.6,,,,,,atlas,atlas19710816185354,2014-03-17T19:53:26.754Z,"eastern Sichuan, China",earthquake
+1971-08-16T04:58:01.000Z,28.879,103.673,24.3,5.5,mb,184,,,,centennial,centennial19710816045801,2014-03-17T19:53:00.816Z,"eastern Sichuan, China",earthquake
+1971-08-14T15:00:25.000Z,-21.741,-67.12,182.1,5.6,mb,88,,,,centennial,centennial19710814150025,2013-07-09T19:07:38.000Z,"Potosi, Bolivia",earthquake
+1971-08-14T09:02:50.000Z,-15.519,-178.274,15,6.6,ms,60,,,,centennial,centennial19710814090250,2013-07-09T19:07:38.000Z,"Fiji region",earthquake
+1971-08-14T00:15:19.000Z,-14.829,167.268,118.6,5.5,mb,167,,,,centennial,centennial19710814001519,2013-07-09T19:07:38.000Z,"Vanuatu",earthquake
+1971-08-13T16:48:46.000Z,-6.114,154.135,8.6,6.2,ms,131,,,,centennial,centennial19710813164846,2013-07-09T19:07:38.000Z,"Bougainville region, Papua New Guinea",earthquake
+1971-08-13T14:42:41.000Z,-42.165,172.23,3.7,5.5,mb,53,,,,centennial,centennial19710813144241,2013-07-09T19:07:38.000Z,"South Island of New Zealand",earthquake
+1971-08-12T14:20:44.000Z,19.596,-106.086,33.1,5.5,ms,134,,,,centennial,centennial19710812142044,2013-07-09T19:07:38.000Z,"offshore Jalisco, Mexico",earthquake
+1971-08-11T14:23:30.000Z,-62.788,155.833,10.9,6.1,ms,108,,,,centennial,centennial19710811142330,2013-07-09T19:07:38.000Z,"Balleny Islands region",earthquake
+1971-08-10T14:37:54.000Z,-5.396,153.479,20.6,5.7,ms,154,,,,centennial,centennial19710810143754,2013-07-09T19:07:38.000Z,"New Ireland region, Papua New Guinea",earthquake
+1971-08-09T20:01:40.000Z,-5.672,152.112,30.5,6.2,ms,185,,,,centennial,centennial19710809200140,2014-03-17T19:52:48.211Z,"New Britain region, Papua New Guinea",earthquake
+1971-08-09T12:12:02.000Z,-5.883,154.323,61.4,5.9,mb,199,,,,centennial,centennial19710809121202,2013-07-09T19:07:38.000Z,"Bougainville region, Papua New Guinea",earthquake
+1971-08-08T16:37:19.000Z,-7.138,129.093,178.9,5.5,mb,62,,,,centennial,centennial19710808163719,2013-07-09T19:07:38.000Z,"Kepulauan Babar, Indonesia",earthquake
+1971-08-05T04:50:31.000Z,-2.692,119.9209,17,5.6,,,,,,atlas,atlas19710805045031,2014-03-17T19:52:31.689Z,"Sulawesi, Indonesia",earthquake
+1971-08-05T01:58:51.000Z,-0.929,-22.085,22.1,7,ms,245,,,,centennial,centennial19710805015851,2013-07-09T19:07:38.000Z,"central Mid-Atlantic Ridge",earthquake
+1971-08-04T00:24:37.000Z,36.392,70.734,201.7,5.6,mb,200,,,,centennial,centennial19710804002437,2013-07-09T19:07:38.000Z,"Hindu Kush region, Afghanistan",earthquake
+1971-08-02T13:00:02.000Z,41.354,143.449,46,5.6,mb,174,,,,centennial,centennial19710802130002,2013-07-09T19:07:38.000Z,"Hokkaido, Japan region",earthquake
+1971-08-02T07:24:58.000Z,41.378,143.456,54,7.2,mw,318,,,,centennial,centennial19710802072458,2014-03-17T19:52:19.453Z,"Hokkaido, Japan region",earthquake
+1971-08-02T00:19:52.000Z,-5.54,152.479,9.5,5.6,uk,134,,,,centennial,centennial19710802001952,2013-07-09T19:07:38.000Z,"New Britain region, Papua New Guinea",earthquake
+1971-08-01T02:06:11.000Z,50.349,156.884,47.4,5.5,mb,222,,,,centennial,centennial19710801020611,2013-07-09T19:07:38.000Z,"Kuril Islands",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1902-11-21T07:03:00.000Z,22.5,121.5,5,6.8,ms,0,,,,centennial,centennial19021121070300,2013-07-09T19:07:15.000Z,"Taiwan region",earthquake
+1902-11-20T20:27:00.000Z,-22,170,0,6.9,ms,0,,,,centennial,centennial19021120202700,2013-07-09T19:07:15.000Z,"southeast of the Loyalty Islands",earthquake
+1902-11-04T11:33:30.000Z,36,96,0,6.9,ms,0,,,,centennial,centennial19021104113330,2013-07-09T19:07:15.000Z,"southern Qinghai, China",earthquake

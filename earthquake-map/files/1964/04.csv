@@ -1,0 +1,30 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-04-26T13:59:26.000Z,-6.086,104.75,65.5,5.7,mb,82,,,,centennial,centennial19640426135926,2013-07-09T19:07:29.000Z,"Sunda Strait, Indonesia",earthquake
+1964-04-24T05:56:11.000Z,-5.068,144.274,105.6,6.9,mb,143,,,,centennial,centennial19640424055611,2013-07-09T19:07:29.000Z,"New Guinea, Papua New Guinea",earthquake
+1964-04-23T03:32:48.000Z,-5.421,133.937,5.9,7.1,mw,134,,,,centennial,centennial19640423033248,2013-07-09T19:07:29.000Z,"Kepulauan Kai, Indonesia",earthquake
+1964-04-21T05:01:36.000Z,61.409,-147.469,34.7,6,uk,128,,,,centennial,centennial19640421050136,2013-07-09T19:07:29.000Z,"Southern Alaska",earthquake
+1964-04-20T11:56:44.000Z,61.412,-147.32,34.4,6.5,uk,161,,,,centennial,centennial19640420115644,2013-07-09T19:07:29.000Z,"Southern Alaska",earthquake
+1964-04-17T05:59:58.000Z,-6.547,155.083,56.9,5.5,mb,103,,,,centennial,centennial19640417055958,2013-07-09T19:07:29.000Z,"Bougainville region, Papua New Guinea",earthquake
+1964-04-17T04:49:28.000Z,56.318,-152.992,4.6,5.5,mb,146,,,,centennial,centennial19640417044928,2013-07-09T19:07:29.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-16T19:26:54.000Z,56.359,-153.003,4.4,6.6,uk,164,,,,centennial,centennial19640416192654,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-15T15:30:47.000Z,56.479,-154.443,28.4,5.7,mb,135,,,,centennial,centennial19640415153047,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-13T21:25:35.000Z,57.391,-153.906,39.5,5.5,mb,112,,,,centennial,centennial19640413212535,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-12T01:24:29.000Z,56.524,-152.305,2.6,6.2,uk,178,,,,centennial,centennial19640412012429,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-10T21:44:16.000Z,60.066,-153.518,74.3,5.6,mb,129,,,,centennial,centennial19640410214416,2013-07-09T19:07:28.000Z,"Southern Alaska",earthquake
+1964-04-10T01:08:02.000Z,58.32,-150.663,17.4,5.5,mb,134,,,,centennial,centennial19640410010802,2013-07-09T19:07:28.000Z,"Gulf of Alaska",earthquake
+1964-04-08T10:58:12.000Z,45.755,150.909,51,5.5,mb,163,,,,centennial,centennial19640408105812,2013-07-09T19:07:28.000Z,"Kuril Islands",earthquake
+1964-04-07T19:28:27.000Z,55.582,-151.944,28.3,5.5,mb,102,,,,centennial,centennial19640407192827,2013-07-09T19:07:28.000Z,"south of Alaska",earthquake
+1964-04-07T13:18:21.000Z,0.003,123.152,161.7,5.6,mb,104,,,,centennial,centennial19640407131821,2013-07-09T19:07:28.000Z,"Minahasa, Sulawesi, Indonesia",earthquake
+1964-04-05T19:28:20.000Z,60.197,-146.785,16.4,5.8,mb,133,,,,centennial,centennial19640405192820,2013-07-09T19:07:28.000Z,"Southern Alaska",earthquake
+1964-04-05T01:22:13.000Z,56.19,-153.448,15.4,6,uk,137,,,,centennial,centennial19640405012213,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-04T17:59:44.000Z,56.392,-154.473,22.5,6.1,uk,106,,,,centennial,centennial19640404175944,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-04T17:46:09.000Z,56.228,-154.418,16.6,6.5,uk,163,,,,centennial,centennial19640404174609,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-04T09:10:57.000Z,56.801,-152.748,20.1,5.8,mb,133,,,,centennial,centennial19640404091057,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-04T08:40:30.000Z,56.361,-152.672,12,5.6,mb,125,,,,centennial,centennial19640404084030,2013-07-09T19:07:28.000Z,"Kodiak Island region, Alaska",earthquake
+1964-04-04T04:54:00.000Z,60.075,-146.875,20.9,5.9,mb,145,,,,centennial,centennial19640404045400,2013-07-09T19:07:28.000Z,"Southern Alaska",earthquake
+1964-04-03T22:33:39.000Z,61.578,-147.637,8.5,6,uk,153,,,,centennial,centennial19640403223339,2013-07-09T19:07:28.000Z,"Southern Alaska",earthquake
+1964-04-03T08:38:45.000Z,59.522,-144.809,15,5.5,mb,94,,,,centennial,centennial19640403083845,2013-07-09T19:07:28.000Z,"Gulf of Alaska",earthquake
+1964-04-03T04:12:42.000Z,3.926,96.52,65.7,5.8,mb,132,,,,centennial,centennial19640403041242,2013-07-09T19:07:28.000Z,"northern Sumatra, Indonesia",earthquake
+1964-04-02T23:27:53.000Z,-56.465,-25.024,36.6,5.8,mb,23,,,,centennial,centennial19640402232753,2013-07-09T19:07:28.000Z,"South Sandwich Islands region",earthquake
+1964-04-02T11:41:13.000Z,58.798,-149.431,23,5.5,mb,96,,,,centennial,centennial19640402114113,2013-07-09T19:07:28.000Z,"Gulf of Alaska",earthquake
+1964-04-02T01:11:57.000Z,5.988,95.404,131.9,5.6,mb,138,,,,centennial,centennial19640402011157,2013-07-09T19:07:28.000Z,"northern Sumatra, Indonesia",earthquake

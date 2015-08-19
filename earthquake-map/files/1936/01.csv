@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1936-01-20T16:56:18.000Z,6.031,127.13,35,7,mb,44,,,,centennial,centennial19360120165618,2013-07-09T19:07:21.000Z,"Philippine Islands region",earthquake
+1936-01-14T14:12:20.000Z,-28.922,-62.624,601.7,6.7,uk,64,,,,centennial,centennial19360114141220,2013-07-09T19:07:21.000Z,"Santiago Del Estero, Argentina",earthquake
+1936-01-14T05:36:30.000Z,-60.53,-22.38,35,6.8,ms,27,,,,centennial,centennial19360114053630,2013-07-09T19:07:21.000Z,"South Sandwich Islands region",earthquake
+1936-01-02T22:34:28.000Z,-0.279,98.872,35,7,mb,69,,,,centennial,centennial19360102223428,2013-07-09T19:07:21.000Z,"Kepulauan Batu, Indonesia",earthquake
+1936-01-02T17:26:45.000Z,-9.483,119.361,35,6.6,uk,29,,,,centennial,centennial19360102172645,2013-07-09T19:07:21.000Z,"Sumba region, Indonesia",earthquake

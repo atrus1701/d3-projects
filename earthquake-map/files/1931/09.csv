@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-09-25T05:59:52.000Z,-5.178,102.511,35,7.3,mw,52,,,,centennial,centennial19310925055952,2013-07-09T19:07:20.000Z,"southern Sumatra, Indonesia",earthquake
+1931-09-21T13:34:32.000Z,-37.961,177.811,101.3,6.6,uk,30,,,,centennial,centennial19310921133432,2013-07-09T19:07:20.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1931-09-21T10:27:21.000Z,19.421,113.158,25,6.6,uk,28,,,,centennial,centennial19310921102721,2013-07-09T19:07:20.000Z,"South China Sea",earthquake
+1931-09-21T02:20:03.000Z,36.021,139.381,35,6.6,uk,35,,,,centennial,centennial19310921022003,2013-07-09T19:07:20.000Z,"eastern Honshu, Japan",earthquake
+1931-09-09T20:38:28.000Z,19.152,145.489,171.8,7.1,mb,35,,,,centennial,centennial19310909203828,2013-07-09T19:07:20.000Z,"Maug Islands region, Northern Mariana Islands",earthquake

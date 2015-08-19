@@ -1,0 +1,22 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-06-29T21:46:59.000Z,-13.776,166.701,60.1,5.7,mb,77,,,,centennial,centennial19660629214659,2013-07-09T19:07:31.000Z,"Vanuatu",earthquake
+1966-06-28T04:26:15.000Z,35.875,-120.487,1.2,5.6,uk,62,,,,centennial,centennial19660628042615,2014-04-07T19:43:57.099Z,"Central California",earthquake
+1966-06-27T21:47:10.000Z,-38.35,177.25,107.7,5.5,mb,73,,,,centennial,centennial19660627214710,2013-07-09T19:07:31.000Z,"North Island of New Zealand",earthquake
+1966-06-27T10:59:16.000Z,29.61,80.928,16.6,6,uk,167,,,,centennial,centennial19660627105916,2013-07-09T19:07:31.000Z,"Nepal-India border region",earthquake
+1966-06-27T10:41:08.000Z,29.554,80.854,21.6,6,mb,186,,,,centennial,centennial19660627104108,2013-07-09T19:07:31.000Z,"Nepal-India border region",earthquake
+1966-06-22T20:29:06.000Z,-7.256,124.646,526.8,7,ms,182,,,,centennial,centennial19660622202906,2013-07-09T19:07:31.000Z,"Banda Sea",earthquake
+1966-06-15T06:13:52.000Z,-10.026,160.973,31,6,uk,71,,,,centennial,centennial19660615061352,2013-07-09T19:07:31.000Z,"Solomon Islands",earthquake
+1966-06-15T01:32:53.000Z,-10.11,161.029,13,7.3,mw,127,,,,centennial,centennial19660615013253,2013-07-09T19:07:31.000Z,"Solomon Islands",earthquake
+1966-06-15T00:59:42.000Z,-10.347,160.879,2.8,7.1,mw,188,,,,centennial,centennial19660615005942,2013-07-09T19:07:31.000Z,"Solomon Islands",earthquake
+1966-06-13T18:08:37.000Z,-12.239,167.122,242.9,6,mb,199,,,,centennial,centennial19660613180837,2013-07-09T19:07:31.000Z,"Santa Cruz Islands",earthquake
+1966-06-13T07:33:10.000Z,-21.134,174.341,14.1,6.1,uk,57,,,,centennial,centennial19660613073310,2013-07-09T19:07:31.000Z,"Vanuatu region",earthquake
+1966-06-11T18:13:39.000Z,51.471,-178.402,36.6,5.5,mb,112,,,,centennial,centennial19660611181339,2013-07-09T19:07:31.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1966-06-08T19:56:24.000Z,53.095,171.084,25.4,5.5,mb,151,,,,centennial,centennial19660608195624,2013-07-09T19:07:31.000Z,"Near Islands, Aleutian Islands, Alaska",earthquake
+1966-06-07T13:59:37.000Z,11.303,139.637,49.3,6.9,uk,200,,,,centennial,centennial19660607135937,2013-07-09T19:07:31.000Z,"State of Yap, Federated States of Micronesia",earthquake
+1966-06-07T00:59:45.000Z,-14.85,-75.832,18.1,6.2,uk,157,,,,centennial,centennial19660607005945,2013-07-09T19:07:31.000Z,"near the coast of central Peru",earthquake
+1966-06-06T20:47:12.000Z,9.537,126.364,40.6,5.7,mb,138,,,,centennial,centennial19660606204712,2013-07-09T19:07:31.000Z,"Mindanao, Philippines",earthquake
+1966-06-06T07:46:17.000Z,36.415,71.132,216.7,6.1,mb,211,,,,centennial,centennial19660606074617,2013-07-09T19:07:31.000Z,"Hindu Kush region, Afghanistan",earthquake
+1966-06-04T23:48:21.000Z,46.548,152.623,37.9,5.9,uk,224,,,,centennial,centennial19660604234821,2013-07-09T19:07:31.000Z,"Kuril Islands",earthquake
+1966-06-02T07:08:05.000Z,-0.008,123.191,146.2,5.5,mb,100,,,,centennial,centennial19660602070805,2013-07-09T19:07:31.000Z,"Sulawesi, Indonesia",earthquake
+1966-06-02T03:27:52.000Z,50.997,176.019,23.7,6,uk,223,,,,centennial,centennial19660602032752,2013-07-09T19:07:31.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake
+1966-06-01T11:47:36.000Z,-23.417,-174.709,36.7,5.8,mb,130,,,,centennial,centennial19660601114736,2013-07-09T19:07:31.000Z,"Tonga region",earthquake

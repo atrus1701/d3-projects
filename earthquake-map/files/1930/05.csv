@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1930-05-23T16:38:08.000Z,34.134,139.774,127,6.6,uk,19,,,,centennial,centennial19300523163808,2013-07-09T19:07:20.000Z,"near the south coast of Honshu, Japan",earthquake
+1930-05-06T22:34:27.000Z,38.152,44.685,25,7.1,mw,48,,,,centennial,centennial19300506223427,2013-07-09T19:07:20.000Z,"Turkey-Iran border region",earthquake
+1930-05-05T13:45:59.000Z,17.665,96.543,35,7.2,mw,58,,,,centennial,centennial19300505134559,2013-07-09T19:07:20.000Z,"Myanmar",earthquake
+1930-05-01T01:19:48.000Z,49,154,140,6.7,uk,0,,,,centennial,centennial19300501011948,2013-07-09T19:07:20.000Z,"Kuril Islands",earthquake

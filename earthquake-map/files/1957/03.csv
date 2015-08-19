@@ -1,0 +1,17 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-03-29T05:10:36.000Z,53.331,-166.892,43.2,6.5,ms,201,,,,centennial,centennial19570329051036,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-03-23T05:12:42.000Z,-5.492,130.913,126.7,7.1,mb,190,,,,centennial,centennial19570323051242,2013-07-09T19:07:26.000Z,"Banda Sea",earthquake
+1957-03-22T14:21:13.000Z,53.695,-165.691,42.4,7.1,mw,238,,,,centennial,centennial19570322142113,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-03-19T12:50:57.000Z,51.821,-174.634,7,6.5,ms,144,,,,centennial,centennial19570319125057,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-16T02:34:18.000Z,51.516,-178.782,31.5,7.1,mw,226,,,,centennial,centennial19570316023418,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-14T14:47:51.000Z,51.332,-176.62,35,7.2,mw,236,,,,centennial,centennial19570314144751,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-13T15:42:13.000Z,51.463,-178.559,35,6.7,ms,241,,,,centennial,centennial19570313154213,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-12T11:44:59.000Z,51.74,-176.665,32.2,7.1,mw,171,,,,centennial,centennial19570312114459,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-11T14:55:25.000Z,51.407,-178.447,32.7,6.9,ms,223,,,,centennial,centennial19570311145525,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-11T09:58:51.000Z,52.539,-168.896,35.6,7.1,mw,238,,,,centennial,centennial19570311095851,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-03-11T03:12:46.000Z,51.058,-176.929,17.3,6.6,ms,178,,,,centennial,centennial19570311031246,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-10T03:06:15.000Z,51.98,-173.936,12.4,6.6,ms,166,,,,centennial,centennial19570310030615,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-09T20:39:23.000Z,52.474,-169.484,31.3,7.2,mw,177,,,,centennial,centennial19570309203923,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-03-09T14:22:33.000Z,51.587,-175.419,35,8.6,mw,186,,,,centennial,centennial19570309142233,2013-07-09T19:07:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1957-03-08T12:21:15.000Z,39.311,22.713,7.6,6.7,ms,94,,,,centennial,centennial19570308122115,2013-07-09T19:07:26.000Z,"Greece",earthquake
+1957-03-08T12:14:16.000Z,39.201,22.744,6.3,6.6,ms,69,,,,centennial,centennial19570308121416,2013-07-09T19:07:26.000Z,"Greece",earthquake

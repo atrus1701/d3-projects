@@ -1,0 +1,31 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-11-29T06:01:17.000Z,-11.814,-14.066,12.1,6,ms,147,,,,centennial,centennial19701129060117,2013-07-09T19:07:37.000Z,"Ascension Island region",earthquake
+1970-11-28T20:22:53.000Z,-4.12,142.956,130.1,5.9,mb,164,,,,centennial,centennial19701128202253,2013-07-09T19:07:37.000Z,"New Guinea, Papua New Guinea",earthquake
+1970-11-28T14:45:34.000Z,-20.972,-69.897,43.2,5.7,mb,141,,,,centennial,centennial19701128144534,2013-07-09T19:07:37.000Z,"Tarapaca, Chile",earthquake
+1970-11-28T07:40:11.000Z,35,-106.7,9,4.5,,,,,,atlas,atlas19701128074011,2014-03-17T19:23:10.071Z,"New Mexico",earthquake
+1970-11-28T00:56:09.000Z,-1,126.817,36,5.7,mb,105,,,,centennial,centennial19701128005609,2013-07-09T19:07:37.000Z,"Molucca Sea",earthquake
+1970-11-27T09:39:24.000Z,24.314,122.422,57.8,5.7,mb,220,,,,centennial,centennial19701127093924,2013-07-09T19:07:37.000Z,"Taiwan region",earthquake
+1970-11-26T03:11:42.000Z,43.566,-127.816,15,5.9,ms,124,,,,centennial,centennial19701126031142,2013-07-09T19:07:37.000Z,"off the coast of Oregon",earthquake
+1970-11-21T12:19:42.000Z,15.003,120.101,60.7,5.5,mb,166,,,,centennial,centennial19701121121942,2013-07-09T19:07:37.000Z,"Luzon, Philippines",earthquake
+1970-11-21T02:51:02.000Z,2.099,128.468,82,5.5,mb,55,,,,centennial,centennial19701121025102,2013-07-09T19:07:37.000Z,"Halmahera, Indonesia",earthquake
+1970-11-18T20:10:56.000Z,-28.783,-112.806,10,5.8,ms,95,,,,centennial,centennial19701118201056,2013-07-09T19:07:37.000Z,"Easter Island region",earthquake
+1970-11-18T16:43:15.000Z,-21.829,175.3,581.7,5.5,mb,129,,,,centennial,centennial19701118164315,2013-07-09T19:07:37.000Z,"south of the Fiji Islands",earthquake
+1970-11-18T09:45:27.000Z,-3.596,148.949,15.8,5.8,ms,53,,,,centennial,centennial19701118094527,2013-07-09T19:07:37.000Z,"Bismarck Sea",earthquake
+1970-11-18T02:13:43.000Z,-6.501,125.602,26.9,5.5,ms,42,,,,centennial,centennial19701118021343,2013-07-09T19:07:37.000Z,"Banda Sea",earthquake
+1970-11-18T01:57:31.000Z,-6.152,154.57,45.1,5.6,ms,69,,,,centennial,centennial19701118015731,2013-07-09T19:07:37.000Z,"Bougainville region, Papua New Guinea",earthquake
+1970-11-16T06:44:21.000Z,-6.053,148.55,74.5,5.7,mb,121,,,,centennial,centennial19701116064421,2013-07-09T19:07:37.000Z,"New Britain region, Papua New Guinea",earthquake
+1970-11-14T07:58:21.000Z,22.839,121.364,26.8,6.1,ms,231,,,,centennial,centennial19701114075821,2014-03-17T19:22:55.137Z,"Taiwan region",earthquake
+1970-11-14T04:51:39.000Z,12.697,143.336,97.6,5.5,mb,158,,,,centennial,centennial19701114045139,2013-07-09T19:07:37.000Z,"Guam region",earthquake
+1970-11-14T00:57:19.000Z,2.188,127.116,66.8,5.6,mb,48,,,,centennial,centennial19701114005719,2013-07-09T19:07:37.000Z,"Molucca Sea",earthquake
+1970-11-13T14:16:22.000Z,12.086,124.164,22.1,6.3,ms,115,,,,centennial,centennial19701113141622,2014-03-17T19:22:33.911Z,"Samar, Philippines",earthquake
+1970-11-12T06:07:16.000Z,-5.064,145.232,26.3,6.5,ms,116,,,,centennial,centennial19701112060716,2014-03-17T19:22:11.807Z,"eastern New Guinea region, Papua New Guinea",earthquake
+1970-11-10T06:30:06.000Z,-3.428,135.548,11.9,5.5,mb,27,,,,centennial,centennial19701110063006,2014-03-17T19:21:53.155Z,"Papua, Indonesia",earthquake
+1970-11-08T22:35:46.000Z,-3.42,135.628,18.8,6.8,ms,202,,,,centennial,centennial19701108223546,2014-03-17T19:21:31.547Z,"Papua, Indonesia",earthquake
+1970-11-08T14:58:58.000Z,9.143,126.363,47.2,5.8,ms,175,,,,centennial,centennial19701108145858,2013-07-09T19:07:37.000Z,"Mindanao, Philippines",earthquake
+1970-11-05T13:11:55.000Z,6.857,-82.596,32.7,5.6,ms,134,,,,centennial,centennial19701105131155,2013-07-09T19:07:37.000Z,"south of Panama",earthquake
+1970-11-04T06:02:57.000Z,50,77.8,0,5.4,,,,,,atlas,atlas19701104060257,2014-03-17T19:21:13.033Z,"eastern Kazakhstan",earthquake
+1970-11-03T09:23:03.000Z,-50.088,-114.418,5.9,5.8,ms,52,,,,centennial,centennial19701103092303,2013-07-09T19:07:37.000Z,"southern East Pacific Rise",earthquake
+1970-11-03T02:30:13.000Z,61.965,-151.071,75.4,5.5,mb,198,,,,centennial,centennial19701103023013,2013-07-09T19:07:37.000Z,"Southern Alaska",earthquake
+1970-11-02T14:03:14.000Z,-4.841,145.538,24.8,5.6,ms,23,,,,centennial,centennial19701102140314,2014-03-17T19:20:51.822Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1970-11-02T10:13:34.000Z,-15.374,-176.081,12.7,5.7,ms,79,,,,centennial,centennial19701102101334,2013-07-09T19:07:37.000Z,"Fiji region",earthquake
+1970-11-01T13:14:20.000Z,-59.628,-26.396,70.9,5.6,mb,105,,,,centennial,centennial19701101131420,2013-07-09T19:07:37.000Z,"South Sandwich Islands region",earthquake

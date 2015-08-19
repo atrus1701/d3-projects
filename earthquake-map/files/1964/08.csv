@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1964-08-25T13:47:16.000Z,78.104,126.772,5.2,6.2,mb,202,,,,centennial,centennial19640825134716,2013-07-09T19:07:29.000Z,"east of Severnaya Zemlya",earthquake
+1964-08-24T21:56:55.000Z,58.333,-150.492,22.4,5.5,mb,123,,,,centennial,centennial19640824215655,2013-07-09T19:07:29.000Z,"Gulf of Alaska",earthquake
+1964-08-20T05:39:47.000Z,28.12,52.556,38.8,5.6,mb,76,,,,centennial,centennial19640820053947,2013-07-09T19:07:29.000Z,"southern Iran",earthquake
+1964-08-19T15:20:15.000Z,28.144,52.618,49.5,5.5,mb,75,,,,centennial,centennial19640819152015,2013-07-09T19:07:29.000Z,"southern Iran",earthquake
+1964-08-19T09:33:10.000Z,28.137,52.604,40.6,5.5,mb,80,,,,centennial,centennial19640819093310,2013-07-09T19:07:29.000Z,"southern Iran",earthquake
+1964-08-18T04:45:04.000Z,-26.386,-71.662,40,6.1,mb,133,,,,centennial,centennial19640818044504,2013-07-09T19:07:29.000Z,"off the coast of Atacama, Chile",earthquake
+1964-08-13T00:31:15.000Z,-5.492,154.277,385.7,7,ms,152,,,,centennial,centennial19640813003115,2013-07-09T19:07:29.000Z,"Bougainville region, Papua New Guinea",earthquake
+1964-08-08T14:59:42.000Z,31.673,140.388,113.1,5.6,mb,123,,,,centennial,centennial19640808145942,2013-07-09T19:07:29.000Z,"Izu Islands, Japan region",earthquake
+1964-08-05T22:23:12.000Z,-41.171,-75.023,18,6.1,mb,148,,,,centennial,centennial19640805222312,2013-07-09T19:07:29.000Z,"offshore Los Lagos, Chile",earthquake
+1964-08-05T11:06:04.000Z,-32.162,-179.719,239.5,5.8,mb,138,,,,centennial,centennial19640805110604,2013-07-09T19:07:29.000Z,"south of the Kermadec Islands",earthquake
+1964-08-04T17:24:30.000Z,46.599,151.344,88.1,5.7,mb,166,,,,centennial,centennial19640804172430,2013-07-09T19:07:29.000Z,"Kuril Islands",earthquake
+1964-08-03T07:44:47.000Z,22.569,121.235,38.3,5.5,mb,106,,,,centennial,centennial19640803074447,2013-07-09T19:07:29.000Z,"Taiwan region",earthquake
+1964-08-02T08:36:14.000Z,56.097,-150.059,7.6,6,uk,123,,,,centennial,centennial19640802083614,2013-07-09T19:07:29.000Z,"Gulf of Alaska",earthquake

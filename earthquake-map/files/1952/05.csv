@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1952-05-28T07:59:08.000Z,35.4,135.8,350,6.7,uk,0,,,,centennial,centennial19520528075908,2013-07-09T19:07:24.000Z,"western Honshu, Japan",earthquake
+1952-05-24T01:59:09.000Z,-20.5,-70.5,0,6.6,uk,0,,,,centennial,centennial19520524015909,2013-07-09T19:07:24.000Z,"near the coast of Tarapaca, Chile",earthquake
+1952-05-19T18:32:20.000Z,42.2,143.9,0,6.6,uk,0,,,,centennial,centennial19520519183220,2013-07-09T19:07:24.000Z,"Hokkaido, Japan region",earthquake
+1952-05-16T20:45:41.000Z,6.7,-78.9,0,6.7,uk,0,,,,centennial,centennial19520516204541,2013-07-09T19:07:24.000Z,"south of Panama",earthquake
+1952-05-13T19:31:45.000Z,10.3,-85.3,64,6.7,uk,0,,,,centennial,centennial19520513193145,2013-07-09T19:07:24.000Z,"Costa Rica",earthquake
+1952-05-09T17:47:43.000Z,-6.576,155.348,35,6.7,ms,0,,,,centennial,centennial19520509174743,2013-07-09T19:07:24.000Z,"Bougainville region, Papua New Guinea",earthquake

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1947-10-16T02:09:50.000Z,64.251,-148.389,25.7,7.1,mw,0,,,,centennial,centennial19471016020950,2013-07-09T19:07:23.000Z,"Central Alaska",earthquake
+1947-10-06T19:55:37.000Z,37,22,0,6.9,ms,0,,,,centennial,centennial19471006195537,2013-07-09T19:07:23.000Z,"southern Greece",earthquake

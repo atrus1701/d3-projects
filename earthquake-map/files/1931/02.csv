@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1931-02-27T09:37:43.000Z,2.093,126.237,35,6.6,uk,40,,,,centennial,centennial19310227093743,2013-07-09T19:07:20.000Z,"Molucca Sea",earthquake
+1931-02-20T05:33:27.000Z,44.43,135.642,356.7,7.4,mb,74,,,,centennial,centennial19310220053327,2013-07-09T19:07:20.000Z,"Primor'ye, Russia",earthquake
+1931-02-13T01:27:22.000Z,-39.479,176.813,35,7.1,ms,37,,,,centennial,centennial19310213012722,2013-07-09T19:07:20.000Z,"North Island of New Zealand",earthquake
+1931-02-10T06:34:32.000Z,-5.433,102.458,35,7.1,mw,56,,,,centennial,centennial19310210063432,2013-07-09T19:07:20.000Z,"southern Sumatra, Indonesia",earthquake
+1931-02-02T22:46:51.000Z,-39.772,176.025,35,7.7,mw,72,,,,centennial,centennial19310202224651,2013-07-09T19:07:20.000Z,"North Island of New Zealand",earthquake

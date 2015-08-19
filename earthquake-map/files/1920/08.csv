@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1920-08-15T08:16:20.000Z,-11.887,165.8,35,6.6,uk,5,,,,centennial,centennial19200815081620,2013-07-09T19:07:18.000Z,"Santa Cruz Islands",earthquake
+1920-08-03T19:57:23.000Z,-27.308,-68.267,35,6.6,uk,16,,,,centennial,centennial19200803195723,2013-07-09T19:07:18.000Z,"Catamarca, Argentina",earthquake
+1920-08-03T03:02:32.000Z,5.881,127.691,345.2,6.6,uk,4,,,,centennial,centennial19200803030232,2013-07-09T19:07:18.000Z,"Philippine Islands region",earthquake

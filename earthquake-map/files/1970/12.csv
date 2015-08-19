@@ -1,0 +1,35 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-12-30T03:41:15.000Z,-3.285,152.517,41.6,5.6,ms,91,,,,centennial,centennial19701230034115,2013-07-09T19:07:37.000Z,"New Ireland region, Papua New Guinea",earthquake
+1970-12-29T02:26:12.000Z,-10.555,161.455,59.2,6.8,uk,216,,,,centennial,centennial19701229022612,2014-03-17T19:26:09.721Z,"Solomon Islands",earthquake
+1970-12-28T20:03:26.000Z,-5.201,153.62,59.6,6.5,uk,222,,,,centennial,centennial19701228200326,2013-07-09T19:07:37.000Z,"New Ireland region, Papua New Guinea",earthquake
+1970-12-26T10:02:46.000Z,9.262,94.008,27.2,5.5,ms,193,,,,centennial,centennial19701226100246,2013-07-09T19:07:37.000Z,"Nicobar Islands, India region",earthquake
+1970-12-25T12:53:36.000Z,-0.41,-19.228,16.5,5.7,ms,198,,,,centennial,centennial19701225125336,2013-07-09T19:07:37.000Z,"central Mid-Atlantic Ridge",earthquake
+1970-12-24T08:00:36.000Z,15.925,-93.693,100.9,5.6,mb,163,,,,centennial,centennial19701224080036,2013-07-09T19:07:37.000Z,"Chiapas, Mexico",earthquake
+1970-12-24T01:49:56.000Z,-9.096,116.422,72.5,5.5,mb,101,,,,centennial,centennial19701224014956,2013-07-09T19:07:37.000Z,"Lombok region, Indonesia",earthquake
+1970-12-23T07:00:57.000Z,43.8,54.8,0,6.1,,,,,,atlas,atlas19701223070057,2014-03-17T19:25:51.587Z,"western Kazakhstan",earthquake
+1970-12-21T14:40:45.000Z,-9.199,116.327,78.1,5.7,mb,159,,,,centennial,centennial19701221144045,2013-07-09T19:07:37.000Z,"Lombok region, Indonesia",earthquake
+1970-12-19T10:38:06.000Z,-1.624,99.883,44.3,6.2,ms,224,,,,centennial,centennial19701219103806,2013-07-09T19:07:37.000Z,"Kepulauan Mentawai region, Indonesia",earthquake
+1970-12-18T23:50:14.000Z,5.147,123.484,526.7,5.5,mb,189,,,,centennial,centennial19701218235014,2013-07-09T19:07:37.000Z,"Celebes Sea",earthquake
+1970-12-18T04:18:29.000Z,-40.2,175.5,48,5.7,,,,,,atlas,atlas19701218041829,2014-03-17T19:25:33.086Z,"North Island of New Zealand",earthquake
+1970-12-17T08:42:23.000Z,-56.093,-27.525,121.5,5.7,mb,147,,,,centennial,centennial19701217084223,2013-07-09T19:07:37.000Z,"South Sandwich Islands region",earthquake
+1970-12-17T07:00:57.000Z,49.7,78.1,0,5.5,,,,,,atlas,atlas19701217070057,2014-03-17T19:25:10.007Z,"eastern Kazakhstan",earthquake
+1970-12-16T19:53:45.000Z,-4.768,130.857,61.4,5.6,mb,55,,,,centennial,centennial19701216195345,2013-07-09T19:07:37.000Z,"Banda Sea",earthquake
+1970-12-15T15:24:39.000Z,-14.422,167.394,186.7,5.5,mb,147,,,,centennial,centennial19701215152439,2013-07-09T19:07:37.000Z,"Vanuatu",earthquake
+1970-12-14T07:32:52.000Z,-1.31,-80.854,17.2,5.7,ms,129,,,,centennial,centennial19701214073252,2014-03-17T19:24:53.326Z,"near the coast of Ecuador",earthquake
+1970-12-12T07:00:57.000Z,43.9,54.8,0,6.1,,,,,,atlas,atlas19701212070057,2014-03-17T19:24:34.539Z,"western Kazakhstan",earthquake
+1970-12-10T20:05:36.000Z,1.529,127.308,113.1,5.5,mb,53,,,,centennial,centennial19701210200536,2013-07-09T19:07:37.000Z,"Halmahera, Indonesia",earthquake
+1970-12-10T04:34:39.000Z,-4.079,-80.66,19.5,7.1,mw,255,,,,centennial,centennial19701210043439,2014-03-17T19:24:12.996Z,"Peru-Ecuador border region",earthquake
+1970-12-10T04:34:38.000Z,-3.989,-80.724,25,7.6,,,,,,atlas,atlas19701210043438,2014-04-07T19:50:12.718Z,"Peru-Ecuador border region",earthquake
+1970-12-08T19:30:07.000Z,-30.882,-71.2,50.8,6.4,ms,191,,,,centennial,centennial19701208193007,2014-03-17T19:23:54.265Z,"Coquimbo, Chile",earthquake
+1970-12-07T21:35:23.000Z,29.759,139.979,183.5,6,mb,311,,,,centennial,centennial19701207213523,2013-07-09T19:07:37.000Z,"Izu Islands, Japan region",earthquake
+1970-12-06T20:20:53.000Z,41.834,143.516,40.7,6.1,ms,275,,,,centennial,centennial19701206202053,2014-03-17T19:23:41.721Z,"Hokkaido, Japan region",earthquake
+1970-12-06T04:10:40.000Z,-6.357,130.114,128.9,5.7,mb,167,,,,centennial,centennial19701206041040,2013-07-09T19:07:37.000Z,"Banda Sea",earthquake
+1970-12-05T22:30:22.000Z,-6.45,130.045,140.2,5.6,mb,94,,,,centennial,centennial19701205223022,2013-07-09T19:07:37.000Z,"Banda Sea",earthquake
+1970-12-04T17:08:50.000Z,-23.206,-70.044,41.6,6.3,ms,186,,,,centennial,centennial19701204170850,2014-03-17T19:23:24.695Z,"Antofagasta, Chile",earthquake
+1970-12-03T07:02:47.000Z,-1.056,126.789,19,5.5,mb,103,,,,centennial,centennial19701203070247,2013-07-09T19:07:37.000Z,"Kepulauan Sula, Indonesia",earthquake
+1970-12-03T04:59:53.000Z,7.325,-76.117,23.6,5.5,ms,157,,,,centennial,centennial19701203045953,2013-07-09T19:07:37.000Z,"northern Colombia",earthquake
+1970-12-02T15:54:17.000Z,-11.005,163.493,2.7,7,ms,135,,,,centennial,centennial19701202155417,2013-07-09T19:07:37.000Z,"Solomon Islands",earthquake
+1970-12-02T15:25:44.000Z,-11.035,163.765,8.6,6.5,ms,93,,,,centennial,centennial19701202152544,2013-07-09T19:07:37.000Z,"Solomon Islands",earthquake
+1970-12-02T02:34:58.000Z,51.368,-175.245,36.6,5.5,mb,193,,,,centennial,centennial19701202023458,2013-07-09T19:07:37.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1970-12-01T21:09:38.000Z,51.378,-175.31,34.5,5.8,ms,248,,,,centennial,centennial19701201210938,2013-07-09T19:07:37.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1970-12-01T18:14:37.000Z,-10.966,163.504,14.9,6.1,ms,94,,,,centennial,centennial19701201181437,2013-07-09T19:07:37.000Z,"Solomon Islands",earthquake

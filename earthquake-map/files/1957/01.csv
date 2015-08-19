@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1957-01-03T12:48:28.000Z,43.85,130.771,576.4,6.9,mb,154,,,,centennial,centennial19570103124828,2013-07-09T19:07:26.000Z,"Jilin-Heilongjiang border region, China",earthquake
+1957-01-02T04:03:32.000Z,52.47,-168.525,8.9,6.5,ms,124,,,,centennial,centennial19570102040332,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-01-02T03:48:53.000Z,52.75,-167.855,25.8,6.7,ms,191,,,,centennial,centennial19570102034853,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake
+1957-01-02T02:17:40.000Z,52.449,-168.172,12.3,6.7,ms,206,,,,centennial,centennial19570102021740,2013-07-09T19:07:26.000Z,"Fox Islands, Aleutian Islands, Alaska",earthquake

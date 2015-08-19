@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1958-01-27T07:44:08.000Z,-14.99,-174.1,47,6.6,uk,0,,,,centennial,centennial19580127074408,2013-07-09T19:07:26.000Z,"Samoa Islands region",earthquake
+1958-01-19T14:43:29.000Z,1.182,-79.586,35,6.6,ms,100,,,,centennial,centennial19580119144329,2013-07-09T19:07:26.000Z,"near the coast of Ecuador",earthquake
+1958-01-19T14:07:24.000Z,0.985,-79.492,18.7,7.8,mw,135,,,,centennial,centennial19580119140724,2013-07-09T19:07:26.000Z,"near the coast of Ecuador",earthquake
+1958-01-15T19:14:30.000Z,-16.781,-72.492,69,7,mb,136,,,,centennial,centennial19580115191430,2013-07-09T19:07:26.000Z,"near the coast of southern Peru",earthquake

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1924-05-28T09:52:00.000Z,48.385,145.748,431.8,7,mb,35,,,,centennial,centennial19240528095200,2013-07-09T19:07:19.000Z,"Sea of Okhotsk",earthquake
+1924-05-06T16:09:31.000Z,15.935,118.95,35,7,ms,12,,,,centennial,centennial19240506160931,2013-07-09T19:07:19.000Z,"Philippine Islands region",earthquake
+1924-05-04T16:51:51.000Z,-21.504,-178.441,561.9,7.2,mb,37,,,,centennial,centennial19240504165151,2013-07-09T19:07:19.000Z,"Fiji region",earthquake

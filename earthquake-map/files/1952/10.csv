@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1952-10-26T15:53:06.000Z,39.3,143.7,33,6.5,ms,0,,,,centennial,centennial19521026155306,2013-07-09T19:07:25.000Z,"off the east coast of Honshu, Japan",earthquake
+1952-10-03T07:36:49.000Z,6.7,-82.5,0,6.5,uk,0,,,,centennial,centennial19521003073649,2013-07-09T19:07:25.000Z,"south of Panama",earthquake

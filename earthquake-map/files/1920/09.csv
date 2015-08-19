@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1920-09-20T14:39:05.000Z,-19.919,168.53,35,7.8,mw,31,,,,centennial,centennial19200920143905,2013-07-09T19:07:18.000Z,"Vanuatu",earthquake
+1920-09-16T15:08:00.000Z,41.6,142.1,35,6.5,mj,0,,,,centennial,centennial19200916150800,2013-07-09T19:07:18.000Z,"Hokkaido, Japan region",earthquake

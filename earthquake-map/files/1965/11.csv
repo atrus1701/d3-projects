@@ -1,0 +1,29 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1965-11-28T21:31:47.000Z,-4.843,103.124,73.6,5.5,mb,106,,,,centennial,centennial19651128213147,2013-07-09T19:07:31.000Z,"southern Sumatra, Indonesia",earthquake
+1965-11-28T12:51:18.000Z,-30.201,-176.17,18.1,5.5,mb,34,,,,centennial,centennial19651128125118,2013-07-09T19:07:31.000Z,"Kermadec Islands region",earthquake
+1965-11-28T05:26:07.000Z,36.166,27.367,76.2,5.7,mb,120,,,,centennial,centennial19651128052607,2013-07-09T19:07:31.000Z,"Dodecanese Islands, Greece",earthquake
+1965-11-28T03:56:43.000Z,-45.858,-73.037,10,6.1,uk,108,,,,centennial,centennial19651128035643,2013-07-09T19:07:31.000Z,"Aisen, Chile",earthquake
+1965-11-27T12:01:53.000Z,-9.637,159.711,47.8,5.7,mb,91,,,,centennial,centennial19651127120153,2013-07-09T19:07:31.000Z,"Solomon Islands",earthquake
+1965-11-27T01:29:51.000Z,-6.077,148.527,62.9,5.5,mb,41,,,,centennial,centennial19651127012951,2013-07-09T19:07:31.000Z,"New Britain region, Papua New Guinea",earthquake
+1965-11-23T02:17:49.000Z,51.31,-179.663,30,5.8,uk,142,,,,centennial,centennial19651123021749,2013-07-09T19:07:31.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1965-11-23T01:17:32.000Z,2.977,124.795,40.1,6,uk,97,,,,centennial,centennial19651123011732,2013-07-09T19:07:31.000Z,"Celebes Sea",earthquake
+1965-11-22T20:25:33.000Z,51.25,-179.648,52.3,5.8,mb,171,,,,centennial,centennial19651122202533,2013-07-09T19:07:31.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1965-11-22T14:00:29.000Z,51.84,-176.071,56.8,5.5,mb,75,,,,centennial,centennial19651122140029,2013-07-09T19:07:31.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1965-11-22T12:01:41.000Z,-52.129,15.652,4.3,5.6,mb,42,,,,centennial,centennial19651122120141,2013-07-09T19:07:31.000Z,"southwest of Africa",earthquake
+1965-11-21T10:31:55.000Z,-6.261,130.391,132.5,6.3,mb,162,,,,centennial,centennial19651121103155,2013-07-09T19:07:31.000Z,"Banda Sea",earthquake
+1965-11-20T15:05:42.000Z,-7.298,129.1,145.3,5.9,mb,131,,,,centennial,centennial19651120150542,2013-07-09T19:07:31.000Z,"Kepulauan Babar, Indonesia",earthquake
+1965-11-19T07:08:10.000Z,-29.62,-178.502,15,6.1,uk,25,,,,centennial,centennial19651119070810,2013-07-09T19:07:31.000Z,"Kermadec Islands, New Zealand",earthquake
+1965-11-18T21:58:19.000Z,53.865,160.622,49.9,5.5,uk,209,,,,centennial,centennial19651118215819,2013-07-09T19:07:31.000Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+1965-11-18T20:00:20.000Z,-18.84,-177.726,420.1,6.4,ms,127,,,,centennial,centennial19651118200020,2013-07-09T19:07:31.000Z,"Fiji region",earthquake
+1965-11-18T17:17:19.000Z,-7.11,129.384,156.4,5.5,mb,97,,,,centennial,centennial19651118171719,2013-07-09T19:07:31.000Z,"Kepulauan Babar, Indonesia",earthquake
+1965-11-16T17:05:41.000Z,25.482,125.265,96.3,5.6,mb,142,,,,centennial,centennial19651116170541,2013-07-09T19:07:31.000Z,"southwestern Ryukyu Islands, Japan",earthquake
+1965-11-16T15:24:42.000Z,30.925,-41.522,2.4,6.5,uk,168,,,,centennial,centennial19651116152442,2013-07-09T19:07:31.000Z,"northern Mid-Atlantic Ridge",earthquake
+1965-11-16T06:45:59.000Z,6.556,126.795,111.3,5.5,mb,54,,,,centennial,centennial19651116064559,2013-07-09T19:07:31.000Z,"Mindanao, Philippines",earthquake
+1965-11-15T11:18:49.000Z,-0.356,-18.658,8.7,6.2,uk,192,,,,centennial,centennial19651115111849,2013-07-09T19:07:31.000Z,"central Mid-Atlantic Ridge",earthquake
+1965-11-13T04:33:54.000Z,43.842,87.754,51.1,6.8,uk,225,,,,centennial,centennial19651113043354,2013-07-09T19:07:31.000Z,"northern Xinjiang, China",earthquake
+1965-11-12T17:52:23.000Z,30.674,140.169,18.9,6.8,uk,199,,,,centennial,centennial19651112175223,2013-07-09T19:07:31.000Z,"Izu Islands, Japan region",earthquake
+1965-11-11T22:49:56.000Z,-28.417,-176.438,23.5,5.5,uk,39,,,,centennial,centennial19651111224956,2013-07-09T19:07:31.000Z,"Kermadec Islands region",earthquake
+1965-11-06T09:21:48.000Z,-22.213,-113.861,21.3,6,uk,99,,,,centennial,centennial19651106092148,2013-07-09T19:07:31.000Z,"Easter Island region",earthquake
+1965-11-05T19:01:04.000Z,-3.128,143.855,21.1,5.6,mb,88,,,,centennial,centennial19651105190104,2013-07-09T19:07:31.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1965-11-03T18:21:07.000Z,-22.408,-114.032,14.7,6.2,uk,96,,,,centennial,centennial19651103182107,2013-07-09T19:07:31.000Z,"Easter Island region",earthquake
+1965-11-03T01:39:04.000Z,-9.117,-71.305,593.1,6.7,ms,194,,,,centennial,centennial19651103013904,2013-07-09T19:07:31.000Z,"Peru-Brazil border region",earthquake

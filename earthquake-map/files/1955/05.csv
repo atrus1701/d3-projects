@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1955-05-30T12:31:43.000Z,24.227,142.441,553.1,7.1,mb,0,,,,centennial,centennial19550530123143,2013-07-09T19:07:25.000Z,"Volcano Islands, Japan region",earthquake
+1955-05-28T06:20:41.000Z,-30.8,-65.198,192,6.5,ms,0,,,,centennial,centennial19550528062041,2013-07-09T19:07:25.000Z,"Cordoba, Argentina",earthquake
+1955-05-26T16:23:13.000Z,-10,160.7,0,6.6,ms,0,,,,centennial,centennial19550526162313,2013-07-09T19:07:25.000Z,"Solomon Islands",earthquake
+1955-05-17T14:49:54.000Z,6.748,93.73,25,7.2,mw,0,,,,centennial,centennial19550517144954,2013-07-09T19:07:25.000Z,"Nicobar Islands, India region",earthquake
+1955-05-14T06:04:17.000Z,27.6,139.9,477,6.5,ms,0,,,,centennial,centennial19550514060417,2013-07-09T19:07:25.000Z,"Bonin Islands, Japan region",earthquake
+1955-05-11T11:04:01.000Z,-0.2,-77.8,0,6.6,uk,0,,,,centennial,centennial19550511110401,2013-07-09T19:07:25.000Z,"Ecuador",earthquake

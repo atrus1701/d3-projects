@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1970-05-31T20:45:52.000Z,-10.002,-78.503,50.8,6,mb,45,,,,centennial,centennial19700531204552,2013-07-09T19:07:36.000Z,"near the coast of central Peru",earthquake
+1970-05-31T20:23:32.000Z,-9.248,-78.842,73.2,7.5,mb,229,,,,centennial,centennial19700531202332,2014-03-03T19:15:30.558Z,"near the coast of northern Peru",earthquake
+1970-05-30T13:16:30.000Z,12.24,124.572,108.5,5.6,mb,167,,,,centennial,centennial19700530131630,2013-07-09T19:07:36.000Z,"Samar, Philippines",earthquake
+1970-05-29T19:02:23.000Z,-11.69,166.423,80.3,5.9,mb,163,,,,centennial,centennial19700529190223,2013-07-09T19:07:36.000Z,"Santa Cruz Islands",earthquake
+1970-05-29T05:14:36.000Z,-15.012,-173.404,14.4,5.8,ms,115,,,,centennial,centennial19700529051436,2013-07-09T19:07:36.000Z,"Tonga",earthquake
+1970-05-27T23:56:41.000Z,40.35,143,32.2,5.8,ms,162,,,,centennial,centennial19700527235641,2013-07-09T19:07:36.000Z,"off the east coast of Honshu, Japan",earthquake
+1970-05-27T22:35:50.000Z,40.278,143.108,28.6,5.8,ms,175,,,,centennial,centennial19700527223550,2013-07-09T19:07:36.000Z,"off the east coast of Honshu, Japan",earthquake
+1970-05-27T19:05:37.000Z,40.309,143.066,12.6,6,ms,221,,,,centennial,centennial19700527190537,2013-07-09T19:07:36.000Z,"off the east coast of Honshu, Japan",earthquake
+1970-05-27T12:05:09.000Z,27.195,140.228,403.2,7.1,ms,297,,,,centennial,centennial19700527120509,2013-07-09T19:07:36.000Z,"Bonin Islands, Japan region",earthquake
+1970-05-25T22:45:37.000Z,-57.55,-25.847,62.3,5.6,mb,92,,,,centennial,centennial19700525224537,2013-07-09T19:07:36.000Z,"South Sandwich Islands region",earthquake
+1970-05-20T20:30:54.000Z,51.414,-178.549,30,5.6,mb,156,,,,centennial,centennial19700520203054,2013-07-09T19:07:36.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+1970-05-20T20:03:43.000Z,-55.937,-28.27,68.6,6.1,mb,181,,,,centennial,centennial19700520200343,2013-07-09T19:07:36.000Z,"South Sandwich Islands region",earthquake
+1970-05-15T17:13:13.000Z,50.203,91.259,10.6,6.7,ms,264,,,,centennial,centennial19700515171313,2014-03-17T19:12:36.200Z,"Russia-Mongolia border region",earthquake
+1970-05-15T09:44:41.000Z,14.232,-92.898,6.1,5.5,ms,97,,,,centennial,centennial19700515094441,2013-07-09T19:07:36.000Z,"offshore Chiapas, Mexico",earthquake
+1970-05-14T18:12:25.000Z,43.097,47.068,11.9,6.5,ms,167,,,,centennial,centennial19700514181225,2014-03-17T19:12:20.079Z,"Caucasus region, Russia",earthquake
+1970-05-14T09:20:23.000Z,43.079,47.078,13,5.5,mb,149,,,,centennial,centennial19700514092023,2014-03-17T19:12:05.072Z,"Caucasus region, Russia",earthquake
+1970-05-14T08:32:40.000Z,-3.479,145.198,1.6,5.8,ms,107,,,,centennial,centennial19700514083240,2013-07-09T19:07:36.000Z,"near the north coast of New Guinea, Papua New Guinea",earthquake
+1970-05-10T20:05:18.000Z,18.589,145.367,618.3,6,ms,173,,,,centennial,centennial19700510200518,2013-07-09T19:07:36.000Z,"Pagan region, Northern Mariana Islands",earthquake
+1970-05-09T18:00:50.000Z,-4.343,151.827,192,5.8,mb,147,,,,centennial,centennial19700509180050,2013-07-09T19:07:36.000Z,"New Britain region, Papua New Guinea",earthquake
+1970-05-09T13:16:47.000Z,-0.113,129.903,41.8,5.7,mb,77,,,,centennial,centennial19700509131647,2013-07-09T19:07:36.000Z,"Halmahera, Indonesia",earthquake
+1970-05-04T18:53:18.000Z,-41.543,80.069,7.8,6.2,ms,90,,,,centennial,centennial19700504185318,2013-07-09T19:07:36.000Z,"Mid-Indian Ridge",earthquake
+1970-05-02T02:06:59.000Z,14.709,-93.701,47.1,5.5,ms,107,,,,centennial,centennial19700502020659,2013-07-09T19:07:36.000Z,"off the coast of Chiapas, Mexico",earthquake
+1970-05-01T08:35:25.000Z,14.536,-93.226,44.6,6,uk,129,,,,centennial,centennial19700501083525,2013-07-09T19:07:36.000Z,"offshore Chiapas, Mexico",earthquake

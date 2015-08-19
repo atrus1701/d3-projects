@@ -1,0 +1,23 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+1966-03-30T12:39:59.000Z,49.821,-129.717,1.7,5.6,uk,60,,,,centennial,centennial19660330123959,2013-07-09T19:07:31.000Z,"Vancouver Island, Canada region",earthquake
+1966-03-29T02:17:41.000Z,23.737,142.189,93.8,5.9,mb,162,,,,centennial,centennial19660329021741,2013-07-09T19:07:31.000Z,"Volcano Islands, Japan region",earthquake
+1966-03-28T04:44:12.000Z,-32.15,78.842,18.4,5.5,mb,35,,,,centennial,centennial19660328044412,2013-07-09T19:07:31.000Z,"Mid-Indian Ridge",earthquake
+1966-03-27T18:53:40.000Z,8.786,-83.537,26.3,5.8,uk,118,,,,centennial,centennial19660327185340,2013-07-09T19:07:31.000Z,"Costa Rica",earthquake
+1966-03-26T18:14:20.000Z,37.722,115.078,5.5,5.6,uk,73,,,,centennial,centennial19660326181420,2013-07-09T19:07:31.000Z,"Hebei, China",earthquake
+1966-03-26T15:19:01.000Z,37.737,115.169,5,5.5,uk,124,,,,centennial,centennial19660326151901,2013-07-09T19:07:31.000Z,"Hebei, China",earthquake
+1966-03-23T00:04:35.000Z,23.936,122.926,47.4,6,uk,211,,,,centennial,centennial19660323000435,2013-07-09T19:07:31.000Z,"Taiwan region",earthquake
+1966-03-22T08:19:32.000Z,37.565,115.202,9.3,6.8,mw,176,,,,centennial,centennial19660322081932,2013-07-09T19:07:31.000Z,"Hebei, China",earthquake
+1966-03-22T08:11:36.000Z,37.549,114.994,14.9,5.6,mb,156,,,,centennial,centennial19660322081136,2013-07-09T19:07:31.000Z,"Hebei, China",earthquake
+1966-03-20T09:04:26.000Z,-21.044,-174.264,31.3,5.8,uk,79,,,,centennial,centennial19660320090426,2013-07-09T19:07:31.000Z,"Tonga",earthquake
+1966-03-20T08:55:36.000Z,0.742,29.856,4.9,5.5,mb,32,,,,centennial,centennial19660320085536,2013-07-09T19:07:31.000Z,"Lake Edward region, Congo-Uganda",earthquake
+1966-03-20T01:42:51.000Z,0.845,29.867,15,7,uk,207,,,,centennial,centennial19660320014251,2013-07-09T19:07:31.000Z,"Lake Edward region, Congo-Uganda",earthquake
+1966-03-17T15:50:33.000Z,-21.126,-179.106,635,6.7,ms,179,,,,centennial,centennial19660317155033,2013-07-09T19:07:31.000Z,"Fiji region",earthquake
+1966-03-13T17:58:33.000Z,-55.153,-126.574,10,6.2,uk,48,,,,centennial,centennial19660313175833,2013-07-09T19:07:31.000Z,"southern East Pacific Rise",earthquake
+1966-03-12T16:31:19.000Z,24.308,122.694,27.5,7.4,mw,232,,,,centennial,centennial19660312163119,2013-07-09T19:07:31.000Z,"Taiwan region",earthquake
+1966-03-08T20:46:12.000Z,-19.972,-68.828,107.7,5.5,mb,122,,,,centennial,centennial19660308204612,2013-07-09T19:07:31.000Z,"Tarapaca, Chile",earthquake
+1966-03-08T05:41:06.000Z,1.847,126.37,35.2,5.9,uk,150,,,,centennial,centennial19660308054106,2013-07-09T19:07:31.000Z,"Molucca Sea",earthquake
+1966-03-08T01:13:47.000Z,-13.809,166.503,73.7,5.7,mb,107,,,,centennial,centennial19660308011347,2013-07-09T19:07:31.000Z,"Vanuatu",earthquake
+1966-03-07T21:29:16.000Z,37.388,114.96,13.9,6.6,mw,154,,,,centennial,centennial19660307212916,2013-07-09T19:07:31.000Z,"Hebei, China",earthquake
+1966-03-06T02:15:58.000Z,31.452,80.468,41.1,6.8,uk,164,,,,centennial,centennial19660306021558,2013-07-09T19:07:31.000Z,"western Xizang",earthquake
+1966-03-04T23:58:57.000Z,-38.7,178.003,33,5.8,mb,66,,,,centennial,centennial19660304235857,2013-07-09T19:07:31.000Z,"off the east coast of the North Island of New Zealand",earthquake
+1966-03-03T03:25:30.000Z,48.327,154.319,44.8,5.5,uk,200,,,,centennial,centennial19660303032530,2013-07-09T19:07:31.000Z,"Kuril Islands",earthquake
